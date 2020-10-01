@@ -66,7 +66,7 @@ void populate_fs( FILE *fp) {
  *   - An element on the path cannot be found
  */
 int path_lookup(char *path) {
-    char *directories;
+    char *directories, *p;
 
     if(path[0] != '/') {
         fprintf(stderr, "Not an absolute path\n");
@@ -76,11 +76,13 @@ int path_lookup(char *path) {
 	// TODO: complete this function and any helper functions
 
     // 1. Get directories (parse by /)
-    directories = get_directories(path);
     // 2. Get array of directories
+    directories = get_directories(path);
     // 3. Travel down the path
-    // 4. If intermediate target file found, use its inode number and load inode to memory
-    // 5. Repeat loop process until inode is found
+    while (p != NULL) {
+        // 4. If intermediate target file found, use its inode number and load inode to memory
+        // 5. Repeat loop process until inode is found
+    }
 
     return -1;
 }
