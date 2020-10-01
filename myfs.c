@@ -29,6 +29,12 @@ struct dir_entry blocks[MAX_BLOCKS][MAX_DIRS];
  * readable. It also takes advantage of the fact that global variables are
  * initialized to 0.
  */
+
+struct directory_path {
+    char *list;
+    int n;
+};
+
 void populate_fs( FILE *fp) {
     int i = 0;
 
@@ -66,22 +72,31 @@ void populate_fs( FILE *fp) {
  *   - An element on the path cannot be found
  */
 int path_lookup(char *path) {
-    char *directories, *p;
+    struct directory_path *dirs;
+    int cur_inode = ROOT_INODE;
 
     if(path[0] != '/') {
         fprintf(stderr, "Not an absolute path\n");
         return -1;
     }
-
+    printf("%s\n", path);
 	// TODO: complete this function and any helper functions
 
     // 1. Get directories (parse by /)
     // 2. Get array of directories
-    directories = get_directories(path);
-    // 3. Travel down the path
-    while (p != NULL) {
+    dirs = get_directories(path);
+    // // 3. Travel down the path
+    for (int i = 0; i < dirs->n; i++) {
+        if (!file_exists(...)) {
+            return -1;
+        }
+
+        if (i == n - 1) {
+
+        }
         // 4. If intermediate target file found, use its inode number and load inode to memory
-        // 5. Repeat loop process until inode is found
+        // 5. If is the end of file, return inode number
+        // 6. Repeat loop process until inode is found
     }
 
     return -1;
