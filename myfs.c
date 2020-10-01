@@ -91,11 +91,12 @@ int path_lookup(char *path) {
             return -1;
         }
 
-        if (i == n - 1) {
-
-        }
         // 4. If intermediate target file found, use its inode number and load inode to memory
+
         // 5. If is the end of file, return inode number
+        if (i == dirs->n - 1) {
+            return cur_inode;
+        }
         // 6. Repeat loop process until inode is found
     }
 
