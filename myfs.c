@@ -73,7 +73,7 @@ void populate_fs( FILE *fp) {
  */
 int path_lookup(char *path) {
     struct directory_path *dirs;
-    int cur_inode = ROOT_INODE;
+    int cur_inode = ROOT_INODE, i_number;
 
     if(path[0] != '/') {
         fprintf(stderr, "Not an absolute path\n");
@@ -87,12 +87,14 @@ int path_lookup(char *path) {
     dirs = get_directories(path);
     // // 3. Travel down the path
     for (int i = 0; i < dirs->n; i++) {
-        if (!file_exists(...)) {
+        i_number = get_i_number(...);
+
+        if (!i_number) {
             return -1;
         }
 
         // 4. If intermediate target file found, use its inode number and load inode to memory
-
+        int cur_inode = i_number;
         // 5. If is the end of file, return inode number
         if (i == dirs->n - 1) {
             return cur_inode;
