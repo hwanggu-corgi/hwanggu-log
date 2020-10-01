@@ -1,7 +1,3 @@
-// TODO LIST
-// []: Setup tests
-// []: Write Pathlookup function
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
@@ -76,6 +72,10 @@ int path_lookup(char *path) {
     }
 
 	// TODO: complete this function and any helper functions
+
+    // 1. get directories (parse by /)
+    // 2. travel down the path
+    // 3. if target file found, load it to memory
 
     return -1;
 }
