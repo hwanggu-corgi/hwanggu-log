@@ -1,5 +1,8 @@
 # HwangGu Log
 
+### October 3rd, 2020
+1. Work on Tutorial 3, CSC 369
+
 ### October 2st, 2020
 1. Work on Tutorial 3, CSC 369
 
