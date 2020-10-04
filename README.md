@@ -1,42 +1,46 @@
 # HwangGu Log
 
+### October 4th, 2020
+1. Worked on required readings, CSC 369
+    - Chapter 43, Log-structured File Systems
+
 ### October 3rd, 2020
-1. Work on Tutorial 3, CSC 369
+1. Worked on Tutorial 3, CSC 369
 
 ### October 2st, 2020
-1. Work on Tutorial 3, CSC 369
+1. Worked on Tutorial 3, CSC 369
 
 ### October 1st, 2020
-1. Work on required readings, CSC 369
+1. Worked on required readings, CSC 369
     - Chapter 43, Log-structured File Systems
 
 2. Solve exercise 5, csc 369
 
 ### September 30th, 2020
-1. Work on improving assignment 1a, CSC 369
+1. Worked on improving assignment 1a, CSC 369
 
-2. Work on required readings, CSC 369
+2. Worked on required readings, CSC 369
     - Chapter 42, FSCK and Journaling
     - Chapter 43, Log-structured File Systems
 
 ### September 29th, 2020
-1. Work on reviewing lectures, CSC 369
+1. Worked on reviewing lectures, CSC 369
     - Lecture 5
     - Lecture 6
 
 2. Solve exercise 4 'File System Consistency', CSC 369
 
-3. Work on improving assignment 1a, CSC 369
+3. Worked on improving assignment 1a, CSC 369
 
 ### September 28th, 2020
-1. Work on reviewing lectures, CSC 369
+1. Worked on reviewing lectures, CSC 369
     - Lecture 2
     - Lecture 3
     - Lecture 4
     - Lecture 5
 
 ### September 27th, 2020
-1. Work on required readings, CSC 369
+1. Worked on required readings, CSC 369
     - Chapter 26, Concurrency
     - Chapter 13, Address Space
     - Chapter 27, Threads API
@@ -45,15 +49,15 @@
     - Lecture 2
 
 ### September 26th, 2020
-1. Work on required readings, CSC 369
+1. Worked on required readings, CSC 369
     - Chapter 6, Direct Execution
     - Chapter 26, Concurrency
 
 ### September 25th, 2020
-1. Work on Tutorial 2, CSC 369
+1. Worked on Tutorial 2, CSC 369
     - Tutorial quiz
 
-2. Work on required readings, CSC 369
+2. Worked on required readings, CSC 369
     - Chapter 4, Processes
     - Chapter 5, Processes API
     - Chapter 6, Direct Execution
@@ -64,35 +68,35 @@
 1. Watch Pre-Lecture Video
     - L4a-Disks
 
-2. Work on Exercise 3, CSC 369
+2. Worked on Exercise 3, CSC 369
 
-3. Work on Reviewing Lecture Notes, CSC 369
+3. Worked on Reviewing Lecture Notes, CSC 369
     - Lecture 5
 
-4. Work on Tutorial 2, CSC 369
+4. Worked on Tutorial 2, CSC 369
     - Fuse Passthrough
 
 ### September 23rd, 2020
-1. Work on assignment 1a, CSC 369
+1. Worked on assignment 1a, CSC 369
 
 ### September 22nd, 2020
-1. Work on assignment 1a, CSC 369
+1. Worked on assignment 1a, CSC 369
 
 ### September 21st, 2020
-1. Work on assignment 1a, CSC 369
+1. Worked on assignment 1a, CSC 369
 
 ### September 20th, 2020
-1. Work on assignment 1a, CSC 369
+1. Worked on assignment 1a, CSC 369
 
 ### September 19th, 2020
-1. Work on Midterm Practice 5, CSC 369
+1. Worked on Midterm Practice 5, CSC 369
     - Question 8
 
-2. Work on assignment 1a, CSC 369
+2. Worked on assignment 1a, CSC 369
     - Question 1
 
 ### September 18th, 2020
-1. Work on Midterm Practice 5, CSC 369
+1. Worked on Midterm Practice 5, CSC 369
     - Question 1
     - Question 2
     - Question 3
@@ -103,45 +107,45 @@
     - Question 8
 
 ### September 17th, 2020
-1. Work on Tutorial 1, CSC 369 (Due September 22nd)
+1. Worked on Tutorial 1, CSC 369 (Due September 22nd)
     - Task 1
     - Task 2
     - Task 3
 
-2. Work on required readings, CSC 369
+2. Worked on required readings, CSC 369
     - Chapter 37, hard drives
 
 ### September 16th, 2020
-1. Work on Midterm Practice 4, CSC 369
+1. Worked on Midterm Practice 4, CSC 369
     - Question 6
     - Question 7
     - Question 8
     - Question 9
     - Question 10
 
-2. Work on Tutorial 1, CSC 369 (Due September 22nd)
+2. Worked on Tutorial 1, CSC 369 (Due September 22nd)
     - Setup MarkUs
 
-3. Work on assignment 1 setup, CSC 369
+3. Worked on assignment 1 setup, CSC 369
     - Troubleshoot virtual machine crashing error
     - Install FUSE on virtual machine
         - Checked that Fuse 2.9.7 is installed
 
-4. Work on required readings, CSC 369
+4. Worked on required readings, CSC 369
     - Chapter 37, hard drives
 
 ### September 15th, 2020
-1. Work on Midterm Practice 4, CSC 369
+1. Worked on Midterm Practice 4, CSC 369
     - Question 5
     - Question 6
 
 ### September 14th, 2020
-1. Work on Midterm Practice 4, CSC 369
+1. Worked on Midterm Practice 4, CSC 369
     - Question 4
     - Question 5
 
 ### September 13th, 2020
-1. Work on Chapter 20 of K.N King's C Programming A Modern Approach (Review 9, CSC 209) second time
+1. Worked on Chapter 20 of K.N King's C Programming A Modern Approach (Review 9, CSC 209) second time
     - Question 1
     - Question 2
     - Question 3
@@ -160,20 +164,20 @@
     - Question 16
     - Question 17
 
-2. Work on Midterm Practice 4, CSC 369
+2. Worked on Midterm Practice 4, CSC 369
     - Question 4
 
 ### September 12th, 2020
-1. Work on Chapter 17 of K.N King's C Programming A Modern Approach (Review 8, CSC 209) second time
+1. Worked on Chapter 17 of K.N King's C Programming A Modern Approach (Review 8, CSC 209) second time
     - Question 24
     - Question 25
     - Question 26
 
-2. Work on Chapter 20 of K.N King's C Programming A Modern Approach (Review 9, CSC 209) second time
+2. Worked on Chapter 20 of K.N King's C Programming A Modern Approach (Review 9, CSC 209) second time
     - Question 1
 
 ### September 11th, 2020
-1. Work on Chapter 17 of K.N King's C Programming A Modern Approach (Review 8, CSC 209) second time
+1. Worked on Chapter 17 of K.N King's C Programming A Modern Approach (Review 8, CSC 209) second time
     - Question 6
     - Question 7
     - Question 8
@@ -194,10 +198,10 @@
     - Question 23
 
 ### September 10th, 2020
-1. Work on Midterm Practice 4, CSC 369
+1. Worked on Midterm Practice 4, CSC 369
     - Question 4
 
-2. Work on Chapter 17 of K.N King's C Programming A Modern Approach (Review 8, CSC 209) second time
+2. Worked on Chapter 17 of K.N King's C Programming A Modern Approach (Review 8, CSC 209) second time
     - Question 1
     - Question 2
     - Question 3
@@ -206,56 +210,56 @@
     - Question 6
 
 ### September 9th, 2020
-1. Work on Midterm Practice 4, CSC 369
+1. Worked on Midterm Practice 4, CSC 369
     - Question 1
     - Question 2
     - Question 3
 
 ### September 8th, 2020
-1. Work on Midterm Practice 3, CSC 369
+1. Worked on Midterm Practice 3, CSC 369
     - Question 1
 
 ### September 7th, 2020
-1. Work on Midterm Practice 2, CSC 369
+1. Worked on Midterm Practice 2, CSC 369
     - Question 3
     - Question 4
     - Question 5
 
 ### September 6th, 2020
-1. Work on Midterm Practice 2, CSC 369
+1. Worked on Midterm Practice 2, CSC 369
     - Question 1
     - Question 2
     - Question 3
 
 ### September 5th, 2020
-1. Work on Midterm Practice 1, CSC 369
+1. Worked on Midterm Practice 1, CSC 369
     - Question 5
 
-2. Work on Midterm Practice 2, CSC 369
+2. Worked on Midterm Practice 2, CSC 369
     - Question 1
 
 ### September 4th, 2020
-1. Work on Midterm Practice 1, CSC 369
+1. Worked on Midterm Practice 1, CSC 369
     - Question 2
     - Question 3
     - Question 4
 
 ### September 3rd, 2020
-1. Work on Midterm 1, CSC 369
+1. Worked on Midterm 1, CSC 369
     - Question 1
 
 ### September 2nd, 2020
-1. Work on Chapter 20 of K.N King's C Programming A Modern Approach (Review 9, CSC 209)
+1. Worked on Chapter 20 of K.N King's C Programming A Modern Approach (Review 9, CSC 209)
     - Question 14
     - Question 15
     - Question 16
     - Question 17
 
-2. Work on Midterm 1 2019, CSC 369
+2. Worked on Midterm 1 2019, CSC 369
     - Question 1
 
 ### September 1st, 2020
-1. Work on Chapter 20 of K.N King's C Programming A Modern Approach (Review 9, CSC 209)
+1. Worked on Chapter 20 of K.N King's C Programming A Modern Approach (Review 9, CSC 209)
    - Question 7
    - Question 8
    - Question 9
@@ -265,10 +269,10 @@
    - Question 13
 
 ### August 31st, 2020
-1. Work on Chapter 17 of K.N King's C Programming A Modern Approach (Review 8, CSC 209)
+1. Worked on Chapter 17 of K.N King's C Programming A Modern Approach (Review 8, CSC 209)
     - Question 26
 
-2. Work on Chapter 20 of K.N King's C Programming A Modern Approach (Review 9, CSC 209)
+2. Worked on Chapter 20 of K.N King's C Programming A Modern Approach (Review 9, CSC 209)
     - Question 1
     - Question 2
     - Question 3
@@ -277,7 +281,7 @@
     - Question 6
 
 ### August 30th, 2020
-1. Work on Chapter 17 of K.N King's C Programming A Modern Approach (Review 8, CSC 209)
+1. Worked on Chapter 17 of K.N King's C Programming A Modern Approach (Review 8, CSC 209)
     - Question 21
     - Question 22
     - Question 23
@@ -285,7 +289,7 @@
     - Question 25
 
 ### August 29th, 2020
-1. Work on Chapter 17 of K.N King's C Programming A Modern Approach (Review 8, CSC 209)
+1. Worked on Chapter 17 of K.N King's C Programming A Modern Approach (Review 8, CSC 209)
     - Question 9
     - Question 10
     - Question 11
