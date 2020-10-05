@@ -1,5 +1,9 @@
 # HwangGu Log
 
+### October 5th, 2020
+1. Work on required readings, CSC 369
+    - Chapter 44, Flash-Based SSDs
+
 ### October 4th, 2020
 1. Worked on required readings, CSC 369
     - Chapter 43, Log-structured File Systems
