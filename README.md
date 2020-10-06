@@ -1,5 +1,15 @@
 # HwangGu Log
 
+### October 6th, 2020
+1. Worked on required readings, CSC 369
+    - Chapter 44, Flash-Based SSDs
+
+2. Worked on reviewing lectures, CSC 369
+    - Lecture 7
+    - Lecture 8
+
+3. Called BC government regarding student aid
+
 ### October 5th, 2020
 1. Work on required readings, CSC 369
     - Chapter 44, Flash-Based SSDs
