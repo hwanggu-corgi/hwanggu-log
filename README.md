@@ -1,5 +1,15 @@
 # HwangGu Log
 
+### October 7th, 2020
+1. Worked on reviewing lectures, CSC 369
+    - Lecture 8
+
+2. Contacted university of toronto financial services regarding re-submission of student aid
+
+3. Applied for cost-per-program to cost-per-course reassessment
+
+4. Worked on assignment 1b, CSC 369
+
 ### October 6th, 2020
 1. Worked on required readings, CSC 369
     - Chapter 44, Flash-Based SSDs
