@@ -1,5 +1,15 @@
 # HwangGu Log
 
+### October 8th, 2020
+1. Worked on assignment 1b, CSC 369
+
+2. Called government of BC regarding student aid
+    - Called the government, the personnel said signature date has to be the latest date
+
+3. Fixed the student aid application
+    - Hurray!!
+
+
 ### October 7th, 2020
 1. Worked on reviewing lectures, CSC 369
     - Lecture 8
