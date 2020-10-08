@@ -6,7 +6,7 @@
 2. Called government of BC regarding student aid
     - Called the government, the personnel said signature date has to be the latest date
 
-3. Fixed the student aid application
+3. Corrected and resubmitted the student aid application
     - Hurray!!
 
 
