@@ -1,5 +1,9 @@
 # HwangGu Log
 
+### October 9th, 2020
+1. Worked on reviewing lectures, CSC 369
+    - Lecture 9
+
 ### October 8th, 2020
 1. Worked on assignment 1b, CSC 369
 
