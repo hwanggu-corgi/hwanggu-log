@@ -1,17 +1,18 @@
 ### October 10th, 2020
-- Corgi add progress #48 in csc-369-assignment-1♥♥
+- Corgi add progress #50 in csc-369-assignment-1♥♥
   - Corgi working on pseudocode of a1fs_mkdir, over♥♥
 
 - Corgi completed reviewing lecture-9, CSC 369 [Saturday, October 10th, 5:30 AM]♥♥
 
 - Corgi completed exercise-6, CSC 369 [Saturday, October 10th, 1:02 AM]♥♥
 
+### October 9th, 2020
 - Corgi contacted U of T about financial aid [Friday, October 9th, 5:00 AM]
   - Corgi working on calling U of t financial services about accelerating queue process
     - Asked about accelerating priority of part-time financial application
     - The personnel said the request has been registered, on priority and is sent to out of privince team
     - The personnel said the reply will be back in 1 week
 
-Corgi working on financial aid #3♥♥
+- Corgi completed calling u of t financial aid #3♥♥
   - Corgi finished scanning documents, over. Corgi writing email to u of t♥♥
   - Email sent!!
