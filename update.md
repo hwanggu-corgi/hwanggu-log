@@ -1,5 +1,5 @@
 ### October 10th, 2020
-1. Corgi add progress #62 in csc-369-assignment-1♥♥
+1. Corgi add progress #63 in csc-369-assignment-1♥♥
     - Corgi working on correcting a1fs_mkdir, over♥♥
     - Corgi working on update_inode_block() version 1 in a1fs_mkdir, over♥♥
     - Corgi completed get_free_inode() version 1 in a1fs_mkdir, over♥♥    
