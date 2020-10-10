@@ -1,8 +1,13 @@
 # HwangGu Log
 
 ### October 9th, 2020
-1. Worked on reviewing lectures, CSC 369
-    - Lecture 9
+1. Corgi worked on assignment 1b, CSC 369
+    - Completed get_free_inode() version 1 in a1fs_mkdir
+    - Completed installing USB extension in VirtualBox following this [link](https://www.tecmint.com/enable-usb-in-virtualbox/)
+
+2. Worked on reviewing lecture 9, CSC 369
+
+3. Worked on exercise 6, CSC 369
 
 ### October 8th, 2020
 1. Worked on assignment 1b, CSC 369
