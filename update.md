@@ -1,6 +1,7 @@
 ### October 10th, 2020
-1. Corgi add progress #58 in csc-369-assignment-1♥♥
-    - Corgi working on get_free_inode() in a1fs_mkdir, over♥♥
+1. Corgi add progress #59 in csc-369-assignment-1♥♥
+    - Corgi working on update_inode_block() version 1 in a1fs_mkdir, over♥♥
+    - Corgi completed get_free_inode() version 1 in a1fs_mkdir, over♥♥    
     - Corgi completed installing USB extension in VirtualBox following this [link](https://www.tecmint.com/enable-usb-in-virtualbox/), over♥♥
 
 2. Corgi completed reviewing lecture-9, CSC 369 [Saturday, October 10th, 5:30 AM]♥♥
