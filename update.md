@@ -1,4 +1,5 @@
 ### October 12th, 2020
+My dear, I will be right back from haircut
 1. Corgi add progress #92 in csc-369-assignment-1♥♥
     - Corgi working on correcting a1fs_mkdir, over♥♥
         - Corgi working on creating function setup_superblock #3
