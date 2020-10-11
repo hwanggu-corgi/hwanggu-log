@@ -1,7 +1,7 @@
 ### October 11th, 2020
-1. Corgi add progress #84 in csc-369-assignment-1♥♥
+1. Corgi add progress #85 in csc-369-assignment-1♥♥
     - Corgi working on correcting a1fs_mkdir, over♥♥
-        - Corgi fixing typos and compilation errors #3
+        - Corgi fixing typos and compilation errors #4
         - Corgi completed fixing "failed to format the image" issue
     - Corgi working on correcting update_inode_block() version 1 in a1fs_mkdir, over♥♥
     - Corgi completed setting up hwanggu-corgi/assignment-1 on virtual machine, over♥♥
