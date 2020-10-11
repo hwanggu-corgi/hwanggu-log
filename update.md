@@ -1,5 +1,5 @@
 ### October 11th, 2020
-1. Corgi add progress #72 in csc-369-assignment-1♥♥
+1. Corgi add progress #73 in csc-369-assignment-1♥♥
     - Corgi working on getting the starting files to work for debugging, over♥♥
         - Corgi working on working with mmap and file read on both test file and alfs_in_progress.c
         - Corgi completed pwrite, and pread to work with test2.img (It's in \tests\test2.txt)!! Yayy!!
