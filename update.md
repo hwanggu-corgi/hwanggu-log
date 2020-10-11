@@ -1,5 +1,6 @@
 ### October 11th, 2020
-1. Corgi add progress #79 in csc-369-assignment-1♥♥
+1. Corgi away for a bit XD♥♥ 
+2. Corgi add progress #80 in csc-369-assignment-1♥♥
     - Corgi working on correcting a1fs_mkdir, over♥♥
         - Corgi fixing typos and compilation errors #2
     - Corgi working on correcting update_inode_block() version 1 in a1fs_mkdir, over♥♥
@@ -7,6 +8,7 @@
     - Corgi completed on getting the starting files to work for debugging, over♥♥
         - Corgi coompleted working with mmap and file read on both test file and alfs_in_progress.c
         - Corgi completed pwrite, and pread to work with test2.img (It's in \tests\test2.txt)!! Yayy!!
+        
 
 ### October 10th, 2020
 1. Corgi add progress #63 in csc-369-assignment-1♥♥
