@@ -1,5 +1,5 @@
 ### October 12th, 2020
-1. Corgi add progress #95 in csc-369-assignment-1♥♥
+1. Corgi add progress #96 in csc-369-assignment-1♥♥
     - Corgi working on correcting a1fs_mkdir, over♥♥
         - Corgi working on creating function setup_superblock #5
         - Corgi fixing typos and compilation errors #11
