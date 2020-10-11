@@ -1,5 +1,5 @@
 ### October 11th, 2020
-1. Corgi add progress #82 in csc-369-assignment-1♥♥
+1. Corgi add progress #83 in csc-369-assignment-1♥♥
     - Corgi working on correcting a1fs_mkdir, over♥♥
         - Corgi fixing "failed to format the image" issue
         - Corgi completed fixing typos and compilation errors #2
