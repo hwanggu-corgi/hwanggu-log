@@ -1,10 +1,10 @@
 ### October 13th, 2020
-1. Corgi add progress #111 in csc-369-assignment-1♥♥
+1. Corgi add progress #112 in csc-369-assignment-1♥♥
     - Corgi working on setting up test for setup_superblock
-        - Corgi working on adding asserts to setup_superblock 
+        - Corgi completed working on adding asserts to setup_superblock 
         - Corgi completed fixing "pread: Bad address" error
     - Corgi working on correcting a1fs_mkdir, over♥♥
-        - Corgi fixing typos and compilation errors #3
+        - Corgi fixing typos and compilation errors #4
     - Corgi working on correcting update_inode_block() version 1 in a1fs_mkdir, over♥♥
 
 ### October 12th, 2020
