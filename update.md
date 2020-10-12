@@ -1,6 +1,7 @@
 ### October 13th, 2020
-1. Corgi add progress #114 in csc-369-assignment-1♥♥
+1. Corgi add progress #115 in csc-369-assignment-1♥♥
     - Corgi working on get_free_inode, over♥♥
+        - Corgi completed adding assertion to test_get_free_inode
         - Corgi completed fixing superblock returning 0 error
     - Corgi completed working on setting up test for setup_superblock, over♥♥
         - Corgi completed adding assertions for the test_setup_superblock
