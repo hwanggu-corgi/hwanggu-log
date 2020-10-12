@@ -1,14 +1,16 @@
 ### October 13th, 2020
-1. Corgi add progress #115 in csc-369-assignment-1♥♥
-    - Corgi working on get_free_inode, over♥♥
+1. Corgi add progress #116 in csc-369-assignment-1♥♥
+    - Corgi working on create_root_directory♥♥
+        - Corgi completed creating function test_create_root_directory
+    - Corgi working on correcting a1fs_mkdir, over♥♥
+        - Corgi fixing typos and compilation errors #4
+    - Corgi completed working on get_free_inode, over♥♥
         - Corgi completed adding assertion to test_get_free_inode
         - Corgi completed fixing superblock returning 0 error
     - Corgi completed working on setting up test for setup_superblock, over♥♥
         - Corgi completed adding assertions for the test_setup_superblock
         - Corgi completed working on adding asserts to setup_superblock
         - Corgi completed fixing "pread: Bad address" error
-    - Corgi working on correcting a1fs_mkdir, over♥♥
-        - Corgi fixing typos and compilation errors #4
     - Corgi working on correcting update_inode_block() version 1 in a1fs_mkdir, over♥♥
 
 
