@@ -1,5 +1,12 @@
 # HwangGu Log
 
+### October 12th, 2020
+
+1. Worked on assignment 1b, CSC 369
+    - Worked on setting up tests for setup_superblock
+    - Worked on correcting a1fs_mkdir
+    - Worked on correcting update_inode_block() version 1 in a1fs_mkdir
+
 ### October 11th, 2020
 
 1. Worked on assignment 1b, CSC 369
