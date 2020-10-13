@@ -1,7 +1,6 @@
 ### October 14th, 2020
 1. Corgi add progress #145 in csc-369-assignment-1♥♥
-    - Corgi working on using CMocka as our testing program, over♥♥
-        - Corgi working to make the program to run #2
+    - Corgi refactoring our testing program♥♥
     - Corgi working on correcting a1fs_mkdir, over♥♥
         - Corgi fixing typos and compilation errors
     - Corgi completed mkfs, over♥♥
@@ -11,7 +10,8 @@
         - Corgi completed adding code to this function
     - Corgi completed installing cMocka, over♥♥
     - Corgi completed a1fs_is_present♥♥
-
+    - Corgi deferred using CMocka as our testing program♥♥
+        - Corgi learned that setting up learning the framework would take too much time
 ### October 13th, 2020
 1. Corgi add progress #133 in csc-369-assignment-1♥♥
     - Corgi working on a1fs_is_present♥♥
