@@ -1,7 +1,7 @@
 ### October 13th, 2020
-1. Corgi add progress #123 in csc-369-assignment-1♥♥
+1. Corgi add progress #124 in csc-369-assignment-1♥♥
     - Corgi working on create_root_directory♥♥
-        - Corgi working on adding data to disk using mmap in create_root_directory #5
+        - Corgi working on adding data to disk using mmap in create_root_directory #6
         - Corgi completed creating pseudocode create_root_directory
         - Corgi completed creating function test_create_root_directory
     - Corgi working on correcting a1fs_mkdir, over♥♥
@@ -14,7 +14,6 @@
         - Corgi completed working on adding asserts to setup_superblock
         - Corgi completed fixing "pread: Bad address" error
     - Corgi working on correcting update_inode_block() version 1 in a1fs_mkdir, over♥♥
-
 
 ### October 12th, 2020
 1. Corgi add progress #108 in csc-369-assignment-1♥♥
