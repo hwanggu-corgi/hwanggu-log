@@ -1,7 +1,8 @@
 ### October 14th, 2020
-1. Corgi add progress #140 in csc-369-assignment-1♥♥
+1. Corgi add progress #141 in csc-369-assignment-1♥♥
     - Corgi working on mkfs, over♥♥
-        - Corgi working to make sure everything is working #2
+        - Corgi working to make sure everything is working #3
+        - Corgi adding code to function size_is_not_valid
         - Corgi completed adding tests for this function
         - Corgi completed adding code to this function
     - Corgi completed installing cMocka, over♥♥
