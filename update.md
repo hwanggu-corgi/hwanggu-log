@@ -1,9 +1,10 @@
 ### October 14th, 2020
-1. Corgi add progress #138 in csc-369-assignment-1♥♥
+1. Corgi add progress #139 in csc-369-assignment-1♥♥
     - Corgi working on mkfs, over♥♥
-        - Corgi working on adding tests for this function #2
-        - Corgi working on adding code to this function #3
-    - Corgi working on installing cMocka #3, over♥♥
+        - Corgi working to make sure everything is working
+        - Corgi completed adding tests for this function
+        - Corgi completed adding code to this function
+    - Corgi completed installing cMocka, over♥♥
     - Corgi working on correcting a1fs_mkdir, over♥♥
         - Corgi fixing typos and compilation errors
     - Corgi completed a1fs_is_present♥♥
