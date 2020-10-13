@@ -1,7 +1,7 @@
 ### October 13th, 2020
-1. Corgi add progress #121 in csc-369-assignment-1♥♥
+1. Corgi add progress #122 in csc-369-assignment-1♥♥
     - Corgi working on create_root_directory♥♥
-        - Corgi working on adding data to disk using mmap in create_root_directory #3
+        - Corgi working on adding data to disk using mmap in create_root_directory #4
         - Corgi completed creating pseudocode create_root_directory
         - Corgi completed creating function test_create_root_directory
     - Corgi working on correcting a1fs_mkdir, over♥♥
