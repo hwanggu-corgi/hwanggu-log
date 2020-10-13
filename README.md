@@ -1,5 +1,12 @@
 # HwangGu Log
 
+### October 13th, 2020
+1. Worked on csc-369-assignment-1
+    - Worked on setting up tests for a1fs_is_present
+    - Completed working on create_root_directory
+    - Completed working on get_free_inode
+    - Completed working on setting up test for setup_superblock
+
 ### October 12th, 2020
 
 1. Worked on assignment 1b, CSC 369
