@@ -1,11 +1,9 @@
 ### October 14th, 2020
-1. Corgi add progress #133 in csc-369-assignment-1♥♥
+1. Corgi add progress #134 in csc-369-assignment-1♥♥
     - Corgi working on a1fs_is_present♥♥
         - Corgi working on adding test cases & making sure everything is working #2
-        - Corgi completed adding code
-        - Corgi completed writing pseudocode
     - Corgi working on correcting a1fs_mkdir, over♥♥
-        - Corgi fixing typos and compilation errors #4
+        - Corgi fixing typos and compilation errors
 
 ### October 13th, 2020
 1. Corgi add progress #133 in csc-369-assignment-1♥♥
