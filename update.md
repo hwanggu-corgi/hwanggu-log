@@ -1,6 +1,7 @@
 ### October 15th, 2020
 1. Corgi add progress #14 in csc-369 midterm 1 preparation, over♥♥
     - Corgi working on solving mock test 1♥♥
+        - Corgi completed solving question 1
     - Corgi completed solving past exercises♥♥
         - Corgi completed solving questions in exercise 6
         - Corgi completed solving questions in exercise 5
