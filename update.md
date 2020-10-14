@@ -1,7 +1,7 @@
 ### October 14th, 2020
-1. Corgi add progress #152 in csc-369-assignment-1♥♥
-    - Corgi working to upload mkfs.c to haminthecoder/csc369 #4, over♥♥
-        - Corgi working on pushing changes to haminthecoder/csc369
+1. Corgi add progress #153 in csc-369-assignment-1♥♥
+    - Corgi completed uploading mkfs.c to haminthecoder/csc369, over♥♥
+        - Corgi completed pushing changes to haminthecoder/csc369
         - Corgi completed changing setup_superblock to use mmap for read/write
             - Assignment doesn't want use open, pread, and pwrite
     - Corgi completed refactoring our testing program, over♥♥
