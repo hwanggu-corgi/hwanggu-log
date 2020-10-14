@@ -1,7 +1,7 @@
 ### October 14th, 2020
 1. Corgi add progress in csc-369 midterm 1 preparation, over♥♥
     - Corgi began working on solving past exercises♥♥
-        - Corgi working on solving questions in exercise 2 #2
+        - Corgi working on solving question 6 in exercise 2
         - Corgi completed solving questions in exercise 1
     - Corgi deferred adding list of questions from lectures♥♥
         - Corgi realized the need to focus on exercises questions first
