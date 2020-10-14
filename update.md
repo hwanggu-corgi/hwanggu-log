@@ -1,6 +1,6 @@
 ### October 14th, 2020
 1. Corgi add progress #147 in csc-369-assignment-1♥♥
-    - Corgi refactoring our testing program #2, over♥♥
+    - Corgi completed refactoring our testing program♥♥
     - Corgi working on correcting a1fs_mkdir, over♥♥
         - Corgi fixing typos and compilation errors
     - Corgi completed mkfs, over♥♥
