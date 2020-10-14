@@ -1,6 +1,9 @@
 ### October 14th, 2020
 1. Corgi add progress in csc-369 midterm 1 preparation, over♥♥
-    - Corgi adding list of questions from lectures♥♥
+    - Corgi began working on solving past exercises♥♥
+        - Corgi solving questions in exercise 1
+    - Corgi deferred adding list of questions from lectures♥♥
+        - Corgi realized the need to focus on exercises questions first
 2. Corgi add progress #153 in csc-369-assignment-1♥♥
     - Corgi completed uploading mkfs.c to haminthecoder/csc369, over♥♥
         - Corgi completed pushing changes to haminthecoder/csc369
