@@ -1,5 +1,18 @@
 # HwangGu Log
 
+### October 14th, 2020
+1. Worked on csc-369 midterm 1 preparation
+    - Worked on solving past exercises
+        - sovled 4 questions in exercise 4
+        - completed solving questions in exercise 3 
+        - completed solving questions in exercise 2
+        - completed solving questions in exercise 1
+2. Worked on csc-369-assignment-1
+    - completed uploading mkfs.c to haminthecoder/csc369
+    - completed refactoring testing program
+    - completed mkfs, over
+    - completed a1fs_is_present
+
 ### October 13th, 2020
 1. Worked on csc-369-assignment-1
     - Worked on setting up tests for a1fs_is_present
