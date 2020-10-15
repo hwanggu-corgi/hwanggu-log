@@ -1,7 +1,7 @@
 ### October 15th, 2020
-1. Corgi add progress #23 in csc-369 midterm 1 preparation, over♥♥
+1. Corgi add progress #24 in csc-369 midterm 1 preparation, over♥♥
     - Corgi working on solving mock test 1♥♥
-        - Corgi working on solving question 4 for markus component
+        - Corgi working on solving question 4 for markus component #2
         - Corgi completed solving question 3 for markus component
         - Corgi completed solving question 2 for markus component
         - Corgi completed solving questions for quercus component
