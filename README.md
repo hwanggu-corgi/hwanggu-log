@@ -1,5 +1,27 @@
 # HwangGu Log
 
+
+### October 15th, 2020 
+1. Worked on csc-369 midterm 1 preparation
+    - Worked on solving past midterms
+        - Worked on solving question 5 midterm 1 #2
+        - Completed solving question 4 midterm 1
+        - Completed solving question 3 midterm 1
+        - Completed correcting question 2 and question 1 midterm 1
+        - Completed solving question 2 midterm 1
+        - Completed solving question 1 midterm 1
+    - Completed solving mock test
+        - Completed correcting problems for markus component
+        - Completed solving question 4 for markus component
+        - Completed solving question 3 for markus component
+        - Completed solving question 2 for markus component
+        - Completed solving questions for quercus component
+    - Completed solving past exercises
+        - Completed solving questions in exercise 6
+        - Completed solving questions in exercise 5
+        - Completed solving questions in exercise 4
+
+
 ### October 14th, 2020
 1. Worked on csc-369 midterm 1 preparation
     - Worked on solving past exercises
