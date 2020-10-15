@@ -1,3 +1,8 @@
+### October 16th, 2020 
+1. Corgi add progress #41 in csc-369 midterm 1 preparation, over♥♥
+    - Corgi working on solving past midterms♥♥
+        - Corgi working on solving question 5 midterm 1
+        
 ### October 15th, 2020 
 1. Corgi add progress #41 in csc-369 midterm 1 preparation, over♥♥
     - Corgi working on solving past midterms♥♥
