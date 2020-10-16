@@ -1,8 +1,8 @@
 ### October 16th, 2020 
-1. Corgi add progress #71 in csc-369 midterm 1 preparation, over♥♥
+1. Corgi add progress #72 in csc-369 midterm 1 preparation, over♥♥
     - Corgi reviewing lecture notes♥♥
         - Corgi reviewing Lecture 9,System Calls and Threads
-            - Corgi on slide 'What is a Thread'?
+            - Corgi on slide 'Kernel Level Threads'?
         - Corgi completed reviewing Lecture 8, Process and System Calls first time
     - Corgi completed solving past midterms♥♥
         - Corgi completed solving question 6 midterm 3
