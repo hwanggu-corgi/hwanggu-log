@@ -1,8 +1,8 @@
 ### October 17th, 2020 
 1. Corgi add progress #83 in csc-369 midterm 1 preparation, over♥♥
     - Corgi reviewing lecture notes♥♥
-        - Corgi reviewing Lecture 2, Files and File System
-            - Corgi on slide 'Major OS Themes'
+        - Corgi reviewing Lecture 2, Files and File System #2
+            - Corgi on slide 'Directory Structure'
         - Corgi completed reviewing Lecture 3, Files and File Systems first time   
         - Corgi completed reviewing Lecture 5, FFS first time
 
