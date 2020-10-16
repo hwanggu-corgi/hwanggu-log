@@ -1,9 +1,8 @@
 ### October 16th, 2020 
-1. Corgi add progress #79 in csc-369 midterm 1 preparation, over♥♥
+1. Corgi add progress #80 in csc-369 midterm 1 preparation, over♥♥
     - Corgi reviewing lecture notes♥♥
-        - Corgi reviewing Lecture 7, Journal File Systems and Solid State Drive #4
-            - Corgi on slide 'Data Journaling Example'
         - Corgi completed reviewing Lecture 6, Supporting Multiple file Systems
+        - Corgi completed reviewing Lecture 7, Journal File Systems and Solid State Drive
         - Corgi completed reviewing Lecture 8, Process and System Calls first time
         - Corgi completed reviewing Lecture 9, System Calls and Threads first time        
     - Corgi completed solving past midterms♥♥
