@@ -1,12 +1,14 @@
 ### October 17th, 2020 
-1. Corgi add progress #81 in csc-369 midterm 1 preparation, over♥♥
+1. Corgi add progress #82 in csc-369 midterm 1 preparation, over♥♥
     - Corgi reviewing lecture notes♥♥
-        - Corgi completed reviewing Lecture 5, FFS first time   
+        - Corgi reviewing Lecture 5, FFS
+            - Corgi working on slide 'Enhancing Disk Performance'
+        - Corgi completed reviewing Lecture 3, Files and File Systems first time   
 
 ### October 16th, 2020 
 1. Corgi add progress #80 in csc-369 midterm 1 preparation, over♥♥
     - Corgi reviewing lecture notes♥♥
-        - Corgi working on reviewing Lecture 5, FFS
+        - Corgi working on reviewing Lecture 3, Files and File Systems
             - Corgi working on slide 'The Fast File System'
         - Corgi completed reviewing Lecture 6, Supporting Multiple file Systems first time
         - Corgi completed reviewing Lecture 7, Journal File Systems and Solid State Drive first time
