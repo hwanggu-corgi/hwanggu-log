@@ -1,9 +1,10 @@
 ### October 16th, 2020 
-1. Corgi add progress #75 in csc-369 midterm 1 preparation, over♥♥
+1. Corgi add progress #76 in csc-369 midterm 1 preparation, over♥♥
     - Corgi reviewing lecture notes♥♥
-        - Corgi reviewing Lecture 9,System Calls and Threads #5
-            - Corgi on slide 'User Level Thread Limitation'
+        - Corgi reviewing Lecture 7, Journal File Systems and Solid State Drive
+            - Corgi on slide 'File system consistency'
         - Corgi completed reviewing Lecture 8, Process and System Calls first time
+        - Corgi completed reviewing Lecture 9, System Calls and Threads first time        
     - Corgi completed solving past midterms♥♥
         - Corgi completed solving question 6 midterm 3
         - Corgi completed solving question 5 midterm 3
