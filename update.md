@@ -1,7 +1,8 @@
 ### October 16th, 2020 
-1. Corgi add progress #65 in csc-369 midterm 1 preparation, over♥♥
+1. Corgi add progress #66 in csc-369 midterm 1 preparation, over♥♥
     - Corgi reviewing lecture notes♥♥
-        - Corgi Reviewing Lecture 8, Process and System Calls #2
+        - Corgi Reviewing Lecture 8, Process and System Calls #3
+            - Corgi on slide 'Process Destruction'
     - Corgi completed solving past midterms♥♥
         - Corgi completed solving question 6 midterm 3
         - Corgi completed solving question 5 midterm 3
