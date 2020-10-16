@@ -1,6 +1,8 @@
 ### October 17th, 2020 
-1. Corgi add progress #84 in csc-369 midterm 1 preparation, over♥♥
+1. Corgi back from test, over♥♥
+2. Corgi add progress #84 in csc-369 midterm 1 preparation, over♥♥
     - Corgi reviewing lecture notes♥♥
+        - Corgi is reviewing lecture
         - Corgi completed reviewing Lecture 2, Files and File System
         - Corgi completed reviewing Lecture 3, Files and File Systems first time   
         - Corgi completed reviewing Lecture 5, FFS first time
