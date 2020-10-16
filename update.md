@@ -1,8 +1,7 @@
 ### October 17th, 2020 
 1. Corgi add progress #84 in csc-369 midterm 1 preparation, over♥♥
     - Corgi reviewing lecture notes♥♥
-        - Corgi reviewing Lecture 2, Files and File System #3
-            - Corgi on slide 'Contiguous Allocation'
+        - Corgi completed reviewing Lecture 2, Files and File System
         - Corgi completed reviewing Lecture 3, Files and File Systems first time   
         - Corgi completed reviewing Lecture 5, FFS first time
 
