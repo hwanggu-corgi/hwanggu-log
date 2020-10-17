@@ -1,6 +1,9 @@
 ### October 17th, 2020 
-1. Corgi back from test, over♥♥
-2. Corgi add progress #84 in csc-369 midterm 1 preparation, over♥♥
+1. Corgi working on reviewing lecture notes, CSC-369♥♥
+    - Corgi reviewing lecture 10♥♥
+        - Corgi on slide 'brief intro to scheduling'
+2. Corgi back from test, over♥♥
+3. Corgi add progress #84 in csc-369 midterm 1 preparation, over♥♥
     - Corgi reviewing lecture notes♥♥
         - Corgi is reviewing lecture
         - Corgi completed reviewing Lecture 2, Files and File System
