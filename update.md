@@ -1,7 +1,7 @@
 ### October 17th, 2020 
-1. Corgi add progress #7 on reviewing lecture notes, CSC-369♥♥
+1. Corgi add progress #8 on reviewing lecture notes, CSC-369♥♥
     - Corgi reviewing lecture 10♥♥
-        - Corgi on slide 'What Went Wrong'
+        - Corgi on slide 'Caution'
 2. Corgi back from test, over♥♥
 3. Corgi add progress #84 in csc-369 midterm 1 preparation, over♥♥
     - Corgi reviewing lecture notes♥♥
