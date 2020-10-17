@@ -1,4 +1,9 @@
-### October 17th, 2020 
+### October 18th, 2020
+1. Corgi add progress #160 in csc-369-assignment-1♥♥
+    - Corgi working on fs_ctx_init in fs_ctx.c over♥♥
+        - Corgi working on setting up test functions
+
+### October 17th, 2020
 1. Corgi add progress #159 in csc-369-assignment-1♥♥
     - Corgi working on fs_ctx_init in fs_ctx.c over♥♥
         - Corgi working on setting up test functions
@@ -14,10 +19,10 @@
 4. Corgi add progress #84 in csc-369 midterm 1 preparation, over♥♥
     - Corgi reviewing lecture notes♥♥
         - Corgi completed reviewing Lecture 2, Files and File System
-        - Corgi completed reviewing Lecture 3, Files and File Systems first time   
+        - Corgi completed reviewing Lecture 3, Files and File Systems first time
         - Corgi completed reviewing Lecture 5, FFS first time
 
-### October 16th, 2020 
+### October 16th, 2020
 1. Corgi add progress #80 in csc-369 midterm 1 preparation, over♥♥
     - Corgi reviewing lecture notes♥♥
         - Corgi working on reviewing Lecture 3, Files and File Systems
@@ -25,21 +30,21 @@
         - Corgi completed reviewing Lecture 6, Supporting Multiple file Systems first time
         - Corgi completed reviewing Lecture 7, Journal File Systems and Solid State Drive first time
         - Corgi completed reviewing Lecture 8, Process and System Calls first time
-        - Corgi completed reviewing Lecture 9, System Calls and Threads first time       
+        - Corgi completed reviewing Lecture 9, System Calls and Threads first time
     - Corgi completed solving past midterms♥♥
         - Corgi completed solving question 6 midterm 3
         - Corgi completed solving question 5 midterm 3
-        - Corgi completed correcting question 4 midterm 3    
+        - Corgi completed correcting question 4 midterm 3
         - Corgi completed solving question 4 midterm 3
         - Corgi completed correcting question 1 midterm 3
         - Corgi completed solving question 1 midterm 3
         - Corgi completed solving question 5 midterm 2
-        - Corgi completed solving question 4 midterm 2    
+        - Corgi completed solving question 4 midterm 2
         - Corgi completed solving question 2 midterm 2
         - Corgi completed solving question 1 midterm 2
         - Corgi completed solving question 5 midterm 1
-        
-### October 15th, 2020 
+
+### October 15th, 2020
 1. Corgi add progress #41 in csc-369 midterm 1 preparation, over♥♥
     - Corgi working on solving past midterms♥♥
         - Corgi working on solving question 5 midterm 1 #2
@@ -63,7 +68,7 @@
 1. Corgi add progress #9 in csc-369 midterm 1 preparation, over♥♥
     - Corgi began working on solving past exercises♥♥
         - Corgi working on sovling question 4 in exercise 4
-        - Corgi completed solving questions in exercise 3 
+        - Corgi completed solving questions in exercise 3
         - Corgi completed solving questions in exercise 2
         - Corgi completed solving questions in exercise 1
     - Corgi deferred adding list of questions from lectures♥♥
