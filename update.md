@@ -1,6 +1,7 @@
 ### October 17th, 2020 
-1. Corgi add progress #158 in csc-369-assignment-1♥♥
+1. Corgi add progress #159 in csc-369-assignment-1♥♥
     - Corgi working on fs_ctx_init in fs_ctx.c over♥♥
+        - Corgi working on setting up test functions
     - Corgi fixing mkfs.c under review suggestion from hamin, over♥♥
         - Corgi organizing and commenting declared varibles
         - Corgi completed typecasting size variable to match its field in struct a1fs_superblock
