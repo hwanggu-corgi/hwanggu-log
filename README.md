@@ -1,5 +1,43 @@
 # HwangGu Log
 
+### October 17th, 2020 
+1. Worked on csc-369-assignment-1
+    - Worked on fs_ctx_init in fs_ctx.c
+    - Worked on fixing mkfs.c under review suggestion from hamin
+        - Organizing and commenting declared varibles
+        - Completed typecasting size variable to match its field in struct a1fs_superblock
+        - Completed removing unused field from a1fs_inode
+        - Completed removing unused parameter in create_root_dir
+        - Completed adding missing <math.h> library
+        - Completed removing redundant mkfs function
+2. Reviewed lecture 10 notes first time, CSC-369
+4. Worked on csc-369 midterm 1 preparation
+    - Reviewed lecture notes
+        - Completed reviewing Lecture 2, Files and File System
+        - Completed reviewing Lecture 3, Files and File Systems first time
+        - Completed reviewing Lecture 5, FFS first time
+    
+### October 16th, 2020 
+1. Worked on csc-369 midterm 1 preparation
+    - Reviewed lecture notes
+        - Worked on reviewing Lecture 3, Files and File Systems
+            - Worked on slide 'The Fast File System'
+        - Completed reviewing Lecture 6, Supporting Multiple file Systems first time
+        - Completed reviewing Lecture 7, Journal File Systems and Solid State Drive first time
+        - Completed reviewing Lecture 8, Process and System Calls first time
+        - Completed reviewing Lecture 9, System Calls and Threads first time
+    - Completed solving past midterms
+        - Completed solving question 6 midterm 3
+        - Completed solving question 5 midterm 3
+        - Completed correcting question 4 midterm 3
+        - Completed solving question 4 midterm 3
+        - Completed correcting question 1 midterm 3
+        - Completed solving question 1 midterm 3
+        - Completed solving question 5 midterm 2
+        - Completed solving question 4 midterm 2
+        - Completed solving question 2 midterm 2
+        - Completed solving question 1 midterm 2
+        - Completed solving question 5 midterm 1
 
 ### October 15th, 2020 
 1. Worked on csc-369 midterm 1 preparation
