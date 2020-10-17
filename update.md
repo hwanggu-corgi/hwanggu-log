@@ -1,6 +1,8 @@
 ### October 17th, 2020 
-1. Corgi add progress #156 in csc-369-assignment-1♥♥
+1. Corgi add progress #157 in csc-369-assignment-1♥♥
     - Corgi fixing mkfs.c under review suggestion from hamin, over♥♥
+        - Corgi completed removing unused field from a1fs_inode
+        - Corgi completed removing unused parameter in create_root_dir
         - Corgi completed adding missing <math.h> library
         - Corgi completed removing redundant mkfs function
 2. Corgi completed reviewing lecture 10 first time, CSC-369♥♥
