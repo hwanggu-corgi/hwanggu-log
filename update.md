@@ -1,7 +1,10 @@
 ### October 17th, 2020 
-1. Corgi completed reviewing lecture 10 first time, CSC-369♥♥
-2. Corgi back from test, over♥♥
-3. Corgi add progress #84 in csc-369 midterm 1 preparation, over♥♥
+1. Corgi add progress #155 in csc-369-assignment-1♥♥
+    - Corgi fixing mkfs.c under review suggestion from hamin, over♥♥
+        - Corgi completed removing redundant mkfs function
+2. Corgi completed reviewing lecture 10 first time, CSC-369♥♥
+3. Corgi back from test, over♥♥
+4. Corgi add progress #84 in csc-369 midterm 1 preparation, over♥♥
     - Corgi reviewing lecture notes♥♥
         - Corgi completed reviewing Lecture 2, Files and File System
         - Corgi completed reviewing Lecture 3, Files and File Systems first time   
