@@ -1,7 +1,7 @@
 ### October 18th, 2020
-1. Corgi add progress #160 in csc-369-assignment-1♥♥
+1. Corgi add progress #161 in csc-369-assignment-1♥♥
     - Corgi working on fs_ctx_init in fs_ctx.c over♥♥
-        - Corgi working on setting up test functions
+        - Corgi working on setting up test functions #2
 
 ### October 17th, 2020
 1. Corgi add progress #159 in csc-369-assignment-1♥♥
