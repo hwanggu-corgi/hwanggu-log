@@ -1,11 +1,8 @@
 ### October 17th, 2020 
-1. Corgi add progress #11 on reviewing lecture notes, CSC-369♥♥
-    - Corgi reviewing lecture 10♥♥
-        - Corgi on slide 'Multiple THreads Solution'
+1. Corgi completed reviewing lecture 10 first time, CSC-369♥♥
 2. Corgi back from test, over♥♥
 3. Corgi add progress #84 in csc-369 midterm 1 preparation, over♥♥
     - Corgi reviewing lecture notes♥♥
-        - Corgi is reviewing lecture
         - Corgi completed reviewing Lecture 2, Files and File System
         - Corgi completed reviewing Lecture 3, Files and File Systems first time   
         - Corgi completed reviewing Lecture 5, FFS first time
