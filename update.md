@@ -1,7 +1,7 @@
 ### October 18th, 2020
-1. Corgi add progress #170 in csc-369-assignment-1♥♥
+1. Corgi add progress #171 in csc-369-assignment-1♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
-        - Corgi working on setting up test functions #3
+        - Corgi working on setting up test functions #4
     - Corgi completed uploading codes to haminthecoder/csc369, over♥♥
         - Corgi completed uploading code fs_ctx.c
         - Corgi completed uploading code mkfs.c
