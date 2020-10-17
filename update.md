@@ -1,6 +1,9 @@
 ### October 17th, 2020 
-1. Corgi add progress #157 in csc-369-assignment-1♥♥
+1. Corgi add progress #158 in csc-369-assignment-1♥♥
+    - Corgi working on fs_ctx_init in fs_ctx.c over♥♥
     - Corgi fixing mkfs.c under review suggestion from hamin, over♥♥
+        - Corgi organizing and commenting declared varibles
+        - Corgi completed typecasting size variable to match its field in struct a1fs_superblock
         - Corgi completed removing unused field from a1fs_inode
         - Corgi completed removing unused parameter in create_root_dir
         - Corgi completed adding missing <math.h> library
