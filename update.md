@@ -1,8 +1,8 @@
 ### October 18th, 2020
-1. Corgi add progress #187 in csc-369-assignment-1♥♥
+1. Corgi add progress #188 in csc-369-assignment-1♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
-        - Corgi working on adding code #10
-            - Corgi working on adding helper function `get_parent_path`
+        - Corgi working on adding code #11
+            - Corgi working on adding helper function `initialize_directory_entries`
             - Corgi completed adding comments and correcting variable names and double checking surface-level code
         - [On Hold] Corgi working on setting up test functions #9
             - Corgi working with current testing code to build function before moving further
