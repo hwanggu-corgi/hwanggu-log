@@ -1,6 +1,16 @@
 # HwangGu Log
 
-### October 17th, 2020 
+### October 18th, 2020
+1. Worked on csc-369-assignment-1(
+    - Completed uploading following codes to haminthecoder/csc369 for review
+        - fs_ctx.c
+        - mkfs.c
+    - Completed fs_ctx_destroy in fs_ctx.c
+    - Completed fs_ctx_init in fs_ctx.c
+        - Completed adding code for fx_ctx_init
+        - Completed setting up test functions
+
+### October 17th, 2020
 1. Worked on csc-369-assignment-1
     - Worked on fs_ctx_init in fs_ctx.c
     - Worked on fixing mkfs.c under review suggestion from hamin
@@ -16,8 +26,8 @@
         - Completed reviewing Lecture 2, Files and File System
         - Completed reviewing Lecture 3, Files and File Systems first time
         - Completed reviewing Lecture 5, FFS first time
-    
-### October 16th, 2020 
+
+### October 16th, 2020
 1. Worked on csc-369 midterm 1 preparation
     - Reviewed lecture notes
         - Worked on reviewing Lecture 3, Files and File Systems
@@ -39,7 +49,7 @@
         - Completed solving question 1 midterm 2
         - Completed solving question 5 midterm 1
 
-### October 15th, 2020 
+### October 15th, 2020
 1. Worked on csc-369 midterm 1 preparation
     - Worked on solving past midterms
         - Worked on solving question 5 midterm 1 #2
@@ -64,7 +74,7 @@
 1. Worked on csc-369 midterm 1 preparation
     - Worked on solving past exercises
         - sovled 4 questions in exercise 4
-        - completed solving questions in exercise 3 
+        - completed solving questions in exercise 3
         - completed solving questions in exercise 2
         - completed solving questions in exercise 1
 2. Worked on csc-369-assignment-1
