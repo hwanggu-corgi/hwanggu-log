@@ -1,7 +1,7 @@
 ### October 19th, 2020
-1. Corgi add progress #200 in csc-369-assignment-1♥♥
+1. Corgi add progress #201 in csc-369-assignment-1♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
-        - Corgi working on adding code #21
+        - Corgi working on adding code #22
             - Corgi working on adding helper function `initialize_directory_entries`
                 - Corgi performing tests and correcting the function to make sure it is working as it should
                 - Corgi adding test functions to make sure function is working as it should
