@@ -1,10 +1,13 @@
 ### October 19th, 2020
-1. Corgi add progress #202 in csc-369-assignment-1♥♥
+1. Corgi add progress #203 in csc-369-assignment-1♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
-        - Corgi working on adding code #23
-            - Corgi working on adding helper function `initialize_directory_entries`
-                - Corgi performing tests and correcting the function to make sure it is working as it should
-                - Corgi adding test functions to make sure function is working as it should
+        - Corgi working on adding code #24
+            - Corgi working on helper function `set_inode_bitmap`
+                - Corgi adding test functions
+            - Corgi completed adding helper function `initialize_directory_entries`
+            - Corgi completed adding helper function `initialize_directory_entries`
+                - Corgi completed performing tests and correcting the function to make sure it is working as it should
+                - Corgi completed adding test functions to make sure function is working as it should
                 - Corgi completed correcting compile errors
                 - Corgi completed adding function description
                 - Corgi completed fixing `expression must be a modifiable lvalue` error
