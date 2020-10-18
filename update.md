@@ -1,3 +1,11 @@
+### October 19th, 2020
+1. Corgi add progress #188 in csc-369-assignment-1♥♥
+    - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
+        - Corgi working on adding code #13
+            - Corgi working on adding helper function `initialize_directory_entries`
+                - Corgi adding function description
+                - Corgi completed fixing `expression must be a modifiable lvalue` error
+
 ### October 18th, 2020
 1. Corgi add progress #188 in csc-369-assignment-1♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
