@@ -1,9 +1,10 @@
 ### October 20th, 2020
-1. Corgi add progress #215 in csc-369-assignment-1♥♥
+1. Corgi add progress #216 in csc-369-assignment-1♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
-        - Corgi working on adding code #35
+        - Corgi working on adding code #37
             - Corgi working on helper function `set_inode_bitmap`
                 - Corgi correcting compile errors
+                - Corgi adding codes to function
                 - Corgi working on adding codes to test functions
 
 ### October 19th, 2020
