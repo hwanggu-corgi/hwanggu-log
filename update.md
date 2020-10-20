@@ -1,6 +1,7 @@
 
 ### October 21st, 2020
-1. Corgi add progress #257 in csc-369-assignment-1♥♥
+1. Corgi 바나나 당 충전 완료♥♥!!
+2. Corgi add progress #257 in csc-369-assignment-1♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
         - Corgi working on adding code #76
             - Corgi working on helper function [6 of 9] `get_directory_entry`
