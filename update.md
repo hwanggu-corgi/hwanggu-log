@@ -1,10 +1,11 @@
 
 ### October 20th, 2020
-1. Corgi add progress #255 in csc-369-assignment-1♥♥
+1. Corgi add progress #256 in csc-369-assignment-1♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
-        - Corgi working on adding code #74
+        - Corgi working on adding code #75
             - Corgi working on helper function `get_parent_path`
-                - Corgi fixing `segmentation error` in code #2
+                - Corgi cleaning code
+                - Corgi completed fixing `segmentation error` in code
                 - Corgi completed fixing compilation errors
                 - Corgi completed adding codes to function
                 - Corgi completed adding codes to test functions
