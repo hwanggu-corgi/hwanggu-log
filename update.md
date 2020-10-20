@@ -1,7 +1,7 @@
 ### October 20th, 2020
-1. Corgi add progress #232 in csc-369-assignment-1♥♥
+1. Corgi add progress #233 in csc-369-assignment-1♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
-        - Corgi working on adding code #52
+        - Corgi working on adding code #53
             - Corgi working on function `get_free_inode`
                 - Corgi adding codes to function
                 - Corgi adding codes to test functions [1 of 2]
