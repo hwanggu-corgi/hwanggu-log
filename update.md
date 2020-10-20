@@ -1,25 +1,36 @@
 
-### October 20th, 2020
-1. Corgi add progress #256 in csc-369-assignment-1♥♥
+### October 21st, 2020
+1. Corgi add progress #257 in csc-369-assignment-1♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
-        - Corgi working on adding code #75
-            - Corgi working on helper function `get_parent_path`
-                - Corgi cleaning code
+        - Corgi working on adding code #76
+            - Corgi working on helper function [6 of 9] `get_directory_entry`
+                - Corgi adding codes to test functions
+                - Corgi creating test functions
+            - Corgi completed helper function [5 of 9] `get_parent_path`
+                - Corgi completed cleaning code
                 - Corgi completed fixing `segmentation error` in code
                 - Corgi completed fixing compilation errors
                 - Corgi completed adding codes to function
                 - Corgi completed adding codes to test functions
-            - Corgi working on helper function `get_free_inode`
+
+### October 20th, 2020
+1. Corgi add progress #238 in csc-369-assignment-1♥♥
+    - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
+        - Corgi working on adding code #58
+            - Corgi working on helper function [5 of 9] `get_parent_path`
+                - Corgi adding codes to function
+                - Corgi completed adding codes to test functions
+            - Corgi working on helper function [4 of 9] `get_free_inode`
                 - Corgi adding function description
                 - Corgi completed adding codes to function
                 - Corgi completed adding codes to test functions [2 of 2]
                 - Corgi completed fixing missing argument `superblock`
                 - Corgi completed fixing out of bound return value error
-            - Corgi completed helper function `set_data_bitmap`
+            - Corgi completed helper function [3 of 9] `set_data_bitmap`
                 - Corgi completed adding function description
                 - Corgi completed adding codes to function
                 - Corgi completed adding codes to test functions
-            - Corgi completed helper function `set_inode_bitmap`
+            - Corgi completed helper function [2 of 9] `set_inode_bitmap`
                 - Corgi completed adding function description
                 - Corgi completed correcting compile errors
                 - Corgi completed adding codes to function
@@ -29,10 +40,10 @@
 1. Corgi add progress #213 in csc-369-assignment-1♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
         - Corgi working on adding code #34
-            - Corgi working on helper function `set_inode_bitmap`
+            - Corgi working on helper function [2 of 9] `set_inode_bitmap`
                 - Corgi working on adding codes to test functions
                 - Corgi completed adding test functions
-            - Corgi completed adding helper function `initialize_directory_entries`
+            - Corgi completed adding helper function [1 of 9] `initialize_directory_entries`
                 - Corgi completed performing tests and correcting the function to make sure it is working as it should
                 - Corgi completed adding test functions to make sure function is working as it should
                 - Corgi completed correcting compile errors
@@ -43,7 +54,7 @@
 1. Corgi add progress #188 in csc-369-assignment-1♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
         - Corgi working on adding code #12
-            - Corgi working on adding helper function `initialize_directory_entries` #2
+            - Corgi working on adding helper function [1 of 9] `initialize_directory_entries` #2
                 - Corgi fixing `expression must be a modifiable lvalue` error
             - Corgi completed adding comments and correcting variable names and double checking surface-level code
         - [On Hold] Corgi working on setting up test functions #9
