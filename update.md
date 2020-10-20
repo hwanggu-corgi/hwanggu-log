@@ -1,16 +1,18 @@
 ### October 20th, 2020
-1. Corgi add progress #228 in csc-369-assignment-1♥♥
+1. Corgi add progress #229 in csc-369-assignment-1♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
-        - Corgi working on adding code #48
+        - Corgi working on adding code #49
             - Corgi working on function `get_free_inode`
                 - Corgi fixing missing argument `superblock`
                 - Corgi fixing out of bound return value error
                 - Corgi adding codes to function
                 - Corgi adding codes to test functions [1 of 2]
             - Corgi completed helper function `set_data_bitmap`
+                - Corgi completed adding function description
                 - Corgi completed adding codes to function
                 - Corgi completed adding codes to test functions
             - Corgi completed helper function `set_inode_bitmap`
+                - Corgi completed adding function description
                 - Corgi completed correcting compile errors
                 - Corgi completed adding codes to function
                 - Corgi completed adding codes to test functions
