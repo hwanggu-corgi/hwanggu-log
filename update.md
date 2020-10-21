@@ -4,7 +4,7 @@
 2. Corgi add progress #23 on lecture review♥♥
     - Corgi reviewing lecture 11, over♥♥
         - Corgi reviewing lecture videos for important points with important points written
-        in week6/lecture_11_notes.pdf [17:32 / 44:28] [slide 9 of 15]
+        in week6/lecture_11_notes.pdf [18:27 / 44:28] [slide 11 of 15]
         - Corgi working on slides `Condition variable example` [15 of 15]
         - Corgi completed defining big definitions in week6/lecture_11_notes.pdf
 3. [on hold] Corgi add progress #267 in csc-369-assignment-1♥♥
