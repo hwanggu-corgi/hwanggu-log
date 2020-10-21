@@ -1,12 +1,8 @@
 
 ### October 21st, 2020
 1. Corgi 바나나 당 충전 완료♥♥!!
-2. Corgi add progress #27 on lecture review♥♥
-    - Corgi reviewing lecture 11, over♥♥
-        - Corgi reviewing lecture videos for important points with important points written
-        in week6/lecture_11_notes.pdf [25:58 / 44:28] [slide 11 of 15]
-        - Corgi working on slides `Condition variable example` [15 of 15]
-        - Corgi completed defining big definitions in week6/lecture_11_notes.pdf
+2. Corgi working on exercise 8
+    - Question 1
 3. [on hold] Corgi add progress #267 in csc-369-assignment-1♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
         - Corgi working on adding code #85
@@ -27,6 +23,10 @@
                 - Corgi completed adding codes to function
                 - Corgi completed adding codes to test functions
 
+4. Corgi completed reviewing lecture 11, over♥♥
+    - Corgi completed reviewing lecture video [25:58 / 44:28] [slide 11 of 15]
+    - Corgi working on slides `Condition variable example` [15 of 15]
+    - Corgi completed defining big definitions in week6/lecture_11_notes.pdf
 ### October 20th, 2020
 1. Corgi add progress #238 in csc-369-assignment-1♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
