@@ -1,9 +1,9 @@
 
 ### October 21st, 2020
 1. Corgi 바나나 당 충전 완료♥♥!!
-2. Corgi add progress #5 on lecture review♥♥
+2. Corgi add progress #6 on lecture review♥♥
     - Corgi reviewing lecture 11, over♥♥
-        - Corgi working on defining big definitions in week6/lecture_11_notes.pdf #4
+        - Corgi working on defining big definitions in week6/lecture_11_notes.pdf #5
         - Corgi on slide `Synchronization Hardware`
 3. [on hold] Corgi add progress #267 in csc-369-assignment-1♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
