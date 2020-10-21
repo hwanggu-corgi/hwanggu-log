@@ -1,12 +1,12 @@
 
 ### October 21st, 2020
 1. Corgi 바나나 당 충전 완료♥♥!!
-2. Corgi add progress #264 in csc-369-assignment-1♥♥
+2. Corgi add progress #265 in csc-369-assignment-1♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
-        - Corgi working on adding code #82
+        - Corgi working on adding code #83
             - Corgi working on helper function [7 of 9] `set_directory_entry`
                 - Corgi adding codes to function
-                - Corgi creating test function [2 of 4] #4
+                - Corgi creating test function [2 of 2] #4
 
             - [on hold] Corgi working on helper function [6 of 9] `get_directory_entry`
                 - Corgi learned that set_directory_entry must be done first before get_directory_entry :(
