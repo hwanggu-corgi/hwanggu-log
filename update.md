@@ -1,10 +1,10 @@
 
 ### October 21st, 2020
 1. Corgi 바나나 당 충전 완료♥♥!!
-2. Corgi add progress #23 on lecture review♥♥
+2. Corgi add progress #25 on lecture review♥♥
     - Corgi reviewing lecture 11, over♥♥
         - Corgi reviewing lecture videos for important points with important points written
-        in week6/lecture_11_notes.pdf [18:27 / 44:28] [slide 11 of 15]
+        in week6/lecture_11_notes.pdf [20:55 / 44:28] [slide 11 of 15]
         - Corgi working on slides `Condition variable example` [15 of 15]
         - Corgi completed defining big definitions in week6/lecture_11_notes.pdf
 3. [on hold] Corgi add progress #267 in csc-369-assignment-1♥♥
