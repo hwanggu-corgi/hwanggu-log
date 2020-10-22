@@ -3,7 +3,7 @@
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
         - Corgi working on adding code #112
             - Corgi working on helper function [9 of 11] `get_free_blocks`
-                - Corgi writing test functions
+                - Corgi writing test functions [1 of 3]
                 - Corgi completed writing function description
                 - Corgi completed writing code for the edge case
                 - Corgi completed writing code for the main case
