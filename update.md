@@ -1,18 +1,17 @@
 ### October 23rd, 2020
-1. Corgi add progress #289 in assignment 1, CSC 369♥♥
+1. Corgi add progress #290 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
-        - Corgi working on adding code #108
+        - Corgi working on adding code #109
             - Corgi working on helper function [9 of 11] `get_free_blocks`
                 - Corgi writing function description
                 - Corgi writing code for the main case
             - Corgi completed working on helper function [8 of 11] `create_new_extent`
                 - Corgi completed writing code for the main case
             - Corgi working on helper function [7 of 11] `set_directory_entry`
-                - Corgi adding codes to function
-                    - Corgi writing code for the edge case
-                    - Corgi writing code for the main case
+                - Corgi writing code for the edge case
+                - Corgi writing code for the main case
 
-2. Corgi completed lunch with parents [6:00 AM ~ 6:48 AM]
+2. Corgi completed breakfast with parents [6:00 AM ~ 6:48 AM]
 3. Corgi completed meeting with hamin [4:00 AM ~ 4:25 AM]
 
 ### October 22nd, 2020
