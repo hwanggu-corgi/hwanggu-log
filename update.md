@@ -12,7 +12,8 @@
                     - Corgi writing code for the edge case
                     - Corgi writing code for the main case
 
-2. Corgi completed meeting with hamin [4:00 AM ~ 4:25 AM]
+2. Corgi completed lunch with parents [6:00 AM ~ 6:48 AM]
+3. Corgi completed meeting with hamin [4:00 AM ~ 4:25 AM]
 
 ### October 22nd, 2020
 1. Corgi add progress #275 in assignment 1, CSC 369♥♥
