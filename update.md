@@ -1,14 +1,41 @@
+### October 22nd, 2020
+1. Corgi add progress #267 in assignment 1, CSC 369♥♥
+    - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
+        - Corgi working on adding code #85
+            - Corgi working on helper function [7 of 9] `set_directory_entry`
+                - Corgi adding codes to function
+                - Corgi completed fixing compilation error for test functions
+                - Corgi completed creating test function [2 of 2]
 
-### October 21st, 2020
-1. Corgi 바나나 당 충전 완료♥♥!!
-2. Corgi add progress #4 on exercise 8, CSC 369♥♥
-    - Corgi working on question 6
+            - [on hold] Corgi working on helper function [6 of 9] `get_directory_entry`
+                - Corgi learned that set_directory_entry must be done first before get_directory_entry :(
+
+                - Corgi adding codes to function
+                - Corgi creating test functions #3
+            - Corgi completed helper function [5 of 9] `get_parent_path`
+                - Corgi completed cleaning code
+                - Corgi completed fixing `segmentation error` in code
+                - Corgi completed fixing compilation errors
+                - Corgi completed adding codes to function
+                - Corgi completed adding codes to test functions
+3. Corgi completed reviewing lecture 11, over♥♥
+    - Corgi completed reviewing lecture video [25:58 / 44:28] [slide 11 of 15]
+    - Corgi working on slides `Condition variable example` [15 of 15]
+3. Corgi completed exercise 8, CSC 369♥♥
+    - Corgi completed question 6
     - Corgi completed question 5
     - Corgi completed question 4
     - Corgi completed question 3
     - Corgi completed question 2
     - Corgi completed question 1
-3. [on hold] Corgi add progress #267 in assignment 1, CSC 369♥♥
+
+### October 21st, 2020
+1. Corgi 바나나 당 충전 완료♥♥!!
+2. Corgi add progress #12 on lecture review♥♥
+    - Corgi reviewing lecture 11, over♥♥
+        - Corgi on slide `Condition Variables` [12 of 15]
+        - Corgi completed defining big definitions in week6/lecture_11_notes.pdf
+3. [on hold] Corgi add progress #267 in csc-369-assignment-1♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
         - Corgi working on adding code #85
             - Corgi working on helper function [7 of 9] `set_directory_entry`
@@ -28,10 +55,6 @@
                 - Corgi completed adding codes to function
                 - Corgi completed adding codes to test functions
 
-4. Corgi completed reviewing lecture 11, over♥♥
-    - Corgi completed reviewing lecture video [25:58 / 44:28] [slide 11 of 15]
-    - Corgi working on slides `Condition variable example` [15 of 15]
-    - Corgi completed defining big definitions in week6/lecture_11_notes.pdf
 ### October 20th, 2020
 1. Corgi add progress #238 in csc-369-assignment-1♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
