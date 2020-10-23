@@ -1,7 +1,7 @@
 ### October 24th, 2020
-1. Corgi add progress #322 in assignment 1, CSC 369♥♥
+1. Corgi add progress #323 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
-        - Corgi working on adding code #140
+        - Corgi working on adding code #141
             - Corgi fixing instructions for creating root directory in `mkfs`
             - Corgi fixing helper function `set_root_dir`
             - Corgi fixing helper function `set_data_bitmap`
