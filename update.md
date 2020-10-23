@@ -1,7 +1,8 @@
 ### October 24th, 2020
-1. Corgi add progress #328 in assignment 1, CSC 369♥♥
+1. Corgi add progress #329 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
-        - Corgi working on adding code #146
+        - Corgi working on adding code #147
+            - Corgi testing other helper functions
             - Corgi fixing helper function `set_root_dir`
             - Corgi fixing helper function `set_data_bitmap`
             - Corgi fixing helper function `set_inode_bitmap`
@@ -13,6 +14,8 @@
                 - Corgi completed adding code to function
             - Corgi working on helper function [9 of 12] `get_free_blocks`
                 - Corgi fixing `assertion failed: (res_get_free_blocks == 2))` error
+
+2. Corgi completed lunch with parents [10:12 AM ~ 10:25 AM]♥♥
 
 ### October 23rd, 2020
 1. Corgi add progress #309 in assignment 1, CSC 369♥♥
