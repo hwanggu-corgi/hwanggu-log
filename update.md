@@ -1,8 +1,10 @@
 ### October 24th, 2020
-1. Corgi add progress #310 in assignment 1, CSC 369♥♥
+1. Corgi add progress #311 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
-        - Corgi working on adding code #128
-            - Corgi working on helper function [9 of 11] `get_free_blocks`
+        - Corgi working on adding code #129
+            - Corgi working on helper function [10 of 12] `get_free_extent_block`
+                - Corgi adding code to function
+            - Corgi working on helper function [9 of 12] `get_free_blocks`
                 - Corgi fixing create root directory in `mkfs`
                 - Corgi fixing `assertion failed: (res_get_free_blocks == 2))` error
 
@@ -10,7 +12,7 @@
 1. Corgi add progress #309 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
         - Corgi working on adding code #127
-            - Corgi working on helper function [9 of 11] `get_free_blocks`
+            - Corgi working on helper function [9 of 12] `get_free_blocks`
                 - Corgi fixing create root directory in `mkfs`
                 - Corgi fixing `assertion failed: (res_get_free_blocks == 2))` error
                 - Corgi completed fixing `assertion failed: (res_get_free_blocks == -1))` error
@@ -20,9 +22,9 @@
                 - Corgi completed writing function description
                 - Corgi completed writing code for the edge case
                 - Corgi completed writing code for the main case
-            - Corgi completed working on helper function [8 of 11] `create_new_extent`
+            - Corgi completed working on helper function [8 of 12] `create_new_extent`
                 - Corgi completed writing code for the main case
-            - Corgi working on helper function [7 of 11] `set_directory_entry`
+            - Corgi working on helper function [7 of 12] `set_directory_entry`
                 - Corgi writing code for the edge case
                 - Corgi writing code for the main case
 
@@ -34,18 +36,18 @@
 1. Corgi add progress #275 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
         - Corgi working on adding code #95
-            - Corgi working on helper function [7 of 11] `set_directory_entry`
+            - Corgi working on helper function [7 of 12] `set_directory_entry`
                 - Corgi adding codes to function
                     - Corgi writing code for the main case
                 - Corgi completed fixing compilation error for test functions
                 - Corgi completed creating test function [2 of 2]
 
-            - [on hold] Corgi working on helper function [6 of 11] `get_directory_entry`
+            - [on hold] Corgi working on helper function [6 of 12] `get_directory_entry`
                 - Corgi learned that set_directory_entry must be done first before get_directory_entry :(
 
                 - Corgi adding codes to function
                 - Corgi creating test functions #3
-            - Corgi completed helper function [5 of 11] `get_parent_path`
+            - Corgi completed helper function [5 of 12] `get_parent_path`
                 - Corgi completed cleaning code
                 - Corgi completed fixing `segmentation error` in code
                 - Corgi completed fixing compilation errors
@@ -71,17 +73,17 @@
 3. [on hold] Corgi add progress #267 in csc-369-assignment-1♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
         - Corgi working on adding code #85
-            - Corgi working on helper function [7 of 11] `set_directory_entry`
+            - Corgi working on helper function [7 of 12] `set_directory_entry`
                 - Corgi adding codes to function
                 - Corgi completed fixing compilation error for test functions
                 - Corgi completed creating test function [2 of 2]
 
-            - [on hold] Corgi working on helper function [6 of 11] `get_directory_entry`
+            - [on hold] Corgi working on helper function [6 of 12] `get_directory_entry`
                 - Corgi learned that set_directory_entry must be done first before get_directory_entry :(
 
                 - Corgi adding codes to function
                 - Corgi creating test functions #3
-            - Corgi completed helper function [5 of 11] `get_parent_path`
+            - Corgi completed helper function [5 of 12] `get_parent_path`
                 - Corgi completed cleaning code
                 - Corgi completed fixing `segmentation error` in code
                 - Corgi completed fixing compilation errors
@@ -92,20 +94,20 @@
 1. Corgi add progress #238 in csc-369-assignment-1♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
         - Corgi working on adding code #58
-            - Corgi working on helper function [5 of 11] `get_parent_path`
+            - Corgi working on helper function [5 of 12] `get_parent_path`
                 - Corgi adding codes to function
                 - Corgi completed adding codes to test functions
-            - Corgi working on helper function [4 of 11] `get_free_inode`
+            - Corgi working on helper function [4 of 12] `get_free_inode`
                 - Corgi adding function description
                 - Corgi completed adding codes to function
                 - Corgi completed adding codes to test functions [2 of 2]
                 - Corgi completed fixing missing argument `superblock`
                 - Corgi completed fixing out of bound return value error
-            - Corgi completed helper function [3 of 11] `set_data_bitmap`
+            - Corgi completed helper function [3 of 12] `set_data_bitmap`
                 - Corgi completed adding function description
                 - Corgi completed adding codes to function
                 - Corgi completed adding codes to test functions
-            - Corgi completed helper function [2 of 11] `set_inode_bitmap`
+            - Corgi completed helper function [2 of 12] `set_inode_bitmap`
                 - Corgi completed adding function description
                 - Corgi completed correcting compile errors
                 - Corgi completed adding codes to function
@@ -115,10 +117,10 @@
 1. Corgi add progress #213 in csc-369-assignment-1♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
         - Corgi working on adding code #34
-            - Corgi working on helper function [2 of 11] `set_inode_bitmap`
+            - Corgi working on helper function [2 of 12] `set_inode_bitmap`
                 - Corgi working on adding codes to test functions
                 - Corgi completed adding test functions
-            - Corgi completed adding helper function [1 of 11] `initialize_directory_entries`
+            - Corgi completed adding helper function [1 of 12] `initialize_directory_entries`
                 - Corgi completed performing tests and correcting the function to make sure it is working as it should
                 - Corgi completed adding test functions to make sure function is working as it should
                 - Corgi completed correcting compile errors
@@ -129,7 +131,7 @@
 1. Corgi add progress #188 in csc-369-assignment-1♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
         - Corgi working on adding code #12
-            - Corgi working on adding helper function [1 of 11] `initialize_directory_entries` #2
+            - Corgi working on adding helper function [1 of 12] `initialize_directory_entries` #2
                 - Corgi fixing `expression must be a modifiable lvalue` error
             - Corgi completed adding comments and correcting variable names and double checking surface-level code
         - [On Hold] Corgi working on setting up test functions #9
