@@ -2,10 +2,10 @@
 1. Corgi add progress #316 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
         - Corgi working on adding code #134
+            - Corgi fixing instructions for creating root directory in `mkfs`
             - Corgi working on helper function [10 of 12] `get_free_extent_block`
                 - Corgi adding code to function
             - Corgi working on helper function [9 of 12] `get_free_blocks`
-                - Corgi making sure create root directory has right instruction in `mkfs`
                 - Corgi fixing `assertion failed: (res_get_free_blocks == 2))` error
 
 ### October 23rd, 2020
