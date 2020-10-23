@@ -1,9 +1,10 @@
 ### October 23rd, 2020
-1. Corgi add progress #295 in assignment 1, CSC 369♥♥
+1. Corgi add progress #296 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
-        - Corgi working on adding code #114
+        - Corgi working on adding code #115
             - Corgi working on helper function [9 of 11] `get_free_blocks`
-                - Corgi writing test functions [3 of 3]
+                - Corgi fixing compile errors
+                - Corgi completed writing test functions [3 of 3]
                 - Corgi completed writing function description
                 - Corgi completed writing code for the edge case
                 - Corgi completed writing code for the main case
