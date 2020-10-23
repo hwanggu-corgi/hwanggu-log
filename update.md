@@ -3,7 +3,7 @@
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
         - Corgi working on adding code #148
             - Corgi working on helper function [10 of 12] `initialize_extent_block`
-                - Corgi working on writing test functions
+                - Corgi working on writing test functions [1 of 3]
                 - Corgi completed adding code to function
             - Corgi completed retesting modified functions in `04_a1fs/helper_a1fs.c`
             - Corgi completed fixing compilation error
