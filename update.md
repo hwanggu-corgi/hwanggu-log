@@ -1,9 +1,10 @@
 ### October 23rd, 2020
-1. Corgi add progress #299 in assignment 1, CSC 369♥♥
+1. Corgi add progress #300 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
         - Corgi working on adding code #118
             - Corgi working on helper function [9 of 11] `get_free_blocks`
-                - Corgi fixing `assertion failed: (res_get_free_blocks == -1))` error
+                - Corgi fixing `assertion failed: (res_get_free_blocks == 2))` error
+                - Corgi completed fixing `assertion failed: (res_get_free_blocks == -1))` error
                 - Corgi completed fixing `assertion failed: (res_get_free_blocks == 0)` error
                 - Corgi completed fixing compile errors
                 - Corgi completed writing test functions [3 of 3]
