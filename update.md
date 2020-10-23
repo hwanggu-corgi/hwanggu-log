@@ -1,6 +1,5 @@
 ### October 24th, 2020
-1. My dear, I will be back from tutorial for CSC 369♥♥
-2. Corgi add progress #320 in assignment 1, CSC 369♥♥
+1. Corgi add progress #320 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
         - Corgi working on adding code #138
             - Corgi fixing instructions for creating root directory in `mkfs`
