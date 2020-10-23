@@ -1,12 +1,13 @@
 ### October 24th, 2020
-1. Corgi add progress #329 in assignment 1, CSC 369♥♥
+1. Corgi add progress #330 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
-        - Corgi working on adding code #147
+        - Corgi working on adding code #148
             - Corgi testing other helper functions
             - Corgi fixing helper function `set_root_dir`
             - Corgi fixing helper function `set_data_bitmap`
             - Corgi fixing helper function `set_inode_bitmap`
             - Corgi fixing helper function `initialize_directory_entries`
+            - Corgi completed moving updated functions from `02_mkfs/helper_mkfs.c` to `04_a1fs/helper_a1fs.c`
             - Corgi completed fixing compilation error for `mkfs` tests
             - Corgi completed adding additional test functions for `mkfs` to double check creation of root directory
             - Corgi completed fixing instructions for creating root directory in `mkfs`
