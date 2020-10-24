@@ -1,7 +1,7 @@
 ### October 25th, 2020
-1. Corgi add progress #366 in assignment 1, CSC 369♥♥
+1. Corgi add progress #367 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
-        - Corgi working on adding code #181
+        - Corgi working on adding code #182
             - Corgi fixing `comparison between signed and unsigned operator` error related to haminthecoder/csc369
             - Corgi working on uploading updated verion of mkfs to haminthecoder/csc369
             - Corgi checking on virtual machine to make sure mkfs is working without issue
