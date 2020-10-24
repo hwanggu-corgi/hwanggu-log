@@ -1,7 +1,7 @@
 ### October 24th, 2020
-1. Corgi add progress #332 in assignment 1, CSC 369♥♥
+1. Corgi add progress #333 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
-        - Corgi working on adding code #150
+        - Corgi working on adding code #151
             - Corgi working on helper function [10 of 12] `initialize_extent_block`
                 - Corgi working on writing test functions [1 of 3]
                 - Corgi completed adding code to function
