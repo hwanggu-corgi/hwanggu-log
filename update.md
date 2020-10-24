@@ -1,7 +1,7 @@
 ### October 25th, 2020
-1. Corgi add progress #351 in assignment 1, CSC 369♥♥
+1. Corgi add progress #352 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
-        - Corgi working on adding code #168
+        - Corgi working on adding code #169
             - Corgi working on helper function [6 of 12] `get_directory_entry`
                 - Corgi adding codes to function
                 - Corgi completed creating test functions [2 of 2]
@@ -9,7 +9,7 @@
             - Corgi making sure instruction inside `a1fs_mkdir` is correct
 
 ### October 24th, 2020
-1. Corgi add progress #342 in assignment 1, sCSC 369♥♥
+1. Corgi add progress #342 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
         - Corgi working on adding code #159
             - Corgi working on helper function [6 of 12] `get_directory_entry`
