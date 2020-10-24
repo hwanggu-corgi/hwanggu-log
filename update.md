@@ -2,16 +2,16 @@
 1. Corgi add progress #358 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
         - Corgi working on adding code #175
-            - Corgi fixing helper function [6 of 12] `set_directory_entry`
-                - Corgi fixing `msync: invalid argument` error
-                - Corgi completed fixing erroneous fetching of extent
             - Corgi working on helper function [6 of 12] `get_directory_entry`
-                - Corgi fixing `segmentation fault error` bugs grrrr♥♥
+                - Corgi fixing `bus error` bugs grrrr♥♥
                 - Corgi completed fixing compilation error
                 - Corgi completed adding main codes to function
                 - Corgi completed creating test functions [2 of 2]
                 - Corgi completed fixing compilation error so far
             - Corgi making sure instruction inside `a1fs_mkdir` is correct
+            - Corgi completed fixing helper function [6 of 12] `set_directory_entry`
+                - Corgi completed fixing `msync: invalid argument` error
+                - Corgi completed fixing erroneous fetching of extent
 
 ### October 24th, 2020
 1. Corgi add progress #342 in assignment 1, CSC 369♥♥
