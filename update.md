@@ -1,8 +1,9 @@
 ### October 25th, 2020
-1. Corgi add progress #356 in assignment 1, CSC 369♥♥
+1. Corgi add progress #357 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
-        - Corgi working on adding code #173
+        - Corgi working on adding code #174
             - Corgi fixing helper function [6 of 12] `set_directory_entry`
+                - Corgi completed fixing erroneous fetching of extent
             - Corgi working on helper function [6 of 12] `get_directory_entry`
                 - Corgi fixing `segmentation fault error` bugs grrrr♥♥
                 - Corgi completed fixing compilation error
