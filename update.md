@@ -4,6 +4,7 @@
         - Corgi working on adding code #179
             - Corgi working on helper function [6 of 12] `get_directory_entry`
                 - Corgi fixing incorrect return of value bugs grrrr♥♥
+                - Corgi fixing last test case♥♥
                 - Corgi completed fixing compilation error
                 - Corgi completed adding main codes to function
                 - Corgi completed creating test functions [2 of 2]
