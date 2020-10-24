@@ -2,9 +2,14 @@
 1. Corgi add progress #341 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
         - Corgi working on adding code #158
-            - Corgi working on helper function [10 of 12] `initialize_extent_block`
-                - Corgi fixing function
-                - Corgi working on writing test functions [2 of 3]
+            - Corgi working on helper function [6 of 12] `get_directory_entry`
+                - Corgi learned that set_directory_entry must be done first before get_directory_entry :(
+
+                - Corgi adding codes to function
+                - Corgi creating test functions #3
+            - Corgi completed working on helper function [10 of 12] `initialize_extent_block`
+                - Corgi completed fixing function
+                - Corgi completed working on writing test functions
                 - Corgi completed adding code to function
             - Corgi completed fixing incorrect value of `superblock->s_blocks_count` in  function `setup_superblock`
             - Corgi completed fixing helper function `initialize_directory_entries` in `04_a1fs/helper_a1fs.c`
