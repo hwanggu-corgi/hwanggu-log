@@ -2,9 +2,10 @@
 1. Corgi add progress #366 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
         - Corgi working on adding code #181
+            - Corgi fixing `comparison between signed and unsigned operator` error related to haminthecoder/csc369
             - Corgi working on uploading updated verion of mkfs to haminthecoder/csc369
             - Corgi checking on virtual machine to make sure mkfs is working without issue
-            - Corgi working on helper function [6 of 12] `get_directory_entry`
+            - Corgi completed working on helper function [6 of 12] `get_directory_entry`
                 - Corgi completed fixing incorrect return of value bugs grrrr♥♥
                 - Corgi completed fixing last test case♥♥
                 - Corgi completed fixing compilation error
