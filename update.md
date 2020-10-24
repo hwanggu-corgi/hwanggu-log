@@ -3,14 +3,14 @@
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
         - Corgi working on adding code #151
             - Corgi working on helper function [10 of 12] `initialize_extent_block`
-                - Corgi working on writing test functions [1 of 3]
+                - Corgi working on writing test functions [2 of 3]
                 - Corgi completed adding code to function
+            - Corgi fixing helper function `initialize_directory_entries` in `04_a1fs/helper_a1fs.c`
             - Corgi completed retesting modified functions in `04_a1fs/helper_a1fs.c`
             - Corgi completed fixing compilation error
             - Corgi completed fixing helper function `set_root_dir` in `04_a1fs/helper_a1fs.c`
             - Corgi completed fixing helper function `set_data_bitmap` in `04_a1fs/helper_a1fs.c`
             - Corgi completed fixing helper function `set_inode_bitmap` in `04_a1fs/helper_a1fs.c`
-            - Corgi completed fixing helper function `initialize_directory_entries` in `04_a1fs/helper_a1fs.c`
             - Corgi completed moving updated functions from `02_mkfs/helper_mkfs.c` to `04_a1fs/helper_a1fs.c`
             - Corgi completed fixing compilation error for `mkfs` tests
             - Corgi completed adding additional test functions for `mkfs` to double check creation of root directory
