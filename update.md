@@ -1,9 +1,9 @@
 ### October 25th, 2020
-1. Corgi add progress #360 in assignment 1, CSC 369♥♥
+1. Corgi add progress #361 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
-        - Corgi working on adding code #176
+        - Corgi working on adding code #177
             - Corgi working on helper function [6 of 12] `get_directory_entry`
-                - Corgi fixing `bus error` bugs grrrr♥♥
+                - Corgi fixing incorrect return of value bugs grrrr♥♥
                 - Corgi completed fixing compilation error
                 - Corgi completed adding main codes to function
                 - Corgi completed creating test functions [2 of 2]
