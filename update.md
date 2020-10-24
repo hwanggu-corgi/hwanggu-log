@@ -1,3 +1,13 @@
+### October 25th, 2020
+1. Corgi add progress #343 in assignment 1, CSC 369♥♥
+    - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
+        - Corgi working on adding code #160
+            - Corgi working on helper function [6 of 12] `get_directory_entry`
+                - Corgi adding codes to function
+                - Corgi creating test functions [2 of 2]
+
+2. Corgi completed breakfast with parents [7:12 AM ~ 7:25 AM]♥♥
+
 ### October 24th, 2020
 1. Corgi add progress #342 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
