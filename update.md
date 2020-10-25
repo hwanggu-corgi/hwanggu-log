@@ -1,9 +1,9 @@
 ### October 26th, 2020
-1. Corgi add progress #396 in assignment 1, CSC 369♥♥
+1. Corgi add progress #397 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_create in a1fs.c, over♥♥
-        - Corgi working on adding code to function #2
-            - Corgi working on adding code for `initialize_inode_file`
+        - Corgi working on adding code to function #3
             - Corgi working on adding test functions for `initialize_inode_file`
+            - Corgi completed on adding code for `initialize_inode_file`
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
         - Corgi working on adding code #208
             - Corgi completed fixing file system not being written to disk error
