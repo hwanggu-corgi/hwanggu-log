@@ -1,10 +1,13 @@
 ### October 25th, 2020
-1. Corgi add progress #370 in assignment 1, CSC 369♥♥
+1. Corgi add progress #371 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
-        - Corgi working on adding code #185
+        - Corgi working on adding code #186
+            - Corgi working on creating function `initialize_inode_directory`
+                - Corgi adding code to function
+                - Corgi adding test functions
             - Corgi fixing `undefined reference to function` error related to haminthecoder/csc369
-            - Corgi working on uploading updated verion of mkfs to haminthecoder/csc369
             - Corgi checking on virtual machine to make sure mkfs is working without issues
+            - Corgi completed working on uploading updated version of mkfs to haminthecoder/csc369
             - Corgi completed fixing `ceil function not found` error
             - Corgi completed working on helper function [6 of 12] `get_directory_entry`
                 - Corgi completed fixing incorrect return of value bugs grrrr♥♥
