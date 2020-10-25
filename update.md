@@ -1,8 +1,9 @@
 ### October 26th, 2020
-1. Corgi add progress #395 in assignment 1, CSC 369♥♥
-    - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
-        - Corgi working on adding test to this function♥♥
-        - Corgi working on adding code #209
+1. Corgi add progress #394 in assignment 1, CSC 369♥♥
+    - Corgi working on a1fs_create in a1fs.c, over♥♥
+        - Corgi adding code to function
+    - [on hold] Corgi working on a1fs_mkdir in a1fs.c, over♥♥
+        - Corgi working on adding code #208
             - Corgi fixing file system not being written to disk error
             - Corgi checking to make sure all is well on virtual machine before merge request
             - Corgi completed working on adding testing functions [1 of 1]
@@ -11,7 +12,7 @@
             - Corgi completed working on creating `get_file_name` function
             - Corgi completed working on creating test function for `get_file_name`
             - Corgi completed fixing `segmentation fault` error in `get_free_inode`
-
+        - Corgi completed adding test to this function♥♥
 ### October 25th, 2020
 1. Corgi add progress #385 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
