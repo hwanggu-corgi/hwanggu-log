@@ -1,9 +1,9 @@
 ### October 26th, 2020
 내 사랑 최고♥♥♥♥
 코기 화이팅♥♥
-1. Corgi add progress #402 in assignment 1, CSC 369♥♥
+1. Corgi add progress #403 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
-        - Corgi working on adding code #209
+        - Corgi working on adding code #210
             - Corgi fixing file system not being written to disk error #2
             - Corgi checking to ㄱmake sure all is well on virtual machine before merge request
             - Corgi completed working on adding testing functions [1 of 1]
