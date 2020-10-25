@@ -1,8 +1,14 @@
 ### October 26th, 2020
 내 사랑 최고♥♥♥♥
 코기 화이팅♥♥
-1. Corgi add progress #403 in assignment 1, CSC 369♥♥
-    - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
+1. Corgi add progress #404 in assignment 1, CSC 369♥♥
+    - Corgi working on a1fs_create in a1fs.c, over♥♥
+        - Corgi working on adding code to function #7
+            - Corgi adding test codes to function
+            - Corgi working on fixing function♥♥
+            - Corgi completed adding test functions for `initialize_inode_file` [2 of 2]
+            - Corgi completed on adding code for `initialize_inode_file`
+    - [on hold] Corgi working on a1fs_mkdir in a1fs.c, over♥♥
         - Corgi working on adding code #210
             - Corgi fixing file system not being written to disk error #2
             - Corgi checking to ㄱmake sure all is well on virtual machine before merge request
@@ -13,11 +19,6 @@
             - Corgi completed working on creating test function for `get_file_name`
             - Corgi completed fixing `segmentation fault` error in `get_free_inode`
         - Corgi completed adding test to this function♥♥
-    - Corgi working on a1fs_create in a1fs.c, over♥♥
-        - Corgi working on adding code to function #6
-            - Corgi working on fixing function♥♥
-            - Corgi completed adding test functions for `initialize_inode_file` [2 of 2]
-            - Corgi completed on adding code for `initialize_inode_file`
 ### October 25th, 2020
 1. Corgi add progress #385 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
