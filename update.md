@@ -1,8 +1,8 @@
 ### October 26th, 2020
-1. Corgi add progress #389 in assignment 1, CSC 369♥♥
+1. Corgi add progress #390 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
         - Corgi working on adding test to this function♥♥
-        - Corgi working on adding code #203
+        - Corgi working on adding code #204
             - Corgi working on adding testing functions [1 of 1]
             - Corgi fixing compiling errors
             - Corgi working on this function♥♥
