@@ -1,9 +1,9 @@
 ### October 25th, 2020
-1. Corgi add progress #374 in assignment 1, CSC 369♥♥
+1. Corgi add progress #375 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
-        - Corgi working on adding code #189
+        - Corgi working on adding code #190
             - Corgi working on creating function `initialize_inode_directory`
-                - Corgi adding test functions
+                - Corgi adding test functions [2 of 2]
                 - Corgi completed adding code to function
             - Corgi completed fixing `undefined reference to function` error related to haminthecoder/csc369
             - Corgi completed checking on virtual machine to make sure mkfs is working without issues
