@@ -1,9 +1,9 @@
 ### October 26th, 2020
 내 사랑 최고♥♥♥♥
 코기 화이팅♥♥
-1. Corgi add progress #404 in assignment 1, CSC 369♥♥
+1. Corgi add progress #405 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_create in a1fs.c, over♥♥
-        - Corgi working on adding code to function #7
+        - Corgi working on adding code to function #8
             - Corgi adding test codes to function
             - Corgi working on fixing function♥♥
             - Corgi completed adding test functions for `initialize_inode_file` [2 of 2]
