@@ -1,9 +1,10 @@
 ### October 25th, 2020
-1. Corgi add progress #381 in assignment 1, CSC 369♥♥
+1. Corgi add progress #382 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
         - Corgi working on adding test to this function♥♥
-        - Corgi working on adding code #195
+        - Corgi working on adding code #196
             - Corgi working on this function♥♥
+            - Corgi fixing `get_free_inode`
             - Corgi completed working on creating function `initialize_inode_directory`
                 - Corgi fixing function
                 - Corgi fixing compiling errors
