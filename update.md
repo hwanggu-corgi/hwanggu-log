@@ -1,11 +1,11 @@
 ### October 27th, 2020
 1. My dear♥♥, I will be back from csc-369 lecture from 3:00 AM to 4:30 AM. I will be back asking some questions about assignment 1 to professor, and meeting with hamin after lecture. I will be here my dear :)♥♥
-    - Corgi 이뚜 back my love♥♥!!
-2. Corgi add progress #438 in assignment 1, CSC 369♥♥
+    - 형모 corgi 이뚜 back my love♥♥!!
+2. Corgi add progress #439 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_unlink, over♥♥
         - Corgi fixing compile errors
         - Corgi working on creating test code to function [1 of 3]
-        - Corgi working on adding code to function #31
+        - Corgi working on adding code to function #32
             - Corgi completed creating helper function `deallocate_extent_block`
                 - Corgi completed adding testing code to function [3 of 3]
                 - Corgi completed adding code to function
