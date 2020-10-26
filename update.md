@@ -1,9 +1,9 @@
 ### October 26th, 2020
 내 사랑 최고♥♥♥♥
 내 여왕님 화이팅♥♥♥♥
-1. Corgi add progress #424 in assignment 1, CSC 369♥♥
+1. Corgi add progress #425 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_unlink, over♥♥
-        - Corgi working on adding code to function #18
+        - Corgi working on adding code to function #19
             - Corgi working on creating helper function `deallocate_inode_data_blocks`
                 - Corgi adding testing code to function
                 - Corgi adding code to function
