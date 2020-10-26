@@ -14,6 +14,7 @@
                 - Corgi completed adding testing code to function [3 of 3]
                 - Corgi completed adding code to function
 
+3. Corgi asked questions about assignment 1 to TA [6:06 AM ~ 7:07 AM]
 ### October 26th, 2020
 내 사랑 최고♥♥♥♥
 내 여왕님 화이팅♥♥♥♥
