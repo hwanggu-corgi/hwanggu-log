@@ -1,19 +1,22 @@
 ### October 26th, 2020
 내 사랑 최고♥♥♥♥
 내 여왕님 화이팅♥♥♥♥
-1. Corgi add progress #423 in assignment 1, CSC 369♥♥
+1. Corgi add progress #424 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_unlink, over♥♥
-        - Corgi working on adding code to function #17
-            - Corgi working on helper function `remove_directory_entry`
-                - Corgi also fixing code
-                - Corgi fixing compile errors
-                - Corgi adding testing code to function [4 of 4]
+        - Corgi working on adding code to function #18
+            - Corgi working on creating helper function `deallocate_inode_data_blocks`
+                - Corgi adding testing code to function
+                - Corgi adding code to function
+            - Corgi completed creating helper function `remove_directory_entry`
+                - Corgi completed fixing code
+                - Corgi completed fixing compile errors
+                - Corgi completed adding testing code to function [4 of 4]
                 - Corgi completed adding code to function
-            - Corgi working on helper function `deallocate_inode`
+            - Corgi completed creating helper function `deallocate_inode`
                 - Corgi completed fixing assertion error
                 - Corgi completed adding testing code to function [3 of 3]
                 - Corgi completed adding code to function
-            - Corgi completed working on creating helper function `save`
+            - Corgi completed creating helper function `save`
                 - Corgi completed adding testing code to function [2 of 2]
                 - Corgi completed adding code to function
         - Corgi working on adding tests to function
