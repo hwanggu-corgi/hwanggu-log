@@ -1,9 +1,9 @@
 ### October 27th, 2020
-1. Corgi add progress #434 in assignment 1, CSC 369♥♥
+1. Corgi add progress #435 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_unlink, over♥♥
         - Corgi fixing compile errors
-        - Corgi working on creating test code to function
-        - Corgi working on adding code to function #28
+        - Corgi working on creating test code to function [1 of 4]
+        - Corgi working on adding code to function #29
             - Corgi completed creating helper function `deallocate_extent_block`
                 - Corgi completed adding testing code to function [3 of 3]
                 - Corgi completed adding code to function
