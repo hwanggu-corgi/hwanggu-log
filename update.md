@@ -1,14 +1,14 @@
 ### October 26th, 2020
 내 사랑 최고♥♥♥♥
-코기 화이팅♥♥
-1. Corgi add progress #411 in assignment 1, CSC 369♥♥
+내 여왕님 화이팅♥♥♥♥
+1. Corgi add progress #412 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_unlink, over♥♥
-        - Corgi working on adding code to function #6
+        - Corgi working on adding code to function #7
             - Corgi creating helper function `save`
                 - Corgi adding code to function
         - Corgi working on adding tests to function
         - Corgi completed adding pseudocode to function
-    - Corgi working on a1fs_create in a1fs.c, over♥♥
+    - [on hold] Corgi working on a1fs_create in a1fs.c, over♥♥
         - Corgi completed uploading code to haminthecoder/csc369
         - Corgi working on adding code to function #9
             - Corgi testing to make sure there is no compile errors
