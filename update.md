@@ -1,9 +1,10 @@
 ### October 27th, 2020
-1. Corgi add progress #435 in assignment 1, CSC 369♥♥
+1. My dear♥♥, I will be back from csc-369 lecture from 3:00 AM to 4:30 AM. I will ask some questions to professor after lecture :)
+2. Corgi add progress #436 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_unlink, over♥♥
         - Corgi fixing compile errors
-        - Corgi working on creating test code to function [1 of 4]
-        - Corgi working on adding code to function #29
+        - Corgi working on creating test code to function [1 of 3]
+        - Corgi working on adding code to function #30
             - Corgi completed creating helper function `deallocate_extent_block`
                 - Corgi completed adding testing code to function [3 of 3]
                 - Corgi completed adding code to function
