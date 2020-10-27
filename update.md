@@ -1,6 +1,6 @@
 ### October 28th, 2020
-1. Corgi add progress #469 in assignment 1, CSC 369♥♥
-    - Corgi fixing issue `invalid arguement` error for `a1fs_mkdir`, over♥♥
+1. Corgi add progress #470 in assignment 1, CSC 369♥♥
+    - Corgi fixing issue `invalid arguement` error in `set_data_bitmap` for `a1fs_mkdir`, over♥♥
     - Corgi fixing issue of data not writing to disk for `a1fs_mkfs`, over♥♥
         - Corgi adding printing functions around the function over
 
