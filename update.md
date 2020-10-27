@@ -1,7 +1,8 @@
 ### October 28th, 2020
-1. Corgi add progress #471 in assignment 1, CSC 369♥♥
+1. Corgi add progress #474 in assignment 1, CSC 369♥♥
     - Corgi fixing issue `segmentation fault` error in `set_directory_entry` for `a1fs_mkdir`, over♥♥
     - Corgi fixing issue `address in use` error in `set_data_bitmap` for `a1fs_mkdir`, over♥♥
+    - Corgi added shell programs for easier repeated running of programs
     - Corgi completed fixing issue of data not writing to disk for `a1fs_mkfs`, over♥♥
 
 ### October 27th, 2020
