@@ -1,3 +1,8 @@
+### October 28th, 2020
+1. Corgi add progress #464 in assignment 1, CSC 369♥♥
+    - Corgi fixing issue of data not writing to disk for `a1fs_mkfs`, over♥♥
+        - Corgi adding printing functions around the function over
+
 ### October 27th, 2020
 1. My dear♥♥, I will be back from csc-369 lecture from 3:00 AM to 4:30 AM. I will be back asking some questions about assignment 1 to professor, and meeting with hamin after lecture. I will be here my dear :)♥♥
     - 형모 corgi 이뚜 back my love♥♥!!
