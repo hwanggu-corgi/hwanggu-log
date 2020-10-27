@@ -1,6 +1,7 @@
 ### October 28th, 2020
-1. Corgi add progress #484 in assignment 1, CSC 369♥♥
+1. Corgi add progress #485 in assignment 1, CSC 369♥♥
     - Corgi fixing `No such file or directory` issue in `a1fs_getattr`
+        - Corgi improving function `get_directory_entry` to include `ENOENT` and `ENOTDIR` errors
         - Corgi fixing invalid return value for helper function `get_inode`
         - Corgi completed fixing compile errors
         - Corgi completed fixing code in function
