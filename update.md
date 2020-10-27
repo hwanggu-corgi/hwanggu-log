@@ -1,5 +1,5 @@
 ### October 28th, 2020
-1. Corgi add progress #480 in assignment 1, CSC 369♥♥
+1. Corgi add progress #481 in assignment 1, CSC 369♥♥
     - Corgi fixing `No such file or directory` issue in `a1fs_getattr`
         - Corgi adding printing functions to better investigate what's going on♥♥
     - Corgi completed fixing incorrect file name in `get_file_name` for `a1fs_mkdir`
@@ -7,6 +7,8 @@
     - Corgi completed fixing issue `segmentation fault` error in `set_directory_entry` for `a1fs_mkdir`, over♥♥
     - Corgi added shell programs for easier repeated running of programs
     - Corgi completed fixing issue of data not writing to disk for `a1fs_mkfs`, over♥♥
+
+2. Corgi completed breakfast with parents [5:30 AM ~ 5:43 AM]♥♥
 
 ### October 27th, 2020
 1. My dear♥♥, I will be back from csc-369 lecture from 3:00 AM to 4:30 AM. I will be back asking some questions about assignment 1 to professor, and meeting with hamin after lecture. I will be here my dear :)♥♥
