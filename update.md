@@ -2,12 +2,12 @@
 1. My dear♥♥, I will be back from csc-369 lecture from 3:00 AM to 4:30 AM. I will be back asking some questions about assignment 1 to professor, and meeting with hamin after lecture. I will be here my dear :)♥♥
     - 형모 corgi 이뚜 back my love♥♥!!
 
-2. Corgi add progress #460 in assignment 1, CSC 369♥♥
+2. Corgi add progress #461 in assignment 1, CSC 369♥♥
     - Corgi fixing issue of data not writing to disk for `a1fs_mkfs`, over♥♥
     - Corgi completed working on `a1fs_unlink`, over♥♥
         - Corgi completed fixing invalid return value of `a1fs_unlink` errors
         - Corgi working on creating test code to function [3 of 3]
-        - Corgi working on adding code to function #51
+        - Corgi working on adding code to function #52
             - Corgi completed fixed `segmentation fault` error in `get_directory_entry`
             - Corgi completed fixing `segmentation fault` error in `remove_directory_entry`
             - Corgi completed creating helper function `deallocate_extent_block`
