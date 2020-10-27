@@ -2,18 +2,18 @@
 1. My dear♥♥, I will be back from csc-369 lecture from 3:00 AM to 4:30 AM. I will be back asking some questions about assignment 1 to professor, and meeting with hamin after lecture. I will be here my dear :)♥♥
     - 형모 corgi 이뚜 back my love♥♥!!
 
-2. Corgi add progress #450 in assignment 1, CSC 369♥♥
+2. Corgi add progress #451 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_unlink, over♥♥
-        - Corgi fixing `empty value` error in `get_parent_path`
         - Corgi fixing `segmentation fault` error in `get_directory_entry`
         - Corgi working on creating test code to function [1 of 3]
-        - Corgi working on adding code to function #42
+        - Corgi working on adding code to function #43
             - Corgi completed creating helper function `deallocate_extent_block`
                 - Corgi completed adding testing code to function [3 of 3]
                 - Corgi completed adding code to function
             - Corgi completed creating helper function `deallocate_data_blocks`
                 - Corgi completed adding testing code to function [3 of 3]
                 - Corgi completed adding code to function
+        - Corgi completed fixing `empty value` error in `get_parent_path`
 
 3. Corgi asked questions about assignment 1 to TA [6:06 AM ~ 7:07 AM]
 ### October 26th, 2020
