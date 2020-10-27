@@ -2,7 +2,7 @@
 1. My dear♥♥, I will be back from csc-369 lecture from 3:00 AM to 4:30 AM. I will be back asking some questions about assignment 1 to professor, and meeting with hamin after lecture. I will be here my dear :)♥♥
     - 형모 corgi 이뚜 back my love♥♥!!
 
-2. Corgi add progress #451 in assignment 1, CSC 369♥♥
+2. Corgi add progress #452 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_unlink, over♥♥
         - Corgi fixing `segmentation fault` error in `get_directory_entry`
         - Corgi working on creating test code to function [1 of 3]
