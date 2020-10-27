@@ -1,9 +1,10 @@
 ### October 28th, 2020
-1. Corgi add progress #482 in assignment 1, CSC 369♥♥
+1. Corgi add progress #483 in assignment 1, CSC 369♥♥
     - Corgi fixing `No such file or directory` issue in `a1fs_getattr`
-        - Corgi fixing compile errors
-        - Corgi fixing code in function
-        - Corgi adding printing functions to better investigate what's going on♥♥
+        - Corgi fixing invalid return value for helper function `get_inode`
+        - Corgi completed fixing compile errors
+        - Corgi completed fixing code in function
+        - Corgi completed adding printing functions to better investigate what's going on♥♥
     - Corgi completed fixing incorrect file name in `get_file_name` for `a1fs_mkdir`
     - Corgi completed fixing issue `address in use` error in `set_data_bitmap` for `a1fs_mkdir`, over♥♥
     - Corgi completed fixing issue `segmentation fault` error in `set_directory_entry` for `a1fs_mkdir`, over♥♥
