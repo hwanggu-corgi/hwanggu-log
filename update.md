@@ -3,6 +3,7 @@
     - 형모 corgi 이뚜 back my love♥♥!!
 
 2. Corgi add progress #460 in assignment 1, CSC 369♥♥
+    - Corgi fixing issue of data not writing to disk for `a1fs_mkfs`, over♥♥
     - Corgi completed working on `a1fs_unlink`, over♥♥
         - Corgi completed fixing invalid return value of `a1fs_unlink` errors
         - Corgi working on creating test code to function [3 of 3]
