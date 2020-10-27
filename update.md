@@ -1,7 +1,8 @@
 ### October 28th, 2020
-1. Corgi add progress #478 in assignment 1, CSC 369♥♥
-    - Corgi fixing incorrect file name in `get_file_name` for `a1fs_mkdir`
-    - Corgi fixing issue `address in use` error in `set_data_bitmap` for `a1fs_mkdir`, over♥♥
+1. Corgi add progress #479 in assignment 1, CSC 369♥♥
+    - Corgi fixing `No such file or directory` issue in `a1fs_getattr`
+    - Corgi completed fixing incorrect file name in `get_file_name` for `a1fs_mkdir`
+    - Corgi completed fixing issue `address in use` error in `set_data_bitmap` for `a1fs_mkdir`, over♥♥
     - Corgi completed fixing issue `segmentation fault` error in `set_directory_entry` for `a1fs_mkdir`, over♥♥
     - Corgi added shell programs for easier repeated running of programs
     - Corgi completed fixing issue of data not writing to disk for `a1fs_mkfs`, over♥♥
