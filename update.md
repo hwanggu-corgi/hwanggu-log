@@ -1,9 +1,9 @@
 ### October 29th, 2020
-1. Corgi add progress #522 in assignment 1, CSC 369♥♥
-    - Corgi fixing incorrect storage of value in `set_directory_entry`
-    - Corgi investigating incorrect value of directory entry in `get_directory_entry`
-    - Corgi fixing erroneous return value in `set_directory_entry`
-    - Corgi fixing `No such file or directory` issue in `a1fs_create`
+1. Corgi add progress #523 in assignment 1, CSC 369♥♥
+    - Corgi fixing `free(): invalid pointer` in `a1fs_create`
+    - Corgi completed fixing incorrect return value in `set_directory_entry`
+    - Corgi completed fixing incorrect value of directory entry in `get_directory_entry`
+    - Corgi completed fixing `No such file or directory` issue in `a1fs_create`
     - Corgi completed fixing file name containing corrupted values in `get_file_name`
     - Corgi merged Hamin's code to haminthecoder/csc369 fix branch
 
