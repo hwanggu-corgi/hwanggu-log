@@ -1,5 +1,5 @@
 ### October 28th, 2020
-1. Corgi add progress #499 in assignment 1, CSC 369♥♥
+1. Corgi add progress #500 in assignment 1, CSC 369♥♥
     - Corgi fixing `No such file or directory` issue in `a1fs_create`
     - Corgi completed fixing `No such file or directory` issue in `a1fs_getattr`
         - Corgi completed improving function `get_directory_entry` to include `ENOENT` and `ENOTDIR` errors
