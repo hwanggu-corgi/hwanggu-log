@@ -1,9 +1,10 @@
 ### October 29th, 2020
-1. Corgi add progress #520 in assignment 1, CSC 369♥♥
-    - Corgi fixing file name containing corrupted values in `get_file_name`
+1. Corgi add progress #521 in assignment 1, CSC 369♥♥
+    - Corgi fixing incorrect storage of value in `set_directory_entry`
     - Corgi investigating incorrect value of directory entry in `get_directory_entry`
     - Corgi fixing erroneous return value in `set_directory_entry`
     - Corgi fixing `No such file or directory` issue in `a1fs_create`
+    - Corgi completed fixing file name containing corrupted values in `get_file_name`
     - Corgi merged Hamin's code to haminthecoder/csc369 fix branch
 
 2. Corgi completed breakfast with parents [5:42 AM ~ 5:56 AM]♥♥
