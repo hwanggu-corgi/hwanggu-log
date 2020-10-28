@@ -1,6 +1,6 @@
 ### October 28th, 2020
-1. Corgi add progress #491 in assignment 1, CSC 369♥♥
-    - Corgi fixing malfunctining `get_directory_entry` function
+1. Corgi add progress #492 in assignment 1, CSC 369♥♥
+    - Corgi fixing malfunctining `set_data_bitmap` function
     - Corgi fixing malfunctining `set_directory_entry` function
     - Corgi fixing `No such file or directory` issue in `a1fs_getattr`
         - Corgi improving function `get_directory_entry` to include `ENOENT` and `ENOTDIR` errors
@@ -8,6 +8,7 @@
         - Corgi completed fixing compile errors
         - Corgi completed fixing code in function
         - Corgi completed adding printing functions to better investigate what's going on♥♥
+    - Corgi completed fixing malfunctining `get_directory_entry` function
     - Corgi completed fixing incorrect file name in `get_file_name` for `a1fs_mkdir`
     - Corgi completed fixing issue `address in use` error in `set_data_bitmap` for `a1fs_mkdir`, over♥♥
     - Corgi completed fixing issue `segmentation fault` error in `set_directory_entry` for `a1fs_mkdir`, over♥♥
