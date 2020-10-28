@@ -1,9 +1,11 @@
 ### October 29th, 2020
-1. Corgi add progress #518 in assignment 1, CSC 369♥♥
+1. Corgi add progress #519 in assignment 1, CSC 369♥♥
     - Corgi investigating incorrect value of directory entry in `get_directory_entry`
     - Corgi fixing erroneous return value in `set_directory_entry`
     - Corgi fixing `No such file or directory` issue in `a1fs_create`
     - Corgi merged Hamin's code to haminthecoder/csc369 fix branch
+
+2. Corgi completed breakfast with parents [5:42 AM ~ 5:56 AM]♥♥
 
 ### October 28th, 2020
 1. Corgi add progress #506 in assignment 1, CSC 369♥♥
