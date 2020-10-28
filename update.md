@@ -1,5 +1,5 @@
 ### October 28th, 2020
-1. Corgi add progress #504 in assignment 1, CSC 369♥♥
+1. Corgi add progress #505 in assignment 1, CSC 369♥♥
     - Corgi fixing `Address in use` issue in `a1fs_create`
     - Corgi completed fixing `No such file or directory` issue in `a1fs_create`
     - Corgi completed fixing `No such file or directory` issue in `a1fs_getattr`
