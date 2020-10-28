@@ -1,5 +1,5 @@
 ### October 29th, 2020
-1. Corgi add progress #521 in assignment 1, CSC 369♥♥
+1. Corgi add progress #522 in assignment 1, CSC 369♥♥
     - Corgi fixing incorrect storage of value in `set_directory_entry`
     - Corgi investigating incorrect value of directory entry in `get_directory_entry`
     - Corgi fixing erroneous return value in `set_directory_entry`
