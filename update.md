@@ -1,5 +1,5 @@
 ### October 28th, 2020
-1. Corgi add progress #490 in assignment 1, CSC 369♥♥
+1. Corgi add progress #491 in assignment 1, CSC 369♥♥
     - Corgi fixing malfunctining `get_directory_entry` function
     - Corgi fixing malfunctining `set_directory_entry` function
     - Corgi fixing `No such file or directory` issue in `a1fs_getattr`
