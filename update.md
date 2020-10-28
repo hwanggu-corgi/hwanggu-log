@@ -1,5 +1,5 @@
 ### October 29th, 2020
-1. Corgi add progress #516 in assignment 1, CSC 369♥♥
+1. Corgi add progress #517 in assignment 1, CSC 369♥♥
     - Corgi investigating incorrect value of directory entry in `get_directory_entry`
     - Corgi fixing erroneous return value in `set_directory_entry`
     - Corgi fixing `No such file or directory` issue in `a1fs_create`
