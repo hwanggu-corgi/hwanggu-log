@@ -1,3 +1,7 @@
+### October 29th, 2020
+1. Corgi add progress #506 in assignment 1, CSC 369♥♥
+    - Corgi fixing `No such file or directory` issue in `a1fs_create`
+
 ### October 28th, 2020
 1. Corgi add progress #506 in assignment 1, CSC 369♥♥
     - Corgi fixing `No such file or directory` issue in `a1fs_create`
