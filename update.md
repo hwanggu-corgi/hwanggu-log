@@ -1,7 +1,8 @@
 ### October 30th, 2020
-1. Corgi add progress #551 in assignment 1, CSC 369♥♥
+1. Corgi add progress #552 in assignment 1, CSC 369♥♥
     - Corgi fixing function `a1fs_unlink`
-        - Corgi adding code to function
+        - Corgi fixing `invalid arguement` error
+        - Corgi completed adding code to function
     - [on hold] Corgi fixing `ls: reading directory '.': Softare caused connection abort` issue♥♥
         - Corgi checking for erroneous values in helper functions `a1fs_mkfs`♥♥
         - Corgi adding printing functions around in `a1fs_getattr`♥♥
