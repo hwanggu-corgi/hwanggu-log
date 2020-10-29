@@ -1,6 +1,7 @@
 ### October 29th, 2020
 1. Corgi add progress #523 in assignment 1, CSC 369♥♥
-    - Corgi fixing `free(): invalid pointer` in `a1fs_create`
+    - Corgi fixing storage of irregular i_number in `a1fs_create` and `a1fs_mkdir`
+    - Corgi completed fixing `free(): invalid pointer` in `a1fs_create`
     - Corgi completed fixing incorrect return value in `set_directory_entry`
     - Corgi completed fixing incorrect value of directory entry in `get_directory_entry`
     - Corgi completed fixing `No such file or directory` issue in `a1fs_create`
