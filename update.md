@@ -1,8 +1,8 @@
 ### October 29th, 2020
 1. Corgi add progress #536 in assignment 1, CSC 369♥♥
-    - Corgi making changes request to haminthecoder/csc369
-        - Corgi resolving merge conflicts in `a1fs_getattr`
-        - Corgi resolving merge conflicts in `a1fs_readdir`
+    - Corgi completed making changes request to haminthecoder/csc369
+        - Corgi completed resolving merge conflicts in `a1fs_getattr`
+        - Corgi completed resolving merge conflicts in `a1fs_readdir`
     - Corgi completed fixing storage of irregular i_number in `a1fs_create` and `a1fs_mkdir`
         - Corgi adding prints to find mysterious inode number 111 created in directory entry
     - Corgi completed fixing `free(): invalid pointer` in `a1fs_create`
