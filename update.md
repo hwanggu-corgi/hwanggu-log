@@ -1,5 +1,6 @@
 ### October 29th, 2020
-1. Corgi add progress #536 in assignment 1, CSC 369♥♥
+1. Corgi add progress #537 in assignment 1, CSC 369♥♥
+    - Corgi fixing `- Corgi completed making changes request to haminthecoder/csc369` issue
     - Corgi completed making changes request to haminthecoder/csc369
         - Corgi completed resolving merge conflicts in `a1fs_getattr`
         - Corgi completed resolving merge conflicts in `a1fs_readdir`
