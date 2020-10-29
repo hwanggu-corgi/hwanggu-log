@@ -1,5 +1,5 @@
 ### October 29th, 2020
-1. Corgi add progress #531 in assignment 1, CSC 369♥♥
+1. Corgi add progress #532 in assignment 1, CSC 369♥♥
     - Corgi fixing storage of irregular i_number in `a1fs_create` and `a1fs_mkdir`
         - Corgi adding prints to find mysterious inode number 111 created in directory entry
     - Corgi completed fixing `free(): invalid pointer` in `a1fs_create`
