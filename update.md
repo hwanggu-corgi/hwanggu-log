@@ -1,5 +1,5 @@
 ### October 30th, 2020
-1. Corgi add progress #541 in assignment 1, CSC 369♥♥
+1. Corgi add progress #542 in assignment 1, CSC 369♥♥
     - Corgi fixing `ls: reading directory '.': Softare caused connection abort` issue♥♥
         - Corgi fixing function `a1fs_readdir`♥♥
         - Corgi adding printing functions around `a1fs_readdir`♥♥
