@@ -1,5 +1,5 @@
 ### October 30th, 2020
-1. Corgi add progress #549 in assignment 1, CSC 369♥♥
+1. Corgi add progress #551 in assignment 1, CSC 369♥♥
     - Corgi fixing function `a1fs_unlink`
         - Corgi adding code to function
     - [on hold] Corgi fixing `ls: reading directory '.': Softare caused connection abort` issue♥♥
@@ -7,6 +7,8 @@
         - Corgi adding printing functions around in `a1fs_getattr`♥♥
         - Corgi fixing function `a1fs_readdir`♥♥
         - Corgi adding printing functions around `a1fs_readdir`♥♥
+
+2. Corgi completed breakfast with parents [5:25 AM ~ 5:40 AM]♥♥
 
 ### October 29th, 2020
 1. Corgi add progress #537 in assignment 1, CSC 369♥♥
