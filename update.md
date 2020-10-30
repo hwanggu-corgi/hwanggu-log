@@ -1,12 +1,13 @@
 ### October 31st, 2020
-1. Corgi add progress #580 in assignment 1, CSC 369♥♥
+1. Corgi add progress #581 in assignment 1, CSC 369♥♥
     - Corgi working on creating `a1fs_rmdir`♥♥
-        - Corgi working on fixing `directory entry not found` error during `a1fs_mkdir` after removal
-            - Corgi fixing issue of incorrect storage of value for `/`
-            - Corgi adding printing functions `get_directory_entry` to make sure correct entry is accessed
-            - Corgi adding printing functions around `a1fs_rmdir` to investigate incorrect values
-            - Corgi adding printing functions around `remove_directory_entry` to make sure correct directory entry has been removed
-            - Corgi adding printing functions around `mkdir`
+        - Corgi working on fixing incorrect unset of value in `a1fs_rmdir`
+        - Corgi completed fixing `directory entry not found` error during `a1fs_mkdir` after removal
+            - Corgi completed fixing issue of incorrect storage of value for `/`
+            - Corgi completed adding printing functions `get_directory_entry` to make sure correct entry is accessed
+            - Corgi completed adding printing functions around `a1fs_rmdir` to investigate incorrect values
+            - Corgi completed adding printing functions around `remove_directory_entry` to make sure correct directory entry has been removed
+            - Corgi completed adding printing functions around `mkdir`
 
 2. My dear♥♥, I will be back from csc-369 tutorial♥♥
     - My dear♥♥, 형모 corgi is back XD♥♥
