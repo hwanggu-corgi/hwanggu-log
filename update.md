@@ -1,7 +1,9 @@
 ### October 30th, 2020
-1. Corgi add progress #558 in assignment 1, CSC 369♥♥
+1. Corgi add progress #559 in assignment 1, CSC 369♥♥
     - Corgi working on creating `a1fs_rmdir`♥♥
-        - Corgi adding code to function
+        - Corgi modifying `initialize_inode_directory` to set initial number of directory entries
+        - Corgi modifying `set_directory_entry` to increment number of directory entries when new are added
+        - Corgi completed adding code to function
     - Corgi uploading `a1fs_unlink` to haminthecoder/csc369♥♥
         - Corgi resolving mere conflicts with master
     - Corgi completed fixing function `a1fs_unlink`
