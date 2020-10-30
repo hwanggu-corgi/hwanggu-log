@@ -1,6 +1,7 @@
 ### October 30th, 2020
-1. Corgi add progress #554 in assignment 1, CSC 369♥♥
+1. Corgi add progress #555 in assignment 1, CSC 369♥♥
     - Corgi uploading `a1fs_unlink` to haminthecoder/csc369♥♥
+        - Corgi resolving mere conflicts with master
     - Corgi completed fixing function `a1fs_unlink`
         - Corgi completed fixing `invalid argument` error in `deallocate_inode`
         - Corgi completed fixing `invalid argument` error in `remove_directory_entry`
