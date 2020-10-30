@@ -1,5 +1,5 @@
 ### October 30th, 2020
-1. Corgi add progress #562 in assignment 1, CSC 369♥♥
+1. Corgi add progress #563 in assignment 1, CSC 369♥♥
     - Corgi working on creating `a1fs_rmdir`♥♥
         - Corgi fixing `invalid argument` error in `deallocate_extent_block`
         - Corgi completed modifying `initialize_inode_directory` to set initial number of directory entries
