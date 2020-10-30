@@ -1,5 +1,5 @@
 ### October 31st, 2020
-1. Corgi add progress #578 in assignment 1, CSC 369♥♥
+1. Corgi add progress #579 in assignment 1, CSC 369♥♥
     - Corgi working on creating `a1fs_rmdir`♥♥
         - Corgi working on fixing `directory entry not found` error during `a1fs_mkdir` after removal
             - Corgi fixing issue of incorrect storage of value for `/`
