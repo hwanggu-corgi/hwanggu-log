@@ -1,5 +1,7 @@
 ### October 30th, 2020
 1. Corgi add progress #555 in assignment 1, CSC 369♥♥
+    - Corgi working on creating `a1fs_rmdir`♥♥
+        - Corgi adding code to function
     - Corgi uploading `a1fs_unlink` to haminthecoder/csc369♥♥
         - Corgi resolving mere conflicts with master
     - Corgi completed fixing function `a1fs_unlink`
