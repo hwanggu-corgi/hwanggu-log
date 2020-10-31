@@ -1,5 +1,5 @@
 ### November 1st, 2020
-1. Corgi add progress #9 in Tutorial 7 - Hungry Hippos
+1. Corgi add progress #10 in Tutorial 7 - Hungry Hippos
     - Corgi working on gathering the unknowns♥ before addressing the problem♥♥
         - Corgi gathering information about `Producer and Consumer`♥♥
         - Corgi gathering information about `Conditional Variable` #5
