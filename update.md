@@ -1,7 +1,10 @@
+### November 1st, 2020
+1. Corgi add progress #1 in Tutorial 7 - Hungry Hippos
+
 ### October 31st, 2020
 1. Corgi working on Tutorial 7 - Hungry Hippos
     - Corgi completed adding starter files♥♥!!
-2. Corgi completed assignment 1, CSC 369♥♥
+3. Corgi completed assignment 1, CSC 369♥♥
     - Corgi testing professor reid's testing codes
     - Corgi fixing `segmentation fault` error in `a1fs_truncate`
     - Corgi completed fixing `a1fs_unlink`
