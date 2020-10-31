@@ -1,6 +1,7 @@
 ### October 31st, 2020
 1. Corgi alllmost done assignment 1, CSC 369♥♥
     - Corgi testing professor reid's testing codes
+    - Corgi fixing `segmentation fault` error in `a1fs_truncate`
     - Corgi completed fixing `a1fs_unlink`
         - Corgi done fixing the problem♥♥
         - Corgi completed adding print functions
