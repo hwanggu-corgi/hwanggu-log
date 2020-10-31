@@ -1,7 +1,7 @@
 ### November 1st, 2020
-1. Corgi add progress #2 in Tutorial 7 - Hungry Hippos
-    - Corgi working on gathering the unknowns before addressing the problem♥♥
-        - Corgi gathering information about `Thread API`
+1. Corgi add progress #3 in Tutorial 7 - Hungry Hippos
+    - Corgi working on gathering the unknowns♥ before addressing the problem♥♥
+        - Corgi gathering information about `Thread API` #2
 
 ### October 31st, 2020
 1. Corgi working on Tutorial 7 - Hungry Hippos
