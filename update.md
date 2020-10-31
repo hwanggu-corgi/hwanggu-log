@@ -1,7 +1,7 @@
 ### November 1st, 2020
-1. Corgi add progress #5 in Tutorial 7 - Hungry Hippos
+1. Corgi add progress #6 in Tutorial 7 - Hungry Hippos
     - Corgi working on gathering the unknowns♥ before addressing the problem♥♥
-        - Corgi gathering information about `Conditional Variable`
+        - Corgi gathering information about `Conditional Variable` #2
         - Corgi gathering information about `Thread API`
 
 ### October 31st, 2020
