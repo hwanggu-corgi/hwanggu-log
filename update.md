@@ -1,7 +1,8 @@
 ### October 31st, 2020
-1. Corgi add progress #587 in assignment 1, CSC 369♥♥
-    - Corgi working on fixing `a1fs_unlink`
-        - Corgi is alllmost done fixing the problem♥♥
+1. Corgi alllmost done assignment 1, CSC 369♥♥
+    - Corgi testing professor reid's testing codes
+    - Corgi completed fixing `a1fs_unlink`
+        - Corgi done fixing the problem♥♥
         - Corgi completed adding print functions
     - Corgi completed working on creating `a1fs_rmdir`♥♥
         - Corgi completed working on merge conflicts before uploading solution to haminthecoder/csc369
