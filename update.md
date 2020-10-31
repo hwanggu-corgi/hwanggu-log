@@ -1,7 +1,9 @@
 ### October 31st, 2020
-1. Corgi add progress #585 in assignment 1, CSC 369♥♥
-    - Corgi working on creating `a1fs_rmdir`♥♥
-        - Corgi working on merge conflicts before uploading solution to haminthecoder/csc369
+1. Corgi add progress #586 in assignment 1, CSC 369♥♥
+    - Corgi working on fixing `a1fs_unlink`
+        - Corgi adding print functions
+    - Corgi completed working on creating `a1fs_rmdir`♥♥
+        - Corgi completed working on merge conflicts before uploading solution to haminthecoder/csc369
         - Corgi completed fixing incorrect unset of value in `a1fs_rmdir`
             - Corgi completed adding printing functions in `deallocate_free_blocks` to investigate the root cause♥♥
             - Corgi completed adding printing functions to `get_free_blocks` to investigate the root cause♥♥
