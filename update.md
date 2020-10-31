@@ -2,7 +2,7 @@
 1. Corgi add progress #582 in assignment 1, CSC 369♥♥
     - Corgi working on creating `a1fs_rmdir`♥♥
         - Corgi working on fixing incorrect unset of value in `a1fs_rmdir`
-            - Corgi adding printing functions to investigate the root cause♥♥
+            - Corgi adding printing functions to `get_free_blocks` to investigate the root cause♥♥
         - Corgi completed fixing `directory entry not found` error during `a1fs_mkdir` after removal
             - Corgi completed fixing issue of incorrect storage of value for `/`
             - Corgi completed adding printing functions `get_directory_entry` to make sure correct entry is accessed
