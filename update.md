@@ -1,7 +1,8 @@
 ### November 1st, 2020
-1. Corgi add progress #16 in Tutorial 7 - Hungry Hippos
+1. Corgi add progress #17 in Tutorial 7 - Hungry Hippos
     - Corgi working on gathering the unknowns♥ before addressing the problem♥♥
-        - Corgi working on professor Reid's example producer and consumer problem `pc_cv.c` to better understand how threads, producer and consumer problem works #4♥♥
+        - Corgi working on professor Reid's example producer and consumer problem `pc_cv.c` to better understand how threads, producer and consumer problem works #5♥♥
+            - Corgi fixing code
             - Corgi completed fixing compile errors♥♥
             - Corgi completed adding file♥♥
         - [Corgi on hold] Corgi gathering information about `Producer and Consumer` #2♥♥
