@@ -1,7 +1,7 @@
 ### November 1st, 2020
 1. Corgi add progress #13 in Tutorial 7 - Hungry Hippos
     - Corgi working on gathering the unknowns♥ before addressing the problem♥♥
-        - Corgi working on example problem provided by professor Reid♥♥
+        - Corgi working on professor Reid's example producer and consumer problem `pc_cv_broken.c` to better understand how threads, producer and consumer problem works♥♥
         - [Corgi on hold] Corgi gathering information about `Producer and Consumer` #2♥♥
         - [Corgi on hold] Corgi gathering information about `Conditional Variable` #5
         - [Corgi on hold] Corgi gathering information about `Thread API`
