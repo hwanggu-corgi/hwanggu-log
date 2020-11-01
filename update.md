@@ -1,7 +1,7 @@
 ### November 1st, 2020
-1. Corgi add progress #25 in Tutorial 7 - Hungry Hippos
+1. Corgi add progress #26 in Tutorial 7 - Hungry Hippos
     - Corgi working on gathering the unknowns♥ before addressing the problem♥♥
-        - Corgi working on fixing code #8♥♥
+        - Corgi working on fixing code #9♥♥
             - Corgi filling TODO in function `restart_game`
         - Corgi completed working on professor Reid's example producer and consumer problem `pc_cv.c` to better understand how threads, producer and consumer problem works #5♥♥
             - Corgi completed fixing code♥♥
