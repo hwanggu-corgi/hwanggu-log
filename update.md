@@ -1,9 +1,17 @@
-### November 1st, 2020
-1. Corgi add progress #29 in Tutorial 7 - Hungry Hippos
+### November 2nd, 2020
+1. Corgi add progress #33 in Tutorial 7 - Hungry Hippos
     - Corgi working on gathering the unknowns♥ before addressing the problem♥♥
         - Corgi working on fixing code #11♥♥
             - Corgi working on test failure in `test.sh`
-                - Corgi fixed correct argument leading to compilation error
+                - Corgi fixing `Thread #1's call to pthread_create failed` error
+                - Corgi completed fixing correct argument leading to compilation error
+
+### November 1st, 2020
+1. Corgi add progress #33 in Tutorial 7 - Hungry Hippos
+    - Corgi working on gathering the unknowns♥ before addressing the problem♥♥
+        - Corgi working on fixing code #11♥♥
+            - Corgi working on test failure in `test.sh`
+                - Corgi completed fixing correct argument leading to compilation error
             - Corgi completed working on installing error detection tool `valgrind` on Ubuntu virtual machines
             - Corgi completed filling TODO in function `referee`
             - Corgi completed filling TODO in function `restart_game`
