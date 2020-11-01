@@ -1,9 +1,9 @@
 ### November 1st, 2020
 1. Corgi add progress #29 in Tutorial 7 - Hungry Hippos
     - Corgi working on gathering the unknowns♥ before addressing the problem♥♥
-        - Corgi working on fixing code #10♥♥
-            - Corgi working on installing error detection tool `valgrind` on Ubuntu virtual machine
+        - Corgi working on fixing code #11♥♥
             - Corgi working on test failure in `test.sh`
+            - Corgi completed working on installing error detection tool `valgrind` on Ubuntu virtual machines
             - Corgi completed filling TODO in function `referee`
             - Corgi completed filling TODO in function `restart_game`
         - Corgi completed working on professor Reid's example producer and consumer problem `pc_cv.c` to better understand how threads, producer and consumer problem works #5♥♥
