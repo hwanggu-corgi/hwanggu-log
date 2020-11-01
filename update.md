@@ -1,12 +1,13 @@
 ### November 2nd, 2020
-1. Corgi add progress #47 in Tutorial 7 - Hungry Hippos
+1. Corgi add progress #48 in Tutorial 7 - Hungry Hippos
     - Corgi working on gathering the unknowns♥ before addressing the problem♥♥
-        - Corgi working on fixing code #23♥♥
+        - Corgi working on fixing code #24♥♥
             - Corgi working on test failure in `test.sh`
-                - Corgi fixing `Thread #1's call to pthread_create failed` error
+                - Corgi fixing hanging condition after referee exists in `referee`
                 - Corgi adding printing functions to better understand what's going on rwar♥♥
                     - Game is stuck when marbles are out in `restart_game`
                 - Corgi completed fixing correct argument leading to compilation error
+                - Corgi completed fixing `Thread #1's call to pthread_create failed` error
 
 ### November 1st, 2020
 1. Corgi add progress #33 in Tutorial 7 - Hungry Hippos
