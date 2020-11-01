@@ -5,6 +5,7 @@
             - Corgi working on test failure in `test.sh`
                 - Corgi fixing `Thread #1's call to pthread_create failed` error
                 - Corgi adding printing functions to better understand what's going on rwar♥♥
+                    - Game is stuck when marbles are out
                 - Corgi completed fixing correct argument leading to compilation error
 
 ### November 1st, 2020
