@@ -1,7 +1,7 @@
 ### November 2nd, 2020
-1. Corgi add progress #45 in Tutorial 7 - Hungry Hippos
+1. Corgi add progress #46 in Tutorial 7 - Hungry Hippos
     - Corgi working on gathering the unknowns♥ before addressing the problem♥♥
-        - Corgi working on fixing code #21♥♥
+        - Corgi working on fixing code #22♥♥
             - Corgi working on test failure in `test.sh`
                 - Corgi fixing `Thread #1's call to pthread_create failed` error
                 - Corgi adding printing functions to better understand what's going on rwar♥♥
