@@ -3,6 +3,7 @@
     - Corgi working on gathering the unknowns♥ before addressing the problem♥♥
         - Corgi working on fixing code #11♥♥
             - Corgi working on test failure in `test.sh`
+                - Corgi fixed correct argument leading to compilation error
             - Corgi completed working on installing error detection tool `valgrind` on Ubuntu virtual machines
             - Corgi completed filling TODO in function `referee`
             - Corgi completed filling TODO in function `restart_game`
