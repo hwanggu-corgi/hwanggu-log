@@ -1,10 +1,10 @@
 ### November 2nd, 2020
-1. Corgi add progress #57 in Tutorial 7 - Hungry Hippos
-    - Corgi working on gathering the unknowns♥ before addressing the problem♥♥
-        - Corgi working on fixing code #40♥♥
-            - Corgi working on test failure in `test.sh`
-                - Corgi fixing hanging condition after referee exists in `referee`
-                - Corgi adding printing functions to better understand what's going on rwar♥♥
+1. Corgi completed Tutorial 7 - Hungry Hippos
+    - Corgi completd working on gathering the unknowns♥ before addressing the problem♥♥
+        - Corgi completed working on fixing code♥♥
+            - Corgi completed working on test failure in `test.sh`
+                - Corgi completed fixing hanging condition after referee exists in `referee`
+                - Corgi completed adding printing functions to better understand what's going on rwar♥♥
                     - Game is stuck when marbles are out in `restart_game`
                 - Corgi completed fixing correct argument leading to compilation error
                 - Corgi completed fixing `Thread #1's call to pthread_create failed` error
