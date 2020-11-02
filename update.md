@@ -1,6 +1,7 @@
 ### November 2nd, 2020
-1. Corgi add progress #3 on exercise 12 - Scheduling, CSC369♥♥
-    - Corgi working on question 2 #2♥♥
+1. Corgi add progress #5 on exercise 12 - Scheduling, CSC369♥♥
+    - Corgi working on question 3♥♥
+    - Corgi completed working on question 2♥♥
     - Corgi completed working on question 1♥♥
 2. Corgi completed Tutorial 7 - Hungry Hippos
     - Corgi completed working on fixing code♥♥
