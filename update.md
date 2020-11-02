@@ -1,7 +1,7 @@
 ### November 2nd, 2020
-1. Corgi add progress #48 in Tutorial 7 - Hungry Hippos
+1. Corgi add progress #49 in Tutorial 7 - Hungry Hippos
     - Corgi working on gathering the unknowns♥ before addressing the problem♥♥
-        - Corgi working on fixing code #24♥♥
+        - Corgi working on fixing code #25♥♥
             - Corgi working on test failure in `test.sh`
                 - Corgi fixing hanging condition after referee exists in `referee`
                 - Corgi adding printing functions to better understand what's going on rwar♥♥
