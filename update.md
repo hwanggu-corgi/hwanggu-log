@@ -1,5 +1,6 @@
 ### November 3rd, 2020
-1. Corgi add progress #1 reviewing lecture 15 - 16 for CSC 369
+1. Corgi add progress #2 reviewing lecture 15 for CSC 369♥♥
+    - Corgi on slide `What is processor scheduling` [1 of 29]
 2. Corgi completed solving exercise 12 - Scheduling, CSC369♥♥
     - Corgi completed working on question 4♥♥
     - Corgi completed working on question 3♥♥
