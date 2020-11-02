@@ -1,9 +1,10 @@
 ### November 3rd, 2020
-1. Corgi completed solving exercise 12 - Scheduling, CSC369♥♥
-    - Corgi completed working on question 4 #2♥♥
+1. Corgi add progress #1 reviewing lecture 15 - 16 for CSC 369
+2. Corgi completed solving exercise 12 - Scheduling, CSC369♥♥
+    - Corgi completed working on question 4♥♥
     - Corgi completed working on question 3♥♥
     - Corgi completed working on question 2♥♥
-2. My dear♥♥, I will be back from 띠에뚜띠 369 lecture♥♥
+3. My dear♥♥, I will be back from 띠에뚜띠 369 lecture♥♥
     - Corgi is back from lecture :)♥♥
 
 ### November 2nd, 2020
