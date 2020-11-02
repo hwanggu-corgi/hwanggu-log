@@ -1,5 +1,5 @@
 ### November 3rd, 2020
-1. Corgi add progress #4 reviewing lecture 15 for CSC 369♥♥
+1. Corgi add progress #6 reviewing lecture 15 for CSC 369♥♥
     - Corgi on slide `Shortest Job First` [7 of 29]
 2. Corgi completed solving exercise 12 - Scheduling, CSC369♥♥
     - Corgi completed working on question 4♥♥
