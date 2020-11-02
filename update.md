@@ -1,6 +1,7 @@
 ### November 3rd, 2020
-1. Corgi add progress #9 on exercise 12 - Scheduling, CSC369♥♥
-    - Corgi working on question 4 #1♥♥
+1. My dear♥♥, I will be back from 띠에뚜띠 369 lecture♥♥
+2. Corgi add progress #10 on exercise 12 - Scheduling, CSC369♥♥
+    - Corgi working on question 4 #2♥♥
     - Corgi completed working on question 3♥♥
     - Corgi completed working on question 2♥♥
 
