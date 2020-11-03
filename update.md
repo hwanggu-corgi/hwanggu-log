@@ -1,12 +1,14 @@
 ### November 3rd, 2020
-1. Corgi add progress #16 reviewing lecture 15 for CSC 369♥♥
+1. Corgi add progress on assignment 2, CSC 369♥♥
+    - Corgi working on adding file
+2. Corgi completed reviewing lecture 15 for CSC 369♥♥
     - Corgi on slide `Multi-Level Queue Scheduling` [29 of 29]
-    - Corgi working on defining biggg definitions and concepts in `week8/lecture_15_notes.pdf`
-2. Corgi completed solving exercise 12 - Scheduling, CSC369♥♥
+    - Corgi completed working on defining biggg definitions and concepts in `week8/lecture_15_notes.pdf`
+3. Corgi completed solving exercise 12 - Scheduling, CSC369♥♥
     - Corgi completed working on question 4♥♥
     - Corgi completed working on question 3♥♥
     - Corgi completed working on question 2♥♥
-3. My dear♥♥, I will be back from 띠에뚜띠 369 lecture♥♥
+4. My dear♥♥, I will be back from 띠에뚜띠 369 lecture♥♥
     - Corgi is back from lecture :)♥♥
 
 ### November 2nd, 2020
