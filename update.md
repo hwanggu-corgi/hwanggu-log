@@ -1,6 +1,6 @@
 ### November 3rd, 2020
-1. Corgi add progress #13 reviewing lecture 15 for CSC 369♥♥
-    - Corgi on slide `Algorithm: Shortest-Job-First` [20 of 29]
+1. Corgi add progress #14 reviewing lecture 15 for CSC 369♥♥
+    - Corgi on slide `Algorithm: Round Robin` [21 of 29]
 2. Corgi completed solving exercise 12 - Scheduling, CSC369♥♥
     - Corgi completed working on question 4♥♥
     - Corgi completed working on question 3♥♥
