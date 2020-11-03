@@ -1,11 +1,15 @@
 ### November 3rd, 2020
 
-1. Corgi add progress #3 on assignment 2, CSC 369♥♥
-    - Corgi working on making checklist #2
-        [ ]: Complete the functions in `msg_queue.c` with the exception of `msg_queue_poll()`
+1. Corgi add progress #4 on assignment 2, CSC 369♥♥
+    - Corgi working on making checklist #3
+        [ ] Part 1: Complete the functions in `msg_queue.c` with the exception of `msg_queue_poll()`
             [ ]: `msg_queue_create()`
             [ ]: `msg_queue_open()`
             [ ]: `msg_queue_close()`
+        [ ] Part 2: Complete `msg_queue_poll()`
+            [ ]: `msg_queue_poll()`
+
+
 
     - Corgi completed adding file
 2. Corgi completed reviewing lecture 15 for CSC 369♥♥
