@@ -18,6 +18,7 @@ Deadline: November 18th, 2020
 1. Corgi add progress #6 on assignment 2, CSC 369♥♥
     - Corgi completed making checklist, over♥♥
     - Corgi working on adding code to `msg_queue_open`
+        - Moe corgi working on gathering notes on read and write, over♥♥
 
 ### November 3rd, 2020
 
