@@ -15,8 +15,9 @@ Deadline: November 18th, 2020
     - [ ]: You must use synchronization function provided in `sync.c`
     - [ ]: You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
-1. Corgi add progress #44 on assignment 2, CSC 369♥♥
+1. Corgi add progress #45 on assignment 2, CSC 369♥♥
     - Corgi working on adding code to `msg_queue_open` #8
+        - Moe corgi working on gathering notes on `deadlock`, over♥♥
         - Moe corgi working on gathering notes on `read and write` #15, over♥♥
             - Moe Corgi 이뚜 learning how to create read and write♥♥
         - Moe corgi working on gathering notes on `semaphore` #7, over♥♥
@@ -33,6 +34,7 @@ Deadline: November 18th, 2020
         - Corgi thinking about which process (CPU bound or I/O bound) gets the highest priority
 4. [on hold] Corgi add progress #2 previewing lecture 16, CSC 369♥♥
     - Corgi on slide `Multi-Level Feedback Queue Scheduling` [1 of 17]♥♥
+
 
 ### November 4th, 2020
 
