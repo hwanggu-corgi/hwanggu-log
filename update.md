@@ -19,7 +19,7 @@ Deadline: November 18th, 2020
     - Corgi completed working on questions 4 of 4, over♥♥
     - Corgi completed working on question 4 of 4, over♥♥
         - Corgi thinking about which process (CPU bound or I/O bound) gets the highest priority
-2. Corgi add progress #1 previewing lecture 16, CSC 369♥♥
+2. Corgi add progress #2 previewing lecture 16, CSC 369♥♥
     - Corgi on slide `Multi-Level Feedback Queue Scheduling` [1 of 17]♥♥
 2. [on hold] Corgi add progress #41 on assignment 2, CSC 369♥♥
     - Corgi working on adding code to `msg_queue_open` #8
