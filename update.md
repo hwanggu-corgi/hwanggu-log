@@ -15,17 +15,9 @@ Deadline: November 18th, 2020
     - [ ]: You must use synchronization function provided in `sync.c`
     - [ ]: You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
-1. Moe corgi is here and is in lecture for CSC 369♥♥
-    - Moe corgi is back XD♥♥
-1. Corgi completed working on exercise 13, CSC 369♥♥
-    - Corgi completed working on questions 4 of 4, over♥♥
-    - Corgi completed working on question 4 of 4, over♥♥
-        - Corgi thinking about which process (CPU bound or I/O bound) gets the highest priority
-2. Corgi add progress #2 previewing lecture 16, CSC 369♥♥
-    - Corgi on slide `Multi-Level Feedback Queue Scheduling` [1 of 17]♥♥
-2. [on hold] Corgi add progress #41 on assignment 2, CSC 369♥♥
+1. Corgi add progress #42 on assignment 2, CSC 369♥♥
     - Corgi working on adding code to `msg_queue_open` #8
-        - Moe corgi working on gathering notes on `read and write` #12, over♥♥
+        - Moe corgi working on gathering notes on `read and write` #13, over♥♥
             - Moe Corgi 이뚜 learning how to create read and write♥♥
         - Moe corgi working on gathering notes on `semaphore` #7, over♥♥
             - Corgi reading [chapter 31 - Semaphores](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-sema.pdf)
@@ -33,6 +25,14 @@ Deadline: November 18th, 2020
             - Corgi reading [chapter 30 - conditional variable](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-cv.pdf)
             in Operating Systems Three Easy Pieces, over♥♥
         - Moe corgi working on gathering notes on `conditional variable`, over♥♥ #4
+2. Moe corgi is here and is in lecture for CSC 369♥♥
+    - Moe corgi is back XD♥♥
+3. Corgi completed working on exercise 13, CSC 369♥♥
+    - Corgi completed working on questions 4 of 4, over♥♥
+    - Corgi completed working on question 4 of 4, over♥♥
+        - Corgi thinking about which process (CPU bound or I/O bound) gets the highest priority
+4. [on hold] Corgi add progress #2 previewing lecture 16, CSC 369♥♥
+    - Corgi on slide `Multi-Level Feedback Queue Scheduling` [1 of 17]♥♥
 
 ### November 4th, 2020
 
