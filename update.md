@@ -15,10 +15,19 @@ Deadline: November 18th, 2020
     - [ ]: You must use synchronization function provided in `sync.c`
     - [ ]: You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
-1. Corgi add progress #71 on assignment 2, CSC 369♥♥
-    - Corgi working on adding code to `msg_queue_write` #5
+1. Corgi add progress #72 on assignment 2, CSC 369♥♥
+    - Corgi working on adding code to `msg_queue_write` #6
+        - Corgi need to ask following questions tomorrow
+            - How do we know queue is not a valid message queue open for writes?
+            - How do we know queue handle is non-blocking and the write would block?
+            - How to read the size of the message
+            - How to read the length bytes from the buffer
+            - How to write the size of the message
+            - How to write length bytes from the buffer
         - Corgi adding code
         - Corgi adding pesudocode
+        - Corgi completed adding helper function `moe_has_enough_free_space`
+        - Corgi completed adding helper function `moe_all_reader_handles_closed`
     - Corgi working on adding code to `msg_queue_read` #18
         - Corgi adding code
             - Moe corgi piecing puzzles
