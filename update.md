@@ -15,8 +15,8 @@ Deadline: November 18th, 2020
     - [ ]: You must use synchronization function provided in `sync.c`
     - [ ]: You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
-1. Corgi add progress #55 on assignment 2, CSC 369♥♥
-    - Corgi working on adding code to `msg_queue_read` #9
+1. Corgi add progress #56 on assignment 2, CSC 369♥♥
+    - Corgi working on adding code to `msg_queue_read` #10
         - Corgi adding code
             - Moe corgi piecing puzzles
         - Corgi adding pseudocode
