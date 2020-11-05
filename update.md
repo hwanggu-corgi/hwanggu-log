@@ -15,8 +15,10 @@ Deadline: November 18th, 2020
     - [ ]: You must use synchronization function provided in `sync.c`
     - [ ]: You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
-1. Corgi add progress #74 on assignment 2, CSC 369♥♥
-    - Corgi working on adding code to `msg_queue_close`
+1. Corgi add progress #75 on assignment 2, CSC 369♥♥
+    - Corgi working on adding code to `msg_queue_close` #2
+        - Corgi adding code
+        - Corgi adding pseudocode
     - Corgi working on adding code to `msg_queue_write` #8
         - Corgi need to ask following questions tomorrow♥♥
             - How do we know queue handle is non-blocking and the write would block?
