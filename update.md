@@ -23,8 +23,7 @@ Deadline: November 18th, 2020
     - How to write the size of the message
     - How to write length bytes from the buffer
 
-1. Corgi completed making resume appointment with career center♥♥
-    - Corgi doing resume review on Wednesday November 11th, 3:30 AM
+1. Corgi working on adding list of accomplishment to README.md
 2. Corgi add progress #81 on assignment 2, CSC 369♥♥
     - Corgi working on adding code to `msg_queue_close` #8
         - Corgi adding code
@@ -45,6 +44,8 @@ Deadline: November 18th, 2020
         - Corgi adding derivate code to `mq_backend`
         - Corgi completed adding helper function `moe_buffer_is_small`
         - Corgi completed adding helper function `moe_has_writers`
+3. Corgi completed making resume appointment with career center♥♥
+    - Corgi doing resume review on Wednesday November 11th, 3:30 AM
 
 ### November 5th, 2020
 

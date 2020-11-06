@@ -1,5 +1,33 @@
 # HwangGu Log
 
+1. Corgi add progress #58 on assignment 2, CSC 369♥♥
+    - Corgi working on adding code to `msg_queue_read` #12
+        - Corgi adding code
+            - Moe corgi piecing puzzles
+        - Corgi adding derivative code to `mq_init`
+        - Corgi adding derivative code to `mq_destroy`
+        - Corgi adding derivate code to `mq_backend`
+        - Corgi completed adding helper function `moe_message_queue_is_empty`
+        - Corgi completed adding pseudocode
+    - [on hold] Corgi working on adding code to `msg_queue_open` #10
+        - Moe corgi working on gathering notes on `deadlock` #2, over♥♥
+        - Moe corgi working on gathering notes on `read and write` #15, over♥♥
+            - Moe Corgi 이뚜 learning how to create read and write♥♥
+        - Moe corgi working on gathering notes on `semaphore` #7, over♥♥
+            - Corgi reading [chapter 31 - Semaphores](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-sema.pdf)
+        - Moe corgi working on gathering notes on `producer and consumer` #6, over♥♥
+            - Corgi reading [chapter 30 - conditional variable](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-cv.pdf)
+            in Operating Systems Three Easy Pieces, over♥♥
+        - Moe corgi working on gathering notes on `conditional variable`, over♥♥ #4
+2. Moe corgi is here and is in lecture for CSC 369♥♥
+    - Moe corgi is back XD♥♥
+3. Corgi completed working on exercise 13, CSC 369♥♥
+    - Corgi completed working on questions 4 of 4, over♥♥
+    - Corgi completed working on question 4 of 4, over♥♥
+        - Corgi thinking about which process (CPU bound or I/O bound) gets the highest priority
+4. [on hold] Corgi add progress #2 previewing lecture 16, CSC 369♥♥
+    - Corgi on slide `Multi-Level Feedback Queue Scheduling` [1 of 17]♥♥
+
 ### October 18th, 2020
 1. Worked on csc-369-assignment-1(
     - Completed uploading following codes to haminthecoder/csc369 for review
