@@ -23,8 +23,15 @@ Deadline: November 18th, 2020
     - How to write the size of the message
     - How to write length bytes from the buffer
 
-1. Corgi add progress #83 on assignment 2, CSC 369♥♥
-    - Corgi working on adding code to `msg_queue_close` #9
+1. Corgi add progress #84 on assignment 2, CSC 369♥♥
+    - Corgi working on adding code to `msg_queue_read` #19
+        - Corgi adding code
+            - Moe corgi piecing puzzles
+        - Corgi adding derivative code to `mq_init`
+        - Corgi adding derivative code to `mq_destroy`
+        - Corgi adding derivate code to `mq_backend`
+    - Corgi working on adding code to `msg_queue_close` #10
+        - Corgi adding helper function `moe_get_message_size`
         - Corgi adding code
         - Corgi adding pseudocode
     - Corgi working on adding code to `msg_queue_open`
@@ -32,12 +39,6 @@ Deadline: November 18th, 2020
     - Corgi working on adding code to `msg_queue_write` #8
         - Corgi adding code
         - Corgi adding pesudocode
-    - Corgi working on adding code to `msg_queue_read` #18
-        - Corgi adding code
-            - Moe corgi piecing puzzles
-        - Corgi adding derivative code to `mq_init`
-        - Corgi adding derivative code to `mq_destroy`
-        - Corgi adding derivate code to `mq_backend`
 2. Corgi working on adding list of accomplishment to README.md
 3. Corgi back♥♥ from 띠에뚜띠 369 tutorial♥♥
     - Corgi asked lots of questions to TA♥♥
