@@ -15,7 +15,7 @@ Deadline: November 18th, 2020
     - [ ]: You must use synchronization function provided in `sync.c`
     - [ ]: You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
-- Corgi need to ask following questions tomorrow♥♥
+- Corgi completed asking following questions in tutorial♥♥
     - Under which situation we want to add synchronization to `msq_queue_close` and `msq-queue_open`?
     - How do we know queue handle is non-blocking and the write would block?
     - How to read the size of the message
@@ -23,8 +23,8 @@ Deadline: November 18th, 2020
     - How to write the size of the message
     - How to write length bytes from the buffer
 
-1. Corgi add progress #8 on Tutorial 8♥♥
-    - Corgi checking solution
+1. Corgi add progress #10 on Tutorial 8♥♥
+    - Corgi checking solution #2♥♥
     - Corgi completed working on question 3♥♥
     - Corgi completed working on question 2♥♥
     - Corgi completed working on question 1♥♥
