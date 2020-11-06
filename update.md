@@ -23,8 +23,8 @@ Deadline: November 18th, 2020
     - How to write the size of the message
     - How to write length bytes from the buffer
 
-1. Corgi add progress #10 on Tutorial 8♥♥
-    - Corgi checking solution #2♥♥
+1. Corgi add progress #12 on Tutorial 8♥♥
+    - Corgi checking solution #4♥♥
     - Corgi completed working on question 3♥♥
     - Corgi completed working on question 2♥♥
     - Corgi completed working on question 1♥♥
