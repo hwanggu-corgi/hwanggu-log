@@ -1,3 +1,43 @@
+### November 7th, 2020
+
+#### Assignment 2
+
+Deadline: November 18th, 2020
+
+- [ ] Part 1: Complete the functions in `msg_queue.c` with the exception of `msg_queue_poll()`
+    - [ ]: `msg_queue_open()`
+    - [ ]: `msg_queue_close()`
+    - [ ]: `msg_queue_read()`
+    - [ ]: `msg_queue_write()`
+- [ ] Part 2: Complete `msg_queue_poll()`
+    - [ ]: `msg_queue_poll()`
+- [ ]: Miscellaneous requirements
+    - [ ]: You must use synchronization function provided in `sync.c`
+    - [ ]: You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
+
+- Corgi need to ask following questions tomorrow♥♥
+    - Under which situation we want to add synchronization to `msq_queue_close` and `msq-queue_open`?
+    - How do we know queue handle is non-blocking and the write would block?
+    - How to read the size of the message
+    - How to read the length bytes from the buffer
+    - How to write the size of the message
+    - How to write length bytes from the buffer
+
+1. Corgi add progress #81 on assignment 2, CSC 369♥♥
+    - Corgi working on adding code to `msg_queue_close` #8
+        - Corgi adding code
+        - Corgi adding pseudocode
+    - Corgi working on adding code to `msg_queue_write` #8
+        - Corgi adding code
+        - Corgi adding pesudocode
+    - Corgi working on adding code to `msg_queue_read` #18
+        - Corgi adding code
+            - Moe corgi piecing puzzles
+        - Corgi adding derivative code to `mq_init`
+        - Corgi adding derivative code to `mq_destroy`
+        - Corgi adding derivate code to `mq_backend`
+2. Corgi working on adding list of accomplishment to README.md
+
 ### November 6th, 2020
 
 #### Assignment 2
