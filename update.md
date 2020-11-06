@@ -23,7 +23,8 @@ Deadline: November 18th, 2020
     - How to write the size of the message
     - How to write length bytes from the buffer
 
-1. Corgi making resume appointment with career center♥♥
+1. Corgi completed making resume appointment with career center♥♥
+    - Corgi doing resume review on Wednesday November 11th, 3:30 AM
 2. Corgi add progress #81 on assignment 2, CSC 369♥♥
     - Corgi working on adding code to `msg_queue_close` #8
         - Corgi adding code
