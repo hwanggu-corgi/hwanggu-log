@@ -17,24 +17,15 @@ Deadline: November 18th, 2020
     - [ ]: You must use synchronization function provided in `sync.c`
     - [ ]: You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
-1. Worked on assignment 2, CSC 369
-    - Created helper function `moe_message_queue_is_empty`
-    - [on hold] Corgi working on adding code to `msg_queue_open` #10
-        - Moe corgi working on gathering notes on `deadlock` #2, over♥♥
-        - Moe corgi working on gathering notes on `read and write` #15, over♥♥
-            - Moe Corgi 이뚜 learning how to create read and write♥♥
-        - Moe corgi working on gathering notes on `semaphore` #7, over♥♥
-            - Corgi reading [chapter 31 - Semaphores](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-sema.pdf)
-        - Moe corgi working on gathering notes on `producer and consumer` #6, over♥♥
-            - Corgi reading [chapter 30 - conditional variable](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-cv.pdf)
-            in Operating Systems Three Easy Pieces, over♥♥
-        - Moe corgi working on gathering notes on `conditional variable`, over♥♥ #4
-2. Moe corgi is here and is in lecture for CSC 369♥♥
-    - Moe corgi is back XD♥♥
-3. Completed working on exercise 13, CSC 369♥♥
-    - Corgi completed working on questions 4 of 4, over♥♥
-    - Corgi completed working on question 4 of 4, over♥♥
-        - Corgi thinking about which process (CPU bound or I/O bound) gets the highest priority
+#### Assignment 2, CSC 369
+- Created helper function `moe_message_queue_is_empty`
+
+#### exercise 13, CSC 369
+- Completed working on question 1 of 4
+- Completed working on question 2 of 4
+- Completed working on question 3 of 4
+- Completed working on question 4 of 4
+
 
 ### October 18th, 2020
 1. Worked on csc-369-assignment-1(
