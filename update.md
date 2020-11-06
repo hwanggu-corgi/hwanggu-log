@@ -43,6 +43,9 @@ Deadline: November 18th, 2020
         - Corgi adding derivate code to `mq_backend`
 3. Corgi working on adding list of accomplishment to README.md
 
+4. Corgi back♥♥ from 띠에뚜띠 369 tutorial♥♥
+    - Corgi asked lots of questions to TA♥♥
+
 ### November 6th, 2020
 
 #### Assignment 2
