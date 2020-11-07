@@ -1,5 +1,116 @@
 # HwangGu Log
 
+### November 7th, 2020
+
+#### Resume and career
+- [ ]: Load hyungmogu.com via github pages
+
+#### Assignment 2
+
+Deadline: November 18th, 2020
+
+- [ ] Part 1: Complete the functions in `msg_queue.c` with the exception of `msg_queue_poll()`
+    - [ ]: `msg_queue_open()`
+    - [ ]: `msg_queue_close()`
+    - [ ]: `msg_queue_read()`
+        - [x]: `moe_reader_queue_handle_non_blocking`
+        - [x]: `moe_read_would_block`
+        - [x]: `moe_get_message_size`
+        - [ ]: `moe_message_queue_is_empty`
+        - [x]: `moe_all_writer_handles_closed
+        - [x]: `moe_reader_buffer_is_small`
+    - [ ]: `msg_queue_write()`
+- [ ] Part 2: Complete `msg_queue_poll()`
+    - [ ]: `msg_queue_poll()`
+- [ ]: Miscellaneous requirements
+    - [ ]: You must use synchronization function provided in `sync.c`
+    - [ ]: You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
+
+1. Corgi working on uploading hyungmogu.com to github pages
+
+2. Corgi add progress #89 on assignment 2, CSC 369♥♥
+    - Corgi working on adding code to `msg_queue_read` #22
+        - Corgi adding code
+            - Moe corgi piecing puzzles
+        - Corgi improved helper function `moe_reader_buffer_is_small`
+        - Corgi completed creating helper function `moe_get_message_size`
+        - Corgi completed creating helper function `moe_read_would_block`
+        - Corgi completed creating helper function `moe_queue_handle_non_blocking`
+    - Corgi working on adding code to `msg_queue_close` #10
+        - Corgi adding helper function `moe_get_message_size`
+        - Corgi adding code
+        - Corgi adding pseudocode
+    - Corgi working on adding code to `msg_queue_open`
+        - Corgi adding code
+    - Corgi working on adding code to `msg_queue_write` #8
+        - Corgi adding code
+        - Corgi adding pesudocode
+3. Corgi working on adding list of accomplishment to README.md
+4. Corgi back♥♥ from 띠에뚜띠 369 tutorial♥♥
+    - Corgi asked lots of questions to TA♥♥
+5. Corgi completed Tutorial 8 - Scheduling♥♥
+    - Corgi completed checking solution♥♥
+    - Corgi completed working on question 3♥♥
+    - Corgi completed working on question 2♥♥
+    - Corgi completed working on question 1♥♥
+6. Corgi completed asking following questions in tutorial♥♥
+    - Under which situation we want to add synchronization to `msq_queue_close` and `msq-queue_open`?
+    - How do we know queue handle is non-blocking and the write would block?
+    - How to read the size of the message
+    - How to read the length bytes from the buffer
+    - How to write the size of the message
+    - How to write length bytes from the buffer
+
+
+### November 6th, 2020
+
+#### Assignment 2
+
+Deadline: November 18th, 2020
+
+- [ ] Part 1: Complete the functions in `msg_queue.c` with the exception of `msg_queue_poll()`
+    - [ ]: `msg_queue_open()`
+    - [ ]: `msg_queue_close()`
+    - [ ]: `msg_queue_read()`
+    - [ ]: `msg_queue_write()`
+- [ ] Part 2: Complete `msg_queue_poll()`
+    - [ ]: `msg_queue_poll()`
+- [ ]: Miscellaneous requirements
+    - [ ]: You must use synchronization function provided in `sync.c`
+    - [ ]: You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
+
+- Corgi need to ask following questions tomorrow♥♥
+    - Under which situation we want to add synchronization to `msq_queue_close` and `msq-queue_open`?
+    - How do we know queue handle is non-blocking and the write would block?
+    - How to read the size of the message
+    - How to read the length bytes from the buffer
+    - How to write the size of the message
+    - How to write length bytes from the buffer
+
+1. Corgi working on adding list of accomplishment to README.md
+2. Corgi add progress #81 on assignment 2, CSC 369♥♥
+    - Corgi working on adding code to `msg_queue_close` #8
+        - Corgi adding code
+        - Corgi adding pseudocode
+        - Corgi completed adding helper function `moe_is_the_last_reader`
+        - Corgi completed adding helper function `moe_is_the_last_writer`
+        - Corgi completed fixing compile errors
+    - Corgi working on adding code to `msg_queue_write` #8
+        - Corgi adding code
+        - Corgi adding pesudocode
+        - Corgi completed adding helper function `moe_has_enough_free_space`
+        - Corgi completed adding helper function `moe_all_reader_handles_closed`
+    - Corgi working on adding code to `msg_queue_read` #18
+        - Corgi adding code
+            - Moe corgi piecing puzzles
+        - Corgi adding derivative code to `mq_init`
+        - Corgi adding derivative code to `mq_destroy`
+        - Corgi adding derivate code to `mq_backend`
+        - Corgi completed adding helper function `moe_buffer_is_small`
+        - Corgi completed adding helper function `moe_has_writers`
+3. Corgi completed making resume appointment with career center♥♥
+    - Corgi doing resume review on Wednesday November 11th, 3:30 AM
+
 ### November 5th, 2020
 
 #### Assignment 2
@@ -17,15 +128,440 @@ Deadline: November 18th, 2020
     - [ ]: You must use synchronization function provided in `sync.c`
     - [ ]: You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
-#### Assignment 2, CSC 369
-- Created helper function `moe_message_queue_is_empty`
+1. Corgi add progress #58 on assignment 2, CSC 369♥♥
+    - Corgi working on adding code to `msg_queue_read` #12
+        - Corgi adding code
+            - Moe corgi piecing puzzles
+        - Corgi adding derivative code to `mq_init`
+        - Corgi adding derivative code to `mq_destroy`
+        - Corgi adding derivate code to `mq_backend`
+        - Corgi completed adding helper function `moe_message_queue_is_empty`
+        - Corgi completed adding pseudocode
+    - [on hold] Corgi working on adding code to `msg_queue_open` #10
+        - Moe corgi working on gathering notes on `deadlock` #2, over♥♥
+        - Moe corgi working on gathering notes on `read and write` #15, over♥♥
+            - Moe Corgi 이뚜 learning how to create read and write♥♥
+        - Moe corgi working on gathering notes on `semaphore` #7, over♥♥
+            - Corgi reading [chapter 31 - Semaphores](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-sema.pdf)
+        - Moe corgi working on gathering notes on `producer and consumer` #6, over♥♥
+            - Corgi reading [chapter 30 - conditional variable](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-cv.pdf)
+            in Operating Systems Three Easy Pieces, over♥♥
+        - Moe corgi working on gathering notes on `conditional variable`, over♥♥ #4
+2. Moe corgi is here and is in lecture for CSC 369♥♥
+    - Moe corgi is back XD♥♥
+3. Corgi completed working on exercise 13, CSC 369♥♥
+    - Corgi completed working on questions 4 of 4, over♥♥
+    - Corgi completed working on question 4 of 4, over♥♥
+        - Corgi thinking about which process (CPU bound or I/O bound) gets the highest priority
+4. [on hold] Corgi add progress #2 previewing lecture 16, CSC 369♥♥
+    - Corgi on slide `Multi-Level Feedback Queue Scheduling` [1 of 17]♥♥
 
-#### exercise 13, CSC 369
-- Completed working on question 1 of 4
-- Completed working on question 2 of 4
-- Completed working on question 3 of 4
-- Completed working on question 4 of 4
 
+### November 4th, 2020
+
+#### Assignment 2
+
+Deadline: November 18th, 2020
+
+- [ ] Part 1: Complete the functions in `msg_queue.c` with the exception of `msg_queue_poll()`
+    - [ ]: `msg_queue_open()`
+    - [ ]: `msg_queue_close()`
+    - [ ]: `msg_queue_read()`
+    - [ ]: `msg_queue_write()`
+- [ ] Part 2: Complete `msg_queue_poll()`
+    - [ ]: `msg_queue_poll()`
+- [ ]: Miscellaneous requirements
+    - [ ]: You must use synchronization function provided in `sync.c`
+    - [ ]: You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
+
+1. Corgi add progress #33 on assignment 2, CSC 369♥♥
+    - Corgi working on adding code to `msg_queue_open` #8
+        - Moe corgi working on gathering notes on `read and write` #3, over♥♥
+        - Moe corgi working on gathering notes on `semaphore` #7, over♥♥
+            - Corgi reading [chapter 31 - Semaphores](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-sema.pdf)
+        - Moe corgi working on gathering notes on `producer and consumer` #6, over♥♥
+            - Corgi reading [chapter 30 - conditional variable](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-cv.pdf)
+            in Operating Systems Three Easy Pieces, over♥♥
+        - Moe corgi working on gathering notes on `conditional variable`, over♥♥ #4
+    - Corgi completed making checklist, over♥♥
+
+### November 3rd, 2020
+
+1. Corgi add progress #5 on assignment 2, CSC 369♥♥
+    - Corgi working on making checklist #4♥♥
+        - Deadline: November 18th, 2020
+            - [ ] Part 1: Complete the functions in `msg_queue.c` with the exception of `msg_queue_poll()`
+                - [ ]: `msg_queue_open()`
+                - [ ]: `msg_queue_close()`
+                - [ ]: `msg_queue_read()`
+                - [ ]: `msg_queue_write()`
+            - [ ] Part 2: Complete `msg_queue_poll()`
+                - [ ]: `msg_queue_poll()`
+            - [ ]: Miscellaneous requirements
+                - [ ]: You must use synchronization function provided in `sync.c`
+                - [ ]: You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
+
+    - Corgi completed adding file
+2. Corgi completed reviewing lecture 15 for CSC 369♥♥
+    - Corgi on slide `Multi-Level Queue Scheduling` [29 of 29]
+    - Corgi completed working on defining biggg definitions and concepts in `week8/lecture_15_notes.pdf`
+3. Corgi completed solving exercise 12 - Scheduling, CSC369♥♥
+    - Corgi completed working on question 4♥♥
+    - Corgi completed working on question 3♥♥
+    - Corgi completed working on question 2♥♥
+4. My dear♥♥, I will be back from 띠에뚜띠 369 lecture♥♥
+    - Corgi is back from lecture :)♥♥
+
+### November 2nd, 2020
+1. Corgi add progress #8 on exercise 12 - Scheduling, CSC369♥♥
+    - Corgi completed working on question 1♥♥
+2. Corgi completed Tutorial 7 - Hungry Hippos
+    - Corgi completed working on fixing code♥♥
+        - Corgi completed working on test failure in `test.sh`
+            - Corgi completed fixing hanging condition after referee exists in `referee`
+            - Corgi completed adding printing functions to better understand what's going on rwar♥♥
+                - Game is stuck when marbles are out in `restart_game`
+            - Corgi completed fixing correct argument leading to compilation error
+            - Corgi completed fixing `Thread #1's call to pthread_create failed` error
+    - Corgi completd working on gathering the unknowns♥ before addressing the problem♥♥
+
+### November 1st, 2020
+1. Corgi add progress #33 in Tutorial 7 - Hungry Hippos
+    - Corgi working on gathering the unknowns♥ before addressing the problem♥♥
+        - Corgi working on fixing code #11♥♥
+            - Corgi working on test failure in `test.sh`
+                - Corgi completed fixing correct argument leading to compilation error
+            - Corgi completed working on installing error detection tool `valgrind` on Ubuntu virtual machines
+            - Corgi completed filling TODO in function `referee`
+            - Corgi completed filling TODO in function `restart_game`
+        - Corgi completed working on professor Reid's example producer and consumer problem `pc_cv.c` to better understand how threads, producer and consumer problem works #5♥♥
+            - Corgi completed fixing code♥♥
+            - Corgi completed fixing compile errors♥♥
+            - Corgi completed adding file♥♥
+        - [Corgi on hold] Corgi gathering information about `Producer and Consumer` #2♥♥
+        - [Corgi on hold] Corgi gathering information about `Conditional Variable` #5
+        - [Corgi on hold] Corgi gathering information about `Thread API`
+
+### October 31st, 2020
+1. Corgi working on Tutorial 7 - Hungry Hippos
+    - Corgi completed adding starter files♥♥!!
+3. Corgi completed assignment 1, CSC 369♥♥
+    - Corgi testing professor reid's testing codes
+    - Corgi fixing `segmentation fault` error in `a1fs_truncate`
+    - Corgi completed fixing `a1fs_unlink`
+        - Corgi done fixing the problem♥♥
+        - Corgi completed adding print functions
+    - Corgi completed working on creating `a1fs_rmdir`♥♥
+        - Corgi completed working on merge conflicts before uploading solution to haminthecoder/csc369
+        - Corgi completed fixing incorrect unset of value in `a1fs_rmdir`
+            - Corgi completed adding printing functions in `deallocate_free_blocks` to investigate the root cause♥♥
+            - Corgi completed adding printing functions to `get_free_blocks` to investigate the root cause♥♥
+        - Corgi completed fixing `directory entry not found` error during `a1fs_mkdir` after removal
+            - Corgi completed fixing issue of incorrect storage of value for `/`
+            - Corgi completed adding printing functions `get_directory_entry` to make sure correct entry is accessed
+            - Corgi completed adding printing functions around `a1fs_rmdir` to investigate incorrect values
+            - Corgi completed adding printing functions around `remove_directory_entry` to make sure correct directory entry has been removed
+            - Corgi completed adding printing functions around `mkdir`
+
+2. My dear♥♥, I will be back from csc-369 tutorial♥♥
+    - My dear♥♥, 형모 corgi is back XD♥♥
+
+### October 30th, 2020
+1. Corgi add progress #565 in assignment 1, CSC 369♥♥
+    - Corgi working on creating `a1fs_rmdir`♥♥
+        - Corgi working on fixing `directory entry not found` error during `a1fs_mkdir` after removal
+        - Corgi completed fixing `invalid argument` error in `deallocate_extent_block`
+        - Corgi completed modifying `initialize_inode_directory` to set initial number of directory entries
+        - Corgi completed modifying `set_directory_entry` to increment number of directory entries when new are added
+        - Corgi completed adding code to function
+    - Corgi uploading `a1fs_unlink` to haminthecoder/csc369♥♥
+        - Corgi resolving mere conflicts with master
+    - Corgi completed fixing function `a1fs_unlink`
+        - Corgi completed fixing `invalid argument` error in `deallocate_inode`
+        - Corgi completed fixing `invalid argument` error in `remove_directory_entry`
+        - Corgi completed adding code to function
+    - [on hold] Corgi fixing `ls: reading directory '.': Softare caused connection abort` issue♥♥
+        - Corgi checking for erroneous values in helper functions `a1fs_mkfs`♥♥
+        - Corgi adding printing functions around in `a1fs_getattr`♥♥
+        - Corgi fixing function `a1fs_readdir`♥♥
+        - Corgi adding printing functions around `a1fs_readdir`♥♥
+
+2. Corgi completed breakfast with parents [5:25 AM ~ 5:40 AM]♥♥
+
+### October 29th, 2020
+1. Corgi add progress #537 in assignment 1, CSC 369♥♥
+    - Corgi fixing `ls: reading directory '.': Softare caused connection abort` issue
+    - Corgi completed making changes request to haminthecoder/csc369
+        - Corgi completed resolving merge conflicts in `a1fs_getattr`
+        - Corgi completed resolving merge conflicts in `a1fs_readdir`
+    - Corgi completed fixing storage of irregular i_number in `a1fs_create` and `a1fs_mkdir`
+        - Corgi adding prints to find mysterious inode number 111 created in directory entry
+    - Corgi completed fixing `free(): invalid pointer` in `a1fs_create`
+    - Corgi completed fixing incorrect return value in `set_directory_entry`
+    - Corgi completed fixing incorrect value of directory entry in `get_directory_entry`
+    - Corgi completed fixing `No such file or directory` issue in `a1fs_create`
+    - Corgi completed fixing file name containing corrupted values in `get_file_name`
+    - Corgi merged Hamin's code to haminthecoder/csc369 fix branch
+
+2. Corgi completed breakfast with parents [5:42 AM ~ 5:56 AM]♥♥
+
+### October 28th, 2020
+1. Corgi add progress #506 in assignment 1, CSC 369♥♥
+    - Corgi fixing `No such file or directory` issue in `a1fs_create`
+    - Corgi completed fixing `Address in use` issue in `a1fs_create`
+    - Corgi completed fixing `No such file or directory` issue in `a1fs_getattr`
+        - Corgi completed improving function `get_directory_entry` to include `ENOENT` and `ENOTDIR` errors
+        - Corgi completed fixing invalid return value for helper function `get_inode`
+        - Corgi completed fixing compile errors
+        - Corgi completed fixing code in function
+        - Corgi completed adding printing functions to better investigate what's going on♥♥
+    - Corgi completed fixing malfunctining `get_free_blocks` function for `a1fs_mkdir`
+    - Corgi completed fixing malfunctining `set_data_bitmap` function for `a1fs_mkdir`
+    - Corgi completed fixing malfunctining `set_directory_entry` function for `a1fs_mkdir`
+    - Corgi completed fixing malfunctining `get_directory_entry` function
+    - Corgi completed fixing incorrect file name in `get_file_name` for `a1fs_mkdir`
+    - Corgi completed fixing issue `address in use` error in `set_data_bitmap` for `a1fs_mkdir`, over♥♥
+    - Corgi completed fixing issue `segmentation fault` error in `set_directory_entry` for `a1fs_mkdir`, over♥♥
+    - Corgi added shell programs for easier repeated running of programs
+    - Corgi completed fixing issue of data not writing to disk for `a1fs_mkfs`, over♥♥
+
+2. Corgi completed breakfast with parents [5:30 AM ~ 5:43 AM]♥♥
+
+### October 27th, 2020
+1. My dear♥♥, I will be back from csc-369 lecture from 3:00 AM to 4:30 AM. I will be back asking some questions about assignment 1 to professor, and meeting with hamin after lecture. I will be here my dear :)♥♥
+    - 형모 corgi 이뚜 back my love♥♥!!
+
+2. Corgi add progress #464 in assignment 1, CSC 369♥♥
+    - Corgi fixing issue of data not writing to disk for `a1fs_mkfs`, over♥♥
+        - Corgi adding printing functions around the function over
+    - Corgi completed working on `a1fs_unlink`, over♥♥
+        - Corgi completed fixing invalid return value of `a1fs_unlink` errors
+        - Corgi working on creating test code to function [3 of 3]
+        - Corgi working on adding code to function #52
+            - Corgi completed fixed `segmentation fault` error in `get_directory_entry`
+            - Corgi completed fixing `segmentation fault` error in `remove_directory_entry`
+            - Corgi completed creating helper function `deallocate_extent_block`
+                - Corgi completed adding testing code to function [3 of 3]
+                - Corgi completed adding code to function
+            - Corgi completed creating helper function `deallocate_data_blocks`
+                - Corgi completed adding testing code to function [3 of 3]
+                - Corgi completed adding code to function
+        - Corgi completed fixing `empty value` error in `get_parent_path`
+
+3. Corgi asked questions about assignment 1 to TA [6:06 AM ~ 7:07 AM]
+### October 26th, 2020
+내 사랑 최고♥♥♥♥
+내 여왕님 화이팅♥♥♥♥
+1. Corgi add progress #427 in assignment 1, CSC 369♥♥
+    - Corgi working on a1fs_unlink, over♥♥
+        - Corgi working on adding code to function #21
+            - Corgi working on creating helper function `deallocate_data_block`
+                - Corgi adding testing code to function [1 of 3]
+                - Corgi completed adding code to function
+            - Corgi completed creating helper function `remove_directory_entry`
+                - Corgi completed fixing code
+                - Corgi completed fixing compile errors
+                - Corgi completed adding testing code to function [4 of 4]
+                - Corgi completed adding code to function
+            - Corgi completed creating helper function `deallocate_inode`
+                - Corgi completed fixing assertion error
+                - Corgi completed adding testing code to function [3 of 3]
+                - Corgi completed adding code to function
+            - Corgi completed creating helper function `save`
+                - Corgi completed adding testing code to function [2 of 2]
+                - Corgi completed adding code to function
+        - Corgi working on adding tests to function
+        - Corgi completed adding pseudocode to function
+    - [on hold] Corgi working on a1fs_create in a1fs.c, over♥♥
+        - Corgi completed uploading code to haminthecoder/csc369
+        - Corgi working on adding code to function #9
+            - Corgi testing to make sure there is no compile errors
+            - Corgi working on fixing function♥♥
+            - Corgi completed adding test codes to function
+            - Corgi completed adding test functions for `initialize_inode_file` [2 of 2]
+            - Corgi completed on adding code for `initialize_inode_file`
+    - [on hold] Corgi working on a1fs_mkdir in a1fs.c, over♥♥
+        - Corgi working on adding code #210
+            - Corgi fixing file system not being written to disk error #2
+            - Corgi checking to ㄱmake sure all is well on virtual machine before merge request
+            - Corgi completed working on adding testing functions [1 of 1]
+            - Corgi completed fixing compiling errors
+            - Corgi working on this function♥♥
+            - Corgi completed working on creating `get_file_name` function
+            - Corgi completed working on creating test function for `get_file_name`
+            - Corgi completed fixing `segmentation fault` error in `get_free_inode`
+        - Corgi completed adding test to this function♥♥
+### October 25th, 2020
+1. Corgi add progress #385 in assignment 1, CSC 369♥♥
+    - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
+        - Corgi working on adding test to this function♥♥
+        - Corgi working on adding code #199
+            - Corgi working on this function♥♥
+            - Corgi fixing `segmentation fault` error in `get_free_inode`
+            - Corgi completed working on creating function `initialize_inode_directory`
+                - Corgi fixing function
+                - Corgi fixing compiling errors
+                - Corgi adding test functions [2 of 2]
+                - Corgi completed adding code to function
+            - Corgi completed fixing `undefined reference to function` error related to haminthecoder/csc369
+            - Corgi completed checking on virtual machine to make sure mkfs is working without issues
+            - Corgi completed working on uploading updated version of mkfs to haminthecoder/csc369
+            - Corgi completed fixing `ceil function not found` error
+            - Corgi completed working on helper function [6 of 12] `get_directory_entry`
+                - Corgi completed fixing incorrect return of value bugs grrrr♥♥
+                - Corgi completed fixing last test case♥♥
+                - Corgi completed fixing compilation error
+                - Corgi completed adding main codes to function
+                - Corgi completed creating test functions [2 of 2]
+                - Corgi completed fixing compilation error so far
+            - Corgi making sure instruction inside `a1fs_mkdir` is correct
+            - Corgi completed fixing helper function [6 of 12] `set_directory_entry`
+                - Corgi completed fixing `msync: invalid argument` error
+                - Corgi completed fixing erroneous fetching of extent
+
+2. Corgi completed breakfast with parents [5:56 AM ~ 6:15 AM]♥♥
+
+### October 24th, 2020
+1. Corgi add progress #342 in assignment 1, CSC 369♥♥
+    - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
+        - Corgi working on adding code #159
+            - Corgi working on helper function [6 of 12] `get_directory_entry`
+                - Corgi adding codes to function
+                - Corgi creating test functions [2 of 2]
+            - Corgi completed working on helper function [10 of 12] `initialize_extent_block`
+                - Corgi completed fixing function
+                - Corgi completed working on writing test functions
+                - Corgi completed adding code to function
+            - Corgi completed fixing incorrect value of `superblock->s_blocks_count` in  function `setup_superblock`
+            - Corgi completed fixing helper function `initialize_directory_entries` in `04_a1fs/helper_a1fs.c`
+            - Corgi completed retesting modified functions in `04_a1fs/helper_a1fs.c`
+            - Corgi completed fixing compilation error
+            - Corgi completed fixing helper function `set_root_dir` in `04_a1fs/helper_a1fs.c`
+            - Corgi completed fixing helper function `set_data_bitmap` in `04_a1fs/helper_a1fs.c`
+            - Corgi completed fixing helper function `set_inode_bitmap` in `04_a1fs/helper_a1fs.c`
+            - Corgi completed moving updated functions from `02_mkfs/helper_mkfs.c` to `04_a1fs/helper_a1fs.c`
+            - Corgi completed fixing compilation error for `mkfs` tests
+            - Corgi completed adding additional test functions for `mkfs` to double check creation of root directory
+            - Corgi completed fixing instructions for creating root directory in `mkfs`
+            - Corgi completed helper function [9 of 12] `get_free_blocks`
+                - Corgi completed fixing `assertion failed: (res_get_free_blocks == 2))` error
+
+2. Corgi completed breakfast with parents [7:12 AM ~ 7:25 AM]♥♥
+
+### October 23rd, 2020
+1. Corgi add progress #309 in assignment 1, CSC 369♥♥
+    - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
+        - Corgi working on adding code #127
+            - Corgi working on helper function [9 of 12] `get_free_blocks`
+                - Corgi fixing create root directory in `mkfs`
+                - Corgi fixing `assertion failed: (res_get_free_blocks == 2))` error
+                - Corgi completed fixing `assertion failed: (res_get_free_blocks == -1))` error
+                - Corgi completed fixing `assertion failed: (res_get_free_blocks == 0)` error
+                - Corgi completed fixing compile errors
+                - Corgi completed writing test functions [3 of 3]
+                - Corgi completed writing function description
+                - Corgi completed writing code for the edge case
+                - Corgi completed writing code for the main case
+            - Corgi completed working on helper function [8 of 12] `create_new_extent`
+                - Corgi completed writing code for the main case
+            - Corgi working on helper function [7 of 12] `set_directory_entry`
+                - Corgi writing code for the edge case
+                - Corgi writing code for the main case
+
+2. Corgi completed lunch with parents [10:10 AM ~ 10:46 AM]
+3. Corgi completed breakfast with parents [6:00 AM ~ 6:48 AM]
+4. Corgi completed meeting with hamin [4:00 AM ~ 4:25 AM]
+
+### October 22nd, 2020
+1. Corgi add progress #275 in assignment 1, CSC 369♥♥
+    - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
+        - Corgi working on adding code #95
+            - Corgi working on helper function [7 of 12] `set_directory_entry`
+                - Corgi adding codes to function
+                    - Corgi writing code for the main case
+                - Corgi completed fixing compilation error for test functions
+                - Corgi completed creating test function [2 of 2]
+
+            - [on hold] Corgi working on helper function [6 of 12] `get_directory_entry`
+                - Corgi learned that set_directory_entry must be done first before get_directory_entry :(
+
+                - Corgi adding codes to function
+                - Corgi creating test functions #3
+            - Corgi completed helper function [5 of 12] `get_parent_path`
+                - Corgi completed cleaning code
+                - Corgi completed fixing `segmentation error` in code
+                - Corgi completed fixing compilation errors
+                - Corgi completed adding codes to function
+                - Corgi completed adding codes to test functions
+3. Corgi completed reviewing lecture 11, over♥♥
+    - Corgi completed reviewing lecture video [25:58 / 44:28] [slide 11 of 15]
+    - Corgi working on slides `Condition variable example` [15 of 15]
+3. Corgi completed exercise 8, CSC 369♥♥
+    - Corgi completed question 6
+    - Corgi completed question 5
+    - Corgi completed question 4
+    - Corgi completed question 3
+    - Corgi completed question 2
+    - Corgi completed question 1
+
+### October 21st, 2020
+1. Corgi 바나나 당 충전 완료♥♥!!
+2. Corgi add progress #12 on lecture review♥♥
+    - Corgi reviewing lecture 11, over♥♥
+        - Corgi on slide `Condition Variables` [12 of 15]
+        - Corgi completed defining big definitions in week6/lecture_11_notes.pdf
+3. [on hold] Corgi add progress #267 in csc-369-assignment-1♥♥
+    - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
+        - Corgi working on adding code #85
+            - Corgi working on helper function [7 of 12] `set_directory_entry`
+                - Corgi adding codes to function
+                - Corgi completed fixing compilation error for test functions
+                - Corgi completed creating test function [2 of 2]
+
+            - [on hold] Corgi working on helper function [6 of 12] `get_directory_entry`
+                - Corgi learned that set_directory_entry must be done first before get_directory_entry :(
+
+                - Corgi adding codes to function
+                - Corgi creating test functions #3
+            - Corgi completed helper function [5 of 12] `get_parent_path`
+                - Corgi completed cleaning code
+                - Corgi completed fixing `segmentation error` in code
+                - Corgi completed fixing compilation errors
+                - Corgi completed adding codes to function
+                - Corgi completed adding codes to test functions
+
+### October 20th, 2020
+1. Corgi add progress #238 in csc-369-assignment-1♥♥
+    - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
+        - Corgi working on adding code #58
+            - Corgi working on helper function [5 of 12] `get_parent_path`
+                - Corgi adding codes to function
+                - Corgi completed adding codes to test functions
+            - Corgi working on helper function [4 of 12] `get_free_inode`
+                - Corgi adding function description
+                - Corgi completed adding codes to function
+                - Corgi completed adding codes to test functions [2 of 2]
+                - Corgi completed fixing missing argument `superblock`
+                - Corgi completed fixing out of bound return value error
+            - Corgi completed helper function [3 of 12] `set_data_bitmap`
+                - Corgi completed adding function description
+                - Corgi completed adding codes to function
+                - Corgi completed adding codes to test functions
+            - Corgi completed helper function [2 of 12] `set_inode_bitmap`
+                - Corgi completed adding function description
+                - Corgi completed correcting compile errors
+                - Corgi completed adding codes to function
+                - Corgi completed adding codes to test functions
+
+### October 19th, 2020
+1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
+    - `a1fs_mkdir` in `a1fs.c`
+        - Developed helper function `initialize_directory_entries`
+            - Performed tests and correcting the function to make sure it is working as it should
+            - Added test functions to make sure function is working as it should
+            - Corrected compile errors
+            - Added function description
+            - Fixed `expression must be a modifiable lvalue` error
 
 ### October 18th, 2020
 1. Worked on csc-369-assignment-1(

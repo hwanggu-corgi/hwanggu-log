@@ -26,12 +26,12 @@ Deadline: November 18th, 2020
     - [ ]: You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
 
-1. Corgi working on adding list of accomplishment to README.md
+1. Corgi working on adding list of accomplishment to README.md #2
 
 ### November 7th, 2020
 
 #### Resume and career
-[ ]: Load hyungmogu.com via github pages
+- [ ]: Load hyungmogu.com via github pages
 
 #### Assignment 2
 
