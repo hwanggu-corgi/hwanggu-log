@@ -36,7 +36,7 @@ Deadline: November 18th, 2020
         - (x): `moe_reader_queue_handle_non_blocking`
         - (x): `moe_read_would_block`
         - (x): `moe_get_message_size`
-        - ( ): `moe_message_queue_is_empty`
+        - (x): `moe_message_queue_is_empty`
         - (x): `moe_all_writer_handles_closed`
         - (x): `moe_reader_buffer_is_small`
     - ( ): `msg_queue_write()`
@@ -47,8 +47,8 @@ Deadline: November 18th, 2020
     - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
 
-1. Corgi add progress #89 on assignment 2, CSC 369♥♥
-    - Corgi working on adding code to `msg_queue_read` #22
+1. Corgi add progress #92 on assignment 2, CSC 369♥♥
+    - Corgi working on adding code to `msg_queue_read` #25
         - Corgi improving helper function `moe_message_queue_is_empty`
 2. [on hold] Corgi working on adding list of accomplishment to README.md #3♥♥
     - Completed October 21ts, 2020 [will come back after this]
@@ -83,8 +83,8 @@ Deadline: November 18th, 2020
 
 1. Corgi working on uploading hyungmogu.com to github pages
 
-2. Corgi add progress #89 on assignment 2, CSC 369♥♥
-    - Corgi working on adding code to `msg_queue_read` #22
+2. Corgi add progress #91 on assignment 2, CSC 369♥♥
+    - Corgi working on adding code to `msg_queue_read` #24
         - Corgi adding code
             - Moe corgi piecing puzzles
         - Corgi improved helper function `moe_reader_buffer_is_small`
