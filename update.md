@@ -4,6 +4,25 @@
 - [ ]: Finish updating README.md part of hwanggu log
     - [ ]: Upload to hyungmogu github account
     - [ ]: Fill missing parts
+        - [ ]: November 8th, 2020
+        - [ ]: November 7th, 2020
+        - [ ]: November 6th, 2020
+        - [ ]: November 5th, 2020
+        - [ ]: November 4th, 2020
+        - [ ]: November 3rd, 2020
+        - [ ]: November 2nd, 2020
+        - [ ]: November 1st, 2020
+        - [ ]: October 31st, 2020
+        - [ ]: October 30th, 2020
+        - [ ]: October 29th, 2020
+        - [ ]: October 28th, 2020
+        - [ ]: October 27th, 2020
+        - [ ]: October 26th, 2020
+        - [ ]: October 25th, 2020
+        - [ ]: October 24th, 2020
+        - [ ]: October 23rd, 2020
+        - [x]: October 22nd, 2020
+        - [x]: October 21st, 2020
 - [ ]: Load hyungmogu.com via github pages
 
 #### Assignment 2
@@ -28,8 +47,9 @@ Deadline: November 18th, 2020
     - [ ]: You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
 
-1. Corgi working on adding list of accomplishment to README.md #2
-    - Working on October 20th, 2020
+1. Corgi working on adding list of accomplishment to README.md #3
+    - Working on October 21ts, 2020 [will come back after this]
+    - Completed October 20th, 2020
     - Completed October 19th, 2020
 
 ### November 7th, 2020

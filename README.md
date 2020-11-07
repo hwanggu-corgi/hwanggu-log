@@ -505,51 +505,40 @@ Deadline: November 18th, 2020
     - Corgi completed question 1
 
 ### October 21st, 2020
-1. Corgi add progress #12 on lecture review♥♥
-    - Corgi reviewing lecture 11, over♥♥
-        - Corgi on slide `Condition Variables` [12 of 15]
-        - Corgi completed defining big definitions in week6/lecture_11_notes.pdf
-2. [on hold] Corgi add progress #267 in csc-369-assignment-1♥♥
-    - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
-        - Corgi working on adding code #85
-            - Corgi working on helper function [7 of 12] `set_directory_entry`
-                - Corgi adding codes to function
-                - Corgi completed fixing compilation error for test functions
-                - Corgi completed creating test function [2 of 2]
+2. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
+    - Creating system call `a1fs_mkdir`
+        - Added helper function [4 of 12] `set_directory_entry`
+            - Added codes and function description
+            - Added test functions to make sure function is working as it should
+            - Performed tests and corrected the function to make sure it is working as it should
 
-            - [on hold] Corgi working on helper function [6 of 12] `get_directory_entry`
-                - Corgi learned that set_directory_entry must be done first before get_directory_entry :(
-
-                - Corgi adding codes to function
-                - Corgi creating test functions #3
-            - Corgi completed helper function [5 of 12] `get_parent_path`
-                - Corgi completed cleaning code
-                - Corgi completed fixing `segmentation error` in code
-                - Corgi completed fixing compilation errors
-                - Corgi completed adding codes to function
-                - Corgi completed adding codes to test functions
+        - Added helper function [5 of 12] `get_parent_path`
+            - Cleaned code
+            - Fixed `segmentation error` in code
+            - Fixed compilation errors
+            - Added codes to function
+            - Added codes to test functions
 
 ### October 20th, 2020
 1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
     - Creating system call `a1fs_mkdir`
         - Added helper function `set_data_bitmap` [3 of 12]
-        - Added helper function `set_inode_bitmap` [2 of 12]
-            - Added function description
+            - Added codes and function description
             - Added test functions to make sure function is working as it should
             - Performed tests and corrected the function to make sure it is working as it should
-            - Fixed compile errors
-            - Added codes to function and test functions
-            - Added codes to test functions
+        - Added helper function `set_inode_bitmap` [2 of 12]
+            - Added codes and function description
+            - Added test functions to make sure function is working as it should
+            - Performed tests and corrected the function to make sure it is working as it should
 
 ### October 19th, 2020
 1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
     - Creating system call `a1fs_mkdir`
         - Added helper function `initialize_directory_entries` [1 of 12]
-            - Performed tests and corrected the function to make sure it is working as it should
+           - Added codes and function description
             - Added test functions to make sure function is working as it should
-            - Corrected compile errors
-            - Added function description
-            - Fixed `expression must be a modifiable lvalue` error
+            - Performed tests and corrected the function to make sure it is working as it should
+                - Fixed `expression must be a modifiable lvalue` error
 
 ### October 18th, 2020
 1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
