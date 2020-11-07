@@ -31,7 +31,7 @@
 Deadline: November 18th, 2020
 
 - ( ) Part 1: Complete the functions in `msg_queue.c` with the exception of `msg_queue_poll()`
-    - ( ): `msg_queue_open()`
+    - (x): `msg_queue_open()`
     - ( ): `msg_queue_close()`
     - (x): `msg_queue_read()`
         - (x): `moe_queue_handle_non_blocking`
@@ -47,14 +47,15 @@ Deadline: November 18th, 2020
         - (x): `moe_has_writers`
         - (x): `moe_write_would_block`
 - ( ) Part 2: Complete `msg_queue_poll()`
-    - ( ): `msg_queue_poll()`
 - ( ): Miscellaneous requirements
     - ( ): You must use synchronization function provided in `sync.c`
     - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
-1. Corgi add progress #103 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_open`
-        - Corgi checking and adding missing functions and logics
+1. Corgi add progress #104 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #2
+        - corgi adding pseducodoe
+    - Corgi completed working on `msg_queue_open`
+        - Corgi completed checking and adding missing functions and logics
     - Corgi completed adding code to `msg_queue_write`
         - Corgi completed fixing compile errors
         - Corgi completed adding missing functions and logics
