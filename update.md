@@ -50,7 +50,7 @@ Deadline: November 18th, 2020
         - (x): `moe_write_would_block`
 - ( ) Part 2: Complete `msg_queue_poll()`
     - (x): `moe_no_events_are_subscribed_to`
-    - ( ): `moe_events_field_in_a_pollfd_entry_is_valid`
+    - (x): `moe_events_field_in_a_pollfd_entry_is_valid`
     - ( ): `moe_subscribe_to_events`
     - ( ): `moe_requested_events_on_any_queue_already_triggered`
 - ( ): Miscellaneous requirements
@@ -61,9 +61,11 @@ Deadline: November 18th, 2020
     - What fields are written to `events` in `msg_queue_pollfd`
     - What fields are written to `revents` in `msg_queue_pollfd`
     - How do we subscribe to events in `msg_queue_poll` without knowing what events we are subscribing to? There is no argument/parameter related to target events in here.
+    - Ho do we subscribe to events in `msg_queue_poll`?
 
 1. Corgi add progress #108 on assignment 2, CSC 369♥♥
     - Corgi working on `msg_queue_poll` #6
+        - Corgi working on helper function `subscribe_to_events`
         - Corgi working on helper function `moe_events_field_in_a_pollfd_entry_is_valid`
         - Corgi completed helper function `moe_no_events_are_subscribed_to`
         - Corgi completed adding pseducodoe
