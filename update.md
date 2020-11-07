@@ -40,18 +40,20 @@ Deadline: November 18th, 2020
         - (x): `moe_all_writer_handles_closed`
         - (x): `moe_reader_buffer_is_small`
     - ( ): `msg_queue_write()`
-        - (x): `moe_queue_handle_non_blocking`
-        - ( ): `moe_all_reader_handles_closed`
-        - ( ): `moe_has_enough_free_space`
-        - ( ): `moe_has_writers`
+        - (x): `moe_is_queue_handle_non_blocking`
+        - (x): `moe_all_reader_handles_closed`
+        - (x): `moe_has_enough_free_space`
+        - (x): `moe_has_writers`
+        - ( ): `moe_write_would_block`
 - ( ) Part 2: Complete `msg_queue_poll()`
     - ( ): `msg_queue_poll()`
 - ( ): Miscellaneous requirements
     - ( ): You must use synchronization function provided in `sync.c`
     - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
-1. Corgi add progress #96 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_write` #4
+1. Corgi add progress #97 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_write` #5
+        - Corgi working on function `moe_write_would_block`
         - Corgi adding missing functions and logics
     - Corgi completed adding code to `msg_queue_read`
         - Corgi improved helper function `moe_message_queue_is_empty`
