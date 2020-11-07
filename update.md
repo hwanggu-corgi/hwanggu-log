@@ -1,5 +1,8 @@
 ### November 7th, 2020
 
+#### Resume and career
+[ ]: Load hyungmogu.com via github pages
+
 #### Assignment 2
 
 Deadline: November 18th, 2020
