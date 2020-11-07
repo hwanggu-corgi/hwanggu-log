@@ -58,7 +58,9 @@ Deadline: November 18th, 2020
     - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
 - Questions to ask on monday to professor:
-    - What fields can be written to events in `msg_queue_pollfd`
+    - What fields are written to `events` in `msg_queue_pollfd`
+    - What fields are written to `revents` in `msg_queue_pollfd`
+    - How do we subscribe to events in `msg_queue_poll` without knowing what events we are subscribing to? There is no argument/parameter related to target events in here.
 
 1. Corgi add progress #108 on assignment 2, CSC 369♥♥
     - Corgi working on `msg_queue_poll` #6
