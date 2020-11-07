@@ -496,13 +496,7 @@ Deadline: November 18th, 2020
 3. Corgi completed reviewing lecture 11, over♥♥
     - Corgi completed reviewing lecture video [25:58 / 44:28] [slide 11 of 15]
     - Corgi working on slides `Condition variable example` [15 of 15]
-3. Corgi completed exercise 8, CSC 369♥♥
-    - Corgi completed question 6
-    - Corgi completed question 5
-    - Corgi completed question 4
-    - Corgi completed question 3
-    - Corgi completed question 2
-    - Corgi completed question 1
+3. Corgi completed exercise 8 - `` for CSC 369
 
 ### October 21st, 2020
 2. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`

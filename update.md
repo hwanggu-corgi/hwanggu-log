@@ -1,6 +1,7 @@
 ### November 8th, 2020
 
 #### Resume and career
+- ( ): Attend career counseling with Marion Kang from 5:00 AM to 5:20 AM on November 10th, 2020
 - ( ): Finish updating README.md part of hwanggu log
     - ( ): Upload to hyungmogu github account
     - ( ): Fill missing parts
@@ -39,7 +40,7 @@ Deadline: November 18th, 2020
         - (x): `moe_message_queue_is_empty`
         - (x): `moe_all_writer_handles_closed`
         - (x): `moe_reader_buffer_is_small`
-    - ( ): `msg_queue_write()`
+    - (x): `msg_queue_write()`
         - (x): `moe_is_queue_handle_non_blocking`
         - (x): `moe_all_reader_handles_closed`
         - (x): `moe_has_enough_free_space`
@@ -58,8 +59,9 @@ Deadline: November 18th, 2020
         - Corgi completed writing helper `moe_write_would_block`
     - Corgi completed adding code to `msg_queue_read`
         - Corgi improved helper function `moe_message_queue_is_empty`
-2. [on hold] Corgi working on adding list of accomplishment to README.md #3♥♥
-    - Completed October 21ts, 2020 [will come back after this]
+2. Corgi working on adding list of accomplishment to README.md #3♥♥
+    - Working on October 21st, 2020
+    - Completed October 21st, 2020
     - Completed October 20th, 2020
     - Completed October 19th, 2020
 
