@@ -44,17 +44,17 @@ Deadline: November 18th, 2020
         - (x): `moe_all_reader_handles_closed`
         - (x): `moe_has_enough_free_space`
         - (x): `moe_has_writers`
-        - ( ): `moe_write_would_block`
+        - (x): `moe_write_would_block`
 - ( ) Part 2: Complete `msg_queue_poll()`
     - ( ): `msg_queue_poll()`
 - ( ): Miscellaneous requirements
     - ( ): You must use synchronization function provided in `sync.c`
     - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
-1. Corgi add progress #99 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_write` #6
-        - Corgi completed writing helper `moe_write_would_block`
+1. Corgi add progress #100 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_write` #7
         - Corgi adding missing functions and logics
+        - Corgi completed writing helper `moe_write_would_block`
     - Corgi completed adding code to `msg_queue_read`
         - Corgi improved helper function `moe_message_queue_is_empty`
 2. [on hold] Corgi working on adding list of accomplishment to README.md #3♥♥
