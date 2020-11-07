@@ -21,9 +21,11 @@
         - ( ): October 26th, 2020
         - ( ): October 25th, 2020
         - ( ): October 24th, 2020
-        - (x): October 23rd, 2020
-        - (x): October 22nd, 2020
+        - ( ): October 23rd, 2020
+        - ( ): October 22nd, 2020
         - (x): October 21st, 2020
+        - (x): October 20th, 2020
+        - (x): October 19th, 2020
 - ( ): Load hyungmogu.com via github pages
 
 #### Assignment 2
@@ -51,8 +53,8 @@ Deadline: November 18th, 2020
     - ( ): You must use synchronization function provided in `sync.c`
     - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
-1. Corgi add progress #104 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #2
+1. Corgi add progress #105 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #3
         - corgi adding pseducodoe
     - Corgi completed working on `msg_queue_open`
         - Corgi completed checking and adding missing functions and logics
@@ -63,7 +65,7 @@ Deadline: November 18th, 2020
     - Corgi completed adding code to `msg_queue_read`
         - Corgi improved helper function `moe_message_queue_is_empty`
 2. Corgi working on adding list of accomplishment to README.md #3♥♥
-    - Working on October 21st, 2020
+    - Working on October 22nd, 2020
     - Completed October 21st, 2020
     - Completed October 20th, 2020
     - Completed October 19th, 2020
