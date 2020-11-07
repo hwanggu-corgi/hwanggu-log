@@ -505,12 +505,11 @@ Deadline: November 18th, 2020
     - Corgi completed question 1
 
 ### October 21st, 2020
-1. Corgi 바나나 당 충전 완료♥♥!!
-2. Corgi add progress #12 on lecture review♥♥
+1. Corgi add progress #12 on lecture review♥♥
     - Corgi reviewing lecture 11, over♥♥
         - Corgi on slide `Condition Variables` [12 of 15]
         - Corgi completed defining big definitions in week6/lecture_11_notes.pdf
-3. [on hold] Corgi add progress #267 in csc-369-assignment-1♥♥
+2. [on hold] Corgi add progress #267 in csc-369-assignment-1♥♥
     - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
         - Corgi working on adding code #85
             - Corgi working on helper function [7 of 12] `set_directory_entry`
@@ -531,40 +530,29 @@ Deadline: November 18th, 2020
                 - Corgi completed adding codes to test functions
 
 ### October 20th, 2020
-1. Corgi add progress #238 in csc-369-assignment-1♥♥
-    - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
-        - Corgi working on adding code #58
-            - Corgi working on helper function [5 of 12] `get_parent_path`
-                - Corgi adding codes to function
-                - Corgi completed adding codes to test functions
-            - Corgi working on helper function [4 of 12] `get_free_inode`
-                - Corgi adding function description
-                - Corgi completed adding codes to function
-                - Corgi completed adding codes to test functions [2 of 2]
-                - Corgi completed fixing missing argument `superblock`
-                - Corgi completed fixing out of bound return value error
-            - Corgi completed helper function [3 of 12] `set_data_bitmap`
-                - Corgi completed adding function description
-                - Corgi completed adding codes to function
-                - Corgi completed adding codes to test functions
-            - Corgi completed helper function [2 of 12] `set_inode_bitmap`
-                - Corgi completed adding function description
-                - Corgi completed correcting compile errors
-                - Corgi completed adding codes to function
-                - Corgi completed adding codes to test functions
+1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
+    - Creating system call `a1fs_mkdir`
+        - Added helper function `set_data_bitmap` [3 of 12]
+        - Added helper function `set_inode_bitmap` [2 of 12]
+            - Added function description
+            - Added test functions to make sure function is working as it should
+            - Performed tests and corrected the function to make sure it is working as it should
+            - Fixed compile errors
+            - Added codes to function and test functions
+            - Added codes to test functions
 
 ### October 19th, 2020
 1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
-    - `a1fs_mkdir` in `a1fs.c`
-        - Developed helper function `initialize_directory_entries`
-            - Performed tests and correcting the function to make sure it is working as it should
+    - Creating system call `a1fs_mkdir`
+        - Added helper function `initialize_directory_entries` [1 of 12]
+            - Performed tests and corrected the function to make sure it is working as it should
             - Added test functions to make sure function is working as it should
             - Corrected compile errors
             - Added function description
             - Fixed `expression must be a modifiable lvalue` error
 
 ### October 18th, 2020
-1. Worked on csc-369-assignment-1(
+1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
     - Completed uploading following codes to haminthecoder/csc369 for review
         - fs_ctx.c
         - mkfs.c
@@ -574,7 +562,7 @@ Deadline: November 18th, 2020
         - Completed setting up test functions
 
 ### October 17th, 2020
-1. Worked on csc-369-assignment-1
+1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
     - Worked on fs_ctx_init in fs_ctx.c
     - Worked on fixing mkfs.c under review suggestion from hamin
         - Organizing and commenting declared varibles
@@ -640,14 +628,14 @@ Deadline: November 18th, 2020
         - completed solving questions in exercise 3
         - completed solving questions in exercise 2
         - completed solving questions in exercise 1
-2. Worked on csc-369-assignment-1
+2. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
     - completed uploading mkfs.c to haminthecoder/csc369
     - completed refactoring testing program
     - completed mkfs, over
     - completed a1fs_is_present
 
 ### October 13th, 2020
-1. Worked on csc-369-assignment-1
+1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
     - Worked on setting up tests for a1fs_is_present
     - Completed working on create_root_directory
     - Completed working on get_free_inode

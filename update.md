@@ -2,6 +2,8 @@
 
 #### Resume and career
 - [ ]: Finish updating README.md part of hwanggu log
+    - [ ]: Upload to hyungmogu github account
+    - [ ]: Fill missing parts
 - [ ]: Load hyungmogu.com via github pages
 
 #### Assignment 2
@@ -27,6 +29,8 @@ Deadline: November 18th, 2020
 
 
 1. Corgi working on adding list of accomplishment to README.md #2
+    - Working on October 20th, 2020
+    - Completed October 19th, 2020
 
 ### November 7th, 2020
 
