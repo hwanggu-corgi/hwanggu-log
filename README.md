@@ -3,28 +3,28 @@
 ### November 7th, 2020
 
 #### Resume and career
-- [ ]: Load hyungmogu.com via github pages
+- ( ): Load hyungmogu.com via github pages
 
 #### Assignment 2
 
 Deadline: November 18th, 2020
 
-- [ ] Part 1: Complete the functions in `msg_queue.c` with the exception of `msg_queue_poll()`
-    - [ ]: `msg_queue_open()`
-    - [ ]: `msg_queue_close()`
-    - [ ]: `msg_queue_read()`
-        - [x]: `moe_reader_queue_handle_non_blocking`
-        - [x]: `moe_read_would_block`
-        - [x]: `moe_get_message_size`
-        - [ ]: `moe_message_queue_is_empty`
-        - [x]: `moe_all_writer_handles_closed
-        - [x]: `moe_reader_buffer_is_small`
-    - [ ]: `msg_queue_write()`
-- [ ] Part 2: Complete `msg_queue_poll()`
-    - [ ]: `msg_queue_poll()`
-- [ ]: Miscellaneous requirements
-    - [ ]: You must use synchronization function provided in `sync.c`
-    - [ ]: You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
+- ( ) Part 1: Complete the functions in `msg_queue.c` with the exception of `msg_queue_poll()`
+    - ( ): `msg_queue_open()`
+    - ( ): `msg_queue_close()`
+    - ( ): `msg_queue_read()`
+        - (x): `moe_reader_queue_handle_non_blocking`
+        - (x): `moe_read_would_block`
+        - (x): `moe_get_message_size`
+        - ( ): `moe_message_queue_is_empty`
+        - (x): `moe_all_writer_handles_closed
+        - (x): `moe_reader_buffer_is_small`
+    - ( ): `msg_queue_write()`
+- ( ) Part 2: Complete `msg_queue_poll()`
+    - ( ): `msg_queue_poll()`
+- ( ): Miscellaneous requirements
+    - ( ): You must use synchronization function provided in `sync.c`
+    - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
 1. Corgi working on uploading hyungmogu.com to github pages
 
@@ -68,16 +68,16 @@ Deadline: November 18th, 2020
 
 Deadline: November 18th, 2020
 
-- [ ] Part 1: Complete the functions in `msg_queue.c` with the exception of `msg_queue_poll()`
-    - [ ]: `msg_queue_open()`
-    - [ ]: `msg_queue_close()`
-    - [ ]: `msg_queue_read()`
-    - [ ]: `msg_queue_write()`
-- [ ] Part 2: Complete `msg_queue_poll()`
-    - [ ]: `msg_queue_poll()`
-- [ ]: Miscellaneous requirements
-    - [ ]: You must use synchronization function provided in `sync.c`
-    - [ ]: You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
+- ( ) Part 1: Complete the functions in `msg_queue.c` with the exception of `msg_queue_poll()`
+    - ( ): `msg_queue_open()`
+    - ( ): `msg_queue_close()`
+    - ( ): `msg_queue_read()`
+    - ( ): `msg_queue_write()`
+- ( ) Part 2: Complete `msg_queue_poll()`
+    - ( ): `msg_queue_poll()`
+- ( ): Miscellaneous requirements
+    - ( ): You must use synchronization function provided in `sync.c`
+    - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
 - Corgi need to ask following questions tomorrow♥♥
     - Under which situation we want to add synchronization to `msq_queue_close` and `msq-queue_open`?
@@ -117,16 +117,16 @@ Deadline: November 18th, 2020
 
 Deadline: November 18th, 2020
 
-- [ ] Part 1: Complete the functions in `msg_queue.c` with the exception of `msg_queue_poll()`
-    - [ ]: `msg_queue_open()`
-    - [ ]: `msg_queue_close()`
-    - [ ]: `msg_queue_read()`
-    - [ ]: `msg_queue_write()`
-- [ ] Part 2: Complete `msg_queue_poll()`
-    - [ ]: `msg_queue_poll()`
-- [ ]: Miscellaneous requirements
-    - [ ]: You must use synchronization function provided in `sync.c`
-    - [ ]: You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
+- ( ) Part 1: Complete the functions in `msg_queue.c` with the exception of `msg_queue_poll()`
+    - ( ): `msg_queue_open()`
+    - ( ): `msg_queue_close()`
+    - ( ): `msg_queue_read()`
+    - ( ): `msg_queue_write()`
+- ( ) Part 2: Complete `msg_queue_poll()`
+    - ( ): `msg_queue_poll()`
+- ( ): Miscellaneous requirements
+    - ( ): You must use synchronization function provided in `sync.c`
+    - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
 1. Corgi add progress #58 on assignment 2, CSC 369♥♥
     - Corgi working on adding code to `msg_queue_read` #12
@@ -163,16 +163,16 @@ Deadline: November 18th, 2020
 
 Deadline: November 18th, 2020
 
-- [ ] Part 1: Complete the functions in `msg_queue.c` with the exception of `msg_queue_poll()`
-    - [ ]: `msg_queue_open()`
-    - [ ]: `msg_queue_close()`
-    - [ ]: `msg_queue_read()`
-    - [ ]: `msg_queue_write()`
-- [ ] Part 2: Complete `msg_queue_poll()`
-    - [ ]: `msg_queue_poll()`
-- [ ]: Miscellaneous requirements
-    - [ ]: You must use synchronization function provided in `sync.c`
-    - [ ]: You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
+- ( ) Part 1: Complete the functions in `msg_queue.c` with the exception of `msg_queue_poll()`
+    - ( ): `msg_queue_open()`
+    - ( ): `msg_queue_close()`
+    - ( ): `msg_queue_read()`
+    - ( ): `msg_queue_write()`
+- ( ) Part 2: Complete `msg_queue_poll()`
+    - ( ): `msg_queue_poll()`
+- ( ): Miscellaneous requirements
+    - ( ): You must use synchronization function provided in `sync.c`
+    - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
 1. Corgi add progress #33 on assignment 2, CSC 369♥♥
     - Corgi working on adding code to `msg_queue_open` #8
@@ -190,16 +190,16 @@ Deadline: November 18th, 2020
 1. Corgi add progress #5 on assignment 2, CSC 369♥♥
     - Corgi working on making checklist #4♥♥
         - Deadline: November 18th, 2020
-            - [ ] Part 1: Complete the functions in `msg_queue.c` with the exception of `msg_queue_poll()`
-                - [ ]: `msg_queue_open()`
-                - [ ]: `msg_queue_close()`
-                - [ ]: `msg_queue_read()`
-                - [ ]: `msg_queue_write()`
-            - [ ] Part 2: Complete `msg_queue_poll()`
-                - [ ]: `msg_queue_poll()`
-            - [ ]: Miscellaneous requirements
-                - [ ]: You must use synchronization function provided in `sync.c`
-                - [ ]: You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
+            - ( ) Part 1: Complete the functions in `msg_queue.c` with the exception of `msg_queue_poll()`
+                - ( ): `msg_queue_open()`
+                - ( ): `msg_queue_close()`
+                - ( ): `msg_queue_read()`
+                - ( ): `msg_queue_write()`
+            - ( ) Part 2: Complete `msg_queue_poll()`
+                - ( ): `msg_queue_poll()`
+            - ( ): Miscellaneous requirements
+                - ( ): You must use synchronization function provided in `sync.c`
+                - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
     - Corgi completed adding file
 2. Corgi completed reviewing lecture 15 for CSC 369♥♥
@@ -513,11 +513,9 @@ Deadline: November 18th, 2020
             - Performed tests and corrected the function to make sure it is working as it should
 
         - Added helper function [5 of 12] `get_parent_path`
-            - Cleaned code
-            - Fixed `segmentation error` in code
-            - Fixed compilation errors
-            - Added codes to function
-            - Added codes to test functions
+            - Added codes and function description
+            - Added test functions to make sure function is working as it should
+            - Performed tests and corrected the function to make sure it is working as it should
 
 ### October 20th, 2020
 1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
