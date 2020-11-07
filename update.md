@@ -10,7 +10,7 @@ Deadline: November 18th, 2020
     - [ ]: `msg_queue_read()`
         - [x]: `moe_reader_queue_handle_non_blocking`
         - [x]: `moe_read_would_block`
-        - [ ]: `moe_get_message_size`
+        - [x]: `moe_get_message_size`
         - [ ]: `moe_message_queue_is_empty`
         - [ ]: `moe_all_writer_handles_closed
         - [ ]: `moe_buffer_is_too_small`
@@ -26,7 +26,7 @@ Deadline: November 18th, 2020
     - Corgi working on adding code to `msg_queue_read` #22
         - Corgi adding code
             - Moe corgi piecing puzzles
-        - Corgi working on creating helper function `moe_get_message_size` #2
+        - Corgi completed creating helper function `moe_get_message_size`
         - Corgi completed creating helper function `moe_read_would_block`
         - Corgi completed creating helper function `moe_queue_handle_non_blocking`
     - Corgi working on adding code to `msg_queue_close` #10
