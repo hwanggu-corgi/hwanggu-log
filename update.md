@@ -49,7 +49,7 @@ Deadline: November 18th, 2020
         - (x): `moe_has_writers`
         - (x): `moe_write_would_block`
 - ( ) Part 2: Complete `msg_queue_poll()`
-    - ( ): `moe_no_events_are_subscribed_to`
+    - (x): `moe_no_events_are_subscribed_to`
     - ( ): `moe_events_field_in_a_pollfd_entry_is_valid`
     - ( ): `moe_subscribe_to_events`
     - ( ): `moe_requested_events_on_any_queue_already_triggered`
@@ -57,10 +57,14 @@ Deadline: November 18th, 2020
     - ( ): You must use synchronization function provided in `sync.c`
     - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
-1. Corgi add progress #107 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #5
-        - Corgi completed helper function ``
-        - Corgi adding pseducodoe
+- Questions to ask on monday to professor:
+    - What fields can be written to events in `msg_queue_pollfd`
+
+1. Corgi add progress #108 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #6
+        - Corgi working on helper function `moe_events_field_in_a_pollfd_entry_is_valid`
+        - Corgi completed helper function `moe_no_events_are_subscribed_to`
+        - Corgi completed adding pseducodoe
     - Corgi completed working on `msg_queue_open`
         - Corgi completed checking and adding missing functions and logics
     - Corgi completed adding code to `msg_queue_write`
