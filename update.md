@@ -8,8 +8,8 @@ Deadline: November 18th, 2020
     - [ ]: `msg_queue_open()`
     - [ ]: `msg_queue_close()`
     - [ ]: `msg_queue_read()`
-        - [ ]: `moe_reader_queue_handle_non_blocking`
-        - [ ]: `moe_read_would_block`
+        - [x]: `moe_reader_queue_handle_non_blocking`
+        - [x]: `moe_read_would_block`
         - [ ]: `moe_get_message_size`
         - [ ]: `moe_message_queue_is_empty`
         - [ ]: `moe_all_writer_handles_closed
@@ -21,19 +21,13 @@ Deadline: November 18th, 2020
     - [ ]: You must use synchronization function provided in `sync.c`
     - [ ]: You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
-- Corgi completed asking following questions in tutorial♥♥
-    - Under which situation we want to add synchronization to `msq_queue_close` and `msq-queue_open`?
-    - How do we know queue handle is non-blocking and the write would block?
-    - How to read the size of the message
-    - How to read the length bytes from the buffer
-    - How to write the size of the message
-    - How to write length bytes from the buffer
 
-1. Corgi add progress #86 on assignment 2, CSC 369♥♥
-    - Corgi working on adding code to `msg_queue_read` #20
+1. Corgi add progress #88 on assignment 2, CSC 369♥♥
+    - Corgi working on adding code to `msg_queue_read` #22
         - Corgi adding code
             - Moe corgi piecing puzzles
-        - Corgi creating helper function `moe_read_would_block`
+        - Corgi working on creating helper function `moe_get_message_size`
+        - Corgi completed creating helper function `moe_read_would_block`
         - Corgi completed creating helper function `moe_queue_handle_non_blocking`
     - Corgi working on adding code to `msg_queue_close` #10
         - Corgi adding helper function `moe_get_message_size`
@@ -52,6 +46,14 @@ Deadline: November 18th, 2020
     - Corgi completed working on question 3♥♥
     - Corgi completed working on question 2♥♥
     - Corgi completed working on question 1♥♥
+5. Corgi completed asking following questions in tutorial♥♥
+    - Under which situation we want to add synchronization to `msq_queue_close` and `msq-queue_open`?
+    - How do we know queue handle is non-blocking and the write would block?
+    - How to read the size of the message
+    - How to read the length bytes from the buffer
+    - How to write the size of the message
+    - How to write length bytes from the buffer
+
 
 ### November 6th, 2020
 
