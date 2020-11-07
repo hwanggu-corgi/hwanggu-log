@@ -1,3 +1,33 @@
+### November 8th, 2020
+
+#### Resume and career
+- [ ]: Finish updating README.md part of hwanggu log
+- [ ]: Load hyungmogu.com via github pages
+
+#### Assignment 2
+
+Deadline: November 18th, 2020
+
+- [ ] Part 1: Complete the functions in `msg_queue.c` with the exception of `msg_queue_poll()`
+    - [ ]: `msg_queue_open()`
+    - [ ]: `msg_queue_close()`
+    - [ ]: `msg_queue_read()`
+        - [x]: `moe_reader_queue_handle_non_blocking`
+        - [x]: `moe_read_would_block`
+        - [x]: `moe_get_message_size`
+        - [ ]: `moe_message_queue_is_empty`
+        - [x]: `moe_all_writer_handles_closed
+        - [x]: `moe_reader_buffer_is_small`
+    - [ ]: `msg_queue_write()`
+- [ ] Part 2: Complete `msg_queue_poll()`
+    - [ ]: `msg_queue_poll()`
+- [ ]: Miscellaneous requirements
+    - [ ]: You must use synchronization function provided in `sync.c`
+    - [ ]: You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
+
+
+1. Corgi working on adding list of accomplishment to README.md
+
 ### November 7th, 2020
 
 #### Resume and career
@@ -24,8 +54,9 @@ Deadline: November 18th, 2020
     - [ ]: You must use synchronization function provided in `sync.c`
     - [ ]: You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
+1. Corgi working on uploading hyungmogu.com to github pages
 
-1. Corgi add progress #89 on assignment 2, CSC 369♥♥
+2. Corgi add progress #89 on assignment 2, CSC 369♥♥
     - Corgi working on adding code to `msg_queue_read` #22
         - Corgi adding code
             - Moe corgi piecing puzzles
@@ -42,15 +73,15 @@ Deadline: November 18th, 2020
     - Corgi working on adding code to `msg_queue_write` #8
         - Corgi adding code
         - Corgi adding pesudocode
-2. Corgi working on adding list of accomplishment to README.md
-3. Corgi back♥♥ from 띠에뚜띠 369 tutorial♥♥
+3. Corgi working on adding list of accomplishment to README.md
+4. Corgi back♥♥ from 띠에뚜띠 369 tutorial♥♥
     - Corgi asked lots of questions to TA♥♥
-4. Corgi completed Tutorial 8 - Scheduling♥♥
+5. Corgi completed Tutorial 8 - Scheduling♥♥
     - Corgi completed checking solution♥♥
     - Corgi completed working on question 3♥♥
     - Corgi completed working on question 2♥♥
     - Corgi completed working on question 1♥♥
-5. Corgi completed asking following questions in tutorial♥♥
+6. Corgi completed asking following questions in tutorial♥♥
     - Under which situation we want to add synchronization to `msq_queue_close` and `msq-queue_open`?
     - How do we know queue handle is non-blocking and the write would block?
     - How to read the size of the message
