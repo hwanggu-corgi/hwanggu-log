@@ -477,7 +477,7 @@ Deadline: November 18th, 2020
     - Creating system call `a1fs_mkdir`
         - Corgi completed helper function [6 of 12] `get_parent_path`
 
-2. Corgi completed exercise 8 - `Locks and Condition Variables` for CSC 369
+2. Finished solving problems in exercise 8 - `Locks and Condition Variables` for CSC 369
 
 ### October 21st, 2020
 1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`

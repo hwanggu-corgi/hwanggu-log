@@ -22,7 +22,7 @@
         - ( ): October 25th, 2020
         - ( ): October 24th, 2020
         - ( ): October 23rd, 2020
-        - ( ): October 22nd, 2020
+        - (x): October 22nd, 2020
         - (x): October 21st, 2020
         - (x): October 20th, 2020
         - (x): October 19th, 2020
@@ -69,9 +69,10 @@ Deadline: November 18th, 2020
     - How do we subscribe to events in `msg_queue_poll` without knowing what events we are subscribing to? There is no argument/parameter related to target events in here.
     - How do we subscribe to events in `msg_queue_poll`?
 
-1. Corgi add progress #5 on creating application for NHN 고도♥♥
-    - Corgi working on Step 2: 지원정보 입력 #5♥♥
+1. Corgi add progress #7 on creating application for NHN 고도♥♥
+    - Corgi working on Step 2: 지원정보 입력 #7♥♥
         - Corgi working on NHN godo의 SW개발 직무에 본인이 선발되어야 하는 이유에 대해 강점을 기반으로 기재해 주세요.
+            - Corgi working on draft 2♥♥!!
             - Corgi completed draft 1♥♥!!
     - Corgi completed Step 1: 기본 인적사항
 2. Corgi add progress #111 on assignment 2, CSC 369♥♥
