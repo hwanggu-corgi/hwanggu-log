@@ -392,8 +392,8 @@ Deadline: November 18th, 2020
             - Corgi completed fixing `segmentation fault` error in `get_free_inode`
         - Corgi completed adding test to this function♥♥
 ### October 25th, 2020
-1. Corgi add progress #385 in assignment 1, CSC 369♥♥
-    - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
+1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
+    - Creating system call `a1fs_mkdir`
         - Corgi working on adding test to this function♥♥
         - Corgi working on adding code #199
             - Corgi working on this function♥♥
