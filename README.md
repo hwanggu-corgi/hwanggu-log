@@ -473,33 +473,14 @@ Deadline: November 18th, 2020
 4. Corgi completed meeting with hamin [4:00 AM ~ 4:25 AM]
 
 ### October 22nd, 2020
-1. Corgi add progress #275 in assignment 1, CSC 369♥♥
-    - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
-        - Corgi working on adding code #95
-            - Corgi working on helper function [7 of 12] `set_directory_entry`
-                - Corgi adding codes to function
-                    - Corgi writing code for the main case
-                - Corgi completed fixing compilation error for test functions
-                - Corgi completed creating test function [2 of 2]
+1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
+    - Creating system call `a1fs_mkdir`
+        - Corgi completed helper function [6 of 12] `get_parent_path`
 
-            - [on hold] Corgi working on helper function [6 of 12] `get_directory_entry`
-                - Corgi learned that set_directory_entry must be done first before get_directory_entry :(
-
-                - Corgi adding codes to function
-                - Corgi creating test functions #3
-            - Corgi completed helper function [5 of 12] `get_parent_path`
-                - Corgi completed cleaning code
-                - Corgi completed fixing `segmentation error` in code
-                - Corgi completed fixing compilation errors
-                - Corgi completed adding codes to function
-                - Corgi completed adding codes to test functions
-3. Corgi completed reviewing lecture 11, over♥♥
-    - Corgi completed reviewing lecture video [25:58 / 44:28] [slide 11 of 15]
-    - Corgi working on slides `Condition variable example` [15 of 15]
-3. Corgi completed exercise 8 - `` for CSC 369
+2. Corgi completed exercise 8 - `Locks and Condition Variables` for CSC 369
 
 ### October 21st, 2020
-2. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
+1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
     - Creating system call `a1fs_mkdir`
         - Added helper function [4 of 12] `set_directory_entry`
             - Added codes and function description
