@@ -69,8 +69,8 @@ Deadline: November 18th, 2020
     - How do we subscribe to events in `msg_queue_poll` without knowing what events we are subscribing to? There is no argument/parameter related to target events in here.
     - How do we subscribe to events in `msg_queue_poll`?
 
-1. Corgi add progress #29 on creating application for NHN 고도♥♥
-    - Corgi working on Step 2: 지원정보 입력 #29♥♥
+1. Corgi add progress #30 on creating application for NHN 고도♥♥
+    - Corgi working on Step 2: 지원정보 입력 #30♥♥
         - Corgi working on NHN godo의 SW개발 직무에 본인이 어야 하는 이유에 대해 강점을 기반으로 기재해 주세요.
             - Corgi working on draft 3♥♥
             - Corgi sending draft 2 for quick review♥♥
