@@ -439,26 +439,21 @@ Deadline: November 18th, 2020
             - Corgi completed fixing helper function `set_root_dir` in `04_a1fs/helper_a1fs.c`
             - Corgi completed fixing helper function `set_data_bitmap` in `04_a1fs/helper_a1fs.c`
             - Corgi completed fixing helper function `set_inode_bitmap` in `04_a1fs/helper_a1fs.c`
-            - Corgi completed moving updated functions from `02_mkfs/helper_mkfs.c` to `04_a1fs/helper_a1fs.c`
             - Corgi completed fixing compilation error for `mkfs` tests
             - Corgi completed adding additional test functions for `mkfs` to double check creation of root directory
             - Corgi completed fixing instructions for creating root directory in `mkfs`
             - Corgi completed helper function [9 of 12] `get_free_blocks`
-                - Corgi completed fixing `assertion failed: (res_get_free_blocks == 2))` error
 
-2. Corgi completed breakfast with parents [7:12 AM ~ 7:25 AM]♥♥
 
 ### October 23rd, 2020
 1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
     - Creating system call `a1fs_mkdir`
-        - Corgi completed working on helper function [8 of 12] `create_new_extent`
-        - Corgi working on helper function [7 of 12] `set_directory_entry`
-
+        - Added helper function [9 of 12] `create_new_extent`
 
 ### October 22nd, 2020
 1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
     - Creating system call `a1fs_mkdir`
-        - Corgi completed helper function [6 of 12] `get_parent_path`
+        - Added helper function [6 of 12] `get_parent_path`
 
 2. Finished solving problems in exercise 8 - `Locks and Condition Variables` for CSC 369
 
