@@ -427,21 +427,18 @@ Deadline: November 18th, 2020
         - Corgi working on helper function [6 of 12] `get_directory_entry`
             - Corgi adding codes to function
             - Corgi creating test functions [2 of 2]
-        - Corgi completed working on helper function [10 of 12] `initialize_extent_block`
-            - Corgi completed fixing function
-            - Corgi completed working on writing test functions
-            - Corgi completed adding code to function
-        - Corgi completed fixing incorrect value of `superblock->s_blocks_count` in  function `setup_superblock`
-        - Corgi completed fixing helper function `initialize_directory_entries` in `04_a1fs/helper_a1fs.c`
-        - Corgi completed retesting modified functions in `04_a1fs/helper_a1fs.c`
-        - Corgi completed fixing compilation error
-        - Corgi completed fixing helper function `set_root_dir` in `04_a1fs/helper_a1fs.c`
-        - Corgi completed fixing helper function `set_data_bitmap` in `04_a1fs/helper_a1fs.c`
-        - Corgi completed fixing helper function `set_inode_bitmap` in `04_a1fs/helper_a1fs.c`
-        - Corgi completed fixing compilation error for `mkfs` tests
-        - Corgi completed adding additional test functions for `mkfs` to double check creation of root directory
-        - Corgi completed fixing instructions for creating root directory in `mkfs`
-        - Corgi completed helper function [9 of 12] `get_free_blocks`
+        - Added helper function [10 of 12] `initialize_extent_block`
+        - Completed fixing incorrect value of `superblock->s_blocks_count` in  function `setup_superblock`
+        - Completed fixing helper function `initialize_directory_entries` in `04_a1fs/helper_a1fs.c`
+        - Completed retesting modified functions in `04_a1fs/helper_a1fs.c`
+        - Completed fixing compilation error
+        - Completed fixing helper function `set_root_dir` in `04_a1fs/helper_a1fs.c`
+        - Completed fixing helper function `set_data_bitmap` in `04_a1fs/helper_a1fs.c`
+        - Completed fixing helper function `set_inode_bitmap` in `04_a1fs/helper_a1fs.c`
+        - Completed fixing compilation error for `mkfs` tests
+        - Completed adding additional test functions for `mkfs` to double check creation of root directory
+        - Completed fixing instructions for creating root directory in `mkfs`
+        - Added helper function [9 of 12] `get_free_blocks`
 
 
 ### October 23rd, 2020
