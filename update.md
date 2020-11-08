@@ -1,3 +1,85 @@
+### November 9th, 2020
+
+#### Resume and career
+- ( ): Attend career counseling with Marion Kang from 5:00 AM to 5:20 AM on November 10th, 2020
+- ( ): Finish updating README.md part of hwanggu log
+    - ( ): Upload to hyungmogu github account
+    - ( ): Fill missing parts
+        - ( ): November 8th, 2020
+        - ( ): November 7th, 2020
+        - ( ): November 6th, 2020
+        - ( ): November 5th, 2020
+        - ( ): November 4th, 2020
+        - ( ): November 3rd, 2020
+        - ( ): November 2nd, 2020
+        - ( ): November 1st, 2020
+        - ( ): October 31st, 2020
+        - ( ): October 30th, 2020
+        - ( ): October 29th, 2020
+        - ( ): October 28th, 2020
+        - ( ): October 27th, 2020
+        - ( ): October 26th, 2020
+        - ( ): October 25th, 2020
+        - ( ): October 24th, 2020
+        - ( ): October 23rd, 2020
+        - (x): October 22nd, 2020
+        - (x): October 21st, 2020
+        - (x): October 20th, 2020
+        - (x): October 19th, 2020
+- ( ): Apply for NHN 고도 (Due: November 16th, 2020)
+    - https://job.incruit.com/jobdb_info/jobpost.asp?job=2011050002005
+    - (x): STEP 1 - 기본 인적사항
+    - ( ): STEP 2 - 지원정보 입력
+        - ( ): NHN godo의 SW개발 직무에 본인이 선발되어야 하는 이유에 대해 강점을 기반으로 기재해 주세요. (필수)
+        - ( ): 본인의 개발 산출물을 기록해 놓은 블로그, 포트폴리오, 깃허브 등 URL을 기재해 주세요. (없다면 작성하지 않으셔도 됩니다) (선택)
+- ( ): Load hyungmogu.com via github pages
+
+#### Assignment 2
+
+Deadline: November 18th, 2020
+
+- ( ) Part 1: Complete the functions in `msg_queue.c` with the exception of `msg_queue_poll()`
+    - (x): `msg_queue_open()`
+    - ( ): `msg_queue_close()`
+    - (x): `msg_queue_read()`
+        - (x): `moe_queue_handle_non_blocking`
+        - (x): `moe_read_would_block`
+        - (x): `moe_get_message_size`
+        - (x): `moe_message_queue_is_empty`
+        - (x): `moe_all_writer_handles_closed`
+        - (x): `moe_reader_buffer_is_small`
+    - (x): `msg_queue_write()`
+        - (x): `moe_is_queue_handle_non_blocking`
+        - (x): `moe_all_reader_handles_closed`
+        - (x): `moe_has_enough_free_space`
+        - (x): `moe_has_writers`
+        - (x): `moe_write_would_block`
+- ( ) Part 2: Complete `msg_queue_poll()`
+    - (x): `moe_no_events_are_subscribed_to`
+    - (x): `moe_events_field_in_a_pollfd_entry_is_valid`
+    - ( ): `moe_subscribe_to_events`
+    - ( ): `moe_requested_events_on_any_queue_already_triggered`
+- ( ): Miscellaneous requirements
+    - ( ): You must use synchronization function provided in `sync.c`
+    - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
+
+- Questions to ask on monday to professor:
+    - What fields are written to `events` in `msg_queue_pollfd`
+    - What fields are written to `revents` in `msg_queue_pollfd`
+    - How do we subscribe to events in `msg_queue_poll` without knowing what events we are subscribing to? There is no argument/parameter related to target events in here.
+    - How do we subscribe to events in `msg_queue_poll`?
+
+1. Corgi add progress #8 on creating application for NHN 고도♥♥
+    - Corgi working on Step 2: 지원정보 입력 #8♥♥
+        - Corgi working on NHN godo의 SW개발 직무에 본인이 선발되어야 하는 이유에 대해 강점을 기반으로 기재해 주세요.
+            - Corgi working on draft 2♥♥!!
+
+3. Corgi working on adding list of accomplishment to README.md #3♥♥
+    - Working on October 22nd, 2020
+    - Completed October 21st, 2020
+    - Completed October 20th, 2020
+    - Completed October 19th, 2020
+
 ### November 8th, 2020
 
 #### Resume and career
