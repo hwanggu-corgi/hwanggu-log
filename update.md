@@ -70,7 +70,7 @@ Deadline: November 18th, 2020
     - How do we subscribe to events in `msg_queue_poll`?
 
 1. Corgi working on application for NHN 고도
-    - Corgi working on Step 2: 지원정보 입력
+    - Corgi working on Step 2: 지원정보 입력 #2
         - Corgi working on NHN godo의 SW개발 직무에 본인이 선발되어야 하는 이유에 대해 강점을 기반으로 기재해 주세요.
     - Corgi completed Step 1: 기본 인적사항
 2. Corgi add progress #111 on assignment 2, CSC 369♥♥
