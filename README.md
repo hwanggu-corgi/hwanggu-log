@@ -449,28 +449,11 @@ Deadline: November 18th, 2020
 2. Corgi completed breakfast with parents [7:12 AM ~ 7:25 AM]♥♥
 
 ### October 23rd, 2020
-1. Corgi add progress #309 in assignment 1, CSC 369♥♥
-    - Corgi working on a1fs_mkdir in a1fs.c, over♥♥
-        - Corgi working on adding code #127
-            - Corgi working on helper function [9 of 12] `get_free_blocks`
-                - Corgi fixing create root directory in `mkfs`
-                - Corgi fixing `assertion failed: (res_get_free_blocks == 2))` error
-                - Corgi completed fixing `assertion failed: (res_get_free_blocks == -1))` error
-                - Corgi completed fixing `assertion failed: (res_get_free_blocks == 0)` error
-                - Corgi completed fixing compile errors
-                - Corgi completed writing test functions [3 of 3]
-                - Corgi completed writing function description
-                - Corgi completed writing code for the edge case
-                - Corgi completed writing code for the main case
-            - Corgi completed working on helper function [8 of 12] `create_new_extent`
-                - Corgi completed writing code for the main case
-            - Corgi working on helper function [7 of 12] `set_directory_entry`
-                - Corgi writing code for the edge case
-                - Corgi writing code for the main case
+1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
+    - Creating system call `a1fs_mkdir`
+        - Corgi completed working on helper function [8 of 12] `create_new_extent`
+        - Corgi working on helper function [7 of 12] `set_directory_entry`
 
-2. Corgi completed lunch with parents [10:10 AM ~ 10:46 AM]
-3. Corgi completed breakfast with parents [6:00 AM ~ 6:48 AM]
-4. Corgi completed meeting with hamin [4:00 AM ~ 4:25 AM]
 
 ### October 22nd, 2020
 1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
