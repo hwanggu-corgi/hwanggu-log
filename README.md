@@ -424,7 +424,7 @@ Deadline: November 18th, 2020
 ### October 24th, 2020
 1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
     - Creating system call `a1fs_mkdir`
-        - Fixed incorrect value of `superblock->s_blocks_count` in  function `setup_superblock`
+        - Fixed incorrect value of `superblock->s_blocks_count` in function `setup_superblock`
         - Fixed compilation error for `mkfs` tests
         - Added additional test functions for `mkfs` to double check creation of root directory
         - Improved function logic for creating root directory in `mkfs`
