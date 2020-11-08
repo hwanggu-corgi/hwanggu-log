@@ -424,9 +424,6 @@ Deadline: November 18th, 2020
 ### October 24th, 2020
 1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
     - Creating system call `a1fs_mkdir`
-        - Corgi working on helper function [6 of 12] `get_directory_entry`
-            - Corgi adding codes to function
-            - Corgi creating test functions [2 of 2]
         - Added helper function [10 of 12] `initialize_extent_block`
         - Completed fixing incorrect value of `superblock->s_blocks_count` in  function `setup_superblock`
         - Completed fixing helper function `initialize_directory_entries` in `04_a1fs/helper_a1fs.c`
