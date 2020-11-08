@@ -26,6 +26,12 @@
         - (x): October 21st, 2020
         - (x): October 20th, 2020
         - (x): October 19th, 2020
+- ( ): Apply for NHN 고도
+    - https://job.incruit.com/jobdb_info/jobpost.asp?job=2011050002005
+    - (x): STEP 1 - 기본 인적사항
+    - ( ): STEP 2 - 지원정보 입력
+        - ( ): NHN godo의 SW개발 직무에 본인이 선발되어야 하는 이유에 대해 강점을 기반으로 기재해 주세요. (필수)
+        - ( ): 본인의 개발 산출물을 기록해 놓은 블로그, 포트폴리오, 깃허브 등 URL을 기재해 주세요. (없다면 작성하지 않으셔도 됩니다) (선택)
 - ( ): Load hyungmogu.com via github pages
 
 #### Assignment 2
@@ -63,7 +69,11 @@ Deadline: November 18th, 2020
     - How do we subscribe to events in `msg_queue_poll` without knowing what events we are subscribing to? There is no argument/parameter related to target events in here.
     - How do we subscribe to events in `msg_queue_poll`?
 
-1. Corgi add progress #111 on assignment 2, CSC 369♥♥
+1. Corgi working on application for NHN 고도
+    - Corgi working on Step 2: 지원정보 입력
+        - Corgi working on NHN godo의 SW개발 직무에 본인이 선발되어야 하는 이유에 대해 강점을 기반으로 기재해 주세요.
+    - Corgi completed Step 1: 기본 인적사항
+2. Corgi add progress #111 on assignment 2, CSC 369♥♥
     - Corgi working on `msg_queue_poll` #9
         - Corgi working on helper function `subscribe_to_events`
         - Corgi completed helper function `moe_events_field_in_a_pollfd_entry_is_valid`
@@ -77,7 +87,7 @@ Deadline: November 18th, 2020
         - Corgi completed writing helper `moe_write_would_block`
     - Corgi completed adding code to `msg_queue_read`
         - Corgi improved helper function `moe_message_queue_is_empty`
-2. Corgi working on adding list of accomplishment to README.md #3♥♥
+3. Corgi working on adding list of accomplishment to README.md #3♥♥
     - Working on October 22nd, 2020
     - Completed October 21st, 2020
     - Completed October 20th, 2020
