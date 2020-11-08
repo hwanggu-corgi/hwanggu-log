@@ -424,24 +424,18 @@ Deadline: November 18th, 2020
 ### October 24th, 2020
 1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
     - Creating system call `a1fs_mkdir`
-        - Added helper function [10 of 12] `initialize_extent_block`
-        - Completed fixing incorrect value of `superblock->s_blocks_count` in  function `setup_superblock`
-        - Completed fixing helper function `initialize_directory_entries` in `04_a1fs/helper_a1fs.c`
-        - Completed retesting modified functions in `04_a1fs/helper_a1fs.c`
-        - Completed fixing compilation error
-        - Completed fixing helper function `set_root_dir` in `04_a1fs/helper_a1fs.c`
-        - Completed fixing helper function `set_data_bitmap` in `04_a1fs/helper_a1fs.c`
-        - Completed fixing helper function `set_inode_bitmap` in `04_a1fs/helper_a1fs.c`
-        - Completed fixing compilation error for `mkfs` tests
-        - Completed adding additional test functions for `mkfs` to double check creation of root directory
-        - Completed fixing instructions for creating root directory in `mkfs`
+        - Fixed incorrect value of `superblock->s_blocks_count` in  function `setup_superblock`
+        - Fixed compilation error for `mkfs` tests
+        - Added additional test functions for `mkfs` to double check creation of root directory
+        - Improved function logic for creating root directory in `mkfs`
+        - Added helper function [8 of 12] `initialize_extent_block`
         - Added helper function [9 of 12] `get_free_blocks`
 
 
 ### October 23rd, 2020
 1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
     - Creating system call `a1fs_mkdir`
-        - Added helper function [9 of 12] `create_new_extent`
+        - Added helper function [7 of 12] `create_new_extent`
 
 ### October 22nd, 2020
 1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
