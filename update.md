@@ -1,7 +1,8 @@
 ### November 10th, 2020
 
 #### Resume and career
-- ( ): Attend career counseling with Marion Kang from 5:00 AM to 5:20 AM on November 10th, 2020
+- ( ): Attend career counseling with Lisa Afundu from 3:30 AM to 3:50 AM on November 11th, 2020
+- ( ): Load hyungmogu.com via github pages
 - ( ): Finish updating README.md part of hwanggu log
     - ( ): Upload to hyungmogu github account
     - ( ): Fill missing parts
@@ -32,7 +33,6 @@
     - ( ): STEP 2 - 지원정보 입력
         - ( ): NHN godo의 SW개발 직무에 본인이 선발되어야 하는 이유에 대해 강점을 기반으로 기재해 주세요. (필수)
         - ( ): 본인의 개발 산출물을 기록해 놓은 블로그, 포트폴리오, 깃허브 등 URL을 기재해 주세요. (없다면 작성하지 않으셔도 됩니다) (선택)
-- ( ): Load hyungmogu.com via github pages
 
 #### Assignment 2
 
@@ -69,10 +69,10 @@ Deadline: November 18th, 2020
     - How do we subscribe to events in `msg_queue_poll` without knowing what events we are subscribing to? There is no argument/parameter related to target events in here.
     - How do we subscribe to events in `msg_queue_poll`?
 
-1. Corgi add progress #66 on creating application for NHN 고도♥♥
-    - Corgi working on Step 3: 지원정보 입력 #66♥♥
-        - Corgi working on NHN godo의 SW개발 직무에 본인이 어야 하는 이유에 대해 강점을 기반으로 기재해 주세요.
-            - Corgi working on draft 4♥♥
+1. Corgi add progress #67 on creating application for NHN 고도♥♥
+    - Corgi working on Step 3: 지원정보 입력 #67♥♥
+        - Corgi completed working on NHN godo의 SW개발 직무에 본인이 어야 하는 이유에 대해 강점을 기반으로 기재해 주세요.
+            - Corgi completed draft 5♥♥
             - Corgi completed draft 4♥♥
             - Corgi completed draft 3♥♥
                 - 밍밍한 느낌이 든다
@@ -81,7 +81,7 @@ Deadline: November 18th, 2020
                 - 간결하지 않는 느낌이 든다
                 - 그래도 어느정도 tailor 되서 다행이다.
 
-3. Corgi working on adding list of accomplishment to README.md #3♥♥
+2. Corgi working on adding list of accomplishment to README.md #3♥♥
 
 ### November 9th, 2020
 
