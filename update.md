@@ -1,3 +1,75 @@
+### November 11th, 2020 (Reading week)
+
+#### Resume and career
+- ( ): Attend career counseling with Lisa Afundu from 3:30 AM to 3:50 AM on November 11th, 2020
+- ( ): Load hyungmogu.com via github pages
+- ( ): Finish updating README.md part of hwanggu log
+    - ( ): Upload to hyungmogu github account
+    - ( ): Fill missing parts
+        - ( ): November 8th, 2020
+        - ( ): November 7th, 2020
+        - ( ): November 6th, 2020
+        - ( ): November 5th, 2020
+        - ( ): November 4th, 2020
+        - ( ): November 3rd, 2020
+        - ( ): November 2nd, 2020
+        - ( ): November 1st, 2020
+        - ( ): October 31st, 2020
+        - ( ): October 30th, 2020
+        - ( ): October 29th, 2020
+        - ( ): October 28th, 2020
+        - ( ): October 27th, 2020
+        - ( ): October 26th, 2020
+        - ( ): October 25th, 2020
+        - (x): October 24th, 2020
+        - (x): October 23rd, 2020
+        - (x): October 22nd, 2020
+        - (x): October 21st, 2020
+        - (x): October 20th, 2020
+        - (x): October 19th, 2020
+
+#### Assignment 2
+
+Deadline: November 18th, 2020
+
+- ( ) Part 1: Complete the functions in `msg_queue.c` with the exception of `msg_queue_poll()`
+    - (x): `msg_queue_open()`
+    - ( ): `msg_queue_close()`
+    - (x): `msg_queue_read()`
+        - (x): `moe_queue_handle_non_blocking`
+        - (x): `moe_read_would_block`
+        - (x): `moe_get_message_size`
+        - (x): `moe_message_queue_is_empty`
+        - (x): `moe_all_writer_handles_closed`
+        - (x): `moe_reader_buffer_is_small`
+    - (x): `msg_queue_write()`
+        - (x): `moe_is_queue_handle_non_blocking`
+        - (x): `moe_all_reader_handles_closed`
+        - (x): `moe_has_enough_free_space`
+        - (x): `moe_has_writers`
+        - (x): `moe_write_would_block`
+- ( ) Part 2: Complete `msg_queue_poll()`
+    - (x): `moe_no_events_are_subscribed_to`
+    - (x): `moe_events_field_in_a_pollfd_entry_is_valid`
+    - ( ): `moe_subscribe_to_events`
+    - ( ): `moe_requested_events_on_any_queue_already_triggered`
+- ( ): Miscellaneous requirements
+    - ( ): You must use synchronization function provided in `sync.c`
+    - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
+
+- Questions to ask on monday to professor:
+    - What fields are written to `events` in `msg_queue_pollfd`
+    - What fields are written to `revents` in `msg_queue_pollfd`
+    - How do we subscribe to events in `msg_queue_poll` without knowing what events we are subscribing to? There is no argument/parameter related to target events in here.
+    - How do we subscribe to events in `msg_queue_poll`?
+
+1. Corgi add progress #116 on assignment 2, CSC 369♥♥
+    - Corgi fixing program being stuck at `number count 50`
+    - [on hold] Corgi working on `msg_queue_poll` #13
+        - Corgi working on helper function `subscribe_to_events`
+
+2. Corgi working on adding list of accomplishment to README.md #3♥♥
+
 ### November 10th, 2020 (Reading week)
 
 #### Resume and career
