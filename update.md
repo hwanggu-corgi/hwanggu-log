@@ -27,12 +27,12 @@
         - (x): October 21st, 2020
         - (x): October 20th, 2020
         - (x): October 19th, 2020
-- ( ): Apply for NHN 고도 (Due: November 16th, 2020)
+- (x): Apply for NHN 고도 (Due: November 16th, 2020)
     - https://job.incruit.com/jobdb_info/jobpost.asp?job=2011050002005
     - (x): STEP 1 - 기본 인적사항
-    - ( ): STEP 2 - 지원정보 입력
-        - ( ): NHN godo의 SW개발 직무에 본인이 선발되어야 하는 이유에 대해 강점을 기반으로 기재해 주세요. (필수)
-        - ( ): 본인의 개발 산출물을 기록해 놓은 블로그, 포트폴리오, 깃허브 등 URL을 기재해 주세요. (없다면 작성하지 않으셔도 됩니다) (선택)
+    - (x): STEP 2 - 지원정보 입력
+        - (x): NHN godo의 SW개발 직무에 본인이 선발되어야 하는 이유에 대해 강점을 기반으로 기재해 주세요. (필수)
+        - (x): 본인의 개발 산출물을 기록해 놓은 블로그, 포트폴리오, 깃허브 등 URL을 기재해 주세요. (없다면 작성하지 않으셔도 됩니다) (선택)
 
 #### Assignment 2
 
@@ -69,8 +69,8 @@ Deadline: November 18th, 2020
     - How do we subscribe to events in `msg_queue_poll` without knowing what events we are subscribing to? There is no argument/parameter related to target events in here.
     - How do we subscribe to events in `msg_queue_poll`?
 
-1. Corgi add progress #112 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #10
+1. Corgi add progress #113 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #11
         - Corgi working on helper function `subscribe_to_events`
 2. [on hold] Corgi add progress #70 on creating application for NHN 고도♥♥
     - Corgi working uploading hyungmogu.com to github.com
