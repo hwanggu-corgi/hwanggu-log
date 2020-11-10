@@ -63,12 +63,15 @@ Deadline: November 18th, 2020
     - How do we subscribe to events in `msg_queue_poll` without knowing what events we are subscribing to? There is no argument/parameter related to target events in here.
     - How do we subscribe to events in `msg_queue_poll`?
 
-1. Corgi add progress #116 on assignment 2, CSC 369♥♥
+1. Corgi add progress #117 on assignment 2, CSC 369♥♥
     - Corgi fixing program being stuck at `number count 50`
-    - [on hold] Corgi working on `msg_queue_poll` #13
+    - [on hold] Corgi working on `msg_queue_poll` #14
         - Corgi working on helper function `subscribe_to_events`
 
-2. Corgi working on adding list of accomplishment to README.md #3♥♥
+2. Corgi updating resume profile♥♥
+    - Corgi updating LinkedIn♥
+
+3. Corgi working on adding list of accomplishment to README.md #3♥♥
 
 ### November 10th, 2020 (Reading week)
 
