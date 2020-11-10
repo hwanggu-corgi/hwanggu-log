@@ -6,6 +6,8 @@
 - ( ): Finish updating README.md part of hwanggu log
     - ( ): Upload to hyungmogu github account
     - ( ): Fill missing parts
+        - (x): November 10th, 2020
+        - ( ): November 9th, 2020
         - ( ): November 8th, 2020
         - ( ): November 7th, 2020
         - ( ): November 6th, 2020
@@ -64,20 +66,22 @@ Deadline: November 18th, 2020
     - How do we subscribe to events in `msg_queue_poll` without knowing what events we are subscribing to? There is no argument/parameter related to target events in here.
     - How do we subscribe to events in `msg_queue_poll`?
 
-1. Corgi add progress #125 on assignment 2, CSC 369♥♥
-    - Corgi fixing program being stuck at `msg_queue_read` #9♥♥
+1. Corgi add progress #126 on assignment 2, CSC 369♥♥
+    - Corgi fixing program being stuck at `msg_queue_read` #10♥♥
         - Corgi fixing `segmentation fault` error in `msg_queue_write`
         - Corgi fixing `ring_buffer_used` returning 0 after write
     - [on hold] Corgi working on `msg_queue_poll` #14
         - Corgi working on helper function `subscribe_to_events`
 
-2. Corgi apply for a job at 우아한형제들
-    - link: https://resume.woowahan.com/jobs/view.aspx?cc=244001&jidx=105800&pidx=11320&bidx=166014
+2. Corgi working on adding list of accomplishment to README.md #3♥♥
+
 3. Corgi updating resume profile♥♥
     - Corgi updating LinkedIn♥♥
     - Corgi updating hyungmogu in github♥♥
 
-4. Corgi working on adding list of accomplishment to README.md #3♥♥
+3. Corgi apply for a job at 우아한형제들
+    - link: https://resume.woowahan.com/jobs/view.aspx?cc=244001&jidx=105800&pidx=11320&bidx=166014
+
 
 ### November 10th, 2020 (Reading week)
 

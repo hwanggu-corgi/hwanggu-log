@@ -1,5 +1,9 @@
 # HwangGu Log
 
+### November 10th, 2020 (Reading week)
+1. Worked on csc-369 assignment 2 - `Creating message queues`
+    - Worked on fixing program being stuck in function `msg_queue_read`
+
 ### November 7th, 2020
 
 #### Resume and career
