@@ -69,10 +69,12 @@ Deadline: November 18th, 2020
     - How do we subscribe to events in `msg_queue_poll` without knowing what events we are subscribing to? There is no argument/parameter related to target events in here.
     - How do we subscribe to events in `msg_queue_poll`?
 
-2. Corgi add progress #67 on creating application for NHN 고도♥♥
+2. Corgi add progress #68 on creating application for NHN 고도♥♥
     - Corgi working uploading hyungmogu.com to github.com
-        - Completed re-installing node.js
-        - Completed cleaning portfolio site
+        - Corgi working on moving front-end parts from old portfolio-site to here
+        - Corgi completed installing gh-pages
+        - Corgi completed re-installing node.js
+        - Corgi completed cleaning portfolio site
     - Corgi working on Step 3: 지원정보 입력 #67♥♥
         - Corgi completed working on NHN godo의 SW개발 직무에 본인이 어야 하는 이유에 대해 강점을 기반으로 기재해 주세요.
             - Corgi completed draft 5♥♥
