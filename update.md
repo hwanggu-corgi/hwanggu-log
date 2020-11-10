@@ -1,7 +1,7 @@
 ### November 11th, 2020 (Reading week)
 
 #### Resume and career
-- ( ): Attend career counseling with Lisa Afundu from 3:30 AM to 3:50 AM on November 11th, 2020
+- ( ): Attend career counseling with Lisa Afundu from 4:30 AM to 4:50 AM on November 11th, 2020
 - ( ): Load hyungmogu.com via github pages
 - ( ): Finish updating README.md part of hwanggu log
     - ( ): Upload to hyungmogu github account
@@ -30,6 +30,8 @@
         - (x): October 20th, 2020
         - (x): October 19th, 2020
 - ( ): Apply for a job at 우아한형제들
+    - link: https://resume.woowahan.com/jobs/view.aspx?cc=244001&jidx=105800&pidx=11320&bidx=166014
+
 
 #### Assignment 2
 
@@ -66,8 +68,8 @@ Deadline: November 18th, 2020
     - How do we subscribe to events in `msg_queue_poll` without knowing what events we are subscribing to? There is no argument/parameter related to target events in here.
     - How do we subscribe to events in `msg_queue_poll`?
 
-1. Corgi add progress #126 on assignment 2, CSC 369♥♥
-    - Corgi fixing program being stuck at `msg_queue_read` #10♥♥
+1. Corgi add progress #127 on assignment 2, CSC 369♥♥
+    - Corgi fixing program being stuck at `msg_queue_read` #11♥♥
         - Corgi fixing `segmentation fault` error in `msg_queue_write`
         - Corgi fixing `ring_buffer_used` returning 0 after write
     - [on hold] Corgi working on `msg_queue_poll` #14
@@ -80,7 +82,7 @@ Deadline: November 18th, 2020
     - Corgi updating hyungmogu in github♥♥
 
 3. Corgi apply for a job at 우아한형제들
-    - link: https://resume.woowahan.com/jobs/view.aspx?cc=244001&jidx=105800&pidx=11320&bidx=166014
+
 
 
 ### November 10th, 2020 (Reading week)
