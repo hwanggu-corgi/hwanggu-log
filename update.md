@@ -68,10 +68,11 @@ Deadline: November 18th, 2020
     - How do we subscribe to events in `msg_queue_poll` without knowing what events we are subscribing to? There is no argument/parameter related to target events in here.
     - How do we subscribe to events in `msg_queue_poll`?
 
-1. Corgi add progress #128 on assignment 2, CSC 369♥♥
-    - Corgi fixing program being stuck at `msg_queue_read` #12♥♥
-        - Corgi fixing `segmentation fault` error in `msg_queue_write`
+1. Corgi add progress #129 on assignment 2, CSC 369♥♥
+    - Corgi fixing program being stuck at `msg_queue_read` #13♥♥
         - Corgi fixing `ring_buffer_used` returning 0 after write
+        - Corgi completed fixing `segmentation fault` error in `msg_queue_write`
+        - Corgi completed fixing `mutex lock unavailable` error in `msg_queue_write`
     - [on hold] Corgi working on `msg_queue_poll` #14
         - Corgi working on helper function `subscribe_to_events`
 
