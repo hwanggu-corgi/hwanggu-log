@@ -1,6 +1,7 @@
 ### November 11th, 2020 (Reading week)
 
 #### Resume and career
+- ( ): Apply for a job at TikTok
 - ( ): Attend career counseling with Lisa Afundu from 3:30 AM to 3:50 AM on November 11th, 2020
 - ( ): Load hyungmogu.com via github pages
 - ( ): Finish updating README.md part of hwanggu log
@@ -70,11 +71,13 @@ Deadline: November 18th, 2020
     - [on hold] Corgi working on `msg_queue_poll` #14
         - Corgi working on helper function `subscribe_to_events`
 
-2. Corgi updating resume profile♥♥
+2. Corgi apply for a job at tiktok
+    - link: https://job.incruit.com/jobdb_info/jobpost.asp?job=2009140001316s
+3. Corgi updating resume profile♥♥
     - Corgi updating LinkedIn♥♥
     - Corgi updating hyungmogu in github♥♥
 
-3. Corgi working on adding list of accomplishment to README.md #3♥♥
+4. Corgi working on adding list of accomplishment to README.md #3♥♥
 
 ### November 10th, 2020 (Reading week)
 
