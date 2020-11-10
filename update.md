@@ -1,7 +1,6 @@
 ### November 11th, 2020 (Reading week)
 
 #### Resume and career
-- ( ): Apply for a job at TikTok
 - ( ): Attend career counseling with Lisa Afundu from 3:30 AM to 3:50 AM on November 11th, 2020
 - ( ): Load hyungmogu.com via github pages
 - ( ): Finish updating README.md part of hwanggu log
@@ -28,6 +27,7 @@
         - (x): October 21st, 2020
         - (x): October 20th, 2020
         - (x): October 19th, 2020
+- ( ): Apply for a job at 우아한형제들
 
 #### Assignment 2
 
@@ -64,15 +64,15 @@ Deadline: November 18th, 2020
     - How do we subscribe to events in `msg_queue_poll` without knowing what events we are subscribing to? There is no argument/parameter related to target events in here.
     - How do we subscribe to events in `msg_queue_poll`?
 
-1. Corgi add progress #122 on assignment 2, CSC 369♥♥
-    - Corgi fixing program being stuck at `msg_queue_read` #6♥♥
+1. Corgi add progress #125 on assignment 2, CSC 369♥♥
+    - Corgi fixing program being stuck at `msg_queue_read` #9♥♥
         - Corgi fixing `segmentation fault` error in `msg_queue_write`
         - Corgi fixing `ring_buffer_used` returning 0 after write
     - [on hold] Corgi working on `msg_queue_poll` #14
         - Corgi working on helper function `subscribe_to_events`
 
-2. Corgi apply for a job at tiktok
-    - link: https://job.incruit.com/jobdb_info/jobpost.asp?job=2009140001316s
+2. Corgi apply for a job at 우아한형제들
+    - link: https://resume.woowahan.com/jobs/view.aspx?cc=244001&jidx=105800&pidx=11320&bidx=166014
 3. Corgi updating resume profile♥♥
     - Corgi updating LinkedIn♥♥
     - Corgi updating hyungmogu in github♥♥
