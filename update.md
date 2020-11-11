@@ -64,15 +64,16 @@ Deadline: November 18th, 2020
     - ( ): You must use synchronization function provided in `sync.c`
     - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
-- Questions to ask on monday to professor:
+- Questions to ask on wednesday office hour to professor:
     - What fields are written to `events` in `msg_queue_pollfd`
     - What fields are written to `revents` in `msg_queue_pollfd`
     - How do we subscribe to events in `msg_queue_poll` without knowing what events we are subscribing to? There is no argument/parameter related to target events in here.
     - How do we subscribe to events in `msg_queue_poll`?
 
-1. Corgi add progress #80 on hyungmogu.com♥♥
-    - Corgi working on converting static template to dynamic template for `home page` #6
+1. Corgi add progress #81 on hyungmogu.com♥♥
+    - Corgi working on converting static template to dynamic template for `home page` #7
         - Corgi working on converting static template to dynamic template
+        - Corgi completed fixing `image not found` error in `PrimaryHeader.js`
         - Corgi completed working on links
         - Corgi completed fixing `Primary header not found` compile error
         - Corgi completed fixing `Node Sass version 5.0.0 is incompatible with ^4.0.0` compile error
