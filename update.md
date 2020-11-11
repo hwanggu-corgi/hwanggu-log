@@ -70,14 +70,15 @@ Deadline: November 18th, 2020
     - How do we subscribe to events in `msg_queue_poll` without knowing what events we are subscribing to? There is no argument/parameter related to target events in here.
     - How do we subscribe to events in `msg_queue_poll`?
 
-1. Corgi working on hyungmogu.com♥♥
-    - Corgi working on converting static template to dynamic template
-        - Homepage
+1. Corgi add progress #74 on hyungmogu.com♥♥
+    - Corgi working on converting static template to dynamic template for `home page` #2
+        - Corgi working on links
     - Corgi completed installing dependencies
         - gh-pages
         - node-sass
         - react-router-dom
-    - Corgi completed fixing `submodule cannot be added to existing repo` error
+    - Corgi completed fixing `Node Sass version 5.0.0 is incompatible with ^4.0.0` compile error
+    - Corgi completed fixing `submodule cannot be added to existing repo` github commit error
 
 2. [on hold] Corgi add progress #147 on assignment 2, CSC 369♥♥
     - Corgi fixing `pthread_mutex_destroy  - resource busy` error♥♥
