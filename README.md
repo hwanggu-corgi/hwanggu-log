@@ -22,8 +22,8 @@
 ### November 8th, 2020
 1. Added progress on csc-369 assignment 2 - `Creating message queues`
     - Worked on adding missing instructions to function `msg_queue_poll`
-        - Created its helper function `moe_events_field_in_a_pollfd_entry_is_valid`
-        - Created its helper function `moe_no_events_are_subscribed_to`
+        - Created helper function `moe_events_field_in_a_pollfd_entry_is_valid`
+        - Created helper function `moe_no_events_are_subscribed_to`
     - Added missing instructions to function `msg_queue_open`
     - Added missing instructions to function `msg_queue_write`
     - Added missing instructions to function `msg_queue_read`
@@ -31,53 +31,16 @@
 ### November 7th, 2020
 1. Added progress on csc-369 assignment 2 - `Creating message queues`
     - Worked on adding missing instructions to `msg_queue_read`
-        - Corgi adding code
-            - Moe corgi piecing puzzles
-        - Corgi improved helper function `moe_reader_buffer_is_small`
-        - Corgi completed creating helper function `moe_get_message_size`
-        - Corgi completed creating helper function `moe_read_would_block`
-        - Corgi completed creating helper function `moe_queue_handle_non_blocking`
+        - Improved helper function `moe_reader_buffer_is_small`
+        - Created helper function `moe_get_message_size`
+        - Created helper function `moe_read_would_block`
+        - Created helper function `moe_queue_handle_non_blocking`
     - Worked on adding missing instructions to `msg_queue_close`
-        - Added helper function `moe_get_message_size`
+        - Created helper function `moe_get_message_size`
 
 2. Completed Tutorial 8 - Scheduling, CSC 369
-    - Corgi completed checking solution♥♥
-    - Corgi completed working on question 3♥♥
-    - Corgi completed working on question 2♥♥
-    - Corgi completed working on question 1♥♥
-6. Corgi completed asking following questions in tutorial♥♥
-    - Under which situation we want to add synchronization to `msq_queue_close` and `msq-queue_open`?
-    - How do we know queue handle is non-blocking and the write would block?
-    - How to read the size of the message
-    - How to read the length bytes from the buffer
-    - How to write the size of the message
-    - How to write length bytes from the buffer
-
 
 ### November 6th, 2020
-
-#### Assignment 2
-
-Deadline: November 18th, 2020
-
-- ( ) Part 1: Complete the functions in `msg_queue.c` with the exception of `msg_queue_poll()`
-    - ( ): `msg_queue_open()`
-    - ( ): `msg_queue_close()`
-    - ( ): `msg_queue_read()`
-    - ( ): `msg_queue_write()`
-- ( ) Part 2: Complete `msg_queue_poll()`
-    - ( ): `msg_queue_poll()`
-- ( ): Miscellaneous requirements
-    - ( ): You must use synchronization function provided in `sync.c`
-    - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
-
-- Corgi need to ask following questions tomorrow♥♥
-    - Under which situation we want to add synchronization to `msq_queue_close` and `msq-queue_open`?
-    - How do we know queue handle is non-blocking and the write would block?
-    - How to read the size of the message
-    - How to read the length bytes from the buffer
-    - How to write the size of the message
-    - How to write length bytes from the buffer
 
 1. Corgi working on adding list of accomplishment to README.md
 2. Corgi add progress #81 on assignment 2, CSC 369♥♥

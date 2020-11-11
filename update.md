@@ -16,7 +16,7 @@
         - (x): November 10th, 2020
         - (x): November 9th, 2020
         - (x): November 8th, 2020
-        - ( ): November 7th, 2020
+        - (x): November 7th, 2020
         - ( ): November 6th, 2020
         - ( ): November 5th, 2020
         - ( ): November 4th, 2020
@@ -75,10 +75,12 @@ Deadline: November 18th, 2020
     - How do we subscribe to events in `msg_queue_poll` without knowing what events we are subscribing to? There is no argument/parameter related to target events in here.
     - How do we subscribe to events in `msg_queue_poll`?
 
-1. Corgi add progress #86 on hyungmogu.com♥♥
-    - Corgi working on converting static template to dynamic template for `home page` #13
+1. Corgi add progress #87 on hyungmogu.com♥♥
+    - Corgi working on converting static template to dynamic template for `home page` #14
         - Corgi working on converting static template to dynamic template
-        - Corgi working on fixing react app update not showing on github
+        - Corgi working on adding `SecondaryHeader.js` component to app
+        - Corgi completed adding `PrimaryHeaderMobile.js` component to app
+        - Corgi compelted fixing react app update not showing on github
         - Corgi completed fixing missing github and linkedin icon in `PrimaryHeader.js`
         - Corgi completed fixing wrong position of primary navigation menu
         - Corgi completed fixing `image not found` error in `PrimaryHeader.js`
