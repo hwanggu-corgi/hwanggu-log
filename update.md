@@ -9,7 +9,6 @@
         - ( ): Contacts page
 - ( ): Attend `Develop Your LinkedIn Profile` event from 6:30 AM to 7:30 AM on November 13th, 2020
 - ( ): Apply to UTKSA
-- ( ): Apply to 멘토링 & 면접
 - ( ): Finish updating README.md part of hwanggu log
     - ( ): Upload to hyungmogu github account
     - ( ): Fill missing parts
@@ -78,8 +77,8 @@ Deadline: November 18th, 2020
 
 1. Corgi in office hour with professor reid about the assignment♥♥
     - Corgi is back♥♥
-1. Corgi add progress #88 on hyungmogu.com♥♥
-    - Corgi working on converting static template to dynamic template for `home page` #15
+1. Corgi add progress #89 on hyungmogu.com♥♥
+    - Corgi working on converting static template to dynamic template for `home page` #16
         - Corgi working on converting static template to dynamic template
         - Corgi working on adding `SecondaryHeader.js` component to app
         - Corgi completed adding `PrimaryHeaderMobile.js` component to app
@@ -97,7 +96,7 @@ Deadline: November 18th, 2020
         - react-router-dom
 
 
-2. [on hold] Corgi add progress #147 on assignment 2, CSC 369♥♥
+2. [on hold] Corgi add progress #148 on assignment 2, CSC 369♥♥
     - Corgi fixing `pthread_mutex_destroy  - resource busy` error♥♥
     - [on hold] Corgi working on `msg_queue_poll` #14
         - Corgi working on helper function `subscribe_to_events`
