@@ -76,7 +76,7 @@ Deadline: November 18th, 2020
     - How do we subscribe to events in `msg_queue_poll`?
 
 1. Corgi in office hour with professor reid about the assignment♥♥
-    - Corgi will be back
+    - Corgi is back♥♥
 1. Corgi add progress #87 on hyungmogu.com♥♥
     - Corgi working on converting static template to dynamic template for `home page` #14
         - Corgi working on converting static template to dynamic template
