@@ -4,6 +4,10 @@
 1. Added progress on csc-369 assignment 2 - `Creating message queues`
     - Worked on fixing program being stuck in function `msg_queue_read`
 
+### November 9th, 2020
+1. Added progress on csc-369 assignment 2 - `Creating message queues`
+    - Worked on fixing program being stuck after `number count 50`
+
 ### November 7th, 2020
 
 #### Resume and career
