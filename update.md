@@ -32,6 +32,7 @@
         - (x): October 19th, 2020
 - ( ): Apply for a job at 우아한형제들
     - link: https://resume.woowahan.com/jobs/view.aspx?cc=244001&jidx=105800&pidx=11320&bidx=166014
+- (x): Apply for group UTKSA
 - (x): Attend career counseling with Lisa Afundu from 4:30 AM to 4:50 AM on November 11th, 2020
 
 #### Assignment 2
