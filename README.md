@@ -30,31 +30,6 @@
 
 ### November 7th, 2020
 
-#### Resume and career
-- ( ): Load hyungmogu.com via github pages
-
-#### Assignment 2
-
-Deadline: November 18th, 2020
-
-- ( ) Part 1: Complete the functions in `msg_queue.c` with the exception of `msg_queue_poll()`
-    - ( ): `msg_queue_open()`
-    - ( ): `msg_queue_close()`
-    - ( ): `msg_queue_read()`
-        - (x): `moe_reader_queue_handle_non_blocking`
-        - (x): `moe_read_would_block`
-        - (x): `moe_get_message_size`
-        - ( ): `moe_message_queue_is_empty`
-        - (x): `moe_all_writer_handles_closed
-        - (x): `moe_reader_buffer_is_small`
-    - ( ): `msg_queue_write()`
-- ( ) Part 2: Complete `msg_queue_poll()`
-    - ( ): `msg_queue_poll()`
-- ( ): Miscellaneous requirements
-    - ( ): You must use synchronization function provided in `sync.c`
-    - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
-
-1. Corgi working on uploading hyungmogu.com to github pages
 
 2. Corgi add progress #89 on assignment 2, CSC 369♥♥
     - Corgi working on adding code to `msg_queue_read` #22
@@ -73,6 +48,7 @@ Deadline: November 18th, 2020
     - Corgi working on adding code to `msg_queue_write` #8
         - Corgi adding code
         - Corgi adding pesudocode
+
 3. Corgi working on adding list of accomplishment to README.md
 4. Corgi back♥♥ from 띠에뚜띠 369 tutorial♥♥
     - Corgi asked lots of questions to TA♥♥

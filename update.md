@@ -3,6 +3,10 @@
 #### Resume and career
 - ( ): Complete hyungmogu.com
     - ( ): Convert static page to React-based front end site
+        - ( ): Home page
+        - ( ): About page
+        - ( ): Works page
+        - ( ): Contacts page
 - ( ): Apply to UTKSA
 - ( ): Finish updating README.md part of hwanggu log
     - ( ): Upload to hyungmogu github account
@@ -10,7 +14,7 @@
         - (x): November 10th, 2020
         - (x): November 10th, 2020
         - (x): November 9th, 2020
-        - ( ): November 8th, 2020
+        - (x): November 8th, 2020
         - ( ): November 7th, 2020
         - ( ): November 6th, 2020
         - ( ): November 5th, 2020
@@ -70,9 +74,10 @@ Deadline: November 18th, 2020
     - How do we subscribe to events in `msg_queue_poll` without knowing what events we are subscribing to? There is no argument/parameter related to target events in here.
     - How do we subscribe to events in `msg_queue_poll`?
 
-1. Corgi add progress #81 on hyungmogu.com♥♥
-    - Corgi working on converting static template to dynamic template for `home page` #7
+1. Corgi add progress #82 on hyungmogu.com♥♥
+    - Corgi working on converting static template to dynamic template for `home page` #9
         - Corgi working on converting static template to dynamic template
+        - Corgi completed fixing wrong position of primary navigation menu
         - Corgi completed fixing `image not found` error in `PrimaryHeader.js`
         - Corgi completed working on links
         - Corgi completed fixing `Primary header not found` compile error
