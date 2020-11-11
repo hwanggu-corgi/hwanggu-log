@@ -70,8 +70,8 @@ Deadline: November 18th, 2020
     - How do we subscribe to events in `msg_queue_poll` without knowing what events we are subscribing to? There is no argument/parameter related to target events in here.
     - How do we subscribe to events in `msg_queue_poll`?
 
-1. Corgi add progress #74 on hyungmogu.com♥♥
-    - Corgi working on converting static template to dynamic template for `home page` #2
+1. Corgi add progress #75 on hyungmogu.com♥♥
+    - Corgi working on converting static template to dynamic template for `home page` #3
         - Corgi working on links
     - Corgi completed installing dependencies
         - gh-pages
