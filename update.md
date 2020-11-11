@@ -69,8 +69,8 @@ Deadline: November 18th, 2020
     - How do we subscribe to events in `msg_queue_poll` without knowing what events we are subscribing to? There is no argument/parameter related to target events in here.
     - How do we subscribe to events in `msg_queue_poll`?
 
-1. Corgi add progress #77 on hyungmogu.com♥♥
-    - Corgi working on converting static template to dynamic template for `home page` #4
+1. Corgi add progress #78 on hyungmogu.com♥♥
+    - Corgi working on converting static template to dynamic template for `home page` #5
         - Corgi working on converting static template to dynamic template
         - Corgi completed working on links
         - Corgi completed fixing `Primary header not found` compile error
@@ -88,12 +88,13 @@ Deadline: November 18th, 2020
         - Corgi working on helper function `subscribe_to_events`
 
 3. Corgi working on adding list of accomplishment to README.md #3♥♥
+    - Corgi working on November 8th, 2020
 
 4. Corgi updating resume profile♥♥
     - Corgi updating LinkedIn♥♥
     - Corgi updating hyungmogu in github♥♥
 
-4. Corgi apply for a job at 우아한형제들
+5. Corgi apply for a job at 우아한형제들
 
 
 ### November 11th, 2020 (Reading week)
