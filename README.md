@@ -1,5 +1,16 @@
 # HwangGu Log
 
+### November 11th, 2020 (Reading week)
+1. Added progress on csc-369 assignment 2 - `Creating message queues`
+    - Completed fixing program being stuck in function `msg_queue_read`
+        - Fixed `ring buffer head > ring buffer tail` issue in `msg_queue_write`
+        - Fixed `segmentation fault` error in `moe_message_queue_is_empty`
+        - Fixed `segmentation fault` error in  `moe_reader_buffer_is_small`
+        - Fixed program stuck after `producer done` in `pthread_create`
+        - Fixed `Assertion failed (mq->refs >= mq->writers)` error in `msg_queue_close`
+        - Fixed `segmentation fault` error in `msg_queue_write`
+        - Fixed `mutex lock unavailable` error in `msg_queue_write`
+
 ### November 10th, 2020 (Reading week)
 1. Added progress on csc-369 assignment 2 - `Creating message queues`
     - Worked on fixing program being stuck in function `msg_queue_read`

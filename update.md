@@ -2,12 +2,14 @@
 
 #### Resume and career
 - (x): Attend career counseling with Lisa Afundu from 4:30 AM to 4:50 AM on November 11th, 2020
-- ( ): Load hyungmogu.com via github pages
+- ( ): Complete hyungmogu.com
+    - ( ): Convert Static page to React-based front end site
 - ( ): Finish updating README.md part of hwanggu log
     - ( ): Upload to hyungmogu github account
     - ( ): Fill missing parts
         - (x): November 10th, 2020
-        - ( ): November 9th, 2020
+        - (x): November 10th, 2020
+        - (x): November 9th, 2020
         - ( ): November 8th, 2020
         - ( ): November 7th, 2020
         - ( ): November 6th, 2020
@@ -69,7 +71,8 @@ Deadline: November 18th, 2020
     - How do we subscribe to events in `msg_queue_poll`?
 
 1. Corgi working on hyungmogu.com
-    - Corgi installing react-router-dom
+    - Corgi completed installing react-router-dom
+    - Corgi completed fixing `submodule cannot be added to existing repo` error
 
 2. [on hold] Corgi add progress #147 on assignment 2, CSC 369♥♥
     - Corgi fixing `pthread_mutex_destroy  - resource busy` error♥♥
