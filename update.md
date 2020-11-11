@@ -2,7 +2,7 @@
 
 #### Resume and career
 - ( ): Complete hyungmogu.com
-    - ( ): Convert Static page to React-based front end site
+    - ( ): Convert static page to React-based front end site
 - ( ): Apply to UTKSA
 - ( ): Finish updating README.md part of hwanggu log
     - ( ): Upload to hyungmogu github account
@@ -70,8 +70,8 @@ Deadline: November 18th, 2020
     - How do we subscribe to events in `msg_queue_poll` without knowing what events we are subscribing to? There is no argument/parameter related to target events in here.
     - How do we subscribe to events in `msg_queue_poll`?
 
-1. Corgi add progress #78 on hyungmogu.com♥♥
-    - Corgi working on converting static template to dynamic template for `home page` #5
+1. Corgi add progress #80 on hyungmogu.com♥♥
+    - Corgi working on converting static template to dynamic template for `home page` #6
         - Corgi working on converting static template to dynamic template
         - Corgi completed working on links
         - Corgi completed fixing `Primary header not found` compile error
@@ -89,7 +89,8 @@ Deadline: November 18th, 2020
         - Corgi working on helper function `subscribe_to_events`
 
 3. Corgi working on adding list of accomplishment to README.md #3♥♥
-    - Corgi working on November 8th, 2020
+    - Corgi working on November 7th, 2020
+    - Corgi completed November 8th, 2020
 
 4. Corgi updating resume profile♥♥
     - Corgi updating LinkedIn♥♥
