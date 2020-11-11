@@ -1,7 +1,6 @@
 ### November 12th, 2020 (Reading week)
 
 #### Resume and career
-- (x): Attend career counseling with Lisa Afundu from 4:30 AM to 4:50 AM on November 11th, 2020
 - ( ): Complete hyungmogu.com
     - ( ): Convert Static page to React-based front end site
 - ( ): Finish updating README.md part of hwanggu log
@@ -33,7 +32,7 @@
         - (x): October 19th, 2020
 - ( ): Apply for a job at 우아한형제들
     - link: https://resume.woowahan.com/jobs/view.aspx?cc=244001&jidx=105800&pidx=11320&bidx=166014
-
+- (x): Attend career counseling with Lisa Afundu from 4:30 AM to 4:50 AM on November 11th, 2020
 
 #### Assignment 2
 
@@ -73,12 +72,14 @@ Deadline: November 18th, 2020
 1. Corgi add progress #75 on hyungmogu.com♥♥
     - Corgi working on converting static template to dynamic template for `home page` #3
         - Corgi working on links
+        - Corgi completed fixing `Primary header not found` compile error
+        - Corgi completed fixing `Node Sass version 5.0.0 is incompatible with ^4.0.0` compile error
+        - Corgi completed fixing `submodule cannot be added to existing repo` github commit error
     - Corgi completed installing dependencies
         - gh-pages
         - node-sass
         - react-router-dom
-    - Corgi completed fixing `Node Sass version 5.0.0 is incompatible with ^4.0.0` compile error
-    - Corgi completed fixing `submodule cannot be added to existing repo` github commit error
+
 
 2. [on hold] Corgi add progress #147 on assignment 2, CSC 369♥♥
     - Corgi fixing `pthread_mutex_destroy  - resource busy` error♥♥
