@@ -29,30 +29,18 @@
     - Added missing instructions to function `msg_queue_read`
 
 ### November 7th, 2020
-
-
-2. Corgi add progress #89 on assignment 2, CSC 369♥♥
-    - Corgi working on adding code to `msg_queue_read` #22
+1. Added progress on csc-369 assignment 2 - `Creating message queues`
+    - Worked on adding missing instructions to `msg_queue_read`
         - Corgi adding code
             - Moe corgi piecing puzzles
         - Corgi improved helper function `moe_reader_buffer_is_small`
         - Corgi completed creating helper function `moe_get_message_size`
         - Corgi completed creating helper function `moe_read_would_block`
         - Corgi completed creating helper function `moe_queue_handle_non_blocking`
-    - Corgi working on adding code to `msg_queue_close` #10
-        - Corgi adding helper function `moe_get_message_size`
-        - Corgi adding code
-        - Corgi adding pseudocode
-    - Corgi working on adding code to `msg_queue_open`
-        - Corgi adding code
-    - Corgi working on adding code to `msg_queue_write` #8
-        - Corgi adding code
-        - Corgi adding pesudocode
+    - Worked on adding missing instructions to `msg_queue_close`
+        - Added helper function `moe_get_message_size`
 
-3. Corgi working on adding list of accomplishment to README.md
-4. Corgi back♥♥ from 띠에뚜띠 369 tutorial♥♥
-    - Corgi asked lots of questions to TA♥♥
-5. Corgi completed Tutorial 8 - Scheduling♥♥
+2. Completed Tutorial 8 - Scheduling, CSC 369
     - Corgi completed checking solution♥♥
     - Corgi completed working on question 3♥♥
     - Corgi completed working on question 2♥♥
