@@ -68,7 +68,7 @@ Deadline: November 18th, 2020
     - How do we subscribe to events in `msg_queue_poll` without knowing what events we are subscribing to? There is no argument/parameter related to target events in here.
     - How do we subscribe to events in `msg_queue_poll`?
 
-1. Corgi add progress #146 on assignment 2, CSC 369♥♥
+1. Corgi add progress #147 on assignment 2, CSC 369♥♥
     - Corgi fixing `pthread_mutex_destroy  - resource busy` error♥♥
     - Corgi completed fixing program being stuck at `msg_queue_read`♥♥
         - Corgi completed fixing `ring buffer head > ring buffer tail` issue in `msg_queue_write`
