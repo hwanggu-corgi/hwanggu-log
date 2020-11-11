@@ -77,8 +77,8 @@ Deadline: November 18th, 2020
 
 1. Corgi in office hour with professor reid about the assignment♥♥
     - Corgi is back♥♥
-1. Corgi add progress #90 on hyungmogu.com♥♥
-    - Corgi working on converting static template to dynamic template for `home page` #17
+1. Corgi add progress #91 on hyungmogu.com♥♥
+    - Corgi working on converting static template to dynamic template for `home page` #18
         - Corgi working on converting static template to dynamic template
         - Corgi working on adding `SecondaryHeader.js` component to app
             - Corgi completed fixing missing icon in `SecondaryHeader.js`
