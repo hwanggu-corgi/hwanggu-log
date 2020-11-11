@@ -19,6 +19,22 @@
 1. Added progress on csc-369 assignment 2 - `Creating message queues`
     - Worked on fixing program being stuck after `number count 50`
 
+### November 8th, 2020
+
+1. Added progress on csc-369 assignment 2 - `Creating message queues`
+    - Creating function `msg_queue_poll`
+        - Created helper function `moe_events_field_in_a_pollfd_entry_is_valid`
+        - Created helper function `moe_no_events_are_subscribed_to`
+        - completed adding pseducodoe
+    - Corgi completed working on `msg_queue_open`
+        - Corgi completed checking and adding missing functions and logics
+    - Corgi completed adding code to `msg_queue_write`
+        - Corgi completed fixing compile errors
+        - Corgi completed adding missing functions and logics
+        - Corgi completed writing helper `moe_write_would_block`
+    - Corgi completed adding code to `msg_queue_read`
+        - Corgi improved helper function `moe_message_queue_is_empty`
+
 ### November 7th, 2020
 
 #### Resume and career
