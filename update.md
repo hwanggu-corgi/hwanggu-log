@@ -7,6 +7,7 @@
         - ( ): About page
         - ( ): Works page
         - ( ): Contacts page
+- ( ): Attend `Develop Your LinkedIn Profile` event from 6:30 AM to 7:30 AM on November 13th, 2020
 - ( ): Apply to UTKSA
 - ( ): Finish updating README.md part of hwanggu log
     - ( ): Upload to hyungmogu github account
