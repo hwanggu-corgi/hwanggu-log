@@ -77,9 +77,14 @@ Deadline: November 18th, 2020
 
 1. Corgi in office hour with professor reid about the assignment♥♥
     - Corgi is back♥♥
-1. Corgi add progress #96 on hyungmogu.com♥♥
-    - Corgi fixing hyungmogu.com not pointing to https://hwanggu-corgi.github.io/portfolio-site/
-    - Corgi working on converting static template to dynamic template for `works page` #3
+2. Corgi add progress #148 on assignment 2, CSC 369♥♥
+    - Corgi fixing `pthread_mutex_destroy  - resource busy` error♥♥
+    - Corgi working on `msg_queue_poll` #14
+        - Corgi working on helper function `subscribe_to_events`
+3. [on hold] Corgi add progress #97 on hyungmogu.com♥♥
+    - Corgi fixing hyungmogu.com not pointing to https://hwanggu-corgi.github.io/portfolio-site/ #2
+        - Corgi waiting until change takes effect♥♥
+    - Corgi working on converting static template to dynamic template for `works page` #5
     - Corgi completed converting static template to dynamic template for `about page`
     - Corgi completed converting static template to dynamic template for `home page`
         - Corgi working on converting static template to dynamic template
@@ -99,12 +104,6 @@ Deadline: November 18th, 2020
         - gh-pages
         - node-sass
         - react-router-dom
-
-
-2. [on hold] Corgi add progress #148 on assignment 2, CSC 369♥♥
-    - Corgi fixing `pthread_mutex_destroy  - resource busy` error♥♥
-    - [on hold] Corgi working on `msg_queue_poll` #14
-        - Corgi working on helper function `subscribe_to_events`
 
 3. Corgi working on adding list of accomplishment to README.md #3♥♥
     - Corgi working on November 7th, 2020
