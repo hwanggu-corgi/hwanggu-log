@@ -7,7 +7,7 @@
         - (x): About page
         - ( ): Works page
         - ( ): Contacts page
-- ( ): Attend `Develop Your LinkedIn Profile` event from 6:30 AM to 7:30 AM on November 13th, 2020
+- (x): Attend `Develop Your LinkedIn Profile` event from 6:30 AM to 7:30 AM on November 13th, 2020
 - ( ): Apply to UTKSA
 - ( ): Finish updating README.md part of hwanggu log
     - ( ): Upload to hyungmogu github
@@ -78,10 +78,10 @@ Deadline: November 18th, 2020
     - How do we subscribe to events in `msg_queue_poll` without knowing what events we are subscribing to? There is no argument/parameter related to target events in here.
     - How do we subscribe to events in `msg_queue_poll`?
 
-1. Corgi add progress #101 on hyungmogu.com♥♥
-    - Corgi fixing hyungmogu.com not pointing to https://hwanggu-corgi.github.io/portfolio-site/ #5
+1. Corgi add progress #102 on hyungmogu.com♥♥
+    - Corgi fixing hyungmogu.com not pointing to https://hwanggu-corgi.github.io/portfolio-site/ #6
         - Corgi waiting until change a effect♥♥
-    - Corgi working on converting static template to dynamic template for `works page` #9
+    - Corgi working on converting static template to dynamic template for `works page` #10
         - Corgi adding component `WorkListItem`
 
 2. Corgi add progress #170 on assignment 2, CSC 369♥♥
