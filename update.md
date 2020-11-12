@@ -77,11 +77,11 @@ Deadline: November 18th, 2020
 
 1. Corgi in office hour with professor reid about the assignment♥♥
     - Corgi is back♥♥
-2. Corgi add progress #154 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #18
+2. Corgi add progress #155 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #19
         - Corgi working on understanding related function `select`
         - Corgi working on helper function `subscribe_to_events`
-    - Corgi working on cleaning existing code #2
+    - Corgi working on cleaning existing code #3
     - Corgi completed fixing `pthread_mutex_destroy  - resource busy` error♥♥
 
 3. [on hold] Corgi add progress #97 on hyungmogu.com♥♥
