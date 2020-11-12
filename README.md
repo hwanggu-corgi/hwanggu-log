@@ -72,26 +72,18 @@
 
 1. Added progress on csc-369 assignment 2 - `Creating message queues`
     - Worked on adding missing instructions to `msg_queue_close`
-        - Corgi adding code
-        - Corgi adding pseudocode
-        - Corgi completed adding helper function `moe_is_the_last_reader`
-        - Corgi completed adding helper function `moe_is_the_last_writer`
-        - Corgi completed fixing compile errors
-    - Corgi working on adding code to `msg_queue_write` #8
-        - Corgi adding code
-        - Corgi adding pesudocode
-        - Corgi completed adding helper function `moe_has_enough_free_space`
-        - Corgi completed adding helper function `moe_all_reader_handles_closed`
-    - Corgi working on adding code to `msg_queue_read` #18
-        - Corgi adding code
-            - Moe corgi piecing puzzles
-        - Corgi adding derivative code to `mq_init`
-        - Corgi adding derivative code to `mq_destroy`
-        - Corgi adding derivate code to `mq_backend`
-        - Corgi completed adding helper function `moe_buffer_is_small`
-        - Corgi completed adding helper function `moe_has_writers`
-3. Corgi completed making resume appointment with career center♥♥
-    - Corgi doing resume review on Wednesday November 11th, 3:30 AM
+        - Added helper function `moe_is_the_last_reader`
+        - Added helper function `moe_is_the_last_writer`
+        - Fixed compile errors
+    - Worked on adding missing instruction to function `msg_queue_write`
+        - Added helper function `moe_has_enough_free_space`
+        - Added helper function `moe_all_reader_handles_closed`
+    - Worked on adding missing instruction `msg_queue_read`
+        - Added missing instructions to `mq_init`
+        - Added missing instructions to `mq_destroy`
+        - Added missing instructions to `mq_backend`
+        - Added helper function `moe_buffer_is_small`
+        - Added helper function `moe_has_writers`
 
 ### November 5th, 2020
 

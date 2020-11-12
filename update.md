@@ -78,10 +78,11 @@ Deadline: November 18th, 2020
     - How do we subscribe to events in `msg_queue_poll` without knowing what events we are subscribing to? There is no argument/parameter related to target events in here.
     - How do we subscribe to events in `msg_queue_poll`?
 
-1. Corgi add progress #97 on hyungmogu.com♥♥
-    - Corgi fixing hyungmogu.com not pointing to https://hwanggu-corgi.github.io/portfolio-site/ #2
+1. Corgi add progress #99 on hyungmogu.com♥♥
+    - Corgi fixing hyungmogu.com not pointing to https://hwanggu-corgi.github.io/portfolio-site/ #4
         - Corgi waiting until change a effect♥♥
-    - Corgi working on converting static template to dynamic template for `works page` #5
+    - Corgi working on converting static template to dynamic template for `works page` #7
+        - Corgi adding component `WorkListItem`
 
 2. Corgi add progress #170 on assignment 2, CSC 369♥♥
     - Corgi working on `msg_queue_poll` #33
@@ -93,8 +94,7 @@ Deadline: November 18th, 2020
 
 
 3. Corgi working on adding list of accomplishment to README.md #3♥♥
-    - Corgi working on November 7th, 2020
-    - Corgi completed November 8th, 2020
+    - Corgi working on November 6th, 2020
 
 4. Corgi updating resume profile♥♥
     - Corgi updating LinkedIn♥♥
