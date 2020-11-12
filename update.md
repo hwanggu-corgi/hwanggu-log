@@ -76,11 +76,11 @@ Deadline: November 18th, 2020
     - How do we subscribe to events in `msg_queue_poll`?
 
 
-1. Corgi add progress #155 on assignment 2, CSC 369♥♥
+1. Corgi add progress #156 on assignment 2, CSC 369♥♥
     - Corgi working on `msg_queue_poll` #19
         - Corgi working on understanding related function `select`
         - Corgi working on helper function `subscribe_to_events`
-    - Corgi working on cleaning existing code #3
+    - Corgi completed cleaning existing code
     - Corgi completed fixing `pthread_mutex_destroy  - resource busy` error♥♥
 
 2. [on hold] Corgi add progress #97 on hyungmogu.com♥♥
