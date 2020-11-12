@@ -77,9 +77,9 @@ Deadline: November 18th, 2020
 
 1. Corgi in office hour with professor reid about the assignment♥♥
     - Corgi is back♥♥
-1. Corgi add progress #95 on hyungmogu.com♥♥
+1. Corgi add progress #96 on hyungmogu.com♥♥
     - Corgi fixing hyungmogu.com not pointing to https://hwanggu-corgi.github.io/portfolio-site/
-    - Corgi working on converting static template to dynamic template for `works page` #2
+    - Corgi working on converting static template to dynamic template for `works page` #3
     - Corgi completed converting static template to dynamic template for `about page`
     - Corgi completed converting static template to dynamic template for `home page`
         - Corgi working on converting static template to dynamic template
