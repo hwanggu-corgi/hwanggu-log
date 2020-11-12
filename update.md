@@ -3,14 +3,14 @@
 #### Resume and career
 - ( ): Complete hyungmogu.com
     - ( ): Convert static page to React-based front end site
-        - ( ): Home page
+        - (x): Home page
         - ( ): About page
         - ( ): Works page
         - ( ): Contacts page
 - ( ): Attend `Develop Your LinkedIn Profile` event from 6:30 AM to 7:30 AM on November 13th, 2020
 - ( ): Apply to UTKSA
 - ( ): Finish updating README.md part of hwanggu log
-    - ( ): Upload to hyungmogu github account
+    - ( ): Upload to hyungmogu github
     - ( ): Fill missing parts
         - (x): November 10th, 2020
         - (x): November 10th, 2020
@@ -77,8 +77,10 @@ Deadline: November 18th, 2020
 
 1. Corgi in office hour with professor reid about the assignment♥♥
     - Corgi is back♥♥
-1. Corgi add progress #93 on hyungmogu.com♥♥
-    - Corgi working on converting static template to dynamic template for `about page`
+1. Corgi add progress #94 on hyungmogu.com♥♥
+    - Corgi fixing hyungmogu.com not pointing to https://hwanggu-corgi.github.io/portfolio-site/
+    - Corgi working on converting static template to dynamic template for `works page`
+    - Corgi completed converting static template to dynamic template for `about page`
     - Corgi completed converting static template to dynamic template for `home page`
         - Corgi working on converting static template to dynamic template
         - Corgi adding background color on clicking menu button
