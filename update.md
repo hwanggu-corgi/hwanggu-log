@@ -4,7 +4,7 @@
 - ( ): Complete hyungmogu.com
     - ( ): Convert static page to React-based front end site
         - (x): Home page
-        - ( ): About page
+        - (x): About page
         - ( ): Works page
         - ( ): Contacts page
 - ( ): Attend `Develop Your LinkedIn Profile` event from 6:30 AM to 7:30 AM on November 13th, 2020
@@ -77,10 +77,10 @@ Deadline: November 18th, 2020
 
 1. Corgi in office hour with professor reid about the assignment♥♥
     - Corgi is back♥♥
-2. Corgi add progress #149 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #14
+2. Corgi add progress #150 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #15
         - Corgi working on helper function `subscribe_to_events`
-    - Corgi working on cleaning existing code
+    - Corgi working on cleaning existing code #2
     - Corgi completed fixing `pthread_mutex_destroy  - resource busy` error♥♥
 
 3. [on hold] Corgi add progress #97 on hyungmogu.com♥♥
