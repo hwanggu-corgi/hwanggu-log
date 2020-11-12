@@ -70,9 +70,8 @@
 
 ### November 6th, 2020
 
-1. Corgi working on adding list of accomplishment to README.md
-2. Corgi add progress #81 on assignment 2, CSC 369♥♥
-    - Corgi working on adding code to `msg_queue_close` #8
+1. Added progress on csc-369 assignment 2 - `Creating message queues`
+    - Worked on adding missing instructions to `msg_queue_close`
         - Corgi adding code
         - Corgi adding pseudocode
         - Corgi completed adding helper function `moe_is_the_last_reader`
