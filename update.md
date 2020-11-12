@@ -45,9 +45,9 @@
 
 Deadline: November 18th, 2020
 
-- ( ) Part 1: Complete the functions in `msg_queue.c` with the exception of `msg_queue_poll()`
+- (x) Part 1: Complete the functions in `msg_queue.c` with the exception of `msg_queue_poll()`
     - (x): `msg_queue_open()`
-    - ( ): `msg_queue_close()`
+    - (x): `msg_queue_close()`
     - (x): `msg_queue_read()`
         - (x): `moe_queue_handle_non_blocking`
         - (x): `moe_read_would_block`
@@ -66,6 +66,8 @@ Deadline: November 18th, 2020
     - (x): `moe_events_field_in_a_pollfd_entry_is_valid`
     - ( ): `moe_subscribe_to_events`
     - ( ): `moe_requested_events_on_any_queue_already_triggered`
+    - ( ): `moe_mq_poll_readable_requested_for_non_reader_queue_handle`
+    - ( ): `moe_mq_poll_readable_requested_for_non_writer_queue_handle`
 - ( ): Miscellaneous requirements
     - ( ): You must use synchronization function provided in `sync.c`
     - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
@@ -76,9 +78,8 @@ Deadline: November 18th, 2020
     - How do we subscribe to events in `msg_queue_poll` without knowing what events we are subscribing to? There is no argument/parameter related to target events in here.
     - How do we subscribe to events in `msg_queue_poll`?
 
-
-1. Corgi add progress #156 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #19
+1. Corgi add progress #158 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #21
         - Corgi working on understanding related function `select`
         - Corgi working on helper function `subscribe_to_events`
     - Corgi completed cleaning existing code
