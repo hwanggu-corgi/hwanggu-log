@@ -7,7 +7,7 @@
     - Cleaning existing code
     - Fixed `pthread_mutex_destroy  - resource busy` error
 
-3. Added progress on hyungmogu.com♥♥
+2. Added progress on hyungmogu.com♥♥
     - Worked on fixing hyungmogu.com not pointing to https://hwanggu-corgi.github.io/portfolio-site/
     - Converting static template to dynamic template for `about page`
     - Converting static template to dynamic template for `home page`
@@ -19,7 +19,7 @@
         - Fixed missing github and linkedin icon in `PrimaryHeader.js`
         - Fixed wrong position of primary navigation menu
         - Fixed `image not found` error in `PrimaryHeader.js`
-        - Corgi completed working on links
+        - Completed working on routes
         - Fixed `Primary header not found` compile error
         - Fixed `Node Sass version 5.0.0 is incompatible with ^4.0.0` compile error
         - Fixed `submodule cannot be added to existing repo` github commit error
