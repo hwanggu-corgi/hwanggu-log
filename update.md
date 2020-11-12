@@ -77,8 +77,8 @@ Deadline: November 18th, 2020
 
 1. Corgi in office hour with professor reid about the assignment♥♥
     - Corgi is back♥♥
-2. Corgi add progress #153 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #17
+2. Corgi add progress #154 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #18
         - Corgi working on understanding related function `select`
         - Corgi working on helper function `subscribe_to_events`
     - Corgi working on cleaning existing code #2
