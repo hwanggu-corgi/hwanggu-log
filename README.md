@@ -7,7 +7,7 @@
     - Cleaning existing code
     - Fixed `pthread_mutex_destroy  - resource busy` error
 
-2. Added progress on hyungmogu.com♥♥
+2. Added progress on hyungmogu.com
     - Worked on fixing hyungmogu.com not pointing to https://hwanggu-corgi.github.io/portfolio-site/
     - Converting static template to dynamic template for `about page`
     - Converting static template to dynamic template for `home page`
