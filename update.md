@@ -12,7 +12,8 @@
 - ( ): Finish updating README.md part of hwanggu log
     - ( ): Upload to hyungmogu github
     - ( ): Fill missing parts
-        - (x): November 10th, 2020
+        - (x): November 12th, 2020
+        - (x): November 11th, 2020
         - (x): November 10th, 2020
         - (x): November 9th, 2020
         - (x): November 8th, 2020
