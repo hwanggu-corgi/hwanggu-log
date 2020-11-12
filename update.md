@@ -78,7 +78,12 @@ Deadline: November 18th, 2020
     - How do we subscribe to events in `msg_queue_poll` without knowing what events we are subscribing to? There is no argument/parameter related to target events in here.
     - How do we subscribe to events in `msg_queue_poll`?
 
-1. Corgi add progress #170 on assignment 2, CSC 369♥♥
+1. Corgi add progress #97 on hyungmogu.com♥♥
+    - Corgi fixing hyungmogu.com not pointing to https://hwanggu-corgi.github.io/portfolio-site/ #2
+        - Corgi waiting until change a effect♥♥
+    - Corgi working on converting static template to dynamic template for `works page` #5
+
+2. Corgi add progress #170 on assignment 2, CSC 369♥♥
     - Corgi working on `msg_queue_poll` #33
         - Corgi working on understanding related function `poll` #2
         - Corgi working on understanding related function `select`
@@ -86,10 +91,6 @@ Deadline: November 18th, 2020
     - Corgi completed cleaning existing code
     - Corgi completed fixing `pthread_mutex_destroy  - resource busy` error♥♥
 
-2. [on hold] Corgi add progress #97 on hyungmogu.com♥♥
-    - Corgi fixing hyungmogu.com not pointing to https://hwanggu-corgi.github.io/portfolio-site/ #2
-        - Corgi waiting until change takes effect♥♥
-    - Corgi working on converting static template to dynamic template for `works page` #5
 
 3. Corgi working on adding list of accomplishment to README.md #3♥♥
     - Corgi working on November 7th, 2020
