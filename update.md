@@ -79,10 +79,12 @@ Deadline: November 18th, 2020
     - How do we subscribe to events in `msg_queue_poll` without knowing what events we are subscribing to? There is no argument/parameter related to target events in here.
     - How do we subscribe to events in `msg_queue_poll`?
 
-1. Corgi add progress #108 on hyungmogu.com♥♥
-    - Corgi fixing hyungmogu.com not pointing to https://hwanggu-corgi.github.io/portfolio-site/ #9
+1. Corgi add progress #109 on hyungmogu.com♥♥
+    - Corgi fixing hyungmogu.com not pointing to https://hwanggu-corgi.github.io/portfolio-site/ #10
         - Corgi waiting until change a effect♥♥
-    - Corgi working on converting static template to dynamic template for `works detail page`
+    - Corgi working on converting static template to dynamic template for `works detail page` #2
+        - Corgi fixing `Cannot read property 'data' of undefined` error
+        - Corgi completed working on route
     - Corgi working on converting static template to dynamic template for `works page`♥♥
         - Corgi adding data
         - Corgi completed fixing style error after click an item in `works page`
