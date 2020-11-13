@@ -5,7 +5,8 @@
     - ( ): Convert static page to React-based front end site
         - (x): Home page
         - (x): About page
-        - ( ): Works page
+        - (x): Works page
+        - ( ): Work detail page
         - ( ): Contacts page
 - (x): Attend `Develop Your LinkedIn Profile` event from 6:30 AM to 7:30 AM on November 13th, 2020
 - ( ): Apply to UTKSA
@@ -18,7 +19,7 @@
         - (x): November 9th, 2020
         - (x): November 8th, 2020
         - (x): November 7th, 2020
-        - ( ): November 6th, 2020
+        - (x): November 6th, 2020
         - ( ): November 5th, 2020
         - ( ): November 4th, 2020
         - ( ): November 3rd, 2020
@@ -78,7 +79,7 @@ Deadline: November 18th, 2020
     - How do we subscribe to events in `msg_queue_poll` without knowing what events we are subscribing to? There is no argument/parameter related to target events in here.
     - How do we subscribe to events in `msg_queue_poll`?
 
-1. Corgi add progress #106 on hyungmogu.com♥♥
+1. Corgi add progress #107 on hyungmogu.com♥♥
     - Corgi fixing hyungmogu.com not pointing to https://hwanggu-corgi.github.io/portfolio-site/ #8
         - Corgi waiting until change a effect♥♥
     - Corgi working on converting static template to dynamic template for `works page` #14
@@ -97,7 +98,8 @@ Deadline: November 18th, 2020
 
 
 3. Corgi working on adding list of accomplishment to README.md #3♥♥
-    - Corgi working on November 6th, 2020
+    - Corgi working on November 5th, 2020♥♥
+    - Corgi completed November 6th, 2020♥♥
 
 4. Corgi updating resume profile♥♥
     - Corgi updating LinkedIn♥♥
