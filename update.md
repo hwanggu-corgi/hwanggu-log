@@ -75,10 +75,11 @@ Deadline: November 18th, 2020
     - ( ): You must use synchronization function provided in `sync.c`
     - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
-1. Corgi add progress #131 on hyungmogu.com♥♥
+1. Corgi add progress #132 on hyungmogu.com♥♥
     - Corgi fixing `hyungmogu.com` being reset to `https://hwanggu-corgi.github.io/portfolio-site/`
-    - Corgi adding our portfolio data♥♥ #9
-        - Corgi working on adding `Clone Chart`
+    - Corgi adding our portfolio data♥♥ #10
+        - Corgi working on adding `Improve a Django Project`
+        - Corgi completed adding `Clone Chart`
         - Corgi completed adding `Portfolio Site`
         - Corgi completed adding `Social Team Builder`
         - Corgi completed adding `Calculator App`
