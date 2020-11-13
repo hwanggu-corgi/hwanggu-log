@@ -118,21 +118,6 @@
 
 ### November 4th, 2020
 
-#### Assignment 2
-
-Deadline: November 18th, 2020
-
-- ( ) Part 1: Complete the functions in `msg_queue.c` with the exception of `msg_queue_poll()`
-    - ( ): `msg_queue_open()`
-    - ( ): `msg_queue_close()`
-    - ( ): `msg_queue_read()`
-    - ( ): `msg_queue_write()`
-- ( ) Part 2: Complete `msg_queue_poll()`
-    - ( ): `msg_queue_poll()`
-- ( ): Miscellaneous requirements
-    - ( ): You must use synchronization function provided in `sync.c`
-    - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
-
 1. Corgi add progress #33 on assignment 2, CSC 369♥♥
     - Corgi working on adding code to `msg_queue_open` #8
         - Moe corgi working on gathering notes on `read and write` #3, over♥♥
