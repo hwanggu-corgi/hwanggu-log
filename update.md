@@ -14,6 +14,7 @@
 - ( ): Finish updating README.md part of hwanggu log
     - ( ): Upload to hyungmogu github
     - ( ): Fill missing parts
+        - (x): November 13th, 2020
         - (x): November 12th, 2020
         - (x): November 11th, 2020
         - (x): November 10th, 2020
@@ -74,9 +75,9 @@ Deadline: November 18th, 2020
     - ( ): You must use synchronization function provided in `sync.c`
     - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
-1. Corgi add progress #124 on hyungmogu.com♥♥
+1. Corgi add progress #126 on hyungmogu.com♥♥
     - Corgi fixing `hyungmogu.com` being reset to `https://hwanggu-corgi.github.io/portfolio-site/`
-    - Corgi adding our portfolio data♥♥ #4
+    - Corgi adding our portfolio data♥♥ #5
         - Corgi working on adding `Calculator App`
     - Corgi completed converting static template to dynamic template for `contact page`♥♥
 

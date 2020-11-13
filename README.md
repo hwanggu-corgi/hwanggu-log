@@ -1,6 +1,6 @@
 # HwangGu Log
 
-### November 13th, 2020 (Reading week)
+### November 13th, 2020
 
 1. Added progress on hyungmogu.com
     - Fixed hyungmogu.com returning 404
