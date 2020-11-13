@@ -3,19 +3,15 @@
 ### November 13th, 2020 (Reading week)
 
 1. Added progress on hyungmogu.com
-    - Corgi fixing hyungmogu.com not pointing to https://hwanggu-corgi.github.io/portfolio-site/ #14
-        - Corgi waiting until change a effect♥♥
-    - Corgi working on converting static template to dynamic template for `contact page`
-    - Corgi completed converting static template to dynamic template for `works detail page` #7
-        - Corgi adding code
-        - Corgi completed fixing `Cannot read property 'title' of undefined` error
-        - Corgi completed fixing `Cannot read property 'data' of undefined` error
-        - Corgi completed working on route
-    - Corgi working on converting static template to dynamic template for `works page`♥♥
-        - Corgi adding data
-        - Corgi completed fixing style error after click an item in `works page`
-        - Corgi completed fixing `Cannot read property 'works' of undefined` error
-        - Corgi adding component `WorkListItem`
+    - Fixed hyungmogu.com returning 404
+    - Worked on converting static template to dynamic template for `contact page`
+    - Converted static template to dynamic template for `works detail page`
+        - Fixed `Cannot read property 'title' of undefined` error
+        - Fixed `Cannot read property 'data' of undefined` error
+    - Converted static template to dynamic template for `works page`
+        - Fixed style error after click an item in `works page`
+        - Fixed `Cannot read property 'works' of undefined` error
+        - Added component `WorkListItem`
 
 2. Added progress on csc-369 assignment 2 - `Creating message queues`
     - Worked on adding missing instruction to `msg_queue_poll`
