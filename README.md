@@ -17,14 +17,9 @@
         - Corgi completed fixing `Cannot read property 'works' of undefined` error
         - Corgi adding component `WorkListItem`
 
-2. Corgi add progress #170 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #33
-        - Corgi working on understanding related function `poll` #2
-        - Corgi working on understanding related function `select`
-        - Corgi working on helper function `subscribe_to_events`
-    - Corgi completed cleaning existing code
-    - Corgi completed fixing `pthread_mutex_destroy  - resource busy` error♥♥
-
+2. Added progress on csc-369 assignment 2 - `Creating message queues`
+    - Worked on adding missing instruction to `msg_queue_poll`
+        - Searched resources to understand related function `poll` and `select`
 
 ### November 12th, 2020
 
