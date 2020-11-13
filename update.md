@@ -6,7 +6,7 @@
         - (x): Home page
         - (x): About page
         - (x): Works page
-        - ( ): Work detail page
+        - (x): Work detail page
         - ( ): Contacts page
 - (x): Attend `Develop Your LinkedIn Profile` event from 6:30 AM to 7:30 AM on November 13th, 2020
 - ( ): Apply to UTKSA
@@ -79,10 +79,11 @@ Deadline: November 18th, 2020
     - How do we subscribe to events in `msg_queue_poll` without knowing what events we are subscribing to? There is no argument/parameter related to target events in here.
     - How do we subscribe to events in `msg_queue_poll`?
 
-1. Corgi add progress #114 on hyungmogu.com♥♥
+1. Corgi add progress #116 on hyungmogu.com♥♥
     - Corgi fixing hyungmogu.com not pointing to https://hwanggu-corgi.github.io/portfolio-site/ #14
         - Corgi waiting until change a effect♥♥
-    - Corgi working on converting static template to dynamic template for `works detail page` #6
+    - Corgi working on converting static template to dynamic template for `contact page`
+    - Corgi completed converting static template to dynamic template for `works detail page` #7
         - Corgi adding code
         - Corgi completed fixing `Cannot read property 'title' of undefined` error
         - Corgi completed fixing `Cannot read property 'data' of undefined` error
