@@ -22,7 +22,7 @@
         - (x): November 8th, 2020
         - (x): November 7th, 2020
         - (x): November 6th, 2020
-        - ( ): November 5th, 2020
+        - (x): November 5th, 2020
         - ( ): November 4th, 2020
         - ( ): November 3rd, 2020
         - ( ): November 2nd, 2020
@@ -75,10 +75,11 @@ Deadline: November 18th, 2020
     - ( ): You must use synchronization function provided in `sync.c`
     - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
-1. Corgi add progress #127 on hyungmogu.com♥♥
+1. Corgi add progress #129 on hyungmogu.com♥♥
     - Corgi fixing `hyungmogu.com` being reset to `https://hwanggu-corgi.github.io/portfolio-site/`
-    - Corgi adding our portfolio data♥♥ #6
-        - Corgi working on adding `Social Team Builder`
+    - Corgi adding our portfolio data♥♥ #7
+        - Corgi working on adding `Portfolio Site`
+        - Corgi completed adding `Social Team Builder`
         - Corgi completed adding `Calculator App`
     - Corgi completed converting static template to dynamic template for `contact page`♥♥
 
