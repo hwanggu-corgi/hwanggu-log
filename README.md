@@ -120,14 +120,9 @@
 
 1. Added progress on csc-369 assignment 2 - `Creating message queues`
     - Worked on adding missing instruction to `msg_queue_open`
-        - Moe corgi working on gathering notes on `read and write` #3, over♥♥
-        - Moe corgi working on gathering notes on `semaphore` #7, over♥♥
-            - Corgi reading [chapter 31 - Semaphores](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-sema.pdf)
-        - Moe corgi working on gathering notes on `producer and consumer` #6, over♥♥
-            - Corgi reading [chapter 30 - conditional variable](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-cv.pdf)
-            in Operating Systems Three Easy Pieces, over♥♥
-        - Moe corgi working on gathering notes on `conditional variable`, over♥♥ #4
-    - Corgi completed making checklist, over♥♥
+        - Gathered notes and learned about `read and write`
+        - Gathered notes and learned about `semaphore`
+        - Gathered notes and learned about `conditional variable`
 
 ### November 3rd, 2020
 

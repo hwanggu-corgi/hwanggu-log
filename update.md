@@ -14,7 +14,7 @@
         - (x): November 7th, 2020
         - (x): November 6th, 2020
         - (x): November 5th, 2020
-        - ( ): November 4th, 2020
+        - (x): November 4th, 2020
         - ( ): November 3rd, 2020
         - ( ): November 2nd, 2020
         - ( ): November 1st, 2020
@@ -76,8 +76,8 @@ Deadline: November 18th, 2020
     - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
 
-1. Corgi add progress #171 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #34
+1. Corgi add progress #172 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #35
         - Corgi working on understanding related function `select`
         - Corgi working on understanding related function `poll`
         - Corgi working on helper function `subscribe_to_events`
