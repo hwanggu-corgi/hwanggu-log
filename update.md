@@ -5,6 +5,7 @@
 - ( ): Finish updating README.md part of hwanggu log
     - ( ): Upload to hyungmogu github
     - ( ): Fill missing parts
+        - (x): November 14th, 2020
         - (x): November 13th, 2020
         - (x): November 12th, 2020
         - (x): November 11th, 2020
@@ -66,8 +67,8 @@ Deadline: November 18th, 2020
     - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
 
-1. Corgi add progress #191 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #54
+1. Corgi add progress #193 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #56
         - Corgi working on adding code
         - Corgi working on helper function `subscribe_to_events`
         - Corgi working on understanding related function `poll`
