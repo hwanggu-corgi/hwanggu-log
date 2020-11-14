@@ -1,15 +1,6 @@
 ### November 14th, 2020 (Reading week)
 
 #### Resume and career
-- ( ): Complete hyungmogu.com
-    - ( ): Convert static page to React-based front end site
-        - ( ): Corgi adding our works
-        - (x): Home page
-        - (x): About page
-        - (x): Works page
-        - (x): Work detail page
-        - (x): Contacts page
-- (x): Attend `Develop Your LinkedIn Profile` event from 6:30 AM to 7:30 AM on November 13th, 2020
 - ( ): Apply to UTKSA
 - ( ): Finish updating README.md part of hwanggu log
     - ( ): Upload to hyungmogu github
@@ -42,6 +33,15 @@
         - (x): October 19th, 2020
 - ( ): Apply for a job at 우아한형제들
     - link: https://resume.woowahan.com/jobs/view.aspx?cc=244001&jidx=105800&pidx=11320&bidx=166014
+- (x): Complete hyungmogu.com
+    - (x): Convert static page to React-based front end site
+        - (x): Corgi adding our works
+        - (x): Home page
+        - (x): About page
+        - (x): Works page
+        - (x): Work detail page
+        - (x): Contacts page
+- (x): Attend `Develop Your LinkedIn Profile` event from 6:30 AM to 7:30 AM on November 13th, 2020
 - (x): Attend career counseling with Lisa Afundu from 4:30 AM to 4:50 AM on November 11th, 2020
 
 #### Assignment 2
@@ -76,10 +76,10 @@ Deadline: November 18th, 2020
     - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
 
-1. Corgi add progress #170 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #33
-        - Corgi working on understanding related function `poll` #2
+1. Corgi add progress #171 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #34
         - Corgi working on understanding related function `select`
+        - Corgi working on understanding related function `poll`
         - Corgi working on helper function `subscribe_to_events`
 
 2. Corgi completed on hyungmogu.com♥♥
