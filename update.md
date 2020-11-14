@@ -70,12 +70,13 @@ Deadline: November 18th, 2020
 1. Corgi add progress #196 on assignment 2, CSC 369♥♥
     - Corgi working on `msg_queue_poll` #59
         - Corgi working on adding code
-        - Corgi working on helper function `moe_mqpoll_readable_requested_for_non_reader_queue_handle`
         - Corgi working on understanding related function `poll`
             - Corgi reading source code - https://elixir.bootlin.com/uclibc-ng/v1.0.26/source/libc/sysdeps/linux/common/poll.c
         - Corgi working on understanding related function `select`
             - Corgi watching video `introducing select` from CSC 209 - https://www.youtube.com/watch?v=d2ROpbcIXd4&feature=emb_logo&ab_channel=C-programmingOntarioOnline
         - [on hold] Corgi working on helper function `subscribe_to_events`
+        - Corgi completed helper function `moe_mqpoll_readable_requested_for_non_reader_queue_handle`
+        - Corgi completed helper function `moe_mqpoll_writable_requested_for_non_writer_queue_handle`
         - Corgi improved helper function `moe_an_event_is_subscribed`
         - Corgi improved helper function `moe_events_field_in_a_pollfd_entry_is_valid`
         - Corgi completed creating helper function `moe_requested_events_on_any_queue_already_triggered`
