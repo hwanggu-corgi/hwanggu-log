@@ -67,9 +67,11 @@ Deadline: November 18th, 2020
     - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
 
-1. Corgi add progress #205 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #68
+1. Corgi add progress #206 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #69
         - Corgi working on adding code
+        - Corgi working on understanding how to build wait queue using linked list
+            - https://medium.com/@414apache/kernel-data-structures-linkedlist-b13e4f8de4bf
         - Corgi working on understanding related function `poll`
             - Corgi reading source code - https://elixir.bootlin.com/uclibc-ng/v1.0.26/source/libc/sysdeps/linux/common/poll.c
         - Corgi working on understanding related function `select`
