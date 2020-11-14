@@ -66,14 +66,15 @@ Deadline: November 18th, 2020
     - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
 
-1. Corgi add progress #187 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #50
+1. Corgi add progress #188 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #51
         - Corgi working on adding code
+        - Corgi working on understanding related function `poll`
+            - Corgi reading source code - https://elixir.bootlin.com/uclibc-ng/v1.0.26/source/libc/sysdeps/linux/common/poll.c
         - Corgi improved helper function `moe_events_field_in_a_pollfd_entry_is_valid`
         - Corgi completed creating helper function `moe_requested_events_on_any_queue_already_triggered`
         - Corgi working on understanding related function `select`
             - Corgi watching video `introducing select` from CSC 209 - https://www.youtube.com/watch?v=d2ROpbcIXd4&feature=emb_logo&ab_channel=C-programmingOntarioOnline
-        - Corgi working on understanding related function `poll`
         - Corgi working on helper function `subscribe_to_events`
 
 2. Corgi working on adding list of accomplishment to README.md #3♥♥
