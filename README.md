@@ -142,10 +142,7 @@
         - Gathered notes and learned about `conditional variable`
 
 ### November 3rd, 2020
-1. Corgi completed solving exercise 12 - Scheduling, CSC369
-    - Corgi completed working on question 4
-    - Corgi completed working on question 3
-    - Corgi completed working on question 2
+1. Completed exercise 12 - `Scheduling`, CSC369
 
 ### November 2nd, 2020
 1. Corgi add progress #8 on exercise 12 - Scheduling, CSC369♥♥

@@ -16,7 +16,7 @@
         - (x): November 6th, 2020
         - (x): November 5th, 2020
         - (x): November 4th, 2020
-        - ( ): November 3rd, 2020
+        - (x): November 3rd, 2020
         - ( ): November 2nd, 2020
         - ( ): November 1st, 2020
         - ( ): October 31st, 2020
@@ -82,7 +82,8 @@ Deadline: November 18th, 2020
         - Corgi completed creating helper function `moe_requested_events_on_any_queue_already_triggered`
 
 2. Corgi working on adding list of accomplishment to README.md #3♥♥
-    - Corgi working on November 4th, 2020♥♥
+    - Corgi completed November 3rd, 2020♥♥
+    - Corgi completed November 4th, 2020♥♥
 
 3. Corgi updating resume profile♥♥
     - Corgi updating LinkedIn♥♥
