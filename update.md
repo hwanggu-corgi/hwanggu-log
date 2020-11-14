@@ -76,8 +76,8 @@ Deadline: November 18th, 2020
     - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
 
-1. Corgi add progress #175 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #38
+1. Corgi add progress #176 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #39
         - Corgi working on understanding related function `select`
             - Corgi watching video `introducing select` from CSC 209 - https://www.youtube.com/watch?v=d2ROpbcIXd4&feature=emb_logo&ab_channel=C-programmingOntarioOnline
         - Corgi working on understanding related function `poll`
