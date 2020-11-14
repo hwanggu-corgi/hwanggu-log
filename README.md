@@ -142,31 +142,10 @@
         - Gathered notes and learned about `conditional variable`
 
 ### November 3rd, 2020
-
-1. Corgi add progress #5 on assignment 2, CSC 369♥♥
-    - Corgi working on making checklist #4♥♥
-        - Deadline: November 18th, 2020
-            - ( ) Part 1: Complete the functions in `msg_queue.c` with the exception of `msg_queue_poll()`
-                - ( ): `msg_queue_open()`
-                - ( ): `msg_queue_close()`
-                - ( ): `msg_queue_read()`
-                - ( ): `msg_queue_write()`
-            - ( ) Part 2: Complete `msg_queue_poll()`
-                - ( ): `msg_queue_poll()`
-            - ( ): Miscellaneous requirements
-                - ( ): You must use synchronization function provided in `sync.c`
-                - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
-
-    - Corgi completed adding file
-2. Corgi completed reviewing lecture 15 for CSC 369♥♥
-    - Corgi on slide `Multi-Level Queue Scheduling` [29 of 29]
-    - Corgi completed working on defining biggg definitions and concepts in `week8/lecture_15_notes.pdf`
-3. Corgi completed solving exercise 12 - Scheduling, CSC369♥♥
-    - Corgi completed working on question 4♥♥
-    - Corgi completed working on question 3♥♥
-    - Corgi completed working on question 2♥♥
-4. My dear♥♥, I will be back from 띠에뚜띠 369 lecture♥♥
-    - Corgi is back from lecture :)♥♥
+1. Corgi completed solving exercise 12 - Scheduling, CSC369
+    - Corgi completed working on question 4
+    - Corgi completed working on question 3
+    - Corgi completed working on question 2
 
 ### November 2nd, 2020
 1. Corgi add progress #8 on exercise 12 - Scheduling, CSC369♥♥
