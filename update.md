@@ -75,10 +75,17 @@ Deadline: November 18th, 2020
     - ( ): You must use synchronization function provided in `sync.c`
     - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
-1. Corgi add progress #138 on hyungmogu.com♥♥
-    - Corgi fixing `hyungmogu.com` being reset to `https://hwanggu-corgi.github.io/portfolio-site/`
-    - Corgi adding our portfolio data♥♥ #16
-        - Corgi fix 404 error on refresh on `work page` and `contact page`
+
+1. Corgi add progress #170 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #33
+        - Corgi working on understanding related function `poll` #2
+        - Corgi working on understanding related function `select`
+        - Corgi working on helper function `subscribe_to_events`
+
+2. Corgi completed on hyungmogu.com♥♥
+    - Corgi completed fixing `hyungmogu.com` being reset to `https://hwanggu-corgi.github.io/portfolio-site/`
+    - Corgi completed fixing 404 error on refresh on `work page` and `contact page`
+    - Corgi compelted  adding our portfolio data♥♥
         - Corgi completed adding `Filtering and Searching the Mineral Catalog`
         - Corgi completed adding `Improve a Django Project`
         - Corgi completed adding `Clone Chart`
@@ -87,14 +94,9 @@ Deadline: November 18th, 2020
         - Corgi completed adding `Calculator App`
     - Corgi completed converting static template to dynamic template for `contact page`♥♥
 
-2. Corgi add progress #170 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #33
-        - Corgi working on understanding related function `poll` #2
-        - Corgi working on understanding related function `select`
-        - Corgi working on helper function `subscribe_to_events`
-
 3. Corgi working on adding list of accomplishment to README.md #3♥♥
-    - Corgi working on November 5th, 2020♥♥
+    - Corgi working on November 4th, 2020♥♥
+    - Corgi completed November 5th, 2020♥♥
     - Corgi completed November 6th, 2020♥♥
 
 4. Corgi updating resume profile♥♥

@@ -118,8 +118,8 @@
 
 ### November 4th, 2020
 
-1. Corgi add progress #33 on assignment 2, CSC 369♥♥
-    - Corgi working on adding code to `msg_queue_open` #8
+1. Added progress on csc-369 assignment 2 - `Creating message queues`
+    - Worked on adding missing instruction to `msg_queue_open`
         - Moe corgi working on gathering notes on `read and write` #3, over♥♥
         - Moe corgi working on gathering notes on `semaphore` #7, over♥♥
             - Corgi reading [chapter 31 - Semaphores](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-sema.pdf)
