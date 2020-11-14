@@ -3,13 +3,8 @@
 ### November 14th, 2020
 
 1. Added progress on csc-369 assignment 2 - `Creating message queues`
-    - Corgi working on `msg_queue_poll` #45
-        - Corgi working on adding code
-        - Corgi completed creating helper function `moe_requested_events_on_any_queue_already_triggered`
-        - Corgi working on understanding related function `select`
-            - Corgi watching video `introducing select` from CSC 209 - https://www.youtube.com/watch?v=d2ROpbcIXd4&feature=emb_logo&ab_channel=C-programmingOntarioOnline
-        - Corgi working on understanding related function `poll`
-        - Corgi working on helper function `subscribe_to_events`
+    - Worked on adding missing instruction for `msg_queue_poll`
+        - Added helper function `moe_requested_events_on_any_queue_already_triggered`
 
 2. Completed on hyungmogu.com
     - Fixed github resetting `hyungmogu.com` to github pages after `npm run deploy`
@@ -44,8 +39,8 @@
 ### November 12th, 2020
 
 1. Added progress on csc-369 assignment 2 - `Creating message queues`
-    - Working on adding missing instruction for `msg_queue_poll`
-    - Cleaning existing code
+    - Worked on adding missing instruction for `msg_queue_poll`
+    - Cleaned existing code
     - Fixed `pthread_mutex_destroy  - resource busy` error
 
 2. Added progress on hyungmogu.com
@@ -300,7 +295,7 @@
     - Corgi completed working on `a1fs_unlink`, over♥♥
         - Corgi completed fixing invalid return value of `a1fs_unlink` errors
         - Corgi working on creating test code to function [3 of 3]
-        - Corgi working on adding code to function #52
+        - Corgi Worked on adding code to function #52
             - Corgi completed fixed `segmentation fault` error in `get_directory_entry`
             - Corgi completed fixing `segmentation fault` error in `remove_directory_entry`
             - Corgi completed creating helper function `deallocate_extent_block`
@@ -317,7 +312,7 @@
 내 여왕님 화이팅♥♥♥♥
 1. Corgi add progress #427 in assignment 1, CSC 369♥♥
     - Corgi working on a1fs_unlink, over♥♥
-        - Corgi working on adding code to function #21
+        - Corgi Worked on adding code to function #21
             - Corgi working on creating helper function `deallocate_data_block`
                 - Corgi adding testing code to function [1 of 3]
                 - Corgi completed adding code to function
@@ -333,21 +328,21 @@
             - Corgi completed creating helper function `save`
                 - Corgi completed adding testing code to function [2 of 2]
                 - Corgi completed adding code to function
-        - Corgi working on adding tests to function
+        - Corgi Worked on adding tests to function
         - Corgi completed adding pseudocode to function
     - [on hold] Corgi working on a1fs_create in a1fs.c, over♥♥
         - Corgi completed uploading code to haminthecoder/csc369
-        - Corgi working on adding code to function #9
+        - Corgi Worked on adding code to function #9
             - Corgi testing to make sure there is no compile errors
             - Corgi working on fixing function♥♥
             - Corgi completed adding test codes to function
             - Corgi completed adding test functions for `initialize_inode_file` [2 of 2]
             - Corgi completed on adding code for `initialize_inode_file`
     - [on hold] Corgi working on a1fs_mkdir in a1fs.c, over♥♥
-        - Corgi working on adding code #210
+        - Corgi Worked on adding code #210
             - Corgi fixing file system not being written to disk error #2
             - Corgi checking to ㄱmake sure all is well on virtual machine before merge request
-            - Corgi completed working on adding testing functions [1 of 1]
+            - Corgi completed Worked on adding testing functions [1 of 1]
             - Corgi completed fixing compiling errors
             - Corgi working on this function♥♥
             - Corgi completed working on creating `get_file_name` function
@@ -357,8 +352,8 @@
 ### October 25th, 2020
 1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
     - Creating system call `a1fs_mkdir`
-        - Corgi working on adding test to this function♥♥
-        - Corgi working on adding code #199
+        - Corgi Worked on adding test to this function♥♥
+        - Corgi Worked on adding code #199
             - Corgi working on this function♥♥
             - Corgi fixing `segmentation fault` error in `get_free_inode`
             - Corgi completed working on creating function `initialize_inode_directory`
