@@ -170,9 +170,10 @@
         - Fixed compile errors
 
 ### October 31st, 2020
-1. Corgi working on Tutorial 7 - Hungry Hippos
-    - Corgi completed adding starter files!!
-3. Corgi completed assignment 1, CSC 369
+1. Added progress on tutorial 7 - `Hungry Hippos`
+    - Setup starter file
+
+2. Added progress on Assignment 1 - `File System Implementation`
     - Corgi testing professor reid's testing codes
     - Corgi fixing `segmentation fault` error in `a1fs_truncate`
     - Corgi completed fixing `a1fs_unlink`
