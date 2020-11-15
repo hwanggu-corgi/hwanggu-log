@@ -196,21 +196,15 @@
         - Fixed `invalid argument` error in `deallocate_extent_block`
         - Improved `initialize_inode_directory` to include info about initial number of directory entries in directory inode
         - Improved `set_directory_entry` to increment number of directory entries in inode when new are added
-        - Corgi completed adding code to function
-    - Corgi uploading `a1fs_unlink` to haminthecoder/csc369
-        - Corgi resolving mere conflicts with master
-    - Corgi completed fixing function `a1fs_unlink`
-        - Corgi completed fixing `invalid argument` error in `deallocate_inode`
-        - Corgi completed fixing `invalid argument` error in `remove_directory_entry`
-        - Corgi completed adding code to function
-    - [on hold] Corgi fixing `ls: reading directory '.': Softare caused connection abort` issue
-        - Corgi checking for erroneous values in helper functions `a1fs_mkfs`
-        - Corgi adding printing functions around in `a1fs_getattr`
-        - Corgi fixing function `a1fs_readdir`
-        - Corgi adding printing functions around `a1fs_readdir`
+    - Uploaded `a1fs_unlink` to haminthecoder/csc369
+        - Resolved conflicts with master
+    - Fixed function `a1fs_unlink`
+        - Fixed `invalid argument` error in `deallocate_inode`
+        - Fixed `invalid argument` error in `remove_directory_entry`
+        - Added code to function
 
 ### October 29th, 2020
-1. Corgi add progress #537 in assignment 1, CSC 369
+1. Added progress on Assignment 1 - `File System Implementation`
     - Corgi fixing `ls: reading directory '.': Softare caused connection abort` issue
     - Corgi completed making changes request to haminthecoder/csc369
         - Corgi completed resolving merge conflicts in `a1fs_getattr`
@@ -396,25 +390,25 @@
 ### October 18th, 2020
 1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
     - Completed uploading following codes to haminthecoder/csc369 for review
-        - fs_ctx.c
-        - mkfs.c
-    - Completed fs_ctx_destroy in fs_ctx.c
-    - Completed fs_ctx_init in fs_ctx.c
-        - Completed adding code for fx_ctx_init
+        - `fs_ctx.c`
+        - `mkfs.c`
+    - Completed `fs_ctx_destroy` in `fs_ctx.c`
+    - Completed `fs_ctx_init` in `fs_ctx.c`
+        - Completed adding code for `fx_ctx_init`
         - Completed setting up test functions
 
 ### October 17th, 2020
 1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
-    - Worked on fs_ctx_init in fs_ctx.c
-    - Worked on fixing mkfs.c under review suggestion from hamin
+    - Worked on `fs_ctx_init` in `fs_ctx.c`
+    - Worked on fixing `mkfs.c` under review suggestion from hamin
         - Organizing and commenting declared varibles
-        - Completed typecasting size variable to match its field in struct a1fs_superblock
-        - Completed removing unused field from a1fs_inode
-        - Completed removing unused parameter in create_root_dir
-        - Completed adding missing <math.h> library
-        - Completed removing redundant mkfs function
-2. Reviewed lecture 10 notes first time, CSC-369
-4. Worked on csc-369 midterm 1 preparation
+        - Completed typecasting size variable to match its field in struct `a1fs_superblock`
+        - Completed removing unused field from `a1fs_inode`
+        - Completed removing unused parameter in `create_root_dir`
+        - Completed adding missing `<math.h>` library
+        - Completed removing redundant `mkfs` function
+2. Reviewed lecture 10 notes first time, CSC 369
+3. Worked on csc-369 midterm 1 preparation
     - Reviewed lecture notes
         - Completed reviewing Lecture 2, Files and File System
         - Completed reviewing Lecture 3, Files and File Systems first time
@@ -445,7 +439,6 @@
 ### October 15th, 2020
 1. Worked on csc-369 midterm 1 preparation
     - Worked on solving past midterms
-        - Worked on solving question 5 midterm 1 #2
         - Completed solving question 4 midterm 1
         - Completed solving question 3 midterm 1
         - Completed correcting question 2 and question 1 midterm 1
@@ -466,41 +459,39 @@
 ### October 14th, 2020
 1. Worked on csc-369 midterm 1 preparation
     - Worked on solving past exercises
-        - sovled 4 questions in exercise 4
         - completed solving questions in exercise 3
         - completed solving questions in exercise 2
         - completed solving questions in exercise 1
 2. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
-    - completed uploading mkfs.c to haminthecoder/csc369
+    - completed uploading `mkfs.c` to haminthecoder/csc369
     - completed refactoring testing program
-    - completed mkfs, over
-    - completed a1fs_is_present
+    - completed `mkfs`
+    - completed `a1fs_is_present`
 
 ### October 13th, 2020
 1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
-    - Worked on setting up tests for a1fs_is_present
-    - Completed working on create_root_directory
-    - Completed working on get_free_inode
-    - Completed working on setting up test for setup_superblock
+    - Completed working on `create_root_directory`
+    - Completed working on `get_free_inode`
+    - Completed working on setting up test for `setup_superblock`
 
 ### October 12th, 2020
 
-1. Worked on assignment 1  - `Creating a file system using FUSE`, CSC 369
-    - Worked on setting up tests for setup_superblock
-    - Worked on correcting a1fs_mkdir
-    - Worked on correcting update_inode_block() version 1 in a1fs_mkdir
+1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
+    - Worked on setting up tests for `setup_superblock`
+    - Worked on correcting `a1fs_mkdir`
+    - Worked on correcting `update_inode_block()` version 1 in `a1fs_mkdir`
 
 ### October 11th, 2020
 
-1. Worked on assignment 1  - `Creating a file system using FUSE`, CSC 369
-    - Worked on correcting a1fs_mkdi
-    - Worked on correcting update_inode_block() version 1 in a1fs_mkdir
+1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
+    - Worked on correcting `a1fs_mkdir`
+    - Worked on correcting `update_inode_block()` version 1 in `a1fs_mkdir`
     - Completed setting up hwanggu-corgi/assignment-1 on virtual machine
     - Completed on getting the starting files to work for debugging
 
 ### October 10th, 2020
-1. Worked on assignment 1  - `Creating a file system using FUSE`, CSC 369
-    - Completed get_free_inode() version 1 in a1fs_mkdir
+1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
+    - Completed adding helper function `get_free_inode()`
     - Completed installing USB extension in VirtualBox following this [link](https://www.tecmint.com/enable-usb-in-virtualbox/)
 
 2. Worked on reviewing lecture 9, CSC 369
