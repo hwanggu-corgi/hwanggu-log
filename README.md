@@ -493,21 +493,21 @@
 
 ### October 12th, 2020
 
-1. Worked on assignment 1b, CSC 369
+1. Worked on assignment 1  - `Creating a file system using FUSE`, CSC 369
     - Worked on setting up tests for setup_superblock
     - Worked on correcting a1fs_mkdir
     - Worked on correcting update_inode_block() version 1 in a1fs_mkdir
 
 ### October 11th, 2020
 
-1. Worked on assignment 1b, CSC 369
+1. Worked on assignment 1  - `Creating a file system using FUSE`, CSC 369
     - Worked on correcting a1fs_mkdi
     - Worked on correcting update_inode_block() version 1 in a1fs_mkdir
     - Completed setting up hwanggu-corgi/assignment-1 on virtual machine
     - Completed on getting the starting files to work for debugging
 
 ### October 10th, 2020
-1. Worked on assignment 1b, CSC 369
+1. Worked on assignment 1  - `Creating a file system using FUSE`, CSC 369
     - Completed get_free_inode() version 1 in a1fs_mkdir
     - Completed installing USB extension in VirtualBox following this [link](https://www.tecmint.com/enable-usb-in-virtualbox/)
 
@@ -518,22 +518,11 @@
 ### October 8th, 2020
 1. Worked on assignment 1b, CSC 369
 
-2. Called government of BC regarding student aid
-    - Called the government, the personnel said signature date has to be the latest date
-
-3. Corrected and resubmitted the student aid application
-    - Hurray!!
-
-
 ### October 7th, 2020
 1. Worked on reviewing lectures, CSC 369
     - Lecture 8
 
-2. Contacted university of toronto financial services regarding re-submission of student aid
-
-3. Applied for cost-per-program to cost-per-course reassessment
-
-4. Worked on assignment 1b, CSC 369
+2. Worked on assignment 1b, CSC 369
 
 ### October 6th, 2020
 1. Worked on required readings, CSC 369
