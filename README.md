@@ -201,22 +201,18 @@
     - Fixed function `a1fs_unlink`
         - Fixed `invalid argument` error in `deallocate_inode`
         - Fixed `invalid argument` error in `remove_directory_entry`
-        - Added code to function
 
 ### October 29th, 2020
 1. Added progress on Assignment 1 - `File System Implementation`
-    - Corgi fixing `ls: reading directory '.': Softare caused connection abort` issue
-    - Corgi completed making changes request to haminthecoder/csc369
-        - Corgi completed resolving merge conflicts in `a1fs_getattr`
-        - Corgi completed resolving merge conflicts in `a1fs_readdir`
-    - Corgi completed fixing storage of irregular i_number in `a1fs_create` and `a1fs_mkdir`
-        - Corgi adding prints to find mysterious inode number 111 created in directory entry
-    - Corgi completed fixing `free(): invalid pointer` in `a1fs_create`
-    - Corgi completed fixing incorrect return value in `set_directory_entry`
-    - Corgi completed fixing incorrect value of directory entry in `get_directory_entry`
-    - Corgi completed fixing `No such file or directory` issue in `a1fs_create`
-    - Corgi completed fixing file name containing corrupted values in `get_file_name`
-    - Corgi merged Hamin's code to haminthecoder/csc369 fix branch
+    - Uploaded `a1fs_getattr` to haminthecoder/csc369
+    - Uploaded `a1fs_readdir` to haminthecoder/csc369
+    - Fixed storage of irregular i_number in `a1fs_create` and `a1fs_mkdir`
+        - Added prints to find mysterious inode number 111 created in directory entry
+    - Fixed `free(): invalid pointer` in `a1fs_create`
+    - Fixed incorrect return value in `set_directory_entry`
+    - Fixed incorrect value of directory entry in `get_directory_entry`
+    - Fixed `No such file or directory` issue in `a1fs_create`
+    - Fixed file name containing corrupted values in `get_file_name`
 
 ### October 28th, 2020
 1. Corgi add progress #506 in assignment 1, CSC 369
