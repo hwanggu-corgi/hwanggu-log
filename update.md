@@ -71,8 +71,8 @@ Deadline: November 18th, 2020
     - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
 
-1. Corgi add progress #228 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #91
+1. Corgi add progress #229 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #92
         - Corgi working on adding code
         - Corgi working on understanding related function `poll`
             - Corgi reading source code - https://elixir.bootlin.com/uclibc-ng/v1.0.26/source/libc/sysdeps/linux/common/poll.c
@@ -83,6 +83,7 @@ Deadline: November 18th, 2020
             - https://medium.com/@414apache/kernel-data-structures-linkedlist-b13e4f8de4bf
 
 2. Corgi working on adding list of accomplishment to README.md #3♥♥
+    - Corgi working on October 30th, 2020♥♥
     - Corgi completed October 31st, 2020♥♥
     - Corgi completed November 1st, 2020♥♥
     - Corgi completed November 2nd, 2020♥♥

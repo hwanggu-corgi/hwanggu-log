@@ -190,12 +190,12 @@
         - Added printing functions around `mkdir`
 
 ### October 30th, 2020
-1. Corgi add progress #565 in assignment 1, CSC 369
-    - Corgi working on creating `a1fs_rmdir`
-        - Corgi working on fixing `directory entry not found` error during `a1fs_mkdir` after removal
-        - Corgi completed fixing `invalid argument` error in `deallocate_extent_block`
-        - Corgi completed modifying `initialize_inode_directory` to set initial number of directory entries
-        - Corgi completed modifying `set_directory_entry` to increment number of directory entries when new are added
+1. Added progress on Assignment 1 - `File System Implementation`
+    - Worked on adding missing instructions to `a1fs_rmdir`
+        - Fixed `directory entry not found` error during `a1fs_mkdir` after removal
+        - Fixed `invalid argument` error in `deallocate_extent_block`
+        - Improved `initialize_inode_directory` to include info about initial number of directory entries in directory inode
+        - Improved `set_directory_entry` to increment number of directory entries in inode when new are added
         - Corgi completed adding code to function
     - Corgi uploading `a1fs_unlink` to haminthecoder/csc369
         - Corgi resolving mere conflicts with master
@@ -208,8 +208,6 @@
         - Corgi adding printing functions around in `a1fs_getattr`
         - Corgi fixing function `a1fs_readdir`
         - Corgi adding printing functions around `a1fs_readdir`
-
-2. Corgi completed breakfast with parents [5:25 AM ~ 5:40 AM]
 
 ### October 29th, 2020
 1. Corgi add progress #537 in assignment 1, CSC 369
@@ -225,8 +223,6 @@
     - Corgi completed fixing `No such file or directory` issue in `a1fs_create`
     - Corgi completed fixing file name containing corrupted values in `get_file_name`
     - Corgi merged Hamin's code to haminthecoder/csc369 fix branch
-
-2. Corgi completed breakfast with parents [5:42 AM ~ 5:56 AM]
 
 ### October 28th, 2020
 1. Corgi add progress #506 in assignment 1, CSC 369
@@ -247,8 +243,6 @@
     - Corgi completed fixing issue `segmentation fault` error in `set_directory_entry` for `a1fs_mkdir`, over
     - Corgi added shell programs for easier repeated running of programs
     - Corgi completed fixing issue of data not writing to disk for `a1fs_mkfs`, over
-
-2. Corgi completed breakfast with parents [5:30 AM ~ 5:43 AM]
 
 ### October 27th, 2020
 1. My dear, I will be back from csc-369 lecture from 3:00 AM to 4:30 AM. I will be back asking some questions about assignment 1 to professor, and meeting with hamin after lecture. I will be here my dear :)
@@ -271,10 +265,7 @@
                 - Corgi completed adding code to function
         - Corgi completed fixing `empty value` error in `get_parent_path`
 
-3. Corgi asked questions about assignment 1 to TA [6:06 AM ~ 7:07 AM]
 ### October 26th, 2020
-내 사랑 최고
-내 여왕님 화이팅
 1. Corgi add progress #427 in assignment 1, CSC 369
     - Corgi working on a1fs_unlink, over
         - Corgi Worked on adding code to function #21
@@ -314,6 +305,7 @@
             - Corgi completed working on creating test function for `get_file_name`
             - Corgi completed fixing `segmentation fault` error in `get_free_inode`
         - Corgi completed adding test to this function
+
 ### October 25th, 2020
 1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
     - Creating system call `a1fs_mkdir`
