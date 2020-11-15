@@ -5,6 +5,7 @@
 - ( ): Finish updating README.md part of hwanggu log
     - ( ): Upload to hyungmogu github
     - ( ): Fill missing parts
+        - (x): November 15th, 2020
         - (x): November 14th, 2020
         - (x): November 13th, 2020
         - (x): November 12th, 2020
@@ -32,10 +33,11 @@
         - (x): October 21st, 2020
         - (x): October 20th, 2020
         - (x): October 19th, 2020
-- ( ): Apply for a job at 우아한형제들
-    - link: https://resume.woowahan.com/jobs/view.aspx?cc=244001&jidx=105800&pidx=11320&bidx=166014
-- ( ): Apply for a job at Microsoft as Software engineer (November 18th, 2020)
-    - link: https://sway.office.com/XZSVCk4EATEEZuaS?ref=Link
+-  Apply for jobs
+    - ( ): 우아한형제들
+        - link: https://resume.woowahan.com/jobs/view.aspx?cc=244001&jidx=105800&pidx=11320&bidx=166014
+    - ( ): Microsoft as Software engineer (November 18th, 2020)
+        - link: https://sway.office.com/XZSVCk4EATEEZuaS?ref=Link
 
 #### Assignment 2
 
@@ -69,8 +71,8 @@ Deadline: November 18th, 2020
     - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
 
-1. Corgi add progress #218 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #81
+1. Corgi add progress #220 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #83
         - Corgi working on adding code
         - Corgi working on understanding how to build wait queue using linked list
             - https://medium.com/@414apache/kernel-data-structures-linkedlist-b13e4f8de4bf
@@ -81,6 +83,7 @@ Deadline: November 18th, 2020
         - [on hold] Corgi working on helper function `subscribe_to_events`
 
 2. Corgi working on adding list of accomplishment to README.md #3♥♥
+    - Corgi working on November 2nd, 2020♥♥
     - Corgi completed November 3rd, 2020♥♥
     - Corgi completed November 4th, 2020♥♥
 
