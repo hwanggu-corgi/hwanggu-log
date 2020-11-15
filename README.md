@@ -180,17 +180,14 @@
     - Added missing instructions to function `a1fs_rmdir`
         - Resolved merge conflicts before uploading solution to haminthecoder/csc369
         - Fixed incorrect unset of value in `a1fs_rmdir`
-            - Corgi completed adding printing functions in `deallocate_free_blocks` to investigate the root cause
-            - Corgi completed adding printing functions to `get_free_blocks` to investigate the root cause
-        - Corgi completed fixing `directory entry not found` error during `a1fs_mkdir` after removal
-            - Corgi completed fixing issue of incorrect storage of value for `/`
-            - Corgi completed adding printing functions `get_directory_entry` to make sure correct entry is accessed
-            - Corgi completed adding printing functions around `a1fs_rmdir` to investigate incorrect values
-            - Corgi completed adding printing functions around `remove_directory_entry` to make sure correct directory entry has been removed
-            - Corgi completed adding printing functions around `mkdir`
-
-2. My dear, I will be back from csc-369 tutorial
-    - My dear, 형모 corgi is back XD
+            - Added printing functions in `deallocate_free_blocks` to investigate the root cause
+            - Added printing functions to `get_free_blocks` to investigate the root cause
+        - Fixed `directory entry not found` error when performing `mkdir` after removing the directory
+            - Fixed incorrect storage of directory i-number in `/`
+            - Added printing functions `get_directory_entry` to check correct entry is accessed
+            - Added printing functions around `a1fs_rmdir` to check for the existence of incorrect values
+            - Added printing functions around `remove_directory_entry` to check correct directory entry has been removed
+            - Added printing functions around `mkdir`
 
 ### October 30th, 2020
 1. Corgi add progress #565 in assignment 1, CSC 369
