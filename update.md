@@ -34,6 +34,8 @@
         - (x): October 19th, 2020
 - ( ): Apply for a job at 우아한형제들
     - link: https://resume.woowahan.com/jobs/view.aspx?cc=244001&jidx=105800&pidx=11320&bidx=166014
+- ( ): Apply for a job at Microsoft as Software engineer (November 18th, 2020)
+    - link: https://sway.office.com/XZSVCk4EATEEZuaS?ref=Link
 
 #### Assignment 2
 
