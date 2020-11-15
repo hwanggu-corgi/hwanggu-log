@@ -155,7 +155,7 @@
 1. Completed exercise 12 - `Scheduling`, CSC369
 
 ### November 2nd, 2020
-2. Completed Tutorial 7 - `Hungry Hippos`
+1. Completed Tutorial 7 - `Hungry Hippos`
     - Fixed hanging condition after referee exists in `referee`
     - Added printing functions to better understand what's going on rwar
         - Game is stuck when marbles are out in `restart_game`
@@ -182,12 +182,12 @@
         - Fixed incorrect unset of value in `a1fs_rmdir`
             - Added printing functions in `deallocate_free_blocks` to investigate the root cause
             - Added printing functions to `get_free_blocks` to investigate the root cause
-        - Fixed `directory entry not found` error when performing `mkdir` after removing the directory
-            - Fixed incorrect storage of directory i-number in `/`
-            - Added printing functions `get_directory_entry` to check correct entry is accessed
-            - Added printing functions around `a1fs_rmdir` to check for the existence of incorrect values
-            - Added printing functions around `remove_directory_entry` to check correct directory entry has been removed
-            - Added printing functions around `mkdir`
+    - Fixed `directory entry not found` error when performing `mkdir` after removing the directory
+        - Corrected incorrect storage of directory i-number in `/`
+        - Added printing functions `get_directory_entry` to check correct entry is accessed
+        - Added printing functions around `a1fs_rmdir` to check for the existence of incorrect values
+        - Added printing functions around `remove_directory_entry` to check correct directory entry has been removed
+        - Added printing functions around `mkdir`
 
 ### October 30th, 2020
 1. Corgi add progress #565 in assignment 1, CSC 369

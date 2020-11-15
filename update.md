@@ -20,7 +20,7 @@
         - (x): November 3rd, 2020
         - (x): November 2nd, 2020
         - (x): November 1st, 2020
-        - ( ): October 31st, 2020
+        - (x): October 31st, 2020
         - ( ): October 30th, 2020
         - ( ): October 29th, 2020
         - ( ): October 28th, 2020
@@ -83,7 +83,8 @@ Deadline: November 18th, 2020
         - [on hold] Corgi working on helper function `subscribe_to_events`
 
 2. Corgi working on adding list of accomplishment to README.md #3♥♥
-    - Corgi working on November 1st, 2020♥♥
+    - Corgi completed October 31st, 2020♥♥
+    - Corgi completed November 1st, 2020♥♥
     - Corgi completed November 2nd, 2020♥♥
     - Corgi completed November 3rd, 2020♥♥
     - Corgi completed November 4th, 2020♥♥
