@@ -18,7 +18,7 @@
         - (x): November 5th, 2020
         - (x): November 4th, 2020
         - (x): November 3rd, 2020
-        - ( ): November 2nd, 2020
+        - (x): November 2nd, 2020
         - ( ): November 1st, 2020
         - ( ): October 31st, 2020
         - ( ): October 30th, 2020
@@ -71,8 +71,8 @@ Deadline: November 18th, 2020
     - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
 
-1. Corgi add progress #220 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #83
+1. Corgi add progress #221 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #84
         - Corgi working on adding code
         - Corgi working on understanding how to build wait queue using linked list
             - https://medium.com/@414apache/kernel-data-structures-linkedlist-b13e4f8de4bf
@@ -83,7 +83,8 @@ Deadline: November 18th, 2020
         - [on hold] Corgi working on helper function `subscribe_to_events`
 
 2. Corgi working on adding list of accomplishment to README.md #3♥♥
-    - Corgi working on November 2nd, 2020♥♥
+    - Corgi working on November 1st, 2020♥♥
+    - Corgi completed November 2nd, 2020♥♥
     - Corgi completed November 3rd, 2020♥♥
     - Corgi completed November 4th, 2020♥♥
 
