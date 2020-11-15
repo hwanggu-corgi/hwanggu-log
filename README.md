@@ -215,33 +215,28 @@
     - Fixed file name containing corrupted values in `get_file_name`
 
 ### October 28th, 2020
-1. Corgi add progress #506 in assignment 1, CSC 369
-    - Corgi fixing `No such file or directory` issue in `a1fs_create`
-    - Corgi completed fixing `Address in use` issue in `a1fs_create`
-    - Corgi completed fixing `No such file or directory` issue in `a1fs_getattr`
-        - Corgi completed improving function `get_directory_entry` to include `ENOENT` and `ENOTDIR` errors
-        - Corgi completed fixing invalid return value for helper function `get_inode`
-        - Corgi completed fixing compile errors
-        - Corgi completed fixing code in function
-        - Corgi completed adding printing functions to better investigate what's going on
-    - Corgi completed fixing malfunctining `get_free_blocks` function for `a1fs_mkdir`
-    - Corgi completed fixing malfunctining `set_data_bitmap` function for `a1fs_mkdir`
-    - Corgi completed fixing malfunctining `set_directory_entry` function for `a1fs_mkdir`
-    - Corgi completed fixing malfunctining `get_directory_entry` function
-    - Corgi completed fixing incorrect file name in `get_file_name` for `a1fs_mkdir`
-    - Corgi completed fixing issue `address in use` error in `set_data_bitmap` for `a1fs_mkdir`, over
-    - Corgi completed fixing issue `segmentation fault` error in `set_directory_entry` for `a1fs_mkdir`, over
-    - Corgi added shell programs for easier repeated running of programs
-    - Corgi completed fixing issue of data not writing to disk for `a1fs_mkfs`, over
+1. Added progress on Assignment 1 - `File System Implementation`
+    - Fixed `No such file or directory` issue in `a1fs_create`
+    - Fixed `Address in use` issue in `a1fs_create`
+    - Fixed `No such file or directory` issue in `a1fs_getattr`
+    - Fixed malfunctioning `get_free_blocks` function in `a1fs_mkdir`
+    - Fixed malfunctioning `set_data_bitmap` function in `a1fs_mkdir`
+    - Fixed malfunctioning `set_directory_entry` function in `a1fs_mkdir`
+    - Fixed incorrect file name in `get_file_name` for `a1fs_mkdir`
+    - Fixed issue `address in use` error in `set_data_bitmap` for `a1fs_mkdir`
+    - Fixed issue `segmentation fault` error in `set_directory_entry` for `a1fs_mkdir`
+    - Fixed issue of data not writing to disk in `a1fs_mkfs`
+    - Improved function `get_directory_entry` to include `ENOENT` and `ENOTDIR` errors
+    - Added shell program for easier repeated running of programs
 
 ### October 27th, 2020
 1. My dear, I will be back from csc-369 lecture from 3:00 AM to 4:30 AM. I will be back asking some questions about assignment 1 to professor, and meeting with hamin after lecture. I will be here my dear :)
     - 형모 corgi 이뚜 back my love!!
 
 2. Corgi add progress #464 in assignment 1, CSC 369
-    - Corgi fixing issue of data not writing to disk for `a1fs_mkfs`, over
+    - Corgi fixing issue of data not writing to disk for `a1fs_mkfs`
         - Corgi adding printing functions around the function over
-    - Corgi completed working on `a1fs_unlink`, over
+    - Corgi completed working on `a1fs_unlink`
         - Corgi completed fixing invalid return value of `a1fs_unlink` errors
         - Corgi working on creating test code to function [3 of 3]
         - Corgi Worked on adding code to function #52
@@ -257,7 +252,7 @@
 
 ### October 26th, 2020
 1. Corgi add progress #427 in assignment 1, CSC 369
-    - Corgi working on a1fs_unlink, over
+    - Corgi working on a1fs_unlink
         - Corgi Worked on adding code to function #21
             - Corgi working on creating helper function `deallocate_data_block`
                 - Corgi adding testing code to function [1 of 3]
@@ -276,7 +271,7 @@
                 - Corgi completed adding code to function
         - Corgi Worked on adding tests to function
         - Corgi completed adding pseudocode to function
-    - [on hold] Corgi working on a1fs_create in a1fs.c, over
+    - [on hold] Corgi working on a1fs_create in a1fs.c
         - Corgi completed uploading code to haminthecoder/csc369
         - Corgi Worked on adding code to function #9
             - Corgi testing to make sure there is no compile errors
@@ -284,7 +279,7 @@
             - Corgi completed adding test codes to function
             - Corgi completed adding test functions for `initialize_inode_file` [2 of 2]
             - Corgi completed on adding code for `initialize_inode_file`
-    - [on hold] Corgi working on a1fs_mkdir in a1fs.c, over
+    - [on hold] Corgi working on a1fs_mkdir in a1fs.c
         - Corgi Worked on adding code #210
             - Corgi fixing file system not being written to disk error #2
             - Corgi checking to ㄱmake sure all is well on virtual machine before merge request
@@ -292,7 +287,7 @@
             - Corgi completed fixing compiling errors
             - Corgi working on this function
             - Corgi completed working on creating `get_file_name` function
-            - Corgi completed working on creating test function for `get_file_name`
+            - Corgi completed working on creating test function in `get_file_name`
             - Corgi completed fixing `segmentation fault` error in `get_free_inode`
         - Corgi completed adding test to this function
 

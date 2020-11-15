@@ -23,7 +23,7 @@
         - (x): October 31st, 2020
         - (x): October 30th, 2020
         - (x): October 29th, 2020
-        - ( ): October 28th, 2020
+        - (x): October 28th, 2020
         - ( ): October 27th, 2020
         - ( ): October 26th, 2020
         - ( ): October 25th, 2020
@@ -71,9 +71,10 @@ Deadline: November 18th, 2020
     - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
 
-1. Corgi add progress #231 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #93
+1. Corgi add progress #232 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #94
         - Corgi working on adding code
+        - Corgi submitted inquiry to professor reid to ask question about events
         - Corgi working on understanding related function `poll`
             - Corgi reading source code - https://elixir.bootlin.com/uclibc-ng/v1.0.26/source/libc/sysdeps/linux/common/poll.c
         - Corgi working on understanding related function `select`
@@ -83,6 +84,7 @@ Deadline: November 18th, 2020
             - https://medium.com/@414apache/kernel-data-structures-linkedlist-b13e4f8de4bf
 
 2. Corgi working on adding list of accomplishment to README.md #3♥♥
+    - Corgi completed October 28th, 2020♥♥
     - Corgi completed October 29th, 2020♥♥
     - Corgi completed October 30th, 2020♥♥
     - Corgi completed October 31st, 2020♥♥
