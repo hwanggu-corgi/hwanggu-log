@@ -164,20 +164,10 @@
 
 ### November 1st, 2020
 1. Added progress on tutorial 7 - `Hungry Hippos`
-    - Corgi working on gathering the unknowns♥ before addressing the problem
-        - Corgi working on fixing code #11
-            - Corgi working on test failure in `test.sh`
-                - Corgi completed fixing correct argument leading to compilation error
-            - Corgi completed working on installing error detection tool `valgrind` on Ubuntu virtual machines
-            - Corgi completed filling TODO in function `referee`
-            - Corgi completed filling TODO in function `restart_game`
-        - Corgi completed working on professor Reid's example producer and consumer problem `pc_cv.c` to better understand how threads, producer and consumer problem works #5
-            - Corgi completed fixing code
-            - Corgi completed fixing compile errors
-            - Corgi completed adding file
-        - [Corgi on hold] Corgi gathering information about `Producer and Consumer` #2
-        - [Corgi on hold] Corgi gathering information about `Conditional Variable` #5
-        - [Corgi on hold] Corgi gathering information about `Thread API`
+    - Installed error detection tool `valgrind` on Ubuntu virtual machines
+    - Reviewed professor Reid's handout example on producer and consumer `pc_cv.c` to better understand how it works
+        - Fixed code
+        - Fixed compile errors
 
 ### October 31st, 2020
 1. Corgi working on Tutorial 7 - Hungry Hippos

@@ -19,7 +19,7 @@
         - (x): November 4th, 2020
         - (x): November 3rd, 2020
         - (x): November 2nd, 2020
-        - ( ): November 1st, 2020
+        - (x): November 1st, 2020
         - ( ): October 31st, 2020
         - ( ): October 30th, 2020
         - ( ): October 29th, 2020
