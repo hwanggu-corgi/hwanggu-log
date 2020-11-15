@@ -174,14 +174,12 @@
     - Setup starter file
 
 2. Added progress on Assignment 1 - `File System Implementation`
-    - Corgi testing professor reid's testing codes
-    - Corgi fixing `segmentation fault` error in `a1fs_truncate`
-    - Corgi completed fixing `a1fs_unlink`
-        - Corgi done fixing the problem
-        - Corgi completed adding print functions
-    - Corgi completed working on creating `a1fs_rmdir`
-        - Corgi completed working on merge conflicts before uploading solution to haminthecoder/csc369
-        - Corgi completed fixing incorrect unset of value in `a1fs_rmdir`
+    - Performed test on professor reid's testing codes
+    - Fixed `segmentation fault` error in `a1fs_truncate`
+    - Fixed `a1fs_unlink`
+    - Added missing instructions to function `a1fs_rmdir`
+        - Resolved merge conflicts before uploading solution to haminthecoder/csc369
+        - Fixed incorrect unset of value in `a1fs_rmdir`
             - Corgi completed adding printing functions in `deallocate_free_blocks` to investigate the root cause
             - Corgi completed adding printing functions to `get_free_blocks` to investigate the root cause
         - Corgi completed fixing `directory entry not found` error during `a1fs_mkdir` after removal
