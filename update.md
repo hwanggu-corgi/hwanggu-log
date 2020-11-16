@@ -4,7 +4,7 @@
 - ( ): Apply to UTKSA
 - ( ): Finish updating README.md part of hwanggu log
     - ( ): Upload to hyungmogu github
-    - ( ): Fill missing parts
+    - (x): Fill missing parts
         - (x): November 15th, 2020
         - (x): November 14th, 2020
         - (x): November 13th, 2020
@@ -26,7 +26,7 @@
         - (x): October 28th, 2020
         - (x): October 27th, 2020
         - (x): October 26th, 2020
-        - ( ): October 25th, 2020
+        - (x): October 25th, 2020
         - (x): October 24th, 2020
         - (x): October 23rd, 2020
         - (x): October 22nd, 2020
@@ -71,8 +71,8 @@ Deadline: November 18th, 2020
     - ( ): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
 
-1. Corgi add progress #235 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #97
+1. Corgi add progress #237 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #99
         - Corgi working on adding code
         - Corgi working on understanding related function `poll`
             - Corgi reading source code - https://elixir.bootlin.com/uclibc-ng/v1.0.26/source/libc/sysdeps/linux/common/poll.c

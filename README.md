@@ -232,17 +232,12 @@
 ### October 27th, 2020
 1. Added progress on Assignment 1 - `File System Implementation`
     - Filled missing instructions in `a1fs_unlink`
-        - Fixed invalid return value of `a1fs_unlink` errors
         - Fixed `segmentation fault` error in `get_directory_entry`
         - Fixed `segmentation fault` error in `remove_directory_entry`
         - Fixed `empty value` error in `get_parent_path`
-        - Added test code to function [3 of 3]
+        - Added test code to function `a1fs_unlink`
         - Added helper function `deallocate_extent_block`
-            - Corgi completed adding testing code to function [3 of 3]
-            - Corgi completed adding code to function
-        - Added helper function `deallocate_data_blocks`
-            - Corgi completed adding testing code to function [3 of 3]
-            - Corgi completed adding code to function
+        - Added testing code to function `deallocate_extent_block`
 
 ### October 26th, 2020
 1. Added progress on Assignment 1 - `File System Implementation`
@@ -268,32 +263,18 @@
         - Added test to `a1fs_mkdir`
 
 ### October 25th, 2020
-1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
-    - Creating system call `a1fs_mkdir`
-        - Corgi Worked on adding test to this function
-        - Corgi Worked on adding code #199
-            - Corgi working on this function
-            - Corgi fixing `segmentation fault` error in `get_free_inode`
-            - Corgi completed working on creating function `initialize_inode_directory`
-                - Corgi fixing function
-                - Corgi fixing compiling errors
-                - Corgi adding test functions [2 of 2]
-                - Corgi completed adding code to function
-            - Corgi completed fixing `undefined reference to function` error related to haminthecoder/csc369
-            - Corgi completed checking on virtual machine to make sure mkfs is working without issues
-            - Corgi completed working on uploading updated version of mkfs to haminthecoder/csc369
-            - Corgi completed fixing `ceil function not found` error
-            - Corgi completed working on helper function [6 of 12] `get_directory_entry`
-                - Corgi completed fixing incorrect return of value bugs grrrr
-                - Corgi completed fixing last test case
-                - Corgi completed fixing compilation error
-                - Corgi completed adding main codes to function
-                - Corgi completed creating test functions [2 of 2]
-                - Corgi completed fixing compilation error so far
-            - Corgi making sure instruction inside `a1fs_mkdir` is correct
-            - Corgi completed fixing helper function [6 of 12] `set_directory_entry`
-                - Corgi completed fixing `msync: invalid argument` error
-                - Corgi completed fixing erroneous fetching of extent
+1. Added progress on Assignment 1 - `File System Implementation`
+    - Worked on adding missing instructions to `a1fs_mkdir`
+        - Added helper function `initialize_inode_directory`
+        - Added test functions for `initialize_inode_directory`
+        - Added helper function `get_directory_entry`
+        - Added test functions for  `get_directory_entry`
+        - Fixed `undefined reference to function` error
+        - Fixed `segmentation fault` error in `get_free_inode`
+        - Fixed `ceil function not found` error
+        - Fixed `msync: invalid argument` error in `set_directory_entry`
+        - Fixed erroneous fetching of extent in `set_directory_entry`
+        - Uploaded updated version of `mkfs` to haminthecoder/csc369
 
 ### October 24th, 2020
 1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
@@ -302,31 +283,31 @@
         - Fixed compilation error for `mkfs` tests
         - Added additional test functions for `mkfs` to double check creation of root directory
         - Improved function logic for creating root directory in `mkfs`
-        - Added helper function [8 of 12] `initialize_extent_block`
-        - Added helper function [9 of 12] `get_free_blocks`
+        - Added helper function `initialize_extent_block`
+        - Added helper function `get_free_blocks`
 
 
 ### October 23rd, 2020
 1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
     - Creating system call `a1fs_mkdir`
-        - Added helper function [7 of 12] `create_new_extent`
+        - Added helper function `create_new_extent`
 
 ### October 22nd, 2020
 1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
     - Creating system call `a1fs_mkdir`
-        - Added helper function [6 of 12] `get_parent_path`
+        - Added helper function `get_parent_path`
 
 2. Finished solving problems in exercise 8 - `Locks and Condition Variables` for CSC 369
 
 ### October 21st, 2020
 1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
     - Creating system call `a1fs_mkdir`
-        - Added helper function [4 of 12] `set_directory_entry`
+        - Added helper function `set_directory_entry`
             - Added codes and function description
             - Added test functions to make sure function is working as it should
             - Performed tests and corrected the function to make sure it is working as it should
 
-        - Added helper function [5 of 12] `get_parent_path`
+        - Added helper function `get_parent_path`
             - Added codes and function description
             - Added test functions to make sure function is working as it should
             - Performed tests and corrected the function to make sure it is working as it should
@@ -334,11 +315,11 @@
 ### October 20th, 2020
 1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
     - Creating system call `a1fs_mkdir`
-        - Added helper function `set_data_bitmap` [3 of 12]
+        - Added helper function `set_data_bitmap`
             - Added codes and function description
             - Added test functions to make sure function is working as it should
             - Performed tests and corrected the function to make sure it is working as it should
-        - Added helper function `set_inode_bitmap` [2 of 12]
+        - Added helper function `set_inode_bitmap`
             - Added codes and function description
             - Added test functions to make sure function is working as it should
             - Performed tests and corrected the function to make sure it is working as it should
@@ -346,7 +327,7 @@
 ### October 19th, 2020
 1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
     - Creating system call `a1fs_mkdir`
-        - Added helper function `initialize_directory_entries` [1 of 12]
+        - Added helper function `initialize_directory_entries`
            - Added codes and function description
             - Added test functions to make sure function is working as it should
             - Performed tests and corrected the function to make sure it is working as it should
