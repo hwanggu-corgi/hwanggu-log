@@ -45,6 +45,7 @@ Deadline: November 18th, 2020
     - (x): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
 1. My dear, I will be back from lecture♥♥
+    - My dear♥♥, I am back♥♥
 1. Corgi add progress #257 on assignment 2, CSC 369♥♥
     - Corgi working on `msg_queue_poll` #115
         - Corgi working on adding code
