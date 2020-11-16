@@ -62,7 +62,7 @@ Deadline: November 18th, 2020
 - ( ) Part 2: Complete `msg_queue_poll()`
     - (x): `moe_an_event_is_subscribed`
     - (x): `moe_events_field_in_a_pollfd_entry_is_valid`
-    - ( ): `moe_subscribe_to_events`
+    - (x): `moe_subscribe_to_events`
     - (x): `moe_requested_events_on_any_queue_already_triggered`
     - ( ): `moe_mqpoll_readable_requested_for_non_reader_queue_handle`
     - ( ): `moe_mqpoll_writable_requested_for_non_writer_queue_handle`
@@ -71,11 +71,12 @@ Deadline: November 18th, 2020
     - (x): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
 
-1. Corgi add progress #239 on assignment 2, CSC 369♥♥
+1. Corgi add progress #240 on assignment 2, CSC 369♥♥
     - Corgi working on `msg_queue_poll` #100
         - Corgi working on adding code
         - Corgi working on improving helper function `moe_requested_events_on_any_queue_already_triggered`
-        - Corgi submitted an inquiry to professor reid about the output of function `msg_queue_poll`
+        - Corgi added helper function `moe_subscribe_to_events`
+        - Corgi submitted and received response to inquiry to professor reid about the output of function `msg_queue_poll`
         - Corgi submitted and received response to inquiry from professor reid about events
         - Corgi completed reading professor reid's supplemented class notes
             - https://medium.com/@414apache/kernel-data-structures-linkedlist-b13e4f8de4bf
