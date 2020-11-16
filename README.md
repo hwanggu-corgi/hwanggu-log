@@ -231,21 +231,18 @@
 
 ### October 27th, 2020
 1. Added progress on Assignment 1 - `File System Implementation`
-    - Corgi fixing issue of data not writing to disk for `a1fs_mkfs`
-        - Corgi adding printing functions around the function over
-    - Corgi completed working on `a1fs_unlink`
-        - Corgi completed fixing invalid return value of `a1fs_unlink` errors
-        - Corgi working on creating test code to function [3 of 3]
-        - Corgi Worked on adding code to function #52
-            - Corgi completed fixed `segmentation fault` error in `get_directory_entry`
-            - Corgi completed fixing `segmentation fault` error in `remove_directory_entry`
-            - Corgi completed creating helper function `deallocate_extent_block`
-                - Corgi completed adding testing code to function [3 of 3]
-                - Corgi completed adding code to function
-            - Corgi completed creating helper function `deallocate_data_blocks`
-                - Corgi completed adding testing code to function [3 of 3]
-                - Corgi completed adding code to function
-        - Corgi completed fixing `empty value` error in `get_parent_path`
+    - Filled missing instructions in `a1fs_unlink`
+        - Fixed invalid return value of `a1fs_unlink` errors
+        - Fixed `segmentation fault` error in `get_directory_entry`
+        - Fixed `segmentation fault` error in `remove_directory_entry`
+        - Fixed `empty value` error in `get_parent_path`
+        - Added test code to function [3 of 3]
+        - Added helper function `deallocate_extent_block`
+            - Corgi completed adding testing code to function [3 of 3]
+            - Corgi completed adding code to function
+        - Added helper function `deallocate_data_blocks`
+            - Corgi completed adding testing code to function [3 of 3]
+            - Corgi completed adding code to function
 
 ### October 26th, 2020
 1. Corgi add progress #427 in assignment 1, CSC 369
