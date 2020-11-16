@@ -12,7 +12,7 @@
 
 #### Assignment 2
 
-Deadline: November 18th, 2020
+Deadline: November 19th, 2020 @ 12 PM
 
 - (x) Part 1: Complete the functions in `msg_queue.c` with the exception of `msg_queue_poll()`
     - (x): `msg_queue_open()`
@@ -46,8 +46,8 @@ Deadline: November 18th, 2020
 
 1. My dear, I will be back from lecture♥♥
     - My dear♥♥, I am back♥♥
-1. Corgi add progress #262 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #120
+1. Corgi add progress #263 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #121
         - Corgi working on adding code
         - Corgi working on ready feature #10
         - Corgi fixed compile error related to `container_of`
