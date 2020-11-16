@@ -46,8 +46,8 @@ Deadline: November 18th, 2020
 
 1. My dear, I will be back from lecture♥♥
     - My dear♥♥, I am back♥♥
-1. Corgi add progress #257 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #115
+1. Corgi add progress #258 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #116
         - Corgi working on adding code
         - Corgi working on ready feature #9
         - Corgi fixed compile error related to `container_of`
