@@ -247,34 +247,21 @@
 ### October 26th, 2020
 1. Added progress on Assignment 1 - `File System Implementation`
     - Added missing instructions to `a1fs_unlink`
-        - Corgi Worked on adding code to function #21
-            - Corgi working on creating helper function `deallocate_data_block`
-                - Corgi adding testing code to function [1 of 3]
-                - Corgi completed adding code to function
-            - Corgi completed creating helper function `remove_directory_entry`
-                - Corgi completed fixing code
-                - Corgi completed fixing compile errors
-                - Corgi completed adding testing code to function [4 of 4]
-                - Corgi completed adding code to function
-            - Corgi completed creating helper function `deallocate_inode`
-                - Corgi completed fixing assertion error
-                - Corgi completed adding testing code to function [3 of 3]
-                - Corgi completed adding code to function
-            - Corgi completed creating helper function `save`
-                - Corgi completed adding testing code to function [2 of 2]
-                - Corgi completed adding code to function
-        - Corgi Worked on adding tests to function
-        - Corgi completed adding pseudocode to function
+        - Added helper function `deallocate_data_block`
+        - Added helper function `remove_directory_entry`
+        - adding testing code to function `remove_directory_entry`
+        - Added helper function `deallocate_inode`
+        - Added test functions for `deallocate_inode`
+        - Added helper function `save`
+        - Added test functions for `save`
     - Worked on adding missing instruction to `a1fs_create` in `a1fs.c`
-        - Corgi completed uploading code to haminthecoder/csc369
-        - Corgi Worked on adding code to function #9
-            - Corgi testing to make sure there is no compile errors
-            - Corgi working on fixing function
-            - Corgi completed adding test codes to function
-            - Corgi completed adding test functions for `initialize_inode_file` [2 of 2]
-            - Corgi completed on adding code for `initialize_inode_file`
+        - Uploaded code to haminthecoder/csc369
+        - Performed tests to make sure there is no compile errors
+        - Added test codes to function `a1fs_create`
+        - Added test functions for `initialize_inode_file`
+        - Added helper function `initialize_inode_file`
     - Worked on adding missing instructions to `a1fs_mkdir` in `a1fs.c`
-        - Corgi checking to make sure all is well on virtual machine before merge request
+        - Checked to make sure all is well on virtual machine before merge request
         - Added helper function `get_file_name`
         - Added test functions for `get_file_name`
         - Fixed `segmentation fault` error in `get_free_inode`

@@ -25,7 +25,7 @@
         - (x): October 29th, 2020
         - (x): October 28th, 2020
         - (x): October 27th, 2020
-        - ( ): October 26th, 2020
+        - (x): October 26th, 2020
         - ( ): October 25th, 2020
         - (x): October 24th, 2020
         - (x): October 23rd, 2020
