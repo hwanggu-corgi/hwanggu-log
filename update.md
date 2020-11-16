@@ -1,3 +1,70 @@
+### November 17th, 2020 (Reading week)
+
+#### Resume and career
+- ( ): Apply to UTKSA
+- ( ): Finish updating README.md part of hwanggu log
+    - ( ): Upload to hyungmogu github
+-  Apply for jobs
+    - ( ): 우아한형제들
+        - link: https://resume.woowahan.com/jobs/view.aspx?cc=244001&jidx=105800&pidx=11320&bidx=166014
+    - ( ): Microsoft as Software engineer (November 18th, 2020)
+        - link: https://sway.office.com/XZSVCk4EATEEZuaS?ref=Link
+
+#### Assignment 2
+
+Deadline: November 18th, 2020
+
+- (x) Part 1: Complete the functions in `msg_queue.c` with the exception of `msg_queue_poll()`
+    - (x): `msg_queue_open()`
+    - (x): `msg_queue_close()`
+    - (x): `msg_queue_read()`
+        - (x): `moe_queue_handle_non_blocking`
+        - (x): `moe_read_would_block`
+        - (x): `moe_get_message_size`
+        - (x): `moe_message_queue_is_empty`
+        - (x): `moe_all_writer_handles_closed`
+        - (x): `moe_reader_buffer_is_small`
+    - (x): `msg_queue_write()`
+        - (x): `moe_is_queue_handle_non_blocking`
+        - (x): `moe_all_reader_handles_closed`
+        - (x): `moe_has_enough_free_space`
+        - (x): `moe_has_writers`
+        - (x): `moe_write_would_block`
+- ( ) Part 2: Complete `msg_queue_poll()`
+    - (x): `moe_an_event_is_subscribed`
+    - (x): `moe_events_field_in_a_pollfd_entry_is_valid`
+    - (x): `moe_subscribe_to_events`
+    - (x): `moe_none_of_the_requested_events_are_already_triggered`
+    - (x): `moe_mqpoll_readable_requested_for_non_reader_queue_handle`
+    - (x): `moe_mqpoll_writable_requested_for_non_writer_queue_handle`
+    - (x): `moe_make_them_wait`
+    - (x): `moe_update_queues`
+    - (x): `moe_queue_is_ready`
+- (x): Miscellaneous requirements
+    - (x): You must use synchronization function provided in `sync.c`
+    - (x): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
+
+
+1. Corgi add progress #246 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #106
+        - Corgi working on adding code
+        - Corgi working on ready feature #3
+        - Corgi added helper function `moe_subscribe_to_events`
+        - Corgi completed improving logics to function `moe_none_of_the_requested_events_are_already_triggered`
+        - Corgi completed adding helper function `moe_make_them_wait`
+        - Corgi completed adding helper function `moe_update_queues`
+        - Corgi completed adding helper function `moe_queue_is_ready`
+        - Corgi submitted and received response to inquiry to professor reid about the output of function `msg_queue_poll`
+        - Corgi submitted and received response to inquiry from professor reid about events
+        - Corgi completed reading professor reid's supplemented class notes
+            - https://medium.com/@414apache/kernel-data-structures-linkedlist-b13e4f8de4bf
+        - [on hold] Corgi working on understanding related function `poll`
+            - Corgi reading source code - https://elixir.bootlin.com/uclibc-ng/v1.0.26/source/libc/sysdeps/linux/common/poll.c
+        - [on hold] Corgi working on understanding related function `select`
+            - Corgi watching video `introducing select` from CSC 209 - https://www.youtube.com/watch?v=d2ROpbcIXd4&feature=emb_logo&ab_channel=C-programmingOntarioOnline
+        - [on hold] Corgi working on helper function `subscribe_to_events`
+
+
 ### November 16th, 2020 (Reading week)
 
 #### Resume and career
