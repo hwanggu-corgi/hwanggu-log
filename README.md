@@ -1,5 +1,21 @@
 # HwangGu Log
 
+### November 16th, 2020
+
+1. Added progress on csc-369 assignment 2 - `Creating message queues`
+    - Worked on adding missing instructions to `msg_queue_poll`
+        - Improved logics to function `moe_none_of_the_requested_events_are_already_triggered`
+        - Added helper function `moe_subscribe_to_events`
+        - Added helper function `moe_make_them_wait`
+        - Added helper function `moe_update_queues`
+        - Added helper function `moe_queue_is_ready`
+        - Submitted and received response to inquiry to professor reid about the output of function `msg_queue_poll`
+        - Submitted and received response to inquiry from professor reid about events in `msg_queue_pollfd`
+        - Read professor reid's supplemented class notes
+            - https://medium.com/@414apache/kernel-data-structures-linkedlist-b13e4f8de4bf
+
+2. Completed adding missing list of accomplishment in README.md
+
 ### November 15th, 2020
 
 1. Added progress on csc-369 assignment 2 - `Creating message queues`
