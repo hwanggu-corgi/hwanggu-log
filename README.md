@@ -432,7 +432,6 @@
 1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
     - Worked on correcting `a1fs_mkdir`
     - Worked on correcting `update_inode_block()` version 1 in `a1fs_mkdir`
-    - Completed setting up hwanggu-corgi/assignment-1 on virtual machine
     - Completed on getting the starting files to work for debugging
 
 ### October 10th, 2020
