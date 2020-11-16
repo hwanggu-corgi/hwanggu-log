@@ -64,8 +64,8 @@ Deadline: November 18th, 2020
     - (x): `moe_events_field_in_a_pollfd_entry_is_valid`
     - (x): `moe_subscribe_to_events`
     - (x): `moe_none_of_the_requested_events_are_already_triggered`
-    - ( ): `moe_mqpoll_readable_requested_for_non_reader_queue_handle`
-    - ( ): `moe_mqpoll_writable_requested_for_non_writer_queue_handle`
+    - (x): `moe_mqpoll_readable_requested_for_non_reader_queue_handle`
+    - (x): `moe_mqpoll_writable_requested_for_non_writer_queue_handle`
     - (x): `moe_make_them_wait`
     - (x): `moe_update_queues`
     - (x): `moe_queue_is_ready`
@@ -74,11 +74,10 @@ Deadline: November 18th, 2020
     - (x): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
 
-1. Corgi add progress #245 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #105
+1. Corgi add progress #246 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #106
         - Corgi working on adding code
         - Corgi working on ready feature #3
-        - Corgi working on improving helper function `moe_requested_events_on_any_queue_already_triggered`
         - Corgi added helper function `moe_subscribe_to_events`
         - Corgi completed improving logics to function `moe_none_of_the_requested_events_are_already_triggered`
         - Corgi completed adding helper function `moe_make_them_wait`
