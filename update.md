@@ -46,10 +46,10 @@ Deadline: November 18th, 2020
 
 1. My dear, I will be back from lecture♥♥
     - My dear♥♥, I am back♥♥
-1. Corgi add progress #261 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #119
+1. Corgi add progress #262 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #120
         - Corgi working on adding code
-        - Corgi working on ready feature #9
+        - Corgi working on ready feature #10
         - Corgi fixed compile error related to `container_of`
         - Corgi added helper function `moe_subscribe_to_events`
         - Corgi completed improving logics to function `moe_none_of_the_requested_events_are_already_triggered`
