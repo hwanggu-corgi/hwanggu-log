@@ -245,8 +245,8 @@
             - Corgi completed adding code to function
 
 ### October 26th, 2020
-1. Corgi add progress #427 in assignment 1, CSC 369
-    - Corgi working on a1fs_unlink
+1. Added progress on Assignment 1 - `File System Implementation`
+    - Added missing instructions to `a1fs_unlink`
         - Corgi Worked on adding code to function #21
             - Corgi working on creating helper function `deallocate_data_block`
                 - Corgi adding testing code to function [1 of 3]
@@ -265,7 +265,7 @@
                 - Corgi completed adding code to function
         - Corgi Worked on adding tests to function
         - Corgi completed adding pseudocode to function
-    - [on hold] Corgi working on a1fs_create in a1fs.c
+    - Worked on adding missing instruction to `a1fs_create` in `a1fs.c`
         - Corgi completed uploading code to haminthecoder/csc369
         - Corgi Worked on adding code to function #9
             - Corgi testing to make sure there is no compile errors
@@ -273,17 +273,12 @@
             - Corgi completed adding test codes to function
             - Corgi completed adding test functions for `initialize_inode_file` [2 of 2]
             - Corgi completed on adding code for `initialize_inode_file`
-    - [on hold] Corgi working on a1fs_mkdir in a1fs.c
-        - Corgi Worked on adding code #210
-            - Corgi fixing file system not being written to disk error #2
-            - Corgi checking to ㄱmake sure all is well on virtual machine before merge request
-            - Corgi completed Worked on adding testing functions [1 of 1]
-            - Corgi completed fixing compiling errors
-            - Corgi working on this function
-            - Corgi completed working on creating `get_file_name` function
-            - Corgi completed working on creating test function in `get_file_name`
-            - Corgi completed fixing `segmentation fault` error in `get_free_inode`
-        - Corgi completed adding test to this function
+    - Worked on adding missing instructions to `a1fs_mkdir` in `a1fs.c`
+        - Corgi checking to make sure all is well on virtual machine before merge request
+        - Added helper function `get_file_name`
+        - Added test functions for `get_file_name`
+        - Fixed `segmentation fault` error in `get_free_inode`
+        - Added test to `a1fs_mkdir`
 
 ### October 25th, 2020
 1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
@@ -312,8 +307,6 @@
             - Corgi completed fixing helper function [6 of 12] `set_directory_entry`
                 - Corgi completed fixing `msync: invalid argument` error
                 - Corgi completed fixing erroneous fetching of extent
-
-2. Corgi completed breakfast with parents [5:56 AM ~ 6:15 AM]
 
 ### October 24th, 2020
 1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
