@@ -48,10 +48,11 @@ Deadline: November 19th, 2020 @ 12 PM
 
 1. My dear, I will be back from lecture♥♥
     - My dear♥♥, I am back♥♥
-1. Corgi add progress #269 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #126
+1. Corgi add progress #270 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #127
         - Corgi working on adding code
         - Corgi working on ready feature #14
+        - Corgi improved `moe_add_to_wait_queue`
         - Corgi added missing entries in `mq_backend`
         - Corgi fixed compile error related to `container_of`
         - Corgi added helper function `moe_subscribe_to_events`
@@ -67,7 +68,6 @@ Deadline: November 19th, 2020 @ 12 PM
             - Corgi reading source code - https://elixir.bootlin.com/uclibc-ng/v1.0.26/source/libc/sysdeps/linux/common/poll.c
         - [on hold] Corgi working on understanding related function `select`
             - Corgi watching video `introducing select` from CSC 209 - https://www.youtube.com/watch?v=d2ROpbcIXd4&feature=emb_logo&ab_channel=C-programmingOntarioOnline
-        - [on hold] Corgi working on helper function `subscribe_to_events`
 
 
 ### November 16th, 2020 (Reading week)
