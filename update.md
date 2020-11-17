@@ -52,6 +52,7 @@ Deadline: November 19th, 2020 @ 12 PM
     - Corgi working on `msg_queue_poll` #126
         - Corgi working on adding code
         - Corgi working on ready feature #14
+        - Corgi added missing entries in `mq_backend`
         - Corgi fixed compile error related to `container_of`
         - Corgi added helper function `moe_subscribe_to_events`
         - Corgi completed improving logics to function `moe_none_of_the_requested_events_are_already_triggered`
