@@ -33,22 +33,21 @@ Deadline: November 19th, 2020 @ 12 PM
 - ( ) Part 2: Complete `msg_queue_poll()`
     - (x): `moe_an_event_is_subscribed`
     - (x): `moe_events_field_in_a_pollfd_entry_is_valid`
-    - (x): `moe_subscribe_to_events`
+    - (x): `moe_add_to_wait_queue`
     - (x): `moe_none_of_the_requested_events_are_already_triggered`
     - (x): `moe_mqpoll_readable_requested_for_non_reader_queue_handle`
     - (x): `moe_mqpoll_writable_requested_for_non_writer_queue_handle`
     - (x): `moe_make_them_wait`
     - (x): `moe_update_queues`
     - (x): `moe_queue_is_ready`
-    - ( ): `moe_mutex_lock`
-    - ( ): `moe_mutex_unlock`
-    - ( ): `moe_update_events`
+    - (x): `moe_update_events`
+    - (x): `moe_initialize_wait_queue_node`
 - (x): Miscellaneous requirements
     - (x): You must use synchronization function provided in `sync.c`
     - (x): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
-1. Corgi add progress #278 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #134
+1. Corgi add progress #280 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #136
         - Corgi working on adding code
         - Corgi fixing `segmentation fault` error
         - Corgi completed working on ready feature

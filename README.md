@@ -2,71 +2,12 @@
 
 ### November 17th, 2020
 
-#### Resume and career
-- ( ): Apply to UTKSA
-- ( ): Finish updating README.md part of hwanggu log
-    - ( ): Upload to hyungmogu github
--  Apply for jobs
-    - ( ): 우아한형제들
-        - link: https://resume.woowahan.com/jobs/view.aspx?cc=244001&jidx=105800&pidx=11320&bidx=166014
-    - ( ): Microsoft as Software engineer (November 18th, 2020)
-        - link: https://sway.office.com/XZSVCk4EATEEZuaS?ref=Link
-
-#### Assignment 2
-
-Deadline: November 19th, 2020 @ 12 PM
-
-- (x) Part 1: Complete the functions in `msg_queue.c` with the exception of `msg_queue_poll()`
-    - (x): `msg_queue_open()`
-    - (x): `msg_queue_close()`
-    - (x): `msg_queue_read()`
-        - (x): `moe_queue_handle_non_blocking`
-        - (x): `moe_read_would_block`
-        - (x): `moe_get_message_size`
-        - (x): `moe_message_queue_is_empty`
-        - (x): `moe_all_writer_handles_closed`
-        - (x): `moe_reader_buffer_is_small`
-    - (x): `msg_queue_write()`
-        - (x): `moe_is_queue_handle_non_blocking`
-        - (x): `moe_all_reader_handles_closed`
-        - (x): `moe_has_enough_free_space`
-        - (x): `moe_has_writers`
-        - (x): `moe_write_would_block`
-- ( ) Part 2: Complete `msg_queue_poll()`
-    - (x): `moe_an_event_is_subscribed`
-    - (x): `moe_events_field_in_a_pollfd_entry_is_valid`
-    - (x): `moe_subscribe_to_events`
-    - (x): `moe_none_of_the_requested_events_are_already_triggered`
-    - (x): `moe_mqpoll_readable_requested_for_non_reader_queue_handle`
-    - (x): `moe_mqpoll_writable_requested_for_non_writer_queue_handle`
-    - (x): `moe_make_them_wait`
-    - (x): `moe_update_queues`
-    - (x): `moe_queue_is_ready`
-    - ( ): `moe_mutex_lock`
-    - ( ): `moe_mutex_unlock`
-    - ( ): `moe_update_events`
-- (x): Miscellaneous requirements
-    - (x): You must use synchronization function provided in `sync.c`
-    - (x): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
-
-1. My dear, I will be back from lecture♥♥
-    - My dear♥♥, I am back♥♥
 1. Corgi add progress #275 on assignment 2, CSC 369♥♥
     - Corgi working on `msg_queue_poll` #132
-        - Corgi working on adding code
-        - Corgi working on ready feature #17
-        - Corgi improved `moe_add_to_wait_queue`
-        - Corgi added missing entries in `mq_backend`
-        - Corgi fixed compile error related to `container_of`
-        - Corgi added helper function `moe_subscribe_to_events`
-        - Corgi completed improving logics to function `moe_none_of_the_requested_events_are_already_triggered`
-        - Corgi completed adding helper function `moe_make_them_wait`
-        - Corgi completed adding helper function `moe_update_queues`
-        - Corgi completed adding helper function `moe_queue_is_ready`
-        - Corgi submitted and received response to inquiry to professor reid about the output of function `msg_queue_poll`
-        - Corgi submitted and received response to inquiry from professor reid about events
-        - Corgi completed reading professor reid's supplemented class notes
-            - https://medium.com/@414apache/kernel-data-structures-linkedlist-b13e4f8de4bf
+        - Added missing entries in `mq_backend`
+        - Added helper function `moe_add_to_wait_queue`
+        - Added helper function `moe_initialize_wait_queue_node`
+        - Fixed compile error related to `container_of`
 
 ### November 16th, 2020
 
