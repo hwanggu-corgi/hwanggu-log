@@ -2,6 +2,7 @@
 
 #### Resume and career
 - ( ): Apply to UTKSA
+- ( ): Attend resume review from 5:30 AM to 5:50 AM on November 18th, 2020
 - ( ): Finish updating README.md part of hwanggu log
     - ( ): Upload to hyungmogu github
 -  Apply for jobs
@@ -46,8 +47,8 @@ Deadline: November 19th, 2020 @ 12 PM
     - (x): You must use synchronization function provided in `sync.c`
     - (x): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
-1. Corgi add progress #287 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #143
+1. Corgi add progress #288 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #144
         - Corgi working on adding code
         - Corgi fixing `segmentation fault` error in `moe_events_are_all_read`
         - Corgi completed working on ready feature
