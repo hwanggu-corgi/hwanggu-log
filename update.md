@@ -2,18 +2,17 @@
 
 #### Resume and career
 - ( ): Apply to UTKSA
-- ( ): Attend resume review from 5:30 AM to 5:50 AM on November 18th, 2020
-- ( ): Finish updating README.md part of hwanggu log
-    - ( ): Upload to hyungmogu github
--  Apply for jobs
+- (x): Attend resume review from 5:30 AM to 5:50 AM on November 18th, 2020
+- ( ): Apply for jobs
     - Korea
         - ( ): Sendbird
             - link: https://www.glassdoor.ca/Job/south-korea-software-engineer-jobs-SRCH_IL.0,11_IN135_KO12,29.htm
         - ( ): 우아한형제들
             - link: https://resume.woowahan.com/jobs/view.aspx?cc=244001&jidx=105800&pidx=11320&bidx=166014
             - Learned that I need korean phone number and address :(
-    - ( ): Microsoft as Software engineer (November 18th, 2020)
-        - link: https://sway.office.com/XZSVCk4EATEEZuaS?ref=Link
+    - Canada
+        - ( ): Microsoft as Software engineer (November 18th, 2020)
+            - link: https://sway.office.com/XZSVCk4EATEEZuaS?ref=Link
 
 #### Assignment 2
 
@@ -60,12 +59,43 @@ Deadline: November 19th, 2020 @ 12 PM
 2. Corgi working on building resume♥♥
     - link https://github.com/hyungmogu/computer-science-notes/files/5555727/Hyungmo%2BGu.%2BResume%2B02122020.12.pdf
 
+3. Corgi attended resume review
+    - Corgi TODO
+        - Delete objective
+        - Summary of qualification —> highlight of qualification
+            - 3 to 5 bullet points
+                - First —> personal profile (emerging professional in computer science / )
+                - 2nd and third —> more about your technical and hard and soft skill
+                - 4th and 5th —> passionate about the job you are promoting
+            - Should be very relevant to position your looking at
+                - Emerging software developing developer with over 2 years of hands on experience
+                - Write the list of relevant
+                - Second and third bullet points —> to put to fist bullet point
+                    - You know C++, write “You “have strong skill in C++”
+                    - You want to use the point from posting
+                - Make sure you are passionate about taking photos
+
+        - Work experience
+            - Reduce to 5 bullet points
+        - Education
+            - Specialist degree in physics —> bachelor’s degree in physics
+            - Change non-degree to Relevant Courses
+        - Relevant Coursework
+            - The courses that you are taking right now (it’s clear that you are pursuing knowledge)
+            - (Course Name e.g. “Fundamentals of computer science“)
+                - Stuff you’ve been helping with computer science
+
+        -  Career start appointment
+            - Learning how to make appointment
+            - CLNX —> appointment —> book an appointment with
+
+
+
 ### November 17th, 2020
 
 #### Resume and career
 - ( ): Apply to UTKSA
-- ( ): Finish updating README.md part of hwanggu log
-    - ( ): Upload to hyungmogu github
+- (x): Finish updating README.md part of hwanggu log
 -  Apply for jobs
     - ( ): 우아한형제들
         - link: https://resume.woowahan.com/jobs/view.aspx?cc=244001&jidx=105800&pidx=11320&bidx=166014
