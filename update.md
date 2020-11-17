@@ -52,6 +52,7 @@ Deadline: November 19th, 2020 @ 12 PM
         - Corgi working on adding code
         - Corgi working on ready feature #18
 2. Corgi working on building resume♥♥
+    - link https://docs.google.com/document/d/19pJx0oRQtjQ8uEuezOWv0JqpvOA0pZesynnJi7lV0IU/edit?usp=sharing
 
 ### November 17th, 2020
 
