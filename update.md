@@ -50,10 +50,10 @@ Deadline: November 19th, 2020 @ 12 PM
     - (x): You must use synchronization function provided in `sync.c`
     - (x): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
-1. Corgi add progress #293 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #149
+1. Corgi add progress #294 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #150
         - Corgi working on adding code
-        - Corgi fixing assertion error `(len == sizeof(msg))` in `msg_queue_read`
+        - Corgi fixing assertion error `(len == sizeof(msg))` in `msg_queue_read` #2
         - Corgi completed fixing `segmentation fault` error in `moe_events_are_all_read`
             - Corgi fixed typo in `moe_initialize_wait_queue_node`
             - Corgi found error. It's happening in `msg_queue_write` due to early call of a variable before initialization
