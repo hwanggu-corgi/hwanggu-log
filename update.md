@@ -40,16 +40,18 @@ Deadline: November 19th, 2020 @ 12 PM
     - (x): `moe_make_them_wait`
     - (x): `moe_update_queues`
     - (x): `moe_queue_is_ready`
+    - ( ): `moe_mutex_lock`
+    - ( ): `moe_mutex_unlock`
 - (x): Miscellaneous requirements
     - (x): You must use synchronization function provided in `sync.c`
     - (x): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
 1. My dear, I will be back from lecture♥♥
     - My dear♥♥, I am back♥♥
-1. Corgi add progress #266 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #124
+1. Corgi add progress #267 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #125
         - Corgi working on adding code
-        - Corgi working on ready feature #13
+        - Corgi working on ready feature #14
         - Corgi fixed compile error related to `container_of`
         - Corgi added helper function `moe_subscribe_to_events`
         - Corgi completed improving logics to function `moe_none_of_the_requested_events_are_already_triggered`
