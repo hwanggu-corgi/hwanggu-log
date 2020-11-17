@@ -6,8 +6,12 @@
 - ( ): Finish updating README.md part of hwanggu log
     - ( ): Upload to hyungmogu github
 -  Apply for jobs
-    - ( ): 우아한형제들
-        - link: https://resume.woowahan.com/jobs/view.aspx?cc=244001&jidx=105800&pidx=11320&bidx=166014
+    - Korea
+        - ( ): Sendbird
+            - link: https://www.glassdoor.ca/Job/south-korea-software-engineer-jobs-SRCH_IL.0,11_IN135_KO12,29.htm
+        - ( ): 우아한형제들
+            - link: https://resume.woowahan.com/jobs/view.aspx?cc=244001&jidx=105800&pidx=11320&bidx=166014
+            - Learned that I need korean phone number and address :(
     - ( ): Microsoft as Software engineer (November 18th, 2020)
         - link: https://sway.office.com/XZSVCk4EATEEZuaS?ref=Link
 
@@ -47,14 +51,14 @@ Deadline: November 19th, 2020 @ 12 PM
     - (x): You must use synchronization function provided in `sync.c`
     - (x): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
-1. Corgi add progress #289 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #145
+1. Corgi add progress #290 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #146
         - Corgi working on adding code
         - Corgi fixing `segmentation fault` error in `moe_events_are_all_read`
             - Corgi found error. It's happening in `msg_queue_write` due to early call of a variable before initialization
         - Corgi completed working on ready feature
 2. Corgi working on building resume♥♥
-    - link https://docs.google.com/document/d/19pJx0oRQtjQ8uEuezOWv0JqpvOA0pZesynnJi7lV0IU/edit?usp=sharing
+    - link https://github.com/hyungmogu/computer-science-notes/files/5555727/Hyungmo%2BGu.%2BResume%2B02122020.12.pdf
 
 ### November 17th, 2020
 
