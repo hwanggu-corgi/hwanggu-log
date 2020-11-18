@@ -50,8 +50,8 @@ Deadline: November 19th, 2020 @ 12 PM
     - (x): You must use synchronization function provided in `sync.c`
     - (x): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
-1. Corgi add progress #300 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #156
+1. Corgi add progress #301 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #157
         - Corgi working on adding code
         - Corgi fixing assertion error `(len == sizeof(msg))` in `msg_queue_read` #3
         - Corgi completed fixing `segmentation fault` error in `moe_events_are_all_read`
@@ -81,8 +81,8 @@ Deadline: November 19th, 2020 @ 12 PM
         - Work experience
             - Reduce to 5 bullet points
         - Education
-            - Specialist degree in physics —> bachelor’s degree in physics
-            - Change non-degree to Relevant Courses
+            - (x): Specialist degree in physics —> bachelor’s degree in physics
+            - (x): Change non-degree to Relevant Courses
         - Relevant Coursework
             - (x): Add relevant coursework
             - The courses that you are taking right now (it’s clear that you are pursuing knowledge)
