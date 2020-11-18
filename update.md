@@ -59,7 +59,7 @@ Deadline: November 19th, 2020 @ 12 PM
             - Corgi found error. It's happening in `msg_queue_write` due to early call of a variable before initialization
         - Corgi completed working on ready feature
 2. Corgi working on building resume♥♥
-    - link https://github.com/hwanggu-corgi/hwanggu-log/files/5556922/Hyungmo.Gu.Software.Engineer.at.Microsoft.2.pdf
+    - link https://github.com/hwanggu-corgi/hwanggu-log/files/5557170/Hyungmo.Gu.Software.Engineer.at.Microsoft.3.pdf
 
 3. Corgi attended resume review
     - Corgi TODO
