@@ -1,5 +1,108 @@
 # HwangGu Log
 
+### November 18th, 2020
+
+#### Resume and career
+- ( ): Apply to UTKSA
+- (x): Attend resume review from 5:30 AM to 5:50 AM on November 18th, 2020
+- ( ): Apply for jobs
+    - Korea
+        - ( ): Sendbird
+            - link: https://www.glassdoor.ca/Job/south-korea-software-engineer-jobs-SRCH_IL.0,11_IN135_KO12,29.htm
+        - ( ): 우아한형제들
+            - link: https://resume.woowahan.com/jobs/view.aspx?cc=244001&jidx=105800&pidx=11320&bidx=166014
+            - Learned that I need korean phone number and address :(
+    - Canada
+        - (x): Microsoft as Software engineer (November 18th, 2020)
+            - link: https://sway.office.com/XZSVCk4EATEEZuaS?ref=Link
+
+#### Assignment 2
+
+Deadline: November 19th, 2020 @ 12 PM
+
+- (x) Part 1: Complete the functions in `msg_queue.c` with the exception of `msg_queue_poll()`
+    - (x): `msg_queue_open()`
+    - (x): `msg_queue_close()`
+    - (x): `msg_queue_read()`
+        - (x): `moe_queue_handle_non_blocking`
+        - (x): `moe_read_would_block`
+        - (x): `moe_get_message_size`
+        - (x): `moe_message_queue_is_empty`
+        - (x): `moe_all_writer_handles_closed`
+        - (x): `moe_reader_buffer_is_small`
+    - (x): `msg_queue_write()`
+        - (x): `moe_is_queue_handle_non_blocking`
+        - (x): `moe_all_reader_handles_closed`
+        - (x): `moe_has_enough_free_space`
+        - (x): `moe_has_writers`
+        - (x): `moe_write_would_block`
+- ( ) Part 2: Complete `msg_queue_poll()`
+    - (x): `moe_an_event_is_subscribed`
+    - (x): `moe_events_field_in_a_pollfd_entry_is_valid`
+    - (x): `moe_add_to_wait_queue`
+    - (x): `moe_none_of_the_requested_events_are_already_triggered`
+    - (x): `moe_mqpoll_readable_requested_for_non_reader_queue_handle`
+    - (x): `moe_mqpoll_writable_requested_for_non_writer_queue_handle`
+    - (x): `moe_make_them_wait`
+    - (x): `moe_update_queues`
+    - (x): `moe_queue_is_ready`
+    - (x): `moe_update_events`
+    - (x): `moe_initialize_wait_queue_node`
+- (x): Miscellaneous requirements
+    - (x): You must use synchronization function provided in `sync.c`
+    - (x): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
+
+1. Corgi add progress #311 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #165
+        - Corgi working on adding code
+        - Corgi fixing program being stuck #3
+            - Corgi found error. It's happening in `moe_make_them_wait`
+            - Corgi investigating where it's stuck
+        - Corgi completed fixing program being stuck in `moe_events_are_all_read`
+        - Corgi fixing assertion error `(len == sizeof(msg))` in `msg_queue_read` #3
+        - Corgi completed fixing `segmentation fault` error in `moe_events_are_all_read`
+            - Corgi fixed typo in `moe_initialize_wait_queue_node`
+            - Corgi found error. It's happening in `msg_queue_write` due to early call of a variable before initialization
+        - Corgi completed working on ready feature
+
+2. Corgi completed submitting resume to microsoft♥♥
+
+3. Corgi completed working on building resume♥♥
+    - link https://github.com/hyungmogu/computer-science-notes/files/5557611/Hyungmo.Gu.Software.Engineer.at.Microsoft.4.pdf
+
+4. Corgi completed attending resume review
+    - Corgi TODO
+        - (x): Delete objective
+        - Summary of qualification
+            - (x): Change to highlight of qualification
+            - 3 to 5 bullet points
+                - First —> personal profile (emerging professional in software development/ )
+                - 2nd and third —> more about your technical and hard and soft skill
+                - 4th and 5th —> passionate about the job you are promoting
+            - Should be very relevant to position your looking at
+                - (x): Emerging software developing developer with over 2 years of hands on experience
+                - Write the list of relevant
+                - Second and third bullet points —> to put to fist bullet point
+                    - You know C++, write “You “have strong skill in C++”
+                    - You want to use the point from posting
+                - Make sure you are passionate about taking photos
+
+        - Work experience
+            - (x): Reduce to 5 bullet points
+        - Education
+            - (x): Specialist degree in physics —> bachelor’s degree in physics
+            - (x): Change non-degree to Relevant Courses
+        - Relevant Coursework
+            - (x): Add relevant coursework
+            - (x): The courses that you are taking right now (it’s clear that you are pursuing knowledge)
+            - (x): (Course Name e.g. “Fundamentals of computer science“)
+                - Stuff you’ve been helping with computer science
+
+        -  Career start appointment
+            - Learning how to make appointment
+            - CLNX —> appointment —> book an appointment with
+
+
 ### November 17th, 2020
 
 1. Added progress on csc-369 assignment 2 - `Creating message queues`

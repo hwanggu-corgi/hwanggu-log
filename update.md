@@ -54,9 +54,10 @@ Deadline: November 19th, 2020 @ 12 PM
     - Corgi working on `msg_queue_poll` #166
         - Corgi working on adding code
         - Corgi fixing program being stuck #4
-            - Corgi fixing error happening in `moe_none_of_the_requested_events_are_already_triggered`
-            - Corgi fixed error happening in `moe_make_them_wait`
+            - Corgi fixing error in `moe_none_of_the_requested_events_are_already_triggered`
+            - Corgi fixed error in `moe_make_them_wait`
             - Corgi investigating where it's stuck
+        - Corgi completed adding helper function `moe_wait_queue_is_empty`
 
 ### November 18th, 2020
 
