@@ -50,10 +50,10 @@ Deadline: November 19th, 2020 @ 12 PM
     - (x): You must use synchronization function provided in `sync.c`
     - (x): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
-1. Corgi add progress #317 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #171
+1. Corgi add progress #319 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #173
         - Corgi working on adding code
-        - Corgi fixing program being stuck #8
+        - Corgi fixing program being stuck #10
             - Corgi fixing error `validator_enter: 70000299d000 failed to enter validator list_head already occupied by 70000299d000 @ mutex_validator.c:60: Operation not permitted`
             - Corgi fixing error in `moe_none_of_the_requested_events_are_already_triggered`
             - Corgi fixing error in `moe_make_them_wait`
