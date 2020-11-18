@@ -50,9 +50,11 @@ Deadline: November 19th, 2020 @ 12 PM
     - (x): You must use synchronization function provided in `sync.c`
     - (x): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
-1. Corgi add progress #302 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #158
+1. Corgi add progress #304 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #159
         - Corgi working on adding code
+        - Corgi fixing error of program begin stuck
+            -
         - Corgi fixing assertion error `(len == sizeof(msg))` in `msg_queue_read` #3
         - Corgi completed fixing `segmentation fault` error in `moe_events_are_all_read`
             - Corgi fixed typo in `moe_initialize_wait_queue_node`
@@ -79,14 +81,14 @@ Deadline: November 19th, 2020 @ 12 PM
                 - Make sure you are passionate about taking photos
 
         - Work experience
-            - Reduce to 5 bullet points
+            - (x): Reduce to 5 bullet points
         - Education
             - (x): Specialist degree in physics —> bachelor’s degree in physics
             - (x): Change non-degree to Relevant Courses
         - Relevant Coursework
             - (x): Add relevant coursework
-            - The courses that you are taking right now (it’s clear that you are pursuing knowledge)
-            - (Course Name e.g. “Fundamentals of computer science“)
+            - (x): The courses that you are taking right now (it’s clear that you are pursuing knowledge)
+            - (x): (Course Name e.g. “Fundamentals of computer science“)
                 - Stuff you’ve been helping with computer science
 
         -  Career start appointment
