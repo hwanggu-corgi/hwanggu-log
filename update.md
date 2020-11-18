@@ -54,6 +54,7 @@ Deadline: November 19th, 2020 @ 12 PM
     - Corgi working on `msg_queue_poll` #171
         - Corgi working on adding code
         - Corgi fixing program being stuck #8
+            - Corgi fixing error `validator_enter: 70000299d000 failed to enter validator list_head already occupied by 70000299d000 @ mutex_validator.c:60: Operation not permitted`
             - Corgi fixing error in `moe_none_of_the_requested_events_are_already_triggered`
             - Corgi fixing error in `moe_make_them_wait`
             - Corgi investigating where it's stuck
