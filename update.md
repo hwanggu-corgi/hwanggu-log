@@ -11,7 +11,7 @@
             - link: https://resume.woowahan.com/jobs/view.aspx?cc=244001&jidx=105800&pidx=11320&bidx=166014
             - Learned that I need korean phone number and address :(
     - Canada
-        - ( ): Microsoft as Software engineer (November 18th, 2020)
+        - (x): Microsoft as Software engineer (November 18th, 2020)
             - link: https://sway.office.com/XZSVCk4EATEEZuaS?ref=Link
 
 #### Assignment 2
@@ -50,22 +50,24 @@ Deadline: November 19th, 2020 @ 12 PM
     - (x): You must use synchronization function provided in `sync.c`
     - (x): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
-1. Corgi add progress #307 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #162
+1. Corgi add progress #308 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #163
         - Corgi working on adding code
-        - Corgi fixing error of program begin stuck
+        - Corgi fixing program being stuck
+            - Corgi investigating where it's stuck
+        - Corgi completed fixing program being stuck in `moe_events_are_all_read`
         - Corgi fixing assertion error `(len == sizeof(msg))` in `msg_queue_read` #3
         - Corgi completed fixing `segmentation fault` error in `moe_events_are_all_read`
             - Corgi fixed typo in `moe_initialize_wait_queue_node`
             - Corgi found error. It's happening in `msg_queue_write` due to early call of a variable before initialization
         - Corgi completed working on ready feature
 
-2. Corgi working on submitting resume to microsoft♥♥
+2. Corgi completed submitting resume to microsoft♥♥
 
 3. Corgi completed working on building resume♥♥
     - link https://github.com/hyungmogu/computer-science-notes/files/5557611/Hyungmo.Gu.Software.Engineer.at.Microsoft.4.pdf
 
-4. Corgi completed attendeding resume review
+4. Corgi completed attending resume review
     - Corgi TODO
         - (x): Delete objective
         - Summary of qualification
