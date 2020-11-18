@@ -2,18 +2,12 @@
 
 ### November 18th, 2020
 
-1. Corgi add progress #311 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #165
-        - Corgi working on adding code
-        - Corgi fixing program being stuck #3
-            - Corgi found error. It's happening in `moe_make_them_wait`
-            - Corgi investigating where it's stuck
-        - Corgi completed fixing program being stuck in `moe_events_are_all_read`
-        - Corgi fixing assertion error `(len == sizeof(msg))` in `msg_queue_read` #3
-        - Corgi completed fixing `segmentation fault` error in `moe_events_are_all_read`
-            - Corgi fixed typo in `moe_initialize_wait_queue_node`
-            - Corgi found error. It's happening in `msg_queue_write` due to early call of a variable before initialization
-        - Corgi completed working on ready feature
+1. Added progress on csc-369 assignment 2 - `Creating message queues`
+    - Worked on adding missing instructions to `msg_queue_poll`
+    - Fixed program being stuck in helper function `moe_events_are_all_read`
+    - Fixed `segmentation fault` error in helper function `moe_events_are_all_read`
+    - Fixed typo in helper function `moe_initialize_wait_queue_node`
+    - Fixed assertion error `(len != sizeof(msg))` aftr `msg_queue_read`
 
 ### November 17th, 2020
 
