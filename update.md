@@ -50,8 +50,9 @@ Deadline: November 19th, 2020 @ 12 PM
     - (x): You must use synchronization function provided in `sync.c`
     - (x): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
-1. Corgi add progress #322 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #176
+1. My dear♥♥, I will be back after listening to professor reid's lecture :)♥♥
+1. Corgi add progress #323 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #177
         - Corgi working on adding code
         - Corgi fixing program being stuck #13
             - Corgi fixing `pthread_cond_wait @ sync.c:114: Invalid argument` error
