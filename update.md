@@ -52,11 +52,12 @@ Deadline: November 19th, 2020 @ 12 PM
 
 1. My dear♥♥, I will be back after listening to professor reid's lecture :)♥♥
     - My dear♥♥, I am back for now I will move back and forth between office hours for assignment 2 to seek help from professor and TA about our assignment
-1. Corgi add progress #328 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #181
+1. Corgi add progress #329 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #182
         - Corgi working on adding code
-        - Corgi fixing program being stuck #17
+        - Corgi fixing program being stuck #18
             - Corgi fixing error `validator_enter: 70000299d000 failed to enter validator list_head already occupied by 70000299d000 @ mutex_validator.c:60: Operation not permitted`
+                - Think I've found the cause. Need to clean up stuff that's not in use.
             - Corgi investigating another stuck condition
             - Corgi completed fixing `pthread_cond_wait @ sync.c:114: Invalid argument` error
             - Corgi fixing error in `moe_none_of_the_requested_events_are_already_triggered`
