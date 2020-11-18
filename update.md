@@ -50,8 +50,8 @@ Deadline: November 19th, 2020 @ 12 PM
     - (x): You must use synchronization function provided in `sync.c`
     - (x): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
-1. Corgi add progress #295 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #151
+1. Corgi add progress #296 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #152
         - Corgi working on adding code
         - Corgi fixing assertion error `(len == sizeof(msg))` in `msg_queue_read` #3
         - Corgi completed fixing `segmentation fault` error in `moe_events_are_all_read`
@@ -59,7 +59,7 @@ Deadline: November 19th, 2020 @ 12 PM
             - Corgi found error. It's happening in `msg_queue_write` due to early call of a variable before initialization
         - Corgi completed working on ready feature
 2. Corgi working on building resume♥♥
-    - link https://github.com/hwanggu-corgi/hwanggu-log/files/5556301/Hyungmo.Gu.Software.Engineer.at.Microsoft.1.pdf
+    - link https://github.com/hwanggu-corgi/hwanggu-log/files/5556922/Hyungmo.Gu.Software.Engineer.at.Microsoft.2.pdf
 
 3. Corgi attended resume review
     - Corgi TODO
@@ -71,7 +71,7 @@ Deadline: November 19th, 2020 @ 12 PM
                 - 2nd and third —> more about your technical and hard and soft skill
                 - 4th and 5th —> passionate about the job you are promoting
             - Should be very relevant to position your looking at
-                - Emerging software developing developer with over 2 years of hands on experience
+                - (x): Emerging software developing developer with over 2 years of hands on experience
                 - Write the list of relevant
                 - Second and third bullet points —> to put to fist bullet point
                     - You know C++, write “You “have strong skill in C++”
