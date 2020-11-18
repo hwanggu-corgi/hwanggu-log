@@ -52,10 +52,10 @@ Deadline: November 19th, 2020 @ 12 PM
 
 1. My dear♥♥, I will be back after listening to professor reid's lecture :)♥♥
     - My dear♥♥, I am back for now I will move back and forth between office hours for assignment 2 to seek help from professor and TA about our assignment
-1. Corgi add progress #323 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #177
+1. Corgi add progress #324 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #178
         - Corgi working on adding code
-        - Corgi fixing program being stuck #13
+        - Corgi fixing program being stuck #14
             - Corgi fixing `pthread_cond_wait @ sync.c:114: Invalid argument` error
             - Corgi fixing error in `moe_none_of_the_requested_events_are_already_triggered`
             - Corgi fixing error in `moe_make_them_wait`
