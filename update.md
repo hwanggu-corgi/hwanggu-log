@@ -50,20 +50,22 @@ Deadline: November 19th, 2020 @ 12 PM
     - (x): You must use synchronization function provided in `sync.c`
     - (x): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
-1. Corgi add progress #304 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #159
+1. Corgi add progress #305 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #160
         - Corgi working on adding code
         - Corgi fixing error of program begin stuck
-            -
         - Corgi fixing assertion error `(len == sizeof(msg))` in `msg_queue_read` #3
         - Corgi completed fixing `segmentation fault` error in `moe_events_are_all_read`
             - Corgi fixed typo in `moe_initialize_wait_queue_node`
             - Corgi found error. It's happening in `msg_queue_write` due to early call of a variable before initialization
         - Corgi completed working on ready feature
-2. Corgi working on building resume♥♥
-    - link https://github.com/hwanggu-corgi/hwanggu-log/files/5557170/Hyungmo.Gu.Software.Engineer.at.Microsoft.3.pdf
 
-3. Corgi attended resume review
+2. Corgi working on submitting resume to microsoft♥♥
+
+3. Corgi completed working on building resume♥♥
+    - link https://github.com/hyungmogu/computer-science-notes/files/5557611/Hyungmo.Gu.Software.Engineer.at.Microsoft.4.pdf
+
+4. Corgi completed attendeding resume review
     - Corgi TODO
         - (x): Delete objective
         - Summary of qualification
