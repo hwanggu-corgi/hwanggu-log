@@ -50,8 +50,8 @@ Deadline: November 19th, 2020 @ 12 PM
     - (x): You must use synchronization function provided in `sync.c`
     - (x): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
-1. Corgi add progress #298 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #154
+1. Corgi add progress #299 on assignment 2, CSC 369♥♥
+    - Corgi working on `msg_queue_poll` #155
         - Corgi working on adding code
         - Corgi fixing assertion error `(len == sizeof(msg))` in `msg_queue_read` #3
         - Corgi completed fixing `segmentation fault` error in `moe_events_are_all_read`
