@@ -51,9 +51,9 @@ Deadline: November 19th, 2020 @ 12 PM
 1. My dear♥♥, I will be back after listening to professor reid's lecture :)♥♥
     - My dear♥♥, I am back for now I will move back and forth between office hours for assignment 2 to seek help from professor and TA about our assignment
 
-2. Corgi working on submitting resume to `Sendbird`
+2. Corgi add progress #2 on submitting resume to `Sendbird`
     - Working on modifying resume
-        - link https://github.com/hwanggu-corgi/hwanggu-log/files/5564787/Hyungmo.Gu.Software.Engineer.at.Sendbird.pdf
+        - link https://github.com/hwanggu-corgi/resume_personal_statement/blob/master/sendbird/Hyungmo%20Gu%2C%20Software%20Engineer%20at%20Sendbird.pdf
 
 3. Corgi add progress #341 on assignment 2, CSC 369♥♥
     - Corgi working on `msg_queue_poll` #194
