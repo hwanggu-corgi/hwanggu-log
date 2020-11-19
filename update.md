@@ -21,6 +21,7 @@
 
 2. Corgi adding progress #5 on improving hyungmogu.com♥♥
     - Corgi adding typewriter effect
+    - Corgi installed `typed.js` to save time
 
 ### November 19th, 2020
 
