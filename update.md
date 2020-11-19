@@ -53,6 +53,7 @@ Deadline: November 19th, 2020 @ 12 PM
 
 2. Corgi working on submitting resume to `Sendbird`
     - Working on modifying resume
+        - link https://github.com/hwanggu-corgi/hwanggu-log/files/5564787/Hyungmo.Gu.Software.Engineer.at.Sendbird.pdf
 
 3. Corgi add progress #341 on assignment 2, CSC 369♥♥
     - Corgi working on `msg_queue_poll` #194
