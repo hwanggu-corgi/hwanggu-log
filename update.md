@@ -19,7 +19,7 @@
     - Working on modifying resume
         - link https://github.com/hwanggu-corgi/resume_personal_statement/blob/master/sendbird/Hyungmo%20Gu%2C%20Software%20Engineer%20at%20Sendbird.pdf
 
-2. Corgi adding progress #157 on improving hyungmogu.com♥♥
+2. Corgi adding progress #158 on improving hyungmogu.com♥♥
     - Corgi adding typewriter effect
         - Corgi realized limitation of adding only CSS effects.
             - Container doesn't increase according to letter width
