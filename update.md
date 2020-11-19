@@ -21,6 +21,9 @@
 
 2. Corgi adding progress #149 on improving hyungmogu.com♥♥
     - Corgi adding typewriter effect
+        - Corgi realized limitation of adding only CSS effects.
+            - Container doesn't increase according to letter width
+        - Corgi laying pseudocode for javascript function
 
 ### November 19th, 2020
 
