@@ -15,12 +15,14 @@
         - (x): Microsoft as Software engineer (November 18th, 2020)
             - link: https://sway.office.com/XZSVCk4EATEEZuaS?ref=Link
 
-1. Corgi add progress #2 on submitting resume to `Sendbird`♥♥
+1. Corgi add progress #3 on submitting resume to `Sendbird`♥♥
     - Working on modifying resume
-        - link https://github.com/hwanggu-corgi/resume_personal_statement/blob/master/sendbird/Hyungmo%20Gu%2C%20Software%20Engineer%20at%20Sendbird.pdf
+        - link https://github.com/hwanggu-corgi/resume_personal_statement/blob/master/sendbird/Hyungmo%20Gu%2C%20Software%20Engineer%2C%20Front%20End%20at%20Sendbird.pdf
+            - Added new achievement to hyungmogu.com about creating typewriter effect
 
-2. Corgi adding progress #160 on improving hyungmogu.com♥♥
+2. Corgi adding progress #161 on improving hyungmogu.com♥♥
     - Corgi completed adding typewriter effect
+        - Corgi working on closing mobile menu on click #2
         - Corgi realized limitation of adding only CSS effects.
             - Container doesn't increase according to letter width
         - Corgi completed accessing child element from parent container
