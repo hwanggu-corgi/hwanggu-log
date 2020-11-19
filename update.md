@@ -20,11 +20,11 @@
         - link https://github.com/hwanggu-corgi/resume_personal_statement/blob/master/sendbird/Hyungmo%20Gu%2C%20Software%20Engineer%2C%20Front%20End%20at%20Sendbird.pdf
             - Added new achievement to hyungmogu.com about creating typewriter effect
 
-2. Corgi adding progress #161 on improving hyungmogu.com♥♥
+2. Corgi adding progress #163 on improving hyungmogu.com♥♥
     - Corgi completed adding typewriter effect
-        - Corgi working on closing mobile menu on click #2
         - Corgi realized limitation of adding only CSS effects.
             - Container doesn't increase according to letter width
+        - Corgi completed working on closing mobile menu on click
         - Corgi completed accessing child element from parent container
         - Corgi completed adding function `handleTyping`
         - Corgi completed laying pseudocode for javascript function
