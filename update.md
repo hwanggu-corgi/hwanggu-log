@@ -7,9 +7,6 @@
     - Korea
         - ( ): Sendbird
             - link: https://www.glassdoor.ca/Job/south-korea-software-engineer-jobs-SRCH_IL.0,11_IN135_KO12,29.htm
-        - ( ): 우아한형제들
-            - link: https://resume.woowahan.com/jobs/view.aspx?cc=244001&jidx=105800&pidx=11320&bidx=166014
-            - Learned that I need korean phone number and address :(
     - Canada
         - (x): Microsoft as Software engineer (November 18th, 2020)
             - link: https://sway.office.com/XZSVCk4EATEEZuaS?ref=Link
@@ -50,9 +47,14 @@ Deadline: November 19th, 2020 @ 12 PM
     - (x): You must use synchronization function provided in `sync.c`
     - (x): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
 
+
 1. My dear♥♥, I will be back after listening to professor reid's lecture :)♥♥
     - My dear♥♥, I am back for now I will move back and forth between office hours for assignment 2 to seek help from professor and TA about our assignment
-1. Corgi add progress #341 on assignment 2, CSC 369♥♥
+
+2. Corgi working on submitting resume to `Sendbird`
+    - Working on modifying resume
+
+3. Corgi add progress #341 on assignment 2, CSC 369♥♥
     - Corgi working on `msg_queue_poll` #194
         - Corgi working on adding code
         - Corgi fixing program being stuck #21
