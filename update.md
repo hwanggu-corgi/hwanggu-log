@@ -21,9 +21,12 @@
             - Added new achievement to hyungmogu.com about creating typewriter effect
 
 2. Corgi add progress #6 on back-end engineer path from Codeacademy♥♥
-    - Corgi workig on project `Bicycle World` (5/16)
-    - Corgi completed File System quiz (8/8)
-    - Corgi completed working on File System (10/10)
+    - Corgi working on chapter 2 - setting up environment
+        - Corgi working on project `Daily Buzz` (1/14)
+        - Corgi working project `Bicycle World` (16/16)
+        - Corgi completed project `Bicycle World` (16/16)
+        - Corgi completed File System quiz (8/8)
+        - Corgi completed working on File System (10/10)
 
 3. Corgi completed improving hyungmogu.com♥♥
     - Corgi completed adding typewriter effect
