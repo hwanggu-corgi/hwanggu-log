@@ -20,9 +20,9 @@
         - link https://github.com/hwanggu-corgi/resume_personal_statement/blob/master/sendbird/Hyungmo%20Gu%2C%20Software%20Engineer%2C%20Front%20End%20at%20Sendbird.pdf
             - Added new achievement to hyungmogu.com about creating typewriter effect
 
-2. Corgi add progress #18 on back-end engineer path from Codeacademy♥♥
+2. Corgi add progress #19 on back-end engineer path from Codeacademy♥♥
     - Corgi working on chapter 10 - Build a Back-End with Node/Express.js
-        - Corgi working on Learn Node.js (5/15) #2
+        - Corgi working on Learn Node.js (5/15) #3
         - Corgi completed working on Learn Node.js (4/15)
 
 
