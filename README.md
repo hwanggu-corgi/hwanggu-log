@@ -2,19 +2,13 @@
 
 ### November 19th, 2020
 
-1. Corgi add progress #341 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #194
-        - Corgi working on adding code
-        - Corgi fixing program being stuck #21
-            - Corgi fixing something that's holding the lock :(
-                - Grrrrr♥♥
-            - Corgi completed fixing error `validator_enter: 70000299d000 failed to enter validator list_head already occupied by 70000299d000 @ mutex_validator.c:60: Operation not permitted`
-                - Think I've found the cause. Need to clean up stuff that's not in use.
-            - Corgi investigating another stuck condition
-            - Corgi completed fixing `pthread_cond_wait @ sync.c:114: Invalid argument` error
-            - Corgi fixing error in `moe_none_of_the_requested_events_are_already_triggered`
-            - Corgi fixing error in `moe_make_them_wait`
-        - Corgi completed adding helper function `moe_wait_queue_is_empty`
+1. Added progress on csc-369 assignment 2 - `Creating message queues`
+    - Submitted assignment
+    - Worked on adding missing instructions to `msg_queue_poll`
+        - Fixed `pthread_cond_wait @ sync.c:114: Invalid argument` error
+        - Fixed error in `moe_none_of_the_requested_events_are_already_triggered`
+        - Fixed error in `moe_make_them_wait`
+        - Added helper function `moe_wait_queue_is_empty`
 
 ### November 18th, 2020
 

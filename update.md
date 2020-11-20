@@ -21,8 +21,8 @@
             - Added new achievement to hyungmogu.com about creating typewriter effect
 
 2. Corgi add progress #3 on back-end engineer path from Codeacademy♥♥
-    - Corgi working on File System (6/10)
-    - Corgi completed working on File System (5/10)
+    - Corgi working on File System (8/10)
+    - Corgi completed working on File System (7/10)
 
 3. Corgi completed improving hyungmogu.com♥♥
     - Corgi completed adding typewriter effect
