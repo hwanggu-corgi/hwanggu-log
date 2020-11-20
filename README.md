@@ -1,6 +1,5 @@
 # HwangGu Log
 
-
 ### November 20th, 2020
 
 1. Add progress on back-end engineer path from Codeacademy
@@ -16,84 +15,6 @@
         - Added functionality that closes mobile menu on click
     - Added typewriter effect
         - Added function `handleTyping`
-        - Added pseudocode
-
-### November 19th, 2020
-
-#### Resume and career
-- ( ): Attend resume review with Rohan from 5:30 AM to 5:50 AM on November 21st, 2020
-- ( ): Apply to UTKSA
-- ( ): Improve hyungmogu.com
-    - ( ): Add typewriter effect
-    - (x): Update resume
-- (x): Attend resume review from 5:30 AM to 5:50 AM on November 18th, 2020
-- ( ): Apply for jobs
-    - Korea
-        - ( ): Sendbird
-            - link: https://www.glassdoor.ca/Job/south-korea-software-engineer-jobs-SRCH_IL.0,11_IN135_KO12,29.htm
-    - Canada
-        - (x): Microsoft as Software engineer (November 18th, 2020)
-            - link: https://sway.office.com/XZSVCk4EATEEZuaS?ref=Link
-
-#### Assignment 2
-
-Deadline: November 19th, 2020 @ 12 PM
-
-- (x) Part 1: Complete the functions in `msg_queue.c` with the exception of `msg_queue_poll()`
-    - (x): `msg_queue_open()`
-    - (x): `msg_queue_close()`
-    - (x): `msg_queue_read()`
-        - (x): `moe_queue_handle_non_blocking`
-        - (x): `moe_read_would_block`
-        - (x): `moe_get_message_size`
-        - (x): `moe_message_queue_is_empty`
-        - (x): `moe_all_writer_handles_closed`
-        - (x): `moe_reader_buffer_is_small`
-    - (x): `msg_queue_write()`
-        - (x): `moe_is_queue_handle_non_blocking`
-        - (x): `moe_all_reader_handles_closed`
-        - (x): `moe_has_enough_free_space`
-        - (x): `moe_has_writers`
-        - (x): `moe_write_would_block`
-- ( ) Part 2: Complete `msg_queue_poll()`
-    - (x): `moe_an_event_is_subscribed`
-    - (x): `moe_events_field_in_a_pollfd_entry_is_valid`
-    - (x): `moe_add_to_wait_queue`
-    - (x): `moe_none_of_the_requested_events_are_already_triggered`
-    - (x): `moe_mqpoll_readable_requested_for_non_reader_queue_handle`
-    - (x): `moe_mqpoll_writable_requested_for_non_writer_queue_handle`
-    - (x): `moe_make_them_wait`
-    - (x): `moe_update_queues`
-    - (x): `moe_queue_is_ready`
-    - (x): `moe_update_events`
-    - (x): `moe_initialize_wait_queue_node`
-- (x): Miscellaneous requirements
-    - (x): You must use synchronization function provided in `sync.c`
-    - (x): You must use the linked list implementation provided in `list.h` for wait queue for `msg_queue_poll()`
-
-1. My dear♥♥, I will be back after listening to professor reid's lecture :)♥♥
-    - My dear♥♥, I am back for now I will move back and forth between office hours for assignment 2 to seek help from professor and TA about our assignment
-
-2. Corgi add progress #2 on submitting resume to `Sendbird`♥♥
-    - Working on modifying resume
-        - link https://github.com/hwanggu-corgi/resume_personal_statement/blob/master/sendbird/Hyungmo%20Gu%2C%20Software%20Engineer%20at%20Sendbird.pdf
-
-3. Corgi adding progress on improving hyungmogu.com♥♥
-    - Corgi adding typewriter effect
-
-4. Corgi add progress #341 on assignment 2, CSC 369♥♥
-    - Corgi working on `msg_queue_poll` #194
-        - Corgi working on adding code
-        - Corgi fixing program being stuck #21
-            - Corgi fixing something that's holding the lock :(
-                - Grrrrr♥♥
-            - Corgi completed fixing error `validator_enter: 70000299d000 failed to enter validator list_head already occupied by 70000299d000 @ mutex_validator.c:60: Operation not permitted`
-                - Think I've found the cause. Need to clean up stuff that's not in use.
-            - Corgi investigating another stuck condition
-            - Corgi completed fixing `pthread_cond_wait @ sync.c:114: Invalid argument` error
-            - Corgi fixing error in `moe_none_of_the_requested_events_are_already_triggered`
-            - Corgi fixing error in `moe_make_them_wait`
-        - Corgi completed adding helper function `moe_wait_queue_is_empty`
 
 ### November 19th, 2020
 1. Added progress on csc-369 assignment 2 - `Creating message queues`
