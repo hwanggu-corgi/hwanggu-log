@@ -16,6 +16,7 @@
             - link: https://sway.office.com/XZSVCk4EATEEZuaS?ref=Link
 
 1. My dear♥♥, I will be back from CSC 369 tutorial :)♥♥
+    - My dear♥♥, I am back♥♥!!
 
 2. Corgi add progress #3 on submitting resume to `Sendbird`♥♥
     - Working on modifying resume
