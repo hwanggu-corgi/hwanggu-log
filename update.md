@@ -20,8 +20,9 @@
         - link https://github.com/hwanggu-corgi/resume_personal_statement/blob/master/sendbird/Hyungmo%20Gu%2C%20Software%20Engineer%2C%20Front%20End%20at%20Sendbird.pdf
             - Added new achievement to hyungmogu.com about creating typewriter effect
 
-2. Corgi add progress #5 on back-end engineer path from Codeacademy♥♥
-    - Corgi working on File System quiz (3/8)
+2. Corgi add progress #6 on back-end engineer path from Codeacademy♥♥
+    - Corgi workig on project `Bicycle World` (5/16)
+    - Corgi completed File System quiz (8/8)
     - Corgi completed working on File System (10/10)
 
 3. Corgi completed improving hyungmogu.com♥♥
