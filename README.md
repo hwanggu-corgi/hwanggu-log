@@ -10,16 +10,13 @@
         - Completed File System quiz (8/8)
         - Completed working on File System Notes (10/10)
 
-2. Corgi completed improving hyungmogu.com♥♥
-    - Corgi completed adding typewriter effect
-        - Corgi completed fixing malfunctioning navigation back to home page
-        on clicking `Hyungmo Gu`
-        - Corgi realized limitation of adding only CSS effects.
-            - Container doesn't increase according to letter width
-        - Corgi completed working on closing mobile menu on click
-        - Corgi completed accessing child element from parent container
-        - Corgi completed adding function `handleTyping`
-        - Corgi completed laying pseudocode for javascript function
+2. Improved hyungmogu.com
+    - Fixed malfunctioning navigation
+        - Added functionality that returns to homepage on clicking `Hyungmo Gu`
+        - Added functionality that closes mobile menu on click
+    - Added typewriter effect
+        - Added function `handleTyping`
+        - Added pseudocode
 
 ### November 19th, 2020
 
