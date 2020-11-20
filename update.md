@@ -26,11 +26,12 @@
         - link https://github.com/hwanggu-corgi/resume_personal_statement/blob/master/sendbird/Hyungmo%20Gu%2C%20Software%20Engineer%2C%20Front%20End%20at%20Sendbird.pdf
             - Added new achievement to hyungmogu.com about creating typewriter effect
 
-4. Corgi add progress #25 on back-end engineer path from Codeacademy♥♥
+4. Corgi add progress #26 on back-end engineer path from Codeacademy♥♥
     - Corgi working on Lesson 10 - Build a Back-End with Node/Express.js
-        - Corgi working on Learn Node.js (8/15) #2
-            - Corgi working on derivative lesson `Javascript Promises` (1/11)
-        - Corgi completed working on Learn Node.js (7/15)
+        - Corgi working on `Learn Node.js` (8/15) #3
+            - Corgi working on derivative derivative lesson `Javascript Promises` (2/11)
+            - Corgi completed working on derivative lesson `Javascript Promises` (1/11)
+        - Corgi completed working on `Learn Node.js` (7/15)
 
 5. Corgi came back from meeting with Rohan for resume review♥♥
     Need to mention all the things they are wondering (all is good refine highlights of qualification to pass robots and make sure you've read and understood the job posting)
