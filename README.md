@@ -1,11 +1,9 @@
 # HwangGu Log
 
 ### November 19th, 2020
-
 1. Added progress on csc-369 assignment 2 - `Creating message queues`
     - Submitted assignment
     - Worked on adding missing instructions to `msg_queue_poll`
-        - Fixed `pthread_cond_wait @ sync.c:114: Invalid argument` error
         - Fixed error in `moe_none_of_the_requested_events_are_already_triggered`
         - Fixed error in `moe_make_them_wait`
         - Added helper function `moe_wait_queue_is_empty`
