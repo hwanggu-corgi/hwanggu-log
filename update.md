@@ -26,9 +26,10 @@
         - link https://github.com/hwanggu-corgi/resume_personal_statement/blob/master/sendbird/Hyungmo%20Gu%2C%20Software%20Engineer%2C%20Front%20End%20at%20Sendbird.pdf
             - Added new achievement to hyungmogu.com about creating typewriter effect
 
-4. Corgi add progress #24 on back-end engineer path from Codeacademy♥♥
+4. Corgi add progress #25 on back-end engineer path from Codeacademy♥♥
     - Corgi working on Lesson 10 - Build a Back-End with Node/Express.js
-        - Corgi working on Learn Node.js (8/15)
+        - Corgi working on Learn Node.js (8/15) #2
+            - Corgi working on derivative lesson `Javascript Promises` (1/11)
         - Corgi completed working on Learn Node.js (7/15)
 
 5. Corgi came back from meeting with Rohan for resume review♥♥
@@ -38,7 +39,7 @@
         - How are you going to turn those into bullet points to make sure you understood and meet those skills?
 
 	- Highlights of qualification
-		- Emrging software developer with over 2 years of hands on experience
+		- Emerging software developer with over 2 years of hands on experience
 		- Fluent in English with over 2 years of hands on experience
 		- With strong English communication skills
 		- Make sure to include those in communication skill
