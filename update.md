@@ -22,8 +22,8 @@
 
 2. Corgi add progress #16 on back-end engineer path from Codeacademy♥♥
     - Corgi working on chapter 10 - Build a Back-End with Node/Express.js
-        - Corgi working on Learn Node.js (4/15)
-        - Corgi completed working on Learn Node.js (3/15)
+        - Corgi working on Learn Node.js (5/15)
+        - Corgi completed working on Learn Node.js (4/15)
 
 
 ### November 20th, 2020
