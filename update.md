@@ -1,7 +1,7 @@
 ### November 21st, 2020
 
 #### Resume and career
-- ( ): Attend resume review with Rohan from 5:30 AM to 5:50 AM on November 21st, 2020
+- (x): Attend resume review with Rohan from 5:30 AM to 5:50 AM on November 21st, 2020
 - ( ): Apply to UTKSA
 - ( ): Improve hyungmogu.com
     - ( ): Add typewriter effect
@@ -18,12 +18,35 @@
 1. My dear♥♥, I will be back from CSC 369 tutorial :)♥♥
     - My dear♥♥, I am back♥♥!!
 
-2. Corgi add progress #3 on submitting resume to `Sendbird`♥♥
+2. Corgi came back from meeting with Rohan♥♥
+    Need to mention all the things they are wondering (all is good refine highlights of qualification to pass robots and make sure you've read and understood the job posting)
+	- Highlights of qualification
+		- Emrging software developer with over 2 years of hands on experience
+		- Fluent in English with over 2 years of hands on experience
+		- With strong English communication skills
+		- Make sure to include those in communication skill
+		- Strong attention to detail
+		- Work independently and collaborate with teams
+		- Should mention HTML5 and CSS3 and React.js
+		- Has advanced html5 CSS and react skills
+		- Keen interest in past UI and UX, keen interest to develop knowledge base about human interested design
+		- Should also mention you also work independently
+		- Developed skills in UI or UX
+		- Interested in developing more on UI or UX
+		- Strong ability to work independently and collaborate with team members
+		- Native English speaker or Korean (at the bottom of language)
+
+	- Need to mention UI
+
+2. Corgi add progress on tutorial part 1 CSC 369
+    - Corgi working on Question 1
+
+3. Corgi add progress #3 on submitting resume to `Sendbird`♥♥
     - Working on modifying resume
         - link https://github.com/hwanggu-corgi/resume_personal_statement/blob/master/sendbird/Hyungmo%20Gu%2C%20Software%20Engineer%2C%20Front%20End%20at%20Sendbird.pdf
             - Added new achievement to hyungmogu.com about creating typewriter effect
 
-3. Corgi add progress #23 on back-end engineer path from Codeacademy♥♥
+4. Corgi add progress #23 on back-end engineer path from Codeacademy♥♥
     - Corgi working on chapter 10 - Build a Back-End with Node/Express.js
         - Corgi working on Learn Node.js (8/15)
         - Corgi completed working on Learn Node.js (7/15)
