@@ -1,7 +1,7 @@
 # HwangGu Log
 ### November 21st, 2020
-1. Corgi add progress #26 on back-end engineer path from Codeacademy♥♥
-    - Corgi working on Lesson 10 - Build a Back-End with Node/Express.js
+1. Added progress on back-end engineer path from Codeacademy
+    - Worked on chapter 10 - Build a Back-End with Node/Express.js
         - Corgi working on `Learn Node.js` (8/15) #3
             - Corgi working on derivative derivative lesson `Javascript Promises` (2/11)
             - Corgi completed working on derivative lesson `Javascript Promises` (1/11)
@@ -9,7 +9,7 @@
 
 ### November 20th, 2020
 
-1. Add progress on back-end engineer path from Codeacademy
+1. Added progress on back-end engineer path from Codeacademy
     - Finished chapter 2 - setting up environment
         - Completed project `Daily Buzz` (14/14)
         - Completed project `Bicycle World` (16/16)
