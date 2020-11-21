@@ -10,8 +10,8 @@
             - link: https://www.glassdoor.ca/Job/south-korea-software-engineer-jobs-SRCH_IL.0,11_IN135_KO12,29.htm
     - Canada
 
-1. Corgi adding progress on improving portfolio site♥♥
-    - Corgi removing bad photos
+1. Corgi adding progress #2 on improving portfolio site♥♥
+    - Corgi cleaning works section of portfolio site
     - Corgi uploading site to hyungmogu
     - Corgi updated resume link
 
