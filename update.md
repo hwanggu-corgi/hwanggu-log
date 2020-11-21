@@ -1,3 +1,33 @@
+### November 22nd, 2020
+
+#### Resume and career
+- ( ): Apply to UTKSA
+- ( ): Improve hyungmogu.com
+    - ( ): Update resume
+- ( ): Apply for jobs
+    - Korea
+        - (x): Sendbird
+            - link: https://www.glassdoor.ca/Job/south-korea-software-engineer-jobs-SRCH_IL.0,11_IN135_KO12,29.htm
+    - Canada
+
+1. Corgi add progress #2 on tutorial part 1 CSC 369
+    - Corgi working on Question 1
+
+2. Corgi add progress #26 on back-end engineer path from Codeacademy♥♥
+    - Corgi working on Lesson 10 - Build a Back-End with Node/Express.js
+        - Corgi working on `Learn Node.js` (8/15) #3
+            - Corgi working on derivative derivative lesson `Javascript Promises` (2/11)
+            - Corgi completed working on derivative lesson `Javascript Promises` (1/11)
+        - Corgi completed working on `Learn Node.js` (7/15)
+
+3. Corgi completed submitting resume to `Sendbird`♥♥
+    - Working on modifying resume
+        - link https://github.com/hwanggu-corgi/resume_personal_statement/blob/master/sendbird/Hyungmo%20Gu%2C%20Software%20Engineer%2C%20Front%20End%20at%20Sendbird.pdf
+            - Corgi refined highlights of qualification
+            - Corgi put most relevant project to projects section
+            - Corgi added new achievement to hyungmogu.com about creating typewriter effect
+
+
 ### November 21st, 2020
 
 #### Resume and career
