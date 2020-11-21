@@ -10,22 +10,22 @@
             - link: https://www.glassdoor.ca/Job/south-korea-software-engineer-jobs-SRCH_IL.0,11_IN135_KO12,29.htm
     - Canada
 
-1. Corgi adding progress #170 on improving portfolio site♥♥
+1. Corgi add progress #26 on back-end engineer path from Codeacademy♥♥
+    - Corgi working on Lesson 10 - Build a Back-End with Node/Express.js
+        - Corgi working on `Learn Node.js` (8/15) #3
+            - Corgi working on derivative derivative lesson `Javascript Promises` (2/11)
+            - Corgi completed working on derivative lesson `Javascript Promises` (1/11)
+        - Corgi completed working on `Learn Node.js` (7/15)
+
+2. Corgi adding progress #170 on improving portfolio site♥♥
     - Corgi fixed issue where opacity of `screen-overlay` changes from 50% to 1%
     on deploying to github page
     - Corgi cleaned works section
     - Corgi uploaded site to hyungmogu
     - Corgi updated resume link
 
-2. Corgi add progress #2 on tutorial part 1 CSC 369
+3. Corgi add progress #2 on tutorial part 1 CSC 369
     - Corgi working on Question 1
-
-3. Corgi add progress #26 on back-end engineer path from Codeacademy♥♥
-    - Corgi working on Lesson 10 - Build a Back-End with Node/Express.js
-        - Corgi working on `Learn Node.js` (8/15) #3
-            - Corgi working on derivative derivative lesson `Javascript Promises` (2/11)
-            - Corgi completed working on derivative lesson `Javascript Promises` (1/11)
-        - Corgi completed working on `Learn Node.js` (7/15)
 
 4. Corgi completed submitting resume to `Sendbird`♥♥
     - Working on modifying resume
