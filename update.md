@@ -21,10 +21,11 @@
 2. Corgi add progress #2 on tutorial part 1 CSC 369
     - Corgi working on Question 1
 
-3. Corgi add progress #4 on submitting resume to `Sendbird`♥♥
+3. Corgi add progress #6 on submitting resume to `Sendbird`♥♥
     - Working on modifying resume
         - link https://github.com/hwanggu-corgi/resume_personal_statement/blob/master/sendbird/Hyungmo%20Gu%2C%20Software%20Engineer%2C%20Front%20End%20at%20Sendbird.pdf
-            - Corgi improving highlights of qualification
+            - Corgi improving highlights of qualification #3
+            - Corgi putting most relevant project to projects section
             - Corgi added new achievement to hyungmogu.com about creating typewriter effect
 
 4. Corgi add progress #26 on back-end engineer path from Codeacademy♥♥
