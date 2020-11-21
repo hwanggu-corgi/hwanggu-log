@@ -9,11 +9,13 @@
         - (x): Sendbird
             - link: https://www.glassdoor.ca/Job/south-korea-software-engineer-jobs-SRCH_IL.0,11_IN135_KO12,29.htm
     - Canada
+        - ( ): SAIT
+            - link: https://sait.csod.com/ats/careersite/JobDetails.aspx?id=2411&site=1
 
-1. Corgi add progress #30 on back-end engineer path from Codeacademy♥♥
+1. Corgi add progress #31 on back-end engineer path from Codeacademy♥♥
     - Corgi working on Lesson 10 - Build a Back-End with Node/Express.js
-        - Corgi working on `Learn Node.js` (8/15) #7
-            - Corgi working on derivative derivative lesson `Javascript Promises` (4/11)
+        - Corgi working on `Learn Node.js` (8/15) #8
+            - Corgi working on derivative derivative lesson `Javascript Promises` (4/11) #2
             - Corgi completed working on derivative lesson `Javascript Promises` (3/11)
         - Corgi completed working on `Learn Node.js` (7/15)
 
