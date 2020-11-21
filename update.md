@@ -10,7 +10,9 @@
             - link: https://www.glassdoor.ca/Job/south-korea-software-engineer-jobs-SRCH_IL.0,11_IN135_KO12,29.htm
     - Canada
 
-1. Corgi adding progress #3 on improving portfolio site♥♥
+1. Corgi adding progress #170 on improving portfolio site♥♥
+    - Corgi fixed issue where opacity of `screen-overlay` changes from 50% to 1%
+    on deploying to github page
     - Corgi cleaned works section
     - Corgi uploaded site to hyungmogu
     - Corgi updated resume link
