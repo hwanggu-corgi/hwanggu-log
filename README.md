@@ -1,19 +1,18 @@
 # HwangGu Log
 ### November 22nd, 2020
-1. Corgi add progress #44 on back-end engineer path from Codeacademy♥♥
-    - Corgi working on Lesson 10 - Build a Back-End with Node/Express.js
+1. Added progress on back-end engineer path from Codeacademy
+    - Worked on chapter 10 - Build a Back-End with Node/Express.js
         - Corgi working on `Learn Node.js` (8/15) #19
             - Corgi working on derivative lesson `Async / Await` (1/9)
             - Corgi completed derivative lesson `Javascript Promises` Quiz (10/10);
             - Corgi completed derivative lesson `Javascript Promises` (11/11)
         - Corgi completed working on `Learn Node.js` (7/15)
 
-2. Corgi adding progress #170 on improving portfolio site♥♥
-    - Corgi fixed issue where opacity of `screen-overlay` changes from 50% to 1%
+2. Added improvements to hyungmogu.com
+    - Fixed issue where opacity of `screen-overlay` changes from 50% to 1%
     on deploying to github page
-    - Corgi cleaned works section
-    - Corgi uploaded site to hyungmogu
-    - Corgi updated resume link
+    - Cleaned works section
+    - Updated resume link
 
 ### November 21st, 2020
 1. Added progress on back-end engineer path from Codeacademy
