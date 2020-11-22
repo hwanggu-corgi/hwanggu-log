@@ -12,11 +12,12 @@
         - ( ): SAIT
             - link: https://sait.csod.com/ats/careersite/JobDetails.aspx?id=2411&site=1
 
-1. Corgi add progress #43 on back-end engineer path from Codeacademy♥♥
+1. Corgi add progress #44 on back-end engineer path from Codeacademy♥♥
     - Corgi working on Lesson 10 - Build a Back-End with Node/Express.js
         - Corgi working on `Learn Node.js` (8/15) #19
-            - Corgi working on derivative derivative lesson `Javascript Promises` Quiz (7/10);
-            - Corgi completed working on derivative lesson `Javascript Promises` (11/11)
+            - Corgi working on derivative lesson `Async / Await` (1/9)
+            - Corgi completed derivative lesson `Javascript Promises` Quiz (10/10);
+            - Corgi completed derivative lesson `Javascript Promises` (11/11)
         - Corgi completed working on `Learn Node.js` (7/15)
 
 2. Corgi add progress on submitting resume to `SAIT`♥♥
