@@ -2,11 +2,9 @@
 ### November 22nd, 2020
 1. Added progress on back-end engineer path from Codeacademy
     - Worked on chapter 10 - Build a Back-End with Node/Express.js
-        - Corgi working on `Learn Node.js` (8/15) #19
-            - Corgi working on derivative lesson `Async / Await` (1/9)
-            - Corgi completed derivative lesson `Javascript Promises` Quiz (10/10);
-            - Corgi completed derivative lesson `Javascript Promises` (11/11)
-        - Corgi completed working on `Learn Node.js` (7/15)
+        - Worked on `Learn Node.js` (8/15) #19
+            - Worked on part 1/9 of derivative lesson `Async / Await`
+            - Completed derivative lesson `Javascript Promises`
 
 2. Added improvements to hyungmogu.com
     - Fixed issue where opacity of `screen-overlay` changes from 50% to 1%
@@ -17,7 +15,7 @@
 ### November 21st, 2020
 1. Added progress on back-end engineer path from Codeacademy
     - Worked on chapter 10 - Build a Back-End with Node/Express.js
-        - Corgi completed working on `Learn Node.js` (7/15)
+        - Completed working on part 7/15 of `Learn Node.js`
 
 ### November 20th, 2020
 
