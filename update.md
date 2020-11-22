@@ -12,24 +12,27 @@
         - ( ): SAIT
             - link: https://sait.csod.com/ats/careersite/JobDetails.aspx?id=2411&site=1
 
-1. Corgi add progress #40 on back-end engineer path from Codeacademy♥♥
+1. Corgi add progress #41 on back-end engineer path from Codeacademy♥♥
     - Corgi working on Lesson 10 - Build a Back-End with Node/Express.js
-        - Corgi working on `Learn Node.js` (8/15) #17
-            - Corgi working on derivative derivative lesson `Javascript Promises` (11/11)
+        - Corgi working on `Learn Node.js` (8/15) #18
+            - Corgi working on derivative derivative lesson `Javascript Promises` (11/11) #2
             - Corgi completed working on derivative lesson `Javascript Promises` (10/11)
         - Corgi completed working on `Learn Node.js` (7/15)
 
-2. Corgi adding progress #170 on improving portfolio site♥♥
+2. Corgi add progress on submitting resume to `SAIT`♥♥
+    - Working on tailoring resume resume
+
+3. Corgi adding progress #170 on improving portfolio site♥♥
     - Corgi fixed issue where opacity of `screen-overlay` changes from 50% to 1%
     on deploying to github page
     - Corgi cleaned works section
     - Corgi uploaded site to hyungmogu
     - Corgi updated resume link
 
-3. Corgi add progress #2 on tutorial part 1 CSC 369
+4. Corgi add progress #2 on tutorial part 1 CSC 369
     - Corgi working on Question 1
 
-4. Corgi completed submitting resume to `Sendbird`♥♥
+5. Corgi completed submitting resume to `Sendbird`♥♥
     - Working on modifying resume
         - link https://github.com/hwanggu-corgi/resume_personal_statement/blob/master/sendbird/Hyungmo%20Gu%2C%20Software%20Engineer%2C%20Front%20End%20at%20Sendbird.pdf
             - Corgi refined highlights of qualification
