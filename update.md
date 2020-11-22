@@ -12,29 +12,31 @@
         - ( ): SAIT
             - link: https://sait.csod.com/ats/careersite/JobDetails.aspx?id=2411&site=1
 
-1. Corgi add progress #21 on submitting resume to `SAIT`♥♥
+
+1. Corgi adding progress #171 on improving portfolio site♥♥
+    - Corgi adding Web App Dashboard
+    - Corgi fixed issue where opacity of `screen-overlay` changes from 50% to 1%
+    on deploying to github page
+    - Corgi cleaned works section
+    - Corgi uploaded site to hyungmogu
+    - Corgi updated resume link
+
+2. Corgi add progress #22 on submitting resume to `SAIT`♥♥
     - Working on tailoring resume resume
         - link: https://github.com/hwanggu-corgi/resume_personal_statement/blob/master/SAIT/Hyungmo%20Gu%2C%20Junior%20Full%20Stack%20Web%20Developer%20at%20SAIT.pdf
-            - Corgi fixing typos
+            - Corgi completed fixing typos
             - Corgi completed fixing extra white spaces on resume♥♥
             - Corgi improved highlights of qualification♥♥
             - Corgi improved projects section♥♥
             - Corgi improved education section♥♥
 
-2. Corgi add progress #44 on back-end engineer path from Codeacademy♥♥
+3. Corgi add progress #44 on back-end engineer path from Codeacademy♥♥
     - Corgi working on Lesson 10 - Build a Back-End with Node/Express.js
         - Corgi working on `Learn Node.js` (8/15) #19
             - Corgi working on derivative lesson `Async / Await` (1/9)
             - Corgi completed derivative lesson `Javascript Promises` Quiz (10/10);
             - Corgi completed derivative lesson `Javascript Promises` (11/11)
         - Corgi completed working on `Learn Node.js` (7/15)
-
-3. Corgi adding progress #170 on improving portfolio site♥♥
-    - Corgi fixed issue where opacity of `screen-overlay` changes from 50% to 1%
-    on deploying to github page
-    - Corgi cleaned works section
-    - Corgi uploaded site to hyungmogu
-    - Corgi updated resume link
 
 4. Corgi add progress #2 on tutorial part 1 CSC 369
     - Corgi working on Question 1
