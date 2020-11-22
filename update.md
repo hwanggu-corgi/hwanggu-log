@@ -15,7 +15,7 @@
 1. Corgi add progress #2 on submitting resume to `SAIT`♥♥
     - Working on tailoring resume resume
         - link: https://github.com/hwanggu-corgi/resume_personal_statement/blob/master/SAIT/Hyungmo%20Gu%2C%20Junior%20Full%20Stack%20Web%20Developer%20at%20SAIT.pdf
-            - Corgi improving projects section♥♥
+            - Corgi improving projects section♥♥ #2
 
 2. Corgi add progress #44 on back-end engineer path from Codeacademy♥♥
     - Corgi working on Lesson 10 - Build a Back-End with Node/Express.js
