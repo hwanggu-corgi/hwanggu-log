@@ -2,8 +2,6 @@
 
 #### Resume and career
 - ( ): Apply to UTKSA
-- ( ): Improve hyungmogu.com
-    - ( ): Update resume
 - ( ): Apply for jobs
     - Korea
         - (x): Sendbird
@@ -13,7 +11,7 @@
             - link: https://sait.csod.com/ats/careersite/JobDetails.aspx?id=2411&site=1
 
 
-1. Corgi adding progress #171 on improving portfolio site♥♥
+1. Corgi adding progress #172 on improving portfolio site♥♥
     - Corgi adding Web App Dashboard
     - Corgi fixed issue where opacity of `screen-overlay` changes from 50% to 1%
     on deploying to github page
