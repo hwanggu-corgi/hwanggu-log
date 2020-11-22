@@ -12,11 +12,12 @@
         - ( ): SAIT
             - link: https://sait.csod.com/ats/careersite/JobDetails.aspx?id=2411&site=1
 
-1. Corgi add progress #6 on submitting resume to `SAIT`♥♥
+1. Corgi add progress #7 on submitting resume to `SAIT`♥♥
     - Working on tailoring resume resume
         - link: https://github.com/hwanggu-corgi/resume_personal_statement/blob/master/SAIT/Hyungmo%20Gu%2C%20Junior%20Full%20Stack%20Web%20Developer%20at%20SAIT.pdf
+            - Corgi fixing extra white spaces on resume
             - Corgi improving highlights of qualification♥♥
-            - Corgi improving projects section♥♥ #6
+            - Corgi improving projects section♥♥ #7
             - Corgi improved education section♥♥
 
 2. Corgi add progress #44 on back-end engineer path from Codeacademy♥♥

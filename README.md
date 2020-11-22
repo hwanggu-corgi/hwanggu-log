@@ -1,4 +1,52 @@
 # HwangGu Log
+
+
+### November 22nd, 2020
+
+#### Resume and career
+- ( ): Apply to UTKSA
+- ( ): Improve hyungmogu.com
+    - ( ): Update resume
+- ( ): Apply for jobs
+    - Korea
+        - (x): Sendbird
+            - link: https://www.glassdoor.ca/Job/south-korea-software-engineer-jobs-SRCH_IL.0,11_IN135_KO12,29.htm
+    - Canada
+        - ( ): SAIT
+            - link: https://sait.csod.com/ats/careersite/JobDetails.aspx?id=2411&site=1
+
+1. Corgi add progress #6 on submitting resume to `SAIT`♥♥
+    - Working on tailoring resume resume
+        - link: https://github.com/hwanggu-corgi/resume_personal_statement/blob/master/SAIT/Hyungmo%20Gu%2C%20Junior%20Full%20Stack%20Web%20Developer%20at%20SAIT.pdf
+            - Corgi improving highlights of qualification♥♥
+            - Corgi improving projects section♥♥ #6
+            - Corgi improved education section♥♥
+
+2. Corgi add progress #44 on back-end engineer path from Codeacademy♥♥
+    - Corgi working on Lesson 10 - Build a Back-End with Node/Express.js
+        - Corgi working on `Learn Node.js` (8/15) #19
+            - Corgi working on derivative lesson `Async / Await` (1/9)
+            - Corgi completed derivative lesson `Javascript Promises` Quiz (10/10);
+            - Corgi completed derivative lesson `Javascript Promises` (11/11)
+        - Corgi completed working on `Learn Node.js` (7/15)
+
+3. Corgi adding progress #170 on improving portfolio site♥♥
+    - Corgi fixed issue where opacity of `screen-overlay` changes from 50% to 1%
+    on deploying to github page
+    - Corgi cleaned works section
+    - Corgi uploaded site to hyungmogu
+    - Corgi updated resume link
+
+4. Corgi add progress #2 on tutorial part 1 CSC 369
+    - Corgi working on Question 1
+
+5. Corgi completed submitting resume to `Sendbird`♥♥
+    - Working on modifying resume
+        - link https://github.com/hwanggu-corgi/resume_personal_statement/blob/master/sendbird/Hyungmo%20Gu%2C%20Software%20Engineer%2C%20Front%20End%20at%20Sendbird.pdf
+            - Corgi refined highlights of qualification
+            - Corgi put most relevant project to projects section
+            - Corgi added new achievement to hyungmogu.com about creating typewriter effect
+
 ### November 21st, 2020
 1. Added progress on back-end engineer path from Codeacademy
     - Worked on chapter 10 - Build a Back-End with Node/Express.js
