@@ -4,14 +4,10 @@
 - ( ): Apply to UTKSA
 - ( ): Apply for jobs
     - Korea
-        - (x): Sendbird
-            - link: https://www.glassdoor.ca/Job/south-korea-software-engineer-jobs-SRCH_IL.0,11_IN135_KO12,29.htm
     - Canada
-        - (x): SAIT
-            - link: https://sait.csod.com/ats/careersite/JobDetails.aspx?id=2411&site=1
 
-1. Corgi add progress #4 on practicing interview for NHN GODO♥♥
-    - Corgi working on problem `CyclicRotation` in `Arrays`
+1. Corgi add progress #5 on practicing interview for NHN GODO♥♥
+    - Corgi working on problem `CyclicRotation` in `Arrays` #2
     - Corgi completed working on problem `Binary Gap` in `Iterations`
 
 2. Corgi add progress #54 on back-end engineer path from Codeacademy♥♥
