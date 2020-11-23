@@ -10,7 +10,9 @@
         - (x): SAIT
             - link: https://sait.csod.com/ats/careersite/JobDetails.aspx?id=2411&site=1
 
-1. Corgi add progress on practicing interview for NHN GODO
+1. Corgi add progress on practicing interview for NHN GODO♥♥
+    - Corgi working on problems in `Iterations`
+        - Corgi working on problem `Binary Gap`
 
 2. Corgi add progress #54 on back-end engineer path from Codeacademy♥♥
     - Corgi working on Lesson 10 - Build a Back-End with Node/Express.js
