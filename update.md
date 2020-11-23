@@ -13,10 +13,10 @@
 
 여보♥♥, 우리 서류전형 합격했어요 :)♥♥
 
-1. Corgi add progress #52 on back-end engineer path from Codeacademy♥♥
+1. Corgi add progress #53 on back-end engineer path from Codeacademy♥♥
     - Corgi working on Lesson 10 - Build a Back-End with Node/Express.js
-        - Corgi working on `Learn Node.js` (8/15) #27
-            - Corgi working on derivative lesson `Async / Await` (4/9)
+        - Corgi working on `Learn Node.js` (8/15) #28
+            - Corgi working on derivative lesson `Async / Await` (4/9) #2
 
 2. Corgi completed submitting resume to `SAIT`♥♥
     - Working on tailoring resume resume
