@@ -7,8 +7,10 @@
     - Canada
 
 1. Corgi add progress #9 on practicing interview for NHN GODO♥♥
-    - Corgi working on problem `CyclicRotation` in `Arrays` #6
+    - Corgi working on problem `FrogJmp` in `Time Complexity`
+    - Corgi completed working on problem `Cyclic Rotation` in `Arrays`
         - I should always consider extreme cases
+        - I had difficulty refining from brute force case on this problem
     - Corgi completed working on problem `Binary Gap` in `Iterations`
 
 2. Corgi add progress #54 on back-end engineer path from Codeacademy♥♥
