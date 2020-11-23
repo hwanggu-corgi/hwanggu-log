@@ -6,8 +6,9 @@
     - Korea
     - Canada
 
-1. Corgi add progress #8 on practicing interview for NHN GODO♥♥
-    - Corgi working on problem `CyclicRotation` in `Arrays` #5
+1. Corgi add progress #9 on practicing interview for NHN GODO♥♥
+    - Corgi working on problem `CyclicRotation` in `Arrays` #6
+        - I should always consider extreme cases
     - Corgi completed working on problem `Binary Gap` in `Iterations`
 
 2. Corgi add progress #54 on back-end engineer path from Codeacademy♥♥
