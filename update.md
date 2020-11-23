@@ -6,8 +6,8 @@
     - Korea
     - Canada
 
-1. Corgi add progress #13 on practicing interview for NHN GODO♥♥
-    - Corgi working on problem `Permutation Missing Element` in `Time Complexity` #2
+1. Corgi add progress #14 on practicing interview for NHN GODO♥♥
+    - Corgi working on problem `Permutation Missing Element` in `Time Complexity` #3
     - Corgi completed working on problem `Frog Jump` in `Time Complexity`
     - Corgi completed working on problem `Cyclic Rotation` in `Arrays`
         - I should always consider extreme cases
