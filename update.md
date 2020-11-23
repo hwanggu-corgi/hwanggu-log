@@ -14,7 +14,7 @@
 1. Corgi add progress #22 on submitting resume to `SAIT`♥♥
     - Working on tailoring resume resume
         - link: https://github.com/hwanggu-corgi/resume_personal_statement/blob/master/SAIT/Hyungmo%20Gu%2C%20Junior%20Full%20Stack%20Web%20Developer%20at%20SAIT.pdf
-            - Corgi submitting resume
+            - Corgi submitting resume #2
             - Corgi completed fixing typos
             - Corgi completed fixing extra white spaces on resume♥♥
             - Corgi improved highlights of qualification♥♥
@@ -31,6 +31,7 @@
 
 4. Corgi adding improved hyungmogu.com♥♥
     - Corgi completed adding Web App Dashboard
+        - Corgi added more images to Web App Dashboard
     - Corgi fixed issue where opacity of `screen-overlay` changes from 50% to 1%
     on deploying to github page
     - Corgi cleaned works section
