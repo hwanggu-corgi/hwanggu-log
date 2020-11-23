@@ -6,8 +6,8 @@
     - Korea
     - Canada
 
-1. Corgi add progress #9 on practicing interview for NHN GODO♥♥
-    - Corgi working on problem `FrogJmp` in `Time Complexity`
+1. Corgi add progress #10 on practicing interview for NHN GODO♥♥
+    - Corgi working on problem `FrogJmp` in `Time Complexity` #2
     - Corgi completed working on problem `Cyclic Rotation` in `Arrays`
         - I should always consider extreme cases
         - I had difficulty refining from brute force case on this problem
