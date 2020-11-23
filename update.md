@@ -1,3 +1,22 @@
+### November 24th, 2020
+
+#### Resume and career
+- ( ): Apply to UTKSA
+- ( ): Apply for jobs
+    - Korea
+        - (x): Sendbird
+            - link: https://www.glassdoor.ca/Job/south-korea-software-engineer-jobs-SRCH_IL.0,11_IN135_KO12,29.htm
+    - Canada
+        - (x): SAIT
+            - link: https://sait.csod.com/ats/careersite/JobDetails.aspx?id=2411&site=1
+
+1. Corgi add progress on practicing interview for NHN GODO
+
+2. Corgi add progress #54 on back-end engineer path from Codeacademy♥♥
+    - Corgi working on Lesson 10 - Build a Back-End with Node/Express.js
+        - Corgi working on `Learn Node.js` (8/15) #29
+            - Corgi working on derivative lesson `Async / Await` (4/9) #3
+
 ### November 23rd, 2020
 
 #### Resume and career
