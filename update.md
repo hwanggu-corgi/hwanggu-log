@@ -7,21 +7,11 @@
         - (x): Sendbird
             - link: https://www.glassdoor.ca/Job/south-korea-software-engineer-jobs-SRCH_IL.0,11_IN135_KO12,29.htm
     - Canada
-        - ( ): SAIT
+        - (x): SAIT
             - link: https://sait.csod.com/ats/careersite/JobDetails.aspx?id=2411&site=1
 
 
-1. Corgi add progress #23 on submitting resume to `SAIT`♥♥
-    - Working on tailoring resume resume
-        - link: https://github.com/hwanggu-corgi/resume_personal_statement/blob/master/SAIT/Hyungmo%20Gu%2C%20Junior%20Full%20Stack%20Web%20Developer%20at%20SAIT.pdf
-            - Corgi submitting resume #3
-            - Corgi completed fixing typos
-            - Corgi completed fixing extra white spaces on resume♥♥
-            - Corgi improved highlights of qualification♥♥
-            - Corgi improved projects section♥♥
-            - Corgi improved education section♥♥
-
-3. Corgi add progress #44 on back-end engineer path from Codeacademy♥♥
+1. Corgi add progress #44 on back-end engineer path from Codeacademy♥♥
     - Corgi working on Lesson 10 - Build a Back-End with Node/Express.js
         - Corgi working on `Learn Node.js` (8/15) #19
             - Corgi working on derivative lesson `Async / Await` (1/9)
@@ -29,7 +19,17 @@
             - Corgi completed derivative lesson `Javascript Promises` (11/11)
         - Corgi completed working on `Learn Node.js` (7/15)
 
-4. Corgi adding improved hyungmogu.com♥♥
+2. Corgi submitted resume to `SAIT`♥♥
+    - Working on tailoring resume resume
+        - link: https://github.com/hwanggu-corgi/resume_personal_statement/blob/master/SAIT/Hyungmo%20Gu%2C%20Junior%20Full%20Stack%20Web%20Developer%20at%20SAIT.pdf
+            - Corgi completed submitting resume
+            - Corgi completed fixing typos
+            - Corgi completed fixing extra white spaces on resume♥♥
+            - Corgi improved highlights of qualification♥♥
+            - Corgi improved projects section♥♥
+            - Corgi improved education section♥♥
+
+3. Corgi completed improving hyungmogu.com♥♥
     - Corgi completed adding Web App Dashboard
         - Corgi added more images to Web App Dashboard
     - Corgi fixed issue where opacity of `screen-overlay` changes from 50% to 1%
