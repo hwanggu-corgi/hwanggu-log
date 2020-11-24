@@ -1,29 +1,15 @@
 # HwangGu Log
 ### November 23rd, 2020
 
-1. Corgi add progress #54 on back-end engineer path from Codeacademy♥♥
-    - Corgi working on Lesson 10 - Build a Back-End with Node/Express.js
-        - Corgi working on `Learn Node.js` (8/15) #29
+1. Added progress on back-end engineer path from Codeacademy
+    - Worked on chapter 10 - Build a Back-End with Node/Express.js
+        - Worked on part 8/15 of `Learn Node.js`
             - Corgi working on derivative lesson `Async / Await` (4/9) #3
 
-2. Corgi completed submitting resume to `SAIT`♥♥
-    - Working on tailoring resume resume
-        - link: https://github.com/hwanggu-corgi/resume_personal_statement/blob/master/SAIT/Hyungmo%20Gu%2C%20Junior%20Full%20Stack%20Web%20Developer%20at%20SAIT.pdf
-            - Corgi completed submitting resume
-            - Corgi completed fixing typos
-            - Corgi completed fixing extra white spaces on resume♥♥
-            - Corgi improved highlights of qualification♥♥
-            - Corgi improved projects section♥♥
-            - Corgi improved education section♥♥
-
-3. Corgi completed improving hyungmogu.com♥♥
-    - Corgi completed adding Web App Dashboard
-        - Corgi added more images to Web App Dashboard
-    - Corgi fixed issue where opacity of `screen-overlay` changes from 50% to 1%
+3. Improved hyungmogu.com
+    - Added Web App Dashboard to works
+    - Fixed issue where opacity of `screen-overlay` changes from 50% to 1%
     on deploying to github page
-    - Corgi cleaned works section
-    - Corgi uploaded site to hyungmogu
-    - Corgi updated resume link
 
 ### November 22nd, 2020
 1. Added progress on back-end engineer path from Codeacademy

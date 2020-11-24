@@ -7,6 +7,7 @@
     - Canada
 
 1. Corgi add progress #29 on practicing interview for NHN GODO♥♥
+    - Working on problem `Max Slice` in `Maximum Slice Problem`
     - Corgi completed working on problem `Max Profit` in `Maximum Slice Problem`
         - link: https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/
 
