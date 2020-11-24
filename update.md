@@ -7,7 +7,8 @@
     - Canada
 
 1. Corgi add progress #20 on practicing interview for NHN GODO♥♥
-    - Corgi working on problem `Distinct` in `Sorting`
+    - Corgi working on problem `Brackets` in `Stack and Queues`
+    - Corgi completed working on problem `Distinct` in `Sorting`
     - Corgi completed working on problem `Passing Cars` in `Prefix Sums`
     - Corgi completed working on problem `Missing Integer` in `Counting Elements`
     - Corgi completed working on problem `Frog River One` in `Counting Elements`
