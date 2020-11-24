@@ -1,3 +1,20 @@
+### November 25th, 2020
+
+#### Resume and career
+- ( ): Apply to UTKSA
+- ( ): Apply for jobs
+    - Korea
+    - Canada
+
+1. Corgi add progress #28 on practicing interview for NHN GODO♥♥
+    - Corgi working on problem `Max Profit` in `Maximum Slice Problem` #5
+        - link: https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/
+
+2. Corgi add progress #54 on back-end engineer path from Codeacademy♥♥
+    - Corgi working on Lesson 10 - Build a Back-End with Node/Express.js
+        - Corgi working on `Learn Node.js` (8/15) #29
+            - Corgi working on derivative lesson `Async / Await` (4/9) #3
+
 ### November 24th, 2020
 
 #### Resume and career
