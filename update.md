@@ -6,8 +6,8 @@
     - Korea
     - Canada
 
-1. Corgi add progress #32 on practicing interview for NHN GODO♥♥
-    - Corgi working on problem `Mix Max Division` in `Binary Search Algorithm`
+1. Corgi add progress #33 on practicing interview for NHN GODO♥♥
+    - Corgi working on problem `Mix Max Division` in `Binary Search Algorithm` #2
     - Corgi completed working on problem `Max Slice` in `Maximum Slice Problem`
     - Corgi completed working on problem `Max Profit` in `Maximum Slice Problem`
         - link: https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/
