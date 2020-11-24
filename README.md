@@ -1,4 +1,5 @@
 # HwangGu Log
+
 ### November 23rd, 2020
 
 1. Added progress on back-end engineer path from Codeacademy
