@@ -7,6 +7,8 @@
     - Canada
 
 1. Corgi add progress #34 on practicing interview for NHN GODO♥♥
+    - Corgi working on problem `빛물` in `백준`
+        - link: https://www.acmicpc.net/problem/14719
     - Corgi completed working on problem `Mix Max Division` in `Binary Search Algorithm`
     - Corgi completed working on problem `Max Slice` in `Maximum Slice Problem`
     - Corgi completed working on problem `Max Profit` in `Maximum Slice Problem`
