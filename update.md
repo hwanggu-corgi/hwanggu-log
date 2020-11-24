@@ -6,8 +6,8 @@
     - Korea
     - Canada
 
-1. Corgi add progress #24 on practicing interview for NHN GODO♥♥
-    - Corgi working on problem `Max Profit` in `Maximum Slice Problem`
+1. Corgi add progress #25 on practicing interview for NHN GODO♥♥
+    - Corgi working on problem `Max Profit` in `Maximum Slice Problem` #2
         - link: https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/
     - Corgi completed working on problem `Dominator` in `Leader`
     - Corgi completed working on problem `Brackets` in `Stack and Queues`
