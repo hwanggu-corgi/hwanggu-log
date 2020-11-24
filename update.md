@@ -6,8 +6,8 @@
     - Korea
     - Canada
 
-1. Corgi add progress #22 on practicing interview for NHN GODO♥♥
-    - Corgi working on problem `Dominator` in `Leader`
+1. Corgi add progress #23 on practicing interview for NHN GODO♥♥
+    - Corgi working on problem `Dominator` in `Leader` #2
     - Corgi completed working on problem `Brackets` in `Stack and Queues`
     - Corgi completed working on problem `Distinct` in `Sorting`
     - Corgi completed working on problem `Passing Cars` in `Prefix Sums`
