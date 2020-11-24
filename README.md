@@ -3,8 +3,7 @@
 
 1. Added progress on back-end engineer path from Codeacademy
     - Worked on chapter 10 - Build a Back-End with Node/Express.js
-        - Worked on part 8/15 of `Learn Node.js`
-            - Corgi working on derivative lesson `Async / Await` (4/9) #3
+        - Worked on part 4/9 of lesson `Async / Await`
 
 3. Improved hyungmogu.com
     - Added Web App Dashboard to works
