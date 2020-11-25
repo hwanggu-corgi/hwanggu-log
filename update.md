@@ -8,6 +8,7 @@
 
 1. Corgi add progress #54 on practicing interview for NHN GODO♥♥
     - Corgi working on problem `창고 다각형` in `백준`
+        - Corgi adding pseudocode♥♥
     - Corgi completed solving the problem `빛물` in `백준`
         - link: https://www.acmicpc.net/problem/14719
         - Corgi completed fixing program and making sure the program is working correctly♥♥
