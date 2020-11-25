@@ -6,8 +6,8 @@
     - Korea
     - Canada
 
-1. Corgi add progress #15 on practicing interview for NHN GODO♥♥
-    - Corgi working on problem `창고 다각형` in `백준` #11
+1. Corgi add progress #16 on practicing interview for NHN GODO♥♥
+    - Corgi working on problem `창고 다각형` in `백준` #12
         - 여보 요기 우리 링쿠♥♥!!: https://www.acmicpc.net/problem/2304
             - Corgi working on adding code to function `get_right_column`♥♥
             - Corgi completed adding code to function `get_left_column`♥♥
