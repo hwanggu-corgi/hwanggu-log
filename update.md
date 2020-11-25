@@ -6,10 +6,10 @@
     - Korea
     - Canada
 
-1. Corgi add progress #51 on practicing interview for NHN GODO♥♥
-    - Corgi working on problem `빛물` in `백준` #19
+1. Corgi add progress #52 on practicing interview for NHN GODO♥♥
+    - Corgi working on problem `빛물` in `백준` #20
         - link: https://www.acmicpc.net/problem/14719
-        - Corgi fixing program and making sure the program is working correctly♥♥ #6
+        - Corgi fixing program and making sure the program is working correctly♥♥ #7
             - Corgi working on adding new solution
         - Corgi completed adding code♥♥
         - Corgi completed adding pseudocode♥♥
