@@ -6,8 +6,8 @@
     - Korea
     - Canada
 
-1. Corgi add progress #54 on practicing interview for NHN GODO♥♥
-    - Corgi working on problem `창고 다각형` in `백준`
+1. Corgi add progress #6 on practicing interview for NHN GODO♥♥
+    - Corgi working on problem `창고 다각형` in `백준` #2
         - Corgi adding pseudocode♥♥
     - Corgi completed solving the problem `빛물` in `백준`
         - link: https://www.acmicpc.net/problem/14719
