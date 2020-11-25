@@ -6,8 +6,8 @@
     - Korea
     - Canada
 
-1. Corgi add progress #8 on practicing interview for NHN GODO♥♥
-    - Corgi working on problem `창고 다각형` in `백준` #4
+1. Corgi add progress #9 on practicing interview for NHN GODO♥♥
+    - Corgi working on problem `창고 다각형` in `백준` #5
         - Corgi adding pseudocode♥♥
 
 2. Corgi add progress #54 on back-end engineer path from Codeacademy♥♥
