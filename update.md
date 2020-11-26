@@ -7,9 +7,9 @@
     - Canada
 
 1. Corgi add progress #43 on practicing interview for NHN GODO♥♥
+    - Corgi completed problem `주식가격`
+        - 여보 요기 우리 링쿠♥♥: https://programmers.co.kr/learn/courses/30/lessons/42584?language=python3
     - Corgi working on problem `Parentheses` in `백준` #25
-        - Corgi working on problem `주식가격`
-            - 여보 요기 우리 링쿠♥♥: https://programmers.co.kr/learn/courses/30/lessons/42584?language=python3
         - 여보 요기 우리 링쿠♥♥!!: https://www.acmicpc.net/problem/1662
             - Corgi fixing code to make sure all is well♥♥ #4
             - Corgi completed working on function `is_proper`♥♥
