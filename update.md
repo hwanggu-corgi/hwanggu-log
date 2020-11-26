@@ -7,6 +7,9 @@
     - Canada
 
 1. Corgi add progress #52 on practicing interview for NHN GODO♥♥
+    - Corgi moved codes for programmers to outermost folder♥♥
+    - Corgi working on problem `전화번호 목록`♥♥
+        - 여보 요기 우리 링쿠♥♥: https://programmers.co.kr/learn/courses/30/lessons/42577
     - Corgi completed problem `타겟 넘버`♥♥
         - 여보 요기 우리 링쿠♥♥: https://programmers.co.kr/learn/courses/30/lessons/43165
             - Corgi completed fixing code
