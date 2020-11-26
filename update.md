@@ -6,10 +6,10 @@
     - Korea
     - Canada
 
-1. Corgi add progress #31 on practicing interview for NHN GODO♥♥
-    - Corgi working on problem `Parentheses` in `백준` #14
+1. Corgi add progress #32 on practicing interview for NHN GODO♥♥
+    - Corgi working on problem `Parentheses` in `백준` #15
         - 여보 요기 우리 링쿠♥♥!!: https://www.acmicpc.net/problem/1662
-            - Corgi working on function `is_proper`♥♥ #3
+            - Corgi working on function `is_proper`♥♥ #4
             - Corgi completed working on function `is_error_in_parenthesis`♥♥
             - Corgi completed working on function `is_error_in_expression`♥♥
             - Corgi adding pseudocode♥♥
