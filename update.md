@@ -8,6 +8,9 @@
 
 1. Corgi add progress #57 on practicing interview for NHN GODO♥♥
     - Corgi moved codes for programmers to outermost folder♥♥
+    - Corgi working on problem `더 맵게`♥♥ #2
+        - 여보 요기 우리 링쿠♥♥: https://programmers.co.kr/learn/courses/30/lessons/42626
+            - Corgi adding pseudocode♥♥
     - Corgi completed problem `기능개발`♥♥ #5
         - 여보 요기 우리 링쿠♥♥: https://programmers.co.kr/learn/courses/30/lessons/42586
             - Corgi fixing function♥♥ #2
