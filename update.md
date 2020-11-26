@@ -7,7 +7,9 @@
     - Canada
 
 1. Corgi add progress #43 on practicing interview for NHN GODO♥♥
-    - Corgi completed problem `주식가격`
+    - Corgi working on problem `모의고사`♥♥
+        - 여보 요기 우리 링쿠♥♥: https://programmers.co.kr/learn/courses/30/lessons/42840
+    - Corgi completed problem `주식가격`♥♥
         - 여보 요기 우리 링쿠♥♥: https://programmers.co.kr/learn/courses/30/lessons/42584?language=python3
     - Corgi working on problem `Parentheses` in `백준` #25
         - 여보 요기 우리 링쿠♥♥!!: https://www.acmicpc.net/problem/1662
@@ -33,6 +35,8 @@
     - Canada
 
 1. Corgi add progress #42 on practicing interview for NHN GODO♥♥
+    - Corgi completed problem `K번째수`
+        - 여보 요기 우리 링쿠♥♥: https://programmers.co.kr/learn/courses/30/lessons/42748
     - Corgi completed problem `완주하지 못한 선수`
         - 여보 요기 우리 링쿠♥♥: https://programmers.co.kr/learn/courses/30/lessons/42584?language=python3
     - Corgi working on problem `Parentheses` in `백준` #25
