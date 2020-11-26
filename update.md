@@ -6,10 +6,10 @@
     - Korea
     - Canada
 
-1. Corgi add progress #50 on practicing interview for NHN GODO♥♥
-    - Corgi working on problem `타겟 넘버`♥♥ #2
+1. Corgi add progress #51 on practicing interview for NHN GODO♥♥
+    - Corgi working on problem `타겟 넘버`♥♥ #3
         - 여보 요기 우리 링쿠♥♥: https://programmers.co.kr/learn/courses/30/lessons/43165
-            - Corgi fixing code
+            - Corgi fixing code #2
                 - Corgi read question wrong :'(
             - Corgi completed adding code
             - Corgi completed adding pseudocode
