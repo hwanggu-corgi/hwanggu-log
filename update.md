@@ -9,7 +9,33 @@
 1. Corgi add progress #42 on practicing interview for NHN GODO♥♥
     - Corgi working on problem `Parentheses` in `백준` #25
         - 여보 요기 우리 링쿠♥♥!!: https://www.acmicpc.net/problem/1662
-            - Corgi fixing code to make sure all is well♥♥ #5
+            - Corgi fixing code to make sure all is well♥♥ #4
+            - Corgi completed working on function `is_proper`♥♥
+            - Corgi completed working on function `is_error_in_parenthesis`♥♥
+            - Corgi completed working on function `is_error_in_expression`♥♥
+            - Corgi adding pseudocode♥♥
+
+2. Corgi add progress #54 on back-end engineer path from Codeacademy♥♥
+    - Corgi working on Lesson 10 - Build a Back-End with Node/Express.js
+        - Corgi working on `Learn Node.js` (8/15) #29
+            - Corgi working on derivative lesson `Async / Await` (4/9) #3
+
+
+
+### November 26th, 2020
+
+#### Resume and career
+- ( ): Apply to UTKSA
+- ( ): Apply for jobs
+    - Korea
+    - Canada
+
+1. Corgi add progress #42 on practicing interview for NHN GODO♥♥
+    - Corgi completed problem `완주하지 못한 선수`
+        - 여보 요기 우리 링쿠♥♥: https://programmers.co.kr/learn/courses/30/lessons/42576
+    - Corgi working on problem `Parentheses` in `백준` #25
+        - 여보 요기 우리 링쿠♥♥!!: https://www.acmicpc.net/problem/1662
+            - Corgi fixing code to make sure all is well♥♥ #4
             - Corgi completed working on function `is_proper`♥♥
             - Corgi completed working on function `is_error_in_parenthesis`♥♥
             - Corgi completed working on function `is_error_in_expression`♥♥
