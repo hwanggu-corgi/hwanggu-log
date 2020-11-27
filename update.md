@@ -7,6 +7,29 @@
     - Canada
 
 1. Corgi add progress #74 on practicing interview for NHN GODO♥♥
+    - Corgi working on problem `채육복`♥♥ #9
+        - 여보 요기 우리 링쿠♥♥: https://programmers.co.kr/learn/courses/30/lessons/42862
+            - Corgi adding missing cases♥♥ #2
+                - Corgi found it before submission. Yes!!
+            - Corgi completed adding code♥♥
+            - Corgi completed adding pseudocode♥♥
+    - Corgi working on problem `Parentheses` in `백준` #25
+        - 여보 요기 우리 링쿠♥♥!!: https://www.acmicpc.net/problem/1662
+            - Corgi fixing code to make sure all is well♥♥ #4
+            - Corgi completed working on function `is_proper`♥♥
+            - Corgi completed working on function `is_error_in_parenthesis`♥♥
+            - Corgi completed working on function `is_error_in_expression`♥♥
+            - Corgi adding pseudocode♥♥
+
+### November 26th, 2020
+
+#### Resume and career
+- ( ): Apply to UTKSA
+- ( ): Apply for jobs
+    - Korea
+    - Canada
+
+1. Corgi add progress #74 on practicing interview for NHN GODO♥♥
     - Corgi moved codes for programmers to outermost folder♥♥
     - Corgi working on problem `채육복`♥♥ #9
         - 여보 요기 우리 링쿠♥♥: https://programmers.co.kr/learn/courses/30/lessons/42862
