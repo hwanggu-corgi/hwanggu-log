@@ -1,4 +1,4 @@
-### November 26th, 2020
+### November 28th, 2020
 
 #### Resume and career
 - ( ): Apply to UTKSA
@@ -6,11 +6,11 @@
     - Korea
     - Canada
 
-1. Corgi add progress #71 on practicing interview for NHN GODO♥♥
-    - Corgi working on problem `입국심사`♥♥ #3
+1. Corgi add progress #72 on practicing interview for NHN GODO♥♥
+    - Corgi working on problem `입국심사`♥♥ #4
         - 여보 요기 우리 링쿠♥♥: https://programmers.co.kr/learn/courses/30/lessons/43238
             - Corgi adding pseudocode♥♥
-            - Corgi understanding problem♥♥ #2
+            - Corgi understanding problem♥♥ #3
     - Corgi completed working on problem `채육복`♥♥
         - 여보 요기 우리 링쿠♥♥: https://programmers.co.kr/learn/courses/30/lessons/42862
             - Corgi completed fixing code♥♥
@@ -24,7 +24,7 @@
             - Corgi completed working on function `is_error_in_expression`♥♥
             - Corgi adding pseudocode♥♥
 
-### November 26th, 2020
+### November 27th, 2020
 
 #### Resume and career
 - ( ): Apply to UTKSA
