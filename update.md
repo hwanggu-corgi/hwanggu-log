@@ -6,11 +6,11 @@
     - Korea
     - Canada
 
-1. Corgi add progress #75 on practicing interview for NHN GODO♥♥
-    - Corgi working on problem `채육복`♥♥ #10
+1. Corgi add progress #76 on practicing interview for NHN GODO♥♥
+    - Corgi completed working on problem `채육복`♥♥
         - 여보 요기 우리 링쿠♥♥: https://programmers.co.kr/learn/courses/30/lessons/42862
-            - Corgi fixing code♥♥
-            - Corgi adding missing cases♥♥ #2
+            - Corgi completed fixing code♥♥
+            - Corgi completed adding missing cases♥♥
                 - Corgi found it before submission. Yes!!
     - Corgi working on problem `Parentheses` in `백준` #25
         - 여보 요기 우리 링쿠♥♥!!: https://www.acmicpc.net/problem/1662
