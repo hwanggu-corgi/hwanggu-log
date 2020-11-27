@@ -6,10 +6,11 @@
     - Korea
     - Canada
 
-1. Corgi add progress #60 on practicing interview for NHN GODO♥♥
+1. Corgi add progress #61 on practicing interview for NHN GODO♥♥
     - Corgi moved codes for programmers to outermost folder♥♥
-    - Corgi working on problem `더 맵게`♥♥ #5
+    - Corgi working on problem `더 맵게`♥♥ #6
         - 여보 요기 우리 링쿠♥♥: https://programmers.co.kr/learn/courses/30/lessons/42626
+            - Corgi fixing code♥♥
             - Corgi completed adding code♥♥
             - Corgi completed adding pseudocode♥♥ #2
     - Corgi completed problem `기능개발`♥♥
