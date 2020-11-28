@@ -7,10 +7,10 @@
     - Canada
 
 
-1. Corgi add progress #57 on back-end engineer path from Codeacademy♥♥
+1. Corgi add progress #58 on back-end engineer path from Codeacademy♥♥
     - Corgi working on Lesson 10 - Build a Back-End with Node/Express.js
-        - Corgi working on `Learn Node.js` (8/15) #30
-            - Corgi working on derivative lesson `Async / Await` (5/9) #2
+        - Corgi working on `Learn Node.js` (8/15) #31
+            - Corgi working on derivative lesson `Async / Await` (6/9)
 
 2. Corgi completed practicing interview for NHN GODO♥♥
     - Corgi working on a practice problem on oncoders♥♥
