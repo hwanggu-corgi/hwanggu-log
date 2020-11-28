@@ -1,5 +1,11 @@
 # HwangGu Log
 
+### November 28th, 2020
+
+1. Added progress on back-end engineer path from Codeacademy
+    - Worked on chapter 10 - Build a Back-End with Node/Express.js
+        - Completed Working on lesson `Async / Await`
+
 ### November 23rd, 2020
 
 1. Added progress on back-end engineer path from Codeacademy
