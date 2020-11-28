@@ -6,10 +6,11 @@
     - Korea
     - Canada
 
-1. Corgi add progress #2 on practicing coding interview♥♥
-    - Corgi working on problem `두 개 뽑아서 더하기` in Programmers #3
+1. Corgi add progress #3 on practicing coding interview♥♥
+    - Corgi working on problem `두 개 뽑아서 더하기` in Programmers #4
         - link for the question: https://programmers.co.kr/learn/courses/30/lessons/68644
-            - Corgi working on adding pseudocode #3
+            - Corgi adding code♥♥
+            - Corgi completed adding pseudocode♥♥
 
 2. Corgi add progress #64 on back-end engineer path from Codeacademy♥♥
     - Corgi working on Lesson 10 - Build a Back-End with Node/Express.js
