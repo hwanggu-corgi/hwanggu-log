@@ -7,9 +7,14 @@
     - Canada
 
 1. Corgi add progress #3 on practicing coding interview♥♥
-    - Corgi working on problem `두 개 뽑아서 더하기` in Programmers #4
+    - Corgi working on problem `2016년` in Programmers
+         - 여보 우리 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/68644
+             - Corgi adding pseudocode to problem♥♥
+    - Corgi completed problem `두 개 뽑아서 더하기` in Programmers
         - link for the question: https://programmers.co.kr/learn/courses/30/lessons/68644
-            - Corgi adding code♥♥
+            - Corgi fixed code♥♥!!
+                - Corgi learned that converting set to list doesn't put items in order
+            - Corgi completed adding code♥♥
             - Corgi completed adding pseudocode♥♥
 
 2. Corgi add progress #64 on back-end engineer path from Codeacademy♥♥
