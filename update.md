@@ -6,7 +6,13 @@
     - Korea
     - Canada
 
-1. Corgi add progress #87 on practicing interview for NHN GODO♥♥
+
+1. Corgi add progress #54 on back-end engineer path from Codeacademy♥♥
+    - Corgi working on Lesson 10 - Build a Back-End with Node/Express.js
+        - Corgi working on `Learn Node.js` (8/15) #29
+            - Corgi working on derivative lesson `Async / Await` (4/9) #3
+
+2. Corgi completed practicing interview for NHN GODO♥♥
     - Corgi working on a practice problem on oncoders♥♥
     - Corgi completed problem `완주하지 못한 선수` second time♥♥
         - Corgi completed adding code♥♥
