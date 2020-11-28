@@ -6,10 +6,11 @@
     - Korea
     - Canada
 
-1. Corgi add progress #12 on practicing coding interview♥♥
-    - Corgi working on problem `[카카오 인턴] 키패드 누르기` in Programmers #2
+1. Corgi add progress #13 on practicing coding interview♥♥
+    - Corgi working on problem `[카카오 인턴] 키패드 누르기` in Programmers #3
         - 여보 우리 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/67256
-            - Corgi adding pseudocode♥♥ #2
+            - Corgi adding code♥♥
+            - Corgi completed adding pseudocode♥♥
     - Corgi completed problem `같은 숫자는 싫어` in Programmers
         - 여보 우리 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12906
             - Corgi fixing code before submission♥♥
