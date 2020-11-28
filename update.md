@@ -6,7 +6,8 @@
     - Korea
     - Canada
 
-1. Corgi add progress #86 on practicing interview for NHN GODO♥♥
+1. Corgi add progress #87 on practicing interview for NHN GODO♥♥
+    - Corgi working on a practice problem on oncoders♥♥
     - Corgi completed problem `완주하지 못한 선수` second time♥♥
         - Corgi completed adding code♥♥
     - Corgi completed working on problem `가장 큰 수`♥♥
