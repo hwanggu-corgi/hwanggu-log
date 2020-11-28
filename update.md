@@ -6,9 +6,10 @@
     - Korea
     - Canada
 
-1. Corgi add progress #7 on practicing coding interview♥♥
+1. Corgi add progress #8 on practicing coding interview♥♥
     - Corgi working on problem `같은 숫자는 싫어` in Programmers
         - 여보 우리 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12906
+            - Corgi adding code♥♥
             - Corgi adding pseudocode to problem♥♥
     - Corgi completed problem `2016년` in Programmers
          - 여보 우리 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12901
