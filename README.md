@@ -2,39 +2,13 @@
 
 ### November 29th, 2020
 1. Worked on practicing coding interview
-    - Corgi completed problem `[카카오 인턴] 크레인 인형뽑기 게임` in Programmers
-         - 여보 우리 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/64061
-            - Corgi completed fixing code before submission♥♥
-            - Corgi working on adding code♥♥
-            - Corgi completed adding pseudocode♥♥
-    - Corgi completed problem `[카카오 인턴] 키패드 누르기` in Programmers
-        - 여보 우리 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/67256
-            - Corgi completed fixing code♥♥
-                - Corgi completed `get_distance`♥♥
-            - Corgi completed adding code♥♥
-                - Corgi completed working on function
-                `get_distance`♥♥
-                - Corgi completed working on function `get_pressed_hand`♥♥
-            - Corgi completed adding pseudocode♥♥
-    - Corgi completed problem `같은 숫자는 싫어` in Programmers
-        - 여보 우리 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12906
-            - Corgi fixing code before submission♥♥
-            - Corgi adding code♥♥
-            - Corgi adding pseudocode to problem♥♥
-    - Corgi completed problem `2016년` in Programmers
-         - 여보 우리 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12901
-             - Corgi passed♥♥!!
-             - Corgi completed fixing code before submission♥♥
-             - Corgi completed adding code♥♥
-             - Corgi completed adding pseudocode to problem♥♥
-    - Corgi completed problem `두 개 뽑아서 더하기` in Programmers
-        - link for the question: https://programmers.co.kr/learn/courses/30/lessons/68644
-            - Corgi fixed code♥♥!!
-                - Corgi learned that converting set to list doesn't put items in order
-            - Corgi completed adding code♥♥
-            - Corgi completed adding pseudocode♥♥
+    - Completed problem `[카카오 인턴] 크레인 인형뽑기 게임` in Programmers
+    - Completed problem `[카카오 인턴] 키패드 누르기` in Programmers
+    - Completed problem `같은 숫자는 싫어` in Programmers
+    - Completed problem `2016년` in Programmers
+    - Completed problem `두 개 뽑아서 더하기` in Programmers
 
-2. Corgi add progress #64 on back-end engineer path from Codeacademy♥♥
+2. Added progress on back-end engineer path from Codeacademy
     - Corgi working on Lesson 10 - Build a Back-End with Node/Express.js
         - Corgi working on lesson `Learn Node.js` (8/15) #37
         - Corgi completed lesson `Asynchronous Javascript`
