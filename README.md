@@ -9,7 +9,7 @@
     - Completed problem `두 개 뽑아서 더하기` in Programmers
 
 2. Added progress on back-end engineer path from Codeacademy
-    - Corgi working on Lesson 10 - Build a Back-End with Node/Express.js
+    - Worked on chapter 10 - Build a Back-End with Node/Express.js
         - Corgi working on lesson `Learn Node.js` (8/15) #37
         - Corgi completed lesson `Asynchronous Javascript`
             - Corgi completed working on quiz for `Async / Await` (8/8)
