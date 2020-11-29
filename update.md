@@ -6,10 +6,11 @@
     - Korea
     - Canada
 
-1. Corgi add progress #34 on practicing coding interview♥♥
+1. Corgi add progress #35 on practicing coding interview♥♥
     - Corgi completed problem `[카카오 blink recruitment] 비밀지도` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/17681
-            - Corgi completed adding pseudocode♥♥ #2
+            - Corgi completed adding pseudocode♥♥ #3
+                - Corgi working on function `convert_decimal_to_hash_and_spaces`
     - Corgi completed problem `가운데 글자 가져오기` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12903
             - Corgi completed adding code♥♥
