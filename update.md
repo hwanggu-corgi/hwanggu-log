@@ -1,3 +1,21 @@
+### November 30th, 2020
+
+#### Resume and career
+- ( ): Apply to UTKSA
+- ( ): Apply for jobs
+    - Korea
+    - Canada
+
+1. Corgi add progress #64 on back-end engineer path from Codeacademy♥♥
+    - Corgi working on Lesson 10 - Build a Back-End with Node/Express.js
+        - Corgi working on lesson `Learn Node.js` (8/15) #37
+        - Corgi completed lesson `Asynchronous Javascript`
+            - Corgi completed working on quiz for `Async / Await` (8/8)
+            - Corgi completed working on derivative lesson `Async / Await` (9/9)
+
+2. Corgi add progress #29 on practicing coding interview♥♥
+    - Corgi working on problem `나누어 떨어지는 숫자 배열` in Programmers
+
 ### November 29th, 2020
 
 #### Resume and career
@@ -7,6 +25,7 @@
     - Canada
 
 1. Corgi add progress #29 on practicing coding interview♥♥
+    - Corgi working on problem `나누어 떨어지는 숫자 배열` in Programmers
     - Corgi completed problem `[카카오 인턴] 크레인 인형뽑기 게임` in Programmers
          - 여보 우리 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/64061
             - Corgi completed fixing code before submission♥♥
