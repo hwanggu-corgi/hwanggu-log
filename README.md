@@ -10,10 +10,9 @@
 
 2. Added progress on back-end engineer path from Codeacademy
     - Worked on chapter 10 - Build a Back-End with Node/Express.js
-        - Corgi working on lesson `Learn Node.js` (8/15) #37
-        - Corgi completed lesson `Asynchronous Javascript`
-            - Corgi completed working on quiz for `Async / Await` (8/8)
-            - Corgi completed working on derivative lesson `Async / Await` (9/9)
+        - Completed lesson `Asynchronous Javascript`
+            - Completed working on quiz for `Async / Await`
+            - Completed working on derivative lesson `Async / Await`
 
 
 ### November 28th, 2020
