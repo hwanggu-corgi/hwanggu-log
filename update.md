@@ -6,9 +6,9 @@
     - Korea
     - Canada
 
-1. Corgi add progress #29 on practicing coding interview♥♥
+1. Corgi add progress #31 on practicing coding interview♥♥
     - Corgi working on problem `나누어 떨어지는 숫자 배열` in Programmers
-        - Corgi working on adding pseudocode♥♥
+        - Corgi working on adding pseudocode♥♥ #3
 
 2. [on hold] Corgi add progress #75 on back-end engineer path from Codeacademy♥♥
     - Corgi working on Lesson 10 - Build a Back-End with Node/Express.js
