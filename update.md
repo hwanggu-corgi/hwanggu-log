@@ -6,11 +6,10 @@
     - Korea
     - Canada
 
-1. Corgi add progress #28 on practicing coding interview♥♥
-    - Corgi add progress #9 on problem `[카카오 인턴] 크레인 인형뽑기 게임` in Programmers
+1. Corgi add progress #29 on practicing coding interview♥♥
+    - Corgi completed problem `[카카오 인턴] 크레인 인형뽑기 게임` in Programmers
          - 여보 우리 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/64061
-            - Corgi fixing code before submission♥♥ #4
-                - The code is not returning correct result
+            - Corgi completed fixing code before submission♥♥
             - Corgi working on adding code♥♥
             - Corgi completed adding pseudocode♥♥
     - Corgi completed problem `[카카오 인턴] 키패드 누르기` in Programmers
