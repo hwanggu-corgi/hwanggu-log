@@ -9,10 +9,10 @@
             - 여보♥♥ 형모 여기 도전해 볼게요: https://www.linkedin.com/jobs/view/2287063263
                 - 여보♥♥, 우리 황구부부 도전 하나 완료 :)♥♥
 
-1. Corgi add progress #60 on practicing coding interview♥♥
+1. Corgi add progress #61 on practicing coding interview♥♥
     - Corgi working on problem `괄호 변환` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/60058
-            - Corgi fixing code before submission♥♥ #5
+            - Corgi fixing code before submission♥♥ #7
                 - Corgi fixing incorrect return value
             - Corgi completed adding code♥♥
             - Corgi completed adding pseudocode♥♥
