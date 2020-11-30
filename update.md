@@ -5,14 +5,14 @@
 - ( ): Apply for jobs
     - Korea
     - Canada
-        - ( ): Web Developer, Maple-Pro consulting
+        - (x): Web Developer, Maple-Pro consulting
             - 여보♥♥ 형모 여기 도전해 볼게요: https://www.linkedin.com/jobs/view/2287063263
 
-1. Corgi add progress #51 on practicing coding interview♥♥
+1. Corgi add progress #52 on practicing coding interview♥♥
     - Corgi working on problem `괄호 변환` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/60058
-            - Corgi adding pseudocode♥♥ #5
-            - Corgi understanding problem >.<♥♥ #4
+            - Corgi adding pseudocode♥♥ #6
+            - Corgi understanding problem >.<♥♥ #5
 
 ### November 30th, 2020
 
