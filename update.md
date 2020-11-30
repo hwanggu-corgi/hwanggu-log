@@ -9,6 +9,9 @@
             - 여보♥♥ 형모 여기 도전해 볼게요: https://www.linkedin.com/jobs/view/2287063263
 
 1. Corgi add progress #45 on practicing coding interview♥♥
+    - Corgi working on problem `내적` in Programmers
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/70128
+            - Corgi adding pseudocode♥♥
     - Corgi completed problem `3진법 뒤집기` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/68935
             - Corgi completed checking code before submission♥♥
