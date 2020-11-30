@@ -12,6 +12,21 @@
     - Corgi working on problem `괄호 변환` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/60058
             - Corgi adding pseudocode♥♥
+
+### November 30th, 2020
+
+#### Resume and career
+- ( ): Apply to UTKSA
+- ( ): Apply for jobs
+    - Korea
+    - Canada
+        - ( ): Web Developer, Maple-Pro consulting
+            - 여보♥♥ 형모 여기 도전해 볼게요: https://www.linkedin.com/jobs/view/2287063263
+
+1. Corgi add progress #47 on practicing coding interview♥♥
+    - Corgi working on problem `괄호 변환` in Programmers
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/60058
+            - Corgi adding pseudocode♥♥
     - Corgi completed problem `문자열 내 마음대로 정렬하기` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12915
             - Corgi completed adding code♥♥
