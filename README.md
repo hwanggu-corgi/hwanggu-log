@@ -1,5 +1,41 @@
 # HwangGu Log
 
+### December 1st, 2020
+
+#### Resume and career
+- ( ): Apply to UTKSA
+- ( ): Apply for jobs
+    - Korea
+    - Canada
+        - (x): Web Developer, Maple-Pro consulting
+            - 여보♥♥ 형모 여기 도전해 볼게요: https://www.linkedin.com/jobs/view/2287063263
+                - 여보♥♥, 우리 황구부부 도전 하나 완료 :)♥♥
+
+1. Corgi add progress #79 on practicing coding interview♥♥
+    - Corgi working on problem `문자열 압축` in Programmers
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/60057
+            - Corgi adding code♥♥ #2
+            - Corgi completed adding pseudocode♥♥
+            - Corgi completed understanding problem♥♥
+    - Corgi completed problem `프린터` in Programmers
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42587
+            - Corgi fixing code♥♥ #4
+            - Corgi completed adding code♥♥
+            - Corgi completed adding pseudocode♥♥
+            - Corgi completed understanding problem♥♥
+    - Corgi completed problem `스킬트리` in Programmers
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/49993
+            - Corgi fixing code♥♥ #7
+            - Corgi completed adding code♥♥
+            - Corgi completed adding pseudocode♥♥
+            - Corgi understanding problem♥♥ #3
+    - Corgi completed problem `괄호 변환` in Programmers
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/60058
+            - Corgi fixed code♥♥
+            - Corgi completed fixing code before submission♥♥
+            - Corgi completed adding code♥♥
+            - Corgi completed adding pseudocode♥♥
+            - Corgi understanding problem >.<♥♥ #11
 
 ### November 30th, 2020
 1. Worked on practicing coding interview
