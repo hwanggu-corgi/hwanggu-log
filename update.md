@@ -9,11 +9,11 @@
             - 여보♥♥ 형모 여기 도전해 볼게요: https://www.linkedin.com/jobs/view/2287063263
                 - 여보♥♥, 우리 황구부부 도전 하나 완료 :)♥♥
 
-1. Corgi add progress #74 on practicing coding interview♥♥
+1. Corgi add progress #75 on practicing coding interview♥♥
     - Corgi working on problem `문자열 압축` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/60057
-            - Corgi adding pseudocode♥♥
-            - Corgi understanding problem♥♥
+            - Corgi adding pseudocode♥♥ #2
+            - Corgi understanding problem♥♥ #2
     - Corgi completed problem `프린터` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42587
             - Corgi fixing code♥♥ #4
@@ -61,12 +61,12 @@
             - Corgi completed checking code before submission♥♥
             - Corgi completed adding code♥♥
             - Corgi completed adding pseudocode♥♥
-    - Corgi completed problem `[카카오 blink recruitment] 실패율` in Programmers
+    - Corgi completed problem `[카카오 blind recruitment] 실패율` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42889
             - Corgi completed fixing code before submission♥♥ #2
             - Corgi completed adding code♥♥
             - Corgi completed adding pseudocode♥♥
-    - Corgi completed problem `[카카오 blink recruitment] 비밀지도` in Programmers
+    - Corgi completed problem `[카카오 blind recruitment] 비밀지도` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/17681
             - Corgi completed adding code♥♥
                 - Corgi completed function `convert_decimal_to_hash_and_spaces`
