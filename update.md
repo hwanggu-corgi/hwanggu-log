@@ -2,11 +2,11 @@
 
 Programmers current rank: 10529
 
-1. Corgi add progress #100 on practicing coding interview♥♥
-    - Corgi add progress #14 on problem `124 나라의 숫자` in Programmers
+1. Corgi add progress #101 on practicing coding interview♥♥
+    - Corgi add progress #15 on problem `124 나라의 숫자` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12899
-            - Corgi adding code♥♥ #6
-            - Corgi working on adding pseudocode♥♥ #14
+            - Corgi adding code♥♥ #7
+            - Corgi working on adding pseudocode♥♥ #15
                 - Corgi adding pseudocode for `convert_from_ternary_to_strange`
             - Corgi completed understanding problem♥♥
                 - Corgi trying to figure out how it works
