@@ -9,11 +9,11 @@
             - 여보♥♥ 형모 여기 도전해 볼게요: https://www.linkedin.com/jobs/view/2287063263
                 - 여보♥♥, 우리 황구부부 도전 하나 완료 :)♥♥
 
-1. Corgi add progress #76 on practicing coding interview♥♥
+1. Corgi add progress #77 on practicing coding interview♥♥
     - Corgi working on problem `문자열 압축` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/60057
-            - Corgi adding pseudocode♥♥ #3
-            - Corgi understanding problem♥♥ #3
+            - Corgi adding pseudocode♥♥ #4
+            - Corgi understanding problem♥♥ #4
     - Corgi completed problem `프린터` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42587
             - Corgi fixing code♥♥ #4
