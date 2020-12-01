@@ -2,10 +2,11 @@
 
 Programmers current rank: 10529
 
-1. Corgi add progress #95 on practicing coding interview♥♥
-    - Corgi add pgoress #7 on problem `124 나라의 숫자` in Programmers
+1. Corgi add progress #96 on practicing coding interview♥♥
+    - Corgi add pgoress #8 on problem `124 나라의 숫자` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12899
-            - Corgi working on adding pseudocode♥♥ #9
+            - Corgi adding code♥♥
+            - Corgi working on adding pseudocode♥♥ #10
             - Corgi completed understanding problem♥♥
                 - Corgi trying to figure out how it works
     - Corgi completed problem `문자열 압축` in Programmers
