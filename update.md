@@ -1,19 +1,16 @@
 ### December 2nd, 2020
 
-#### Resume and career
-- ( ): Apply to UTKSA
-- ( ): Apply for jobs
-    - Korea
-    - Canada
-        - (x): Web Developer, Maple-Pro consulting
-            - 여보♥♥ 형모 여기 도전해 볼게요: https://www.linkedin.com/jobs/view/2287063263
-                - 여보♥♥, 우리 황구부부 도전 하나 완료 :)♥♥
+Programmers current rank: 10529
 
-1. Corgi add progress #87 on practicing coding interview♥♥
-    - Corgi working on problem `문자열 압축` in Programmers
+1. Corgi add progress #88 on practicing coding interview♥♥
+    - Corgi working on problem `124 나라의 숫자`
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12899
+            - Corgi working on adding pseudocode♥♥
+            - Corgi working on understanding problem♥♥
+    - Corgi completed problem `문자열 압축` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/60057
-            - Corgi fixing code before submission♥♥ #7
-                - Corgi fixing errorneous return value in `compress_string`
+            - Corgi completed fixing code before submission♥♥
+                - Corgi fixed erroneous return value in `compress_string`
             - Corgi completed adding code♥♥
 
 ### December 1st, 2020
