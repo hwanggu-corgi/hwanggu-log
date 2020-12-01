@@ -2,54 +2,18 @@
 
 
 ### November 30th, 2020
+1. Worked on practicing coding interview
+    - completed problem `문자열 내 마음대로 정렬하기` in Programmers
+    - completed problem `내적` in Programmers
+    - completed problem `3진법 뒤집기` in Programmers
+    - completed problem `[카카오 blink recruitment] 실패율` in Programmers
+    - completed problem `[카카오 blink recruitment] 비밀지도` in Programmers
+    - completed problem `가운데 글자 가져오기` in Programmers
+    - completed problem `나누어 떨어지는 숫자 배열` in Programmers
 
-#### Resume and career
-- ( ): Apply to UTKSA
-- ( ): Apply for jobs
-    - Korea
-    - Canada
-        - ( ): Web Developer, Maple-Pro consulting
-            - 여보♥♥ 형모 여기 도전해 볼게요: https://www.linkedin.com/jobs/view/2287063263
-
-1. Corgi add progress #47 on practicing coding interview♥♥
-    - Corgi working on problem `괄호 변환` in Programmers
-        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/60058
-            - Corgi adding pseudocode♥♥
-    - Corgi completed problem `문자열 내 마음대로 정렬하기` in Programmers
-        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12915
-            - Corgi completed adding code♥♥
-            - Corgi completed adding pseudocode♥♥
-    - Corgi completed problem `내적` in Programmers
-        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/70128
-            - Corgi completed adding code♥♥
-            - Corgi completed adding pseudocode♥♥
-    - Corgi completed problem `3진법 뒤집기` in Programmers
-        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/68935
-            - Corgi completed checking code before submission♥♥
-            - Corgi completed adding code♥♥
-            - Corgi completed adding pseudocode♥♥
-    - Corgi completed problem `[카카오 blink recruitment] 실패율` in Programmers
-        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42889
-            - Corgi completed fixing code before submission♥♥ #2
-            - Corgi completed adding code♥♥
-            - Corgi completed adding pseudocode♥♥
-    - Corgi completed problem `[카카오 blink recruitment] 비밀지도` in Programmers
-        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/17681
-            - Corgi completed adding code♥♥
-                - Corgi completed function `convert_decimal_to_hash_and_spaces`
-            - Corgi completed adding pseudocode♥♥
-    - Corgi completed problem `가운데 글자 가져오기` in Programmers
-        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12903
-            - Corgi completed adding code♥♥
-            - Corgi completed adding pseudocode♥♥
-    - Corgi completed problem `나누어 떨어지는 숫자 배열` in Programmers
-        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12910
-            - Corgi completed adding code♥♥
-            - Corgi completed adding pseudocode♥♥
-
-2. [on hold] Corgi add progress #75 on back-end engineer path from Codeacademy♥♥
-    - Corgi working on Lesson 10 - Build a Back-End with Node/Express.js
-        - Corgi completed lesson `Learn Node.js` (15/15)
+2. Added progress on back-end engineer path from Codeacademy
+    - Worked on Lesson 10 - Build a Back-End with Node/Express.js
+        - Completed lesson `Learn Node.js`
 
 ### November 29th, 2020
 1. Worked on practicing coding interview
