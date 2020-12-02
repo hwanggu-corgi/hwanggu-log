@@ -2,10 +2,11 @@
 
 Programmers current rank: 9729
 
-1. Corgi add progress #118 on practicing coding interview♥♥
-    - Corgi add progress #5 on problem `멀쩡한 사각형` in Programmers
+1. Corgi add progress #119 on practicing coding interview♥♥
+    - Corgi add progress #6 on problem `멀쩡한 사각형` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/62048
-            - Corgi adding pseudocode♥♥
+            - Corgi adding code♥♥ #2
+            - Corgi adding pseudocode♥♥ #2
             - Corgi understanding problem♥♥ #5
 
 ### December 2nd, 2020
