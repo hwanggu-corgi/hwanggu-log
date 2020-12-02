@@ -2,22 +2,9 @@
 
 ### December 2nd, 2020
 
-1. Corgi add progress #116 on practicing coding interview♥♥
-    - Corgi add progress #3 on problem `멀쩡한 사각형` in Programmers
-        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/62048
-            - Corgi adding pseudocode♥♥
-            - Corgi understanding problem♥♥ #3
-    - Corgi completed problem `124 나라의 숫자` in Programmers
-        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12899
-            - Corgi completed fixing code♥♥
-            - Corgi completed adding code♥♥
-            - Corgi completed pseudocode♥♥
-            - Corgi completed understanding problem♥♥
-    - Corgi completed problem `문자열 압축` in Programmers
-        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/60057
-            - Corgi completed fixing code before submission♥♥
-                - Corgi fixed erroneous return value in `compress_string`
-            - Corgi completed adding code♥♥
+1. Worked on practicing coding interview
+    - Completed problem `124 나라의 숫자` in Programmers
+    - Completed problem `문자열 압축` in Programmers
 
 ### December 1st, 2020
 
