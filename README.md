@@ -1,5 +1,32 @@
 # HwangGu Log
 
+### December 3rd, 2020
+
+1. Corgi add progress #147 on practicing coding interview♥♥
+    - Corgi completed test #1 in Programmers♥♥
+    - Corgi add progress #3 on problem `다리를 지나는 트럭` in Programmers
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42583
+            - Corgi adding pseudocode♥♥ #3
+            - Corgi understanding problem♥♥ #4
+    - Corgi completed problem `소수 찾기` in Programmers
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42839
+            - Corgi completed fixing `Time out` error♥♥
+            - Corgi completed fixing code before submission♥♥
+            - Corgi completed adding code♥♥
+            - Corgi completed adding pseudocode♥♥
+            - Corgi completed understanding problem♥♥
+    - Corgi completed problem `H-Index` in Programmers
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/62048
+            - Corgi completed fixing code♥♥
+            - Corgi completed adding code♥♥
+            - Corgi completed adding pseudocode♥♥
+            - Corgi completed understanding problem♥♥
+    - Corgi completed problem `멀쩡한 사각형` in Programmers
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/62048
+            - Corgi completed adding code♥♥
+            - Corgi completed adding pseudocode♥♥
+            - Corgi understanding problem♥♥ #6
+
 ### December 2nd, 2020
 
 1. Worked on practicing coding interview
