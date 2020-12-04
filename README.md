@@ -1,6 +1,7 @@
 # HwangGu Log
 
 
+
 ### December 4th, 2020
 
 Programmers current rank: 7804
@@ -14,6 +15,30 @@ Programmers current rank: 7804
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42885
             - Corgi adding pseudocode♥♥ #3
             - Corgi understanding problem♥♥ #4
+    - Corgi completed problem `피보나치의 수` in Programmers
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12945
+            - Corgi completed adding pseudocode♥♥
+            - Corgi completed understanding problem♥♥
+    - Corgi completed problem `위장` in Programmers
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42578
+            - Corgi completed fixing code♥♥
+                - Corgi fixing `timeout` error
+            - Corgi completed checking code before submission♥♥
+            - Corgi completed adding code♥♥
+            - Corgi completed adding pseudocode♥♥
+            - Corgi completed understanding problem♥♥
+    - Corgi completed on problem `다리를 지나는 트럭` in Programmers
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42583
+            - Corgi completed adding code♥♥
+                - Corgi completed fixing code before submission :)♥♥
+                    - Corgi completed fixing erroneous return value♥♥
+                - Corgi completed function `move_truck_to_finish`
+                - Corgi completed function `is_alright_to_move_to_finish`
+                - Corgi completed function `update_trucks_on_bridge`
+                - Corgi completed function `update_trucks_on_bridge`
+                - Corgi completed function `move_truck_to_bridge`
+            - Corgi completed adding pseudocode♥♥
+            - Corgi completed understanding problem♥♥
 
 ### December 3rd, 2020
 
