@@ -2,8 +2,8 @@
 
 ### December 5th, 2020
 1. Worked on practicing coding interview
-    - Corgi completed problem `소수 만들기` in Programmers
-    - Corgi completed problem `구명보트` in Programmers
+    - Completed problem `소수 만들기` in Programmers
+    - Completed problem `구명보트` in Programmers
 
 ### December 4th, 2020
 
