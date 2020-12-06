@@ -6,10 +6,11 @@ Programmers current rank: 5563
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 
-1. Corgi add progress #242 on practicing coding interview♥♥
+1. Corgi add progress #243 on practicing coding interview♥♥
     - Corgi add progress #8 on problem `영어 끝말잇기` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12981
-            - Corgi adding code♥♥ #2
+            - Corgi completed adding code♥♥ #3
+                - Corgi completed adding code to function `is_word_connecting`
             - Corgi completed adding pseudocode♥♥
             - Corgi completed understanding problem♥♥
     - Corgi completed problem `압축` in Programmers
