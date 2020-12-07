@@ -1,5 +1,14 @@
 # HwangGu Log
 
+
+### December 7th, 2020
+
+1. Worked on practicing coding interview
+    - Corgi completed problem `다음 큰 숫자` in Programmers
+    - Corgi completed problem `숫자의 표현` in Programmers
+    - Corgi completed problem `영어 끝말잇기` in Programmers
+    - Corgi completed problem `압축` in Programmers
+
 ### December 6th, 2020
 
 1. Worked on practicing coding interview
