@@ -9,7 +9,8 @@ Programmers current rank: 4861
 1. Corgi add progress #275 on practicing coding interview♥♥
     - Corgi working on problem `JadenCase 문자열 만들기` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12951
-            - Corgi adding code♥♥
+            - Corgi fixing `runtime` error in code♥♥
+            - Corgi completed adding code♥♥
             - Corgi completed adding pseudocode♥♥
             - Corgi completed understanding problem♥♥
     - Corgi completed problem `행렬의 곱셈` in Programmers
