@@ -6,11 +6,11 @@ Programmers current rank: 4485
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 
-1. Corgi add progress #276 on practicing coding interview♥♥
+1. Corgi add progress #277 on practicing coding interview♥♥
     - Corgi add progress on problem `N개의 최소공배수` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12953
-            - Corgi completed adding pseudocode♥♥
-            - Corgi completed understanding problem♥♥
+            - Corgi adding pseudocode♥♥ #2
+            - Corgi understanding problem♥♥ #2
     - Corgi completed problem `JadenCase 문자열 만들기` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12951
             - Corgi completed fixing `runtime` error in code♥♥
