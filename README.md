@@ -1,13 +1,19 @@
 # HwangGu Log
 
+### December 8th, 2020
+1. Worked on practicing coding interview
+    - Completed problem `이진 변환 반복하기` in Programmers
+    - Completed problem `N개의 최소공배수` in Programmers
+    - Completed problem `JadenCase 문자열 만들기` in Programmers
+    - Completed problem `행렬의 곱셈` in Programmers
+    - Completed problem `삼각 달팽이` in Programmers
 
 ### December 7th, 2020
-
 1. Worked on practicing coding interview
-    - Corgi completed problem `다음 큰 숫자` in Programmers
-    - Corgi completed problem `숫자의 표현` in Programmers
-    - Corgi completed problem `영어 끝말잇기` in Programmers
-    - Corgi completed problem `압축` in Programmers
+    - Completed problem `다음 큰 숫자` in Programmers
+    - Completed problem `숫자의 표현` in Programmers
+    - Completed problem `영어 끝말잇기` in Programmers
+    - Completed problem `압축` in Programmers
 
 ### December 6th, 2020
 

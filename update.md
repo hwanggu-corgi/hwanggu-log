@@ -1,12 +1,16 @@
 ### December 9th, 2020
 
-Programmers current rank: 4378
+Programmers current rank: 4139
 
 ### Moe Todo to go home
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 
 1. Corgi add progress #295 on practicing coding interview♥♥
+    - Corgi working on problem `N진수 게임` in Programmers
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/17687
+            - Corgi adding pseudocode♥♥
+            - Corgi understanding problem♥♥
     - Corgi completed problem `짝지어 제거하기` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12973
             - Corgi fixed `time out` error♥♥
