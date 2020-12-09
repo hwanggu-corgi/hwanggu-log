@@ -1,5 +1,14 @@
 # HwangGu Log
 
+### December 9th, 2020
+
+1. Worked on practicing coding interview
+    - Completed problem `최솟값 만들기` in Programmers
+    - Completed problem `뉴스 클러스터링` in Programmers
+    - Completed problem `올바른 괄호` in Programmers
+    - Completed problem `N진수 게임` in Programmers
+    - Completed problem `짝지어 제거하기` in Programmers
+
 ### December 8th, 2020
 1. Worked on practicing coding interview
     - Completed problem `이진 변환 반복하기` in Programmers
