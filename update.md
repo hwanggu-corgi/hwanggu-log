@@ -12,7 +12,8 @@ Programmers current rank: 3167
     - Corgi add progress #14 problem `프렌즈4블록` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/17679
             - Corgi adding code♥♥ #4
-                - Corgi working on function `create_board_queues`
+                - Corgi working on function `search_removable_tiles`♥♥
+                - Corgi completed function `create_board_queues`♥♥
             - Corgi completed adding pseudocode♥♥
             - Corgi completed understanding problem♥♥
                 - 여보♥♥, 형모 코기 almost got it♥♥♥♥ 히히 ><
