@@ -9,10 +9,10 @@ Programmers current rank: 3217
     - (x): 오이스터 에이블
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/3922
 
-1. Corgi add progress #283 on practicing coding interview♥♥
-    - Corgi add progress #3 on problem `카펫` in Programmers
+1. Corgi add progress #284 on practicing coding interview♥♥
+    - Corgi add progress #4 on problem `카펫` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42842
-            - Corgi adding pseudocode♥♥ #2
+            - Corgi adding pseudocode♥♥ #3
             - Corgi completed understanding problem♥♥
     - Corgi completed problem `오픈채팅방` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42888
