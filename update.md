@@ -12,11 +12,11 @@ Programmers current rank: 2654
     - (x): 이쿠얼키, 프론트엔드 엔지니어(Front-end)
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/3706
 
-1. Corgi add progress #329 on practicing coding interview♥♥
-    - Corgi add progress #6 on problem `점프와 순간 이동` in Programmers
+1. Corgi add progress #330 on practicing coding interview♥♥
+    - Corgi add progress #7 on problem `점프와 순간 이동` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12980
             - Corgi adding pseudocode♥♥
-            - Corgi understanding problem♥♥ #9
+            - Corgi understanding problem♥♥ #10
 
 ### December 11th, 2020
 
