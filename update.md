@@ -1,6 +1,6 @@
 ### December 12th, 2020
 
-Programmers current rank: 2654
+Programmers current rank: 2631
 
 ### Moe Todo to go home
 - (x): Attempt level 2 test at programmers
@@ -12,10 +12,10 @@ Programmers current rank: 2654
     - (x): 이쿠얼키, 프론트엔드 엔지니어(Front-end)
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/3706
 
-1. Corgi add progress #335 on practicing coding interview♥♥
-    - Corgi add progress #14 on problem `점프와 순간 이동` in Programmers
+1. Corgi add progress #336 on practicing coding interview♥♥
+    - Corgi completed problem `점프와 순간 이동` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12980
-            - Corgi fixing efficiency problem♥♥ #5
+            - Corgi completed fixing efficiency problem♥♥
             - Corgi completed adding code♥♥
             - Corgi completed adding pseudocode♥♥
             - Corgi completed understood problem♥♥
