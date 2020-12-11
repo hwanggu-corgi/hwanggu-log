@@ -9,15 +9,15 @@ Programmers current rank: 2806
 - Apply for a job
     - (x): 사내 시스템 개발자, 쿡앱스
          - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/3962
-    - ( ): 프론트엔드 엔지니어, 모두싸인
+    - (x): 프론트엔드 엔지니어, 모두싸인
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/3292
 
 1. Corgi completed working on level 2 test♥♥
     - 여보♥♥, 형모 잘 하고 올게요♥♥♥♥
-2. Corgi add progress #320 on practicing coding interview♥♥
-    - Corgi add progress #5 on problem `예상 대진표` in Programmers
+2. Corgi add progress #321 on practicing coding interview♥♥
+    - Corgi completed problem `예상 대진표` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/17686
-            - Corgi fixing code♥♥ #2
+            - Corgi completed fixing code♥♥
                 - Corgi fixing test failures♥♥
             - Corgi completed adding code♥♥
             - Corgi completed adding pseudocode♥♥
