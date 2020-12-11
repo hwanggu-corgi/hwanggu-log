@@ -9,14 +9,14 @@ Programmers current rank: 2654
 - Apply for a job
     - (x): 자란다, 웹서비스 풀스택 개발자
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/746
-    - ( ): 이쿠얼키, 프론트엔드 엔지니어(Front-end)
+    - (x): 이쿠얼키, 프론트엔드 엔지니어(Front-end)
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/3706
 
-1. Corgi add progress #326 on practicing coding interview♥♥
-    - Corgi add progress #5 on problem `점프와 순간 이동` in Programmers
+1. Corgi add progress #328 on practicing coding interview♥♥
+    - Corgi add progress #7 on problem `점프와 순간 이동` in Programmers
         - 여보 요기 링쿠♥♥!!: hhttps://programmers.co.kr/learn/courses/30/lessons/12980
             - Corgi adding pseudocode♥♥
-            - Corgi understanding problem♥♥ #6
+            - Corgi understanding problem♥♥ #8
 
 ### December 11th, 2020
 
