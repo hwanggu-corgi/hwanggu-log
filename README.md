@@ -1,23 +1,25 @@
 # HwangGu Log
 
-### December 11th, 2020
 
-1. Corgi add progress #322 on practicing coding interview♥♥
-    - Corgi add progress on problem `점프와 순간 이동` in Programmers
-    - Corgi completed problem `예상 대진표` in Programmers
-    - Corgi completed problem `파일명 정렬` in Programmers
-    - Corgi completed problem `프렌즈4블록` in Programmers
-    - Corgi completed problem `카펫` in Programmers
+### December 12th, 2020
+1. Worked on practicing coding interview
+    - Completed problem `땅따먹기` in Programmers
+    - Completed problem `점프와 순간 이동` in Programmers
+
+### December 11th, 2020
+1. Worked on practicing coding interview
+    - Completed problem `예상 대진표` in Programmers
+    - Completed problem `파일명 정렬` in Programmers
+    - Completed problem `프렌즈4블록` in Programmers
+    - Completed problem `카펫` in Programmers
 
 ### December 10th, 2020
-
 1. Worked on practicing coding interview
     - Completed problem `오픈채팅방` in Programmers
     - Completed problem `방금그곡` in Programmers
     - Completed problem `폰켓몬` in Programmers
 
 ### December 9th, 2020
-
 1. Worked on practicing coding interview
     - Completed problem `최솟값 만들기` in Programmers
     - Completed problem `뉴스 클러스터링` in Programmers
