@@ -14,10 +14,10 @@ Programmers current rank: 2631
     - ( ): 카카오엔터프라이즈, 클라우드 플랫폼 서비스를 위한 화면(Web UI) 개발자
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/3268
 
-1. Corgi add progress #357 on practicing coding interview♥♥
-    - Corgi add progress #13 on problem `후보키` in Programmers
+1. Corgi add progress #358 on practicing coding interview♥♥
+    - Corgi add progress #14 on problem `후보키` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42890
-            - Corgi working on adding code♥♥ #5
+            - Corgi working on adding code♥♥ #6
                 - Corgi working on function `test_minimality`
 
 ### December 12th, 2020
