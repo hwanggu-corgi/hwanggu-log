@@ -1,6 +1,6 @@
 ### December 14th, 2020
 
-Programmers current rank: 2234
+Programmers current rank: 2139
 
 ### Moe Todo to go home
 - (x): Attempt level 2 test at programmers
@@ -10,11 +10,11 @@ Programmers current rank: 2234
     - (x): 카카오엔터프라이즈, 클라우드 플랫폼 서비스를 위한 화면(Web UI) 개발자
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/3268
 
-1. Corgi add progress #395 on practicing coding interview♥♥
-    - Corgi add progress #29 on problem `수식 최대화` in Programmers
+1. Corgi add progress #396 on practicing coding interview♥♥
+    - Corgi completed problem `수식 최대화` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/67257
-            - Corgi fixing code♥♥ #13
-                - Corgi erroneous return value♥♥
+            - Corgi completed fixing code♥♥
+                - Corgi completed fixing erroneous return value♥♥
                 - Corgi completed restrategizing♥♥
                 - Corgi completed fixing infinite loop♥♥
             - Corgi completed adding code♥♥
