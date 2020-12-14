@@ -1,7 +1,6 @@
 # HwangGu Log
 
 ### December 13th, 2020
-
 1. Worked on practicing coding interview
     - Completed problem `캐시` in Programmers
     - Completed problem `후보키` in Programmers
