@@ -7,21 +7,24 @@ Programmers current rank: 1979
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 - Apply for a job
-    - (x): 카카오엔터프라이즈, 클라우드 플랫폼 서비스를 위한 화면(Web UI) 개발자
-        - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/3268
 
 1. Corgi completed Level 2 test at programmers♥♥
     - 여보♥♥♥, 우리 테스트 2 완료 했어요♥♥♥♥!!!
 2. Corgi add progress #412 on practicing coding interview♥♥
-    - Corgi add progress on problem `모든 레코드 조회하기` in Programmers
+    - Corgi add progress on problem `베스트앨범` in Programmers
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42579
+            - Corgi adding pseudocode♥♥
+            - Corgi understanding problem♥♥
+    - Corgi completed problem `모든 레코드 조회하기` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/59034
-            - Corgi understood problem♥♥ #2
+            - Corgi completed adding code♥♥
+            - Corgi completed understanding problem♥♥
     - Corgi completed problem `가장 큰 정사각형 찾기` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/67257
             - Corgi completed fixing `timeout` error♥♥
             - Corgi completed adding code♥♥
             - Corgi completed adding pseudocode♥♥
-            - Corgi completed understood problem♥♥
+            - Corgi completed understanding problem♥♥
 
 
 ### December 14th, 2020
@@ -44,7 +47,7 @@ Programmers current rank: 2139
             - Corgi fixing `timeout` error♥♥ #10
             - Corgi completed adding code♥♥
             - Corgi completed adding pseudocode♥♥
-            - Corgi completed understood problem♥♥
+            - Corgi completed understanding problem♥♥
     - Corgi completed problem `수식 최대화` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/67257
             - Corgi completed fixing code♥♥
@@ -53,7 +56,7 @@ Programmers current rank: 2139
                 - Corgi completed fixing infinite loop♥♥
             - Corgi completed adding code♥♥
             - Corgi completed adding pseudocode♥♥
-            - Corgi completed understood problem♥♥
+            - Corgi completed understanding problem♥♥
 
 ### December 13th, 2020
 
@@ -73,13 +76,13 @@ Programmers current rank: 2234
             - Corgi working on adding code♥♥ #9
                 - Corgi working on function `calculate`♥♥
             - Corgi completed adding pseudocode♥♥
-            - Corgi completed understood problem♥♥
+            - Corgi completed understanding problem♥♥
     - Corgi completed problem `캐시` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/17680
             - Corgi completed fixing code♥♥
             - Corgi completed adding code♥♥
             - Corgi completed adding pseudocode♥♥
-            - Corgi completed understood problem♥♥
+            - Corgi completed understanding problem♥♥
     - Corgi completed problem `후보키` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42890
             - Corgi completed fixing code♥♥
@@ -111,13 +114,13 @@ Programmers current rank: 2631
             - Corgi completed checking code before submission♥♥
             - Corgi completed adding code♥♥
             - Corgi completed adding pseudocode♥♥
-            - Corgi completed understood problem♥♥
+            - Corgi completed understanding problem♥♥
     - Corgi completed problem `점프와 순간 이동` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12980
             - Corgi completed fixing efficiency problem♥♥
             - Corgi completed adding code♥♥
             - Corgi completed adding pseudocode♥♥
-            - Corgi completed understood problem♥♥
+            - Corgi completed understanding problem♥♥
 
 ### December 11th, 2020
 

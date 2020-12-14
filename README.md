@@ -1,5 +1,37 @@
 # HwangGu Log
 
+### December 14th, 2020
+
+Programmers current rank: 2139
+
+### Moe Todo to go home
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+- Apply for a job
+    - (x): 카카오엔터프라이즈, 클라우드 플랫폼 서비스를 위한 화면(Web UI) 개발자
+        - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/3268
+
+1. Corgi completed Level 2 test at programmers♥♥
+    - 여보♥♥♥, 우리 테스트 2 완료 했어요♥♥♥♥!!!
+2. Corgi add progress #412 on practicing coding interview♥♥
+    - Corgi add progress #17 on problem `가장 큰 정사각형 찾기` in Programmers
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/67257
+            - Corgi fixing `timeout` error♥♥ #10
+            - Corgi completed adding code♥♥
+            - Corgi completed adding pseudocode♥♥
+            - Corgi completed understanding problem♥♥
+    - Corgi completed problem `수식 최대화` in Programmers
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/67257
+            - Corgi completed fixing code♥♥
+                - Corgi completed fixing erroneous return value♥♥
+                - Corgi completed restrategizing♥♥
+                - Corgi completed fixing infinite loop♥♥
+            - Corgi completed adding code♥♥
+            - Corgi completed adding pseudocode♥♥
+            - Corgi completed understanding problem♥♥
+
+
 ### December 13th, 2020
 1. Worked on practicing coding interview
     - Completed problem `캐시` in Programmers
