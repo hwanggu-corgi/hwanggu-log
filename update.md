@@ -10,10 +10,10 @@ Programmers current rank: 1979
 
 1. Corgi completed Level 2 test at programmers♥♥
     - 여보♥♥♥, 우리 테스트 2 완료 했어요♥♥♥♥!!!
-2. Corgi add progress #421 on practicing coding interview♥♥
-    - Corgi add progress #10 on problem `베스트앨범` in Programmers
+2. Corgi add progress #422 on practicing coding interview♥♥
+    - Corgi add progress #11 on problem `베스트앨범` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42579
-            - Corgi working on adding code♥♥ #2
+            - Corgi working on adding code♥♥ #3
             - Corgi completed adding pseudocode♥♥
             - Corgi completed understanding problem♥♥
     - Corgi completed problem `모든 레코드 조회하기` in Programmers
