@@ -12,9 +12,10 @@ Programmers current rank: 2139
 
 1. Corgi completed Level 2 test at programmers♥♥
     - 여보♥♥♥, 우리 테스트 2 완료 했어요♥♥♥♥!!!
-2. Corgi add progress #402 on practicing coding interview♥♥
-    - [on hold] Corgi add progress #7 on problem `가장 큰 정사각형 찾기` in Programmers
+2. Corgi add progress #403 on practicing coding interview♥♥
+    - Corgi add progress #8 on problem `가장 큰 정사각형 찾기` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/67257
+            - Corgi fixing `timeout` error♥♥
             - Corgi completed adding code♥♥
             - Corgi completed adding pseudocode♥♥
             - Corgi completed understood problem♥♥
