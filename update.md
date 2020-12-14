@@ -15,8 +15,7 @@ Programmers current rank: 1979
 2. Corgi add progress #412 on practicing coding interview♥♥
     - Corgi add progress on problem `모든 레코드 조회하기` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/59034
-            - Corgi adding pseudocode♥♥
-            - Corgi understood problem♥♥
+            - Corgi understood problem♥♥ #2
     - Corgi completed problem `가장 큰 정사각형 찾기` in Programmers
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/67257
             - Corgi completed fixing `timeout` error♥♥
