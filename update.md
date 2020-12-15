@@ -1,3 +1,23 @@
+### December 16th, 2020
+
+Programmers current rank: 1963
+
+### Moe Todo to go home
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+- Apply for a job
+    - (x):  리디, 프론트엔드 엔지니어
+        - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/2617
+
+1. Corgi completed Level 2 test at programmers♥♥
+    - 여보♥♥♥, 우리 테스트 2 완료 했어요♥♥♥♥!!!
+2. Corgi add progress #440 on practicing coding interview♥♥
+    - Corgi add progress #2 on problem `두 개 뽑아서 더하기` in Programmers (Javascript)
+         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/68644?language=javascript#
+            - Corgi adding pseudocode♥♥
+            - Corgi understanding problem♥♥ #2
+
 ### December 15th, 2020
 
 Programmers current rank: 1963
@@ -12,11 +32,11 @@ Programmers current rank: 1963
 
 1. Corgi completed Level 2 test at programmers♥♥
     - 여보♥♥♥, 우리 테스트 2 완료 했어요♥♥♥♥!!!
-2. Corgi add progress #438 on practicing coding interview♥♥
-    - Corgi add progress on problem `두 개 뽑아서 더하기` in Programmers (Javascript)
+2. Corgi add progress #440 on practicing coding interview♥♥
+    - Corgi add progress #2 on problem `두 개 뽑아서 더하기` in Programmers (Javascript)
          - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/68644?language=javascript#
             - Corgi adding pseudocode♥♥
-            - Corgi understanding problem♥♥
+            - Corgi understanding problem♥♥ #2
     - [on hold] Corgi add progress #8 on problem `디스크 컨트롤러` in Programmers
          - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42627
             - Corgi adding pseudocode♥♥ #4
