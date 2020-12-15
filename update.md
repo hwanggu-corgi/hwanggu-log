@@ -15,7 +15,7 @@ Programmers current rank: 1963
 2. Corgi add progress #436 on practicing coding interview♥♥
     - Corgi add progress #6 on problem `디스크 컨트롤러` in Programmers
          - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42627
-            - Corgi adding pseudocode♥♥
+            - Corgi adding pseudocode♥♥ #2
             - Corgi completed understanding problem♥♥
     - Corgi completed problem `동물 수 구하기` in Programmers
          - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/59406
