@@ -15,10 +15,11 @@ Programmers current rank: 1936
 
     - 여보♥♥, I am back♥♥♥♥
 2. Corgi add progress #461 on practicing coding interview♥♥
-    - Corgi add progress on problem `정수 내림차순으로 배치하기` in Programmers (Javascript)
+    - Corgi add progress #2 on problem `정수 내림차순으로 배치하기` in Programmers (Javascript)
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12933
-            - Corgi adding pseudocode♥♥
-            - Corgi understanding problem♥♥
+            - Corgi working on adding code♥♥
+            - Corgi completed adding pseudocode♥♥
+            - Corgi completed understanding problem♥♥
 
 ### December 16th, 2020
 
