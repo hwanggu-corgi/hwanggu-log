@@ -11,8 +11,9 @@ Programmers current rank: 1905
 1. Corgi add progress #468 on practicing coding interview♥♥
     - Corgi completed problem `올바른 괄호` in Programmers (Javascript)
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12909
-            - Corgi adding pseudocode♥♥
-            - Corgi understanding problem♥♥
+            - Corgi completed adding code♥♥
+            - Corgi completed adding pseudocode♥♥
+            - Corgi completed understanding problem♥♥
     - Corgi completed problem `프린터` in Programmers (Javascript)
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42587
             - Corgi completed adding code♥♥
