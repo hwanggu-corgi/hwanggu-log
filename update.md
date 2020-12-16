@@ -9,6 +9,11 @@ Programmers current rank: 1905
 - Apply for a job
 
 1. Corgi add progress #468 on practicing coding interview♥♥
+    - Corgi completed problem `구명보트` in Programmers (Javascript)
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42885?language=javascript
+            - Corgi completed adding code♥♥
+            - Corgi completed adding pseudocode♥♥
+            - Corgi completed understanding problem♥♥
     - Corgi completed problem `올바른 괄호` in Programmers (Javascript)
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12909
             - Corgi completed adding code♥♥
