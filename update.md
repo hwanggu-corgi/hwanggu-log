@@ -17,8 +17,9 @@ Programmers current rank: 1963
 2. Corgi add progress #461 on practicing coding interview♥♥
     - Corgi completed problem `두 정수 사이의 합` in Programmers (Javascript)
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12912
-            - Corgi adding pseudocode♥♥
-            - Corgi understanding problem♥♥
+            - Corgi completed adding code♥♥
+            - Corgi completed adding pseudocode♥♥
+            - Corgi completed understanding problem♥♥
     - Corgi completed problem `수박수박수박수박수` in Programmers (Javascript)
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12922
             - Corgi completed adding code♥♥
