@@ -8,10 +8,12 @@ Programmers current rank: 1963
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 - Apply for a job
 
-1. Corgi working on `과제관 - [프론트엔드] 고양이 사진 검색 사이트` in Programmers
+1. Corgi completed `과제관 - [프론트엔드] 고양이 사진 검색 사이트` in Programmers
     - 여보♥♥, 우리 형모 잘 하고 올게요 :)♥♥
     - 여보♥♥, 부디 크리스마스처럼 좋은 아침 보내요♥♥
     - 여보♥♥, I love you♥♥♥♥
+
+    - 여보♥♥, I am back♥♥♥♥
 2. Corgi add progress #460 on practicing coding interview♥♥
     - Corgi completed problem `수박수박수박수박수` in Programmers (Javascript)
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12922
