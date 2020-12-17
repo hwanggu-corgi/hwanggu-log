@@ -9,10 +9,10 @@ Programmers current rank: 1905
 - Apply for a job
 
 1. Corgi add progress #477 on practicing coding interview♥♥
-    - Corgi add progress #2 on problem `다리를 지나는 트럭` in Programmers (Javascript)
+    - Corgi add progress #3 on problem `다리를 지나는 트럭` in Programmers (Javascript)
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42583?language=javascript
             - Corgi adding pseudocode♥♥
-            - Corgi understanding problem♥♥
+            - Corgi understanding problem♥♥ #2
 
 ### December 17th, 2020
 
