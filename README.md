@@ -1,6 +1,18 @@
 # HwangGu Log
 
 
+### December 16th, 2020
+
+1. Worked on practicing coding interview
+    - Completed problem `두 정수 사이의 합` in Programmers (Javascript)
+    - Completed problem `수박수박수박수박수` in Programmers (Javascript)
+    - Completed problem `문자열 내 마음대로 정렬하기` in Programmers (Javascript)
+    - Completed problem `모의고사` in Programmers (Javascript)
+    - Completed problem `2016년` in Programmers (Javascript)
+    - Completed problem `체육복` in Programmers (Javascript)
+    - Completed problem `완주하지 못한 선수` in Programmers (Javascript)
+    - Completed problem `두 개 뽑아서 더하기` in Programmers (Javascript)
+
 ### December 15th, 2020
 1. Worked on practicing coding interview
     - Completed problem `동물 수 구하기` in Programmers
