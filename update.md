@@ -10,9 +10,13 @@ Programmers current rank: 1905
 
 1. Corgi add progress #476 on practicing coding interview♥♥
     - [on hold] Corgi practicing `dark mode`
-    - Corgi add progress #3 on problem `땅따먹기` in Programmers (Javascript)
+    - Corgi add progress on problem `다리를 지나는 트럭` in Programmers (Javascript)
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42583?language=javascript
+            - Corgi adding pseudocode♥♥
+            - Corgi understanding problem♥♥
+    - Corgi completed problem `땅따먹기` in Programmers (Javascript)
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12913?language=javascript
-            - Corgi checking code before submission♥♥
+            - Corgi completed checking code before submission♥♥
             - Corgi completed adding code♥♥
             - Corgi completed adding pseudocode♥♥
             - Corgi completed understanding problem♥♥
