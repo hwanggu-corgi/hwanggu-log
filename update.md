@@ -9,9 +9,14 @@ Programmers current rank: 1905
 - Apply for a job
 
 1. Corgi add progress #511 on practicing coding interview♥♥
-    - Corgi add progress #4 on problem `2 x n 타일링` in Programmers (Javascript)
+    - Corgi add progress on problem `N으로 표현` in Programmers (Javascript)
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42895
+            - Corgi pseudocode♥♥
+            - Corgi understanding problem♥♥
+    - Corgi completed problem `2 x n 타일링` in Programmers (Javascript)
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12900
-            - Corgi adding pseudocode♥♥ #3
+            - Corgi completed adding code♥♥
+            - Corgi completed pseudocode♥♥
             - Corgi completed understanding problem♥♥
     - Corgi completed problem `2 x n 타일링` in Programmers (Python)
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12900
