@@ -8,11 +8,11 @@ Programmers current rank: 1871
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 - Apply for a job
 
-1. Corgi add progress #520 on practicing coding interview♥♥
-    - Corgi add progress #10 on problem `N으로 표현` in Programmers (Javascript)
+1. Corgi add progress #521 on practicing coding interview♥♥
+    - Corgi add progress #11 on problem `N으로 표현` in Programmers (Javascript)
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42895
             - Corgi pseudocode♥♥
-            - Corgi understanding problem♥♥ #10
+            - Corgi understanding problem♥♥ #11
 
 ### December 19th, 2020
 
