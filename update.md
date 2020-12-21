@@ -9,13 +9,16 @@ Programmers current rank: 1809
 - Apply for a job
     - (x): 캐럿글로벌, 프론트엔드 웹개발자
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/4014
-    - ( ): 아이시큐어, 웹 서비스 개발자
+    - (x): 아이시큐어, 웹 서비스 개발자
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/953
+    - ( ): 딜리버리히어로 코리아, Jr. Backend Developer
+        - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/1928
 
-1. Corgi add progress #554 on practicing coding interview♥♥
-    - Corgi add progress #9 on problem `네트워크` in Programmers (Python)♥♥
+1. Corgi add progress #555 on practicing coding interview♥♥
+    - Corgi add progress #10 on problem `네트워크` in Programmers (Python)♥♥
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/43162
-            - Corgi adding code♥♥ #3
+            - Corgi adding code♥♥ #4
+                - Corgi working on function `find_neighbouring_computers`
             - Corgi completed adding pseudocode♥♥
             - Corgi completed understanding problem♥♥
     - Corgi completed problem `N으로 표현` in Programmers (Javascript)♥♥
