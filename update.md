@@ -11,14 +11,18 @@ Programmers current rank: 1771
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/4014
     - (x): 아이시큐어, 웹 서비스 개발자
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/953
-    - ( ): 딜리버리히어로 코리아, Jr. Backend Developer
+    - (x): 딜리버리히어로 코리아, Jr. Backend Developer
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/1928
 
-1. Corgi add progress #557 on practicing coding interview♥♥
-    - Corgi add progress on problem `역순 정렬하기` in Programmers (SQL)♥♥
+1. Corgi add progress #558 on practicing coding interview♥♥
+    - Corgi add progress on problem `아픈 동물 찾기` in Programmers (MySQL)♥♥
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/59035
-            - Corgi adding pseudocode♥♥
+            - Corgi adding code♥♥
             - Corgi understanding problem♥♥
+    - Corgi completed problem `역순 정렬하기` in Programmers (MySQL)♥♥
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/59035
+            - Corgi completed adding code♥♥
+            - Corgi completed understanding problem♥♥
     - Corgi completed problem `네트워크` in Programmers (Javascript)♥♥
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/43162
             - Corgi completed adding code♥♥
