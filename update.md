@@ -12,10 +12,10 @@ Programmers current rank: 1809
     - ( ): 아이시큐어, 웹 서비스 개발자
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/953
 
-1. Corgi add progress #553 on practicing coding interview♥♥
-    - Corgi add progress #8 on problem `네트워크` in Programmers (Python)♥♥
+1. Corgi add progress #554 on practicing coding interview♥♥
+    - Corgi add progress #9 on problem `네트워크` in Programmers (Python)♥♥
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/43162
-            - Corgi adding code♥♥ #2
+            - Corgi adding code♥♥ #3
             - Corgi completed adding pseudocode♥♥
             - Corgi completed understanding problem♥♥
     - Corgi completed problem `N으로 표현` in Programmers (Javascript)♥♥
