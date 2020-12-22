@@ -14,8 +14,8 @@ Programmers current rank: 1664
     - (x): 딜리버리히어로 코리아, Jr. Backend Developer
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/1928
 
-1. Corgi add progress #585 on practicing coding interview♥♥
-    - Corgi add progress on problem `시저 암호` in Programmers (review, Python)♥♥
+1. Corgi add progress #586 on practicing coding interview♥♥
+    - Corgi add progress #2 on problem `시저 암호` in Programmers (review, Python)♥♥
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12926
             - Corgi adding code♥♥
             - Corgi understanding problem♥♥
