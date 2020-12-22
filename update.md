@@ -15,9 +15,14 @@ Programmers current rank: 1771
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/1928
 
 1. Corgi add progress #578 on practicing coding interview♥♥
-    - Corgi add progress #2 on problem `나누어 떨어지는 숫자 배열` in Programmers (review, Python)♥♥
+    - Corgi completed problem `두 정수 사이의 합` in Programmers (review, Python)♥♥
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12912
+            - Corgi completed fixing code before submission♥♥
+            - Corgi completed adding code♥♥
+            - Corgi completed understanding problem♥♥
+    - Corgi completed problem `나누어 떨어지는 숫자 배열` in Programmers (review, Python)♥♥
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12910
-            - Corgi fixing code before submission♥♥
+            - Corgi completed fixing code before submission♥♥
             - Corgi completed adding code♥♥
             - Corgi completed understanding problem♥♥
     - Corgi completed problem `같은 숫자는 싫어` in Programmers (review, Python)♥♥
