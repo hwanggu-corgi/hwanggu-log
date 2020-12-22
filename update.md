@@ -14,15 +14,24 @@ Programmers current rank: 1664
     - (x): 딜리버리히어로 코리아, Jr. Backend Developer
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/1928
 
-1. Corgi add progress #587 on practicing coding interview♥♥
-    - Corgi add progress on problem `약수의 합` in Programmers (review, Python)♥♥
-        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12928
+1. Corgi add progress #588 on practicing coding interview♥♥
+    - Corgi add progress on problem `이상한 문자 만들기` in Programmers (review, Python)♥♥
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12930
             - Corgi adding code♥♥
             - Corgi understanding problem♥♥
+    - Corgi completed problem `약수의 합` in Programmers (review, Python)♥♥
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12928
+            - Corgi completed adding code♥♥
+            - Corgi completed understanding problem♥♥
     - Corgi completed problem `시저 암호` in Programmers (review, Python)♥♥
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12926
             - Corgi completed adding code♥♥
             - Corgi completed understanding problem♥♥
+    - [on hold] Corgi add progress #4 on problem `디스크 컨트롤러` in Programmers (Python)♥♥
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42627
+            - Corgi completed adding pseudocode♥♥
+            - Corgi completed understanding problem♥♥
+
 
 ### December 22nd, 2020
 
