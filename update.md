@@ -1,6 +1,6 @@
 ### December 22nd, 2020
 
-Programmers current rank: 1771
+Programmers current rank: 1664
 
 ### Moe Todo to go home
 - (x): Attempt level 2 test at programmers
@@ -14,10 +14,10 @@ Programmers current rank: 1771
     - (x): 딜리버리히어로 코리아, Jr. Backend Developer
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/1928
 
-1. Corgi add progress #582 on practicing coding interview♥♥
-    - Corgi add progress #2 on problem `소수 찾기` in Programmers (review, Python)♥♥
+1. Corgi add progress #583 on practicing coding interview♥♥
+    - Corgi completed problem `소수 찾기` in Programmers (review, Python)♥♥
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12921
-            - Corgi fixing `Time out` error♥♥
+            - Corgi completed fixing `Time out` error♥♥
             - Corgi completed adding code♥♥
             - Corgi completed understanding problem♥♥
     - Corgi completed problem `서울에서 김서방 찾기` in Programmers (review, Python)♥♥
