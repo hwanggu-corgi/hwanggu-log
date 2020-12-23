@@ -15,8 +15,13 @@ Programmers current rank: 1376
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/1928
 
 1. Corgi add progress #610 on practicing coding interview♥♥
-    - Corgi add progress #2 on problem `Passing Cars` in Codility (Python)♥♥
+    - Corgi add progress on problem `Count Factors` in Codility (Python)♥♥
+        - 여보 요기 링쿠♥♥!!: https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/
+            - Corgi adding pseudocode♥♥
+            - Corgi understanding problem♥♥
+    - Corgi completed problem `Passing Cars` in Codility (Python)♥♥
         - 여보 요기 링쿠♥♥!!: https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/
+            - Corgi completed fixing code♥♥
             - Corgi completed adding code♥♥
             - Corgi completed adding pseudocode♥♥
             - Corgi completed understanding problem♥♥
