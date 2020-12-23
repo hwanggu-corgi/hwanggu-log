@@ -14,7 +14,11 @@ Programmers current rank: 1376
     - (x): 딜리버리히어로 코리아, Jr. Backend Developer
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/1928
 
-1. Corgi add progress #617 on practicing coding interview♥♥
+1. Corgi add progress #618 on practicing coding interview♥♥
+    - Corgi add progress on problem `Minimum Perimeter Rectangle` in Codility (Python)♥♥
+        - 여보 요기 링쿠♥♥!!: https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/min_perimeter_rectangle/
+            - Corgi adding pseudocode♥♥
+            - Corgi understanding problem♥♥
     - Corgi completed problem `Flags` in Codility (Python)♥♥
         - 여보 요기 링쿠♥♥!!: https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/flags/
             - Corgi completed working on improving efficiency of code♥♥
