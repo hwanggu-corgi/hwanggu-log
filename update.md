@@ -1,3 +1,28 @@
+### December 24th, 2020
+
+Programmers current rank: 1376
+
+### Moe Todo to go home
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+- Apply for a job
+    - (x): 캐럿글로벌, 프론트엔드 웹개발자
+        - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/4014
+    - (x): 아이시큐어, 웹 서비스 개발자
+        - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/953
+    - (x): 딜리버리히어로 코리아, Jr. Backend Developer
+        - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/1928
+
+1. Corgi add progress #607 on practicing coding interview♥♥
+    - Corgi add progress #16 on problem `Flags` in Codility (Python)♥♥
+        - 여보 요기 링쿠♥♥!!: https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/flags/
+            - Corgi fixing code♥♥ #3
+    - [on hold] Corgi add progress #4 on problem `디스크 컨트롤러` in Programmers (Python)♥♥
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42627
+            - Corgi completed adding pseudocode♥♥
+            - Corgi completed understanding problem♥♥
+
 ### December 23rd, 2020
 
 Programmers current rank: 1376
