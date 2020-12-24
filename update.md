@@ -15,9 +15,13 @@ Programmers current rank: 1376
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/1928
 
 1. Corgi add progress #628 on practicing coding interview♥♥
-    - Corgi add progress #8 on problem `Count Non Divisible` in Codility (Python)♥♥
+    - Corgi add progress on problem `Max Profit` in Codility (Python)♥♥
+        - 여보 요기 링쿠♥♥!!: https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/
+            - Corgi adding pseudocode♥♥
+            - Corgi understanding problem♥♥
+    - Corgi completed problem `Count Non Divisible` in Codility (Python)♥♥
         - 여보 요기 링쿠♥♥!!: https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/count_non_divisible/
-            - Corgi fixing `timeout` error♥♥ #8
+            - Corgi completed fixing `timeout` error♥♥
             - Corgi completed adding code♥♥
             - Corgi completed adding pseudocode♥♥
             - Corgi completed understanding problem♥♥
