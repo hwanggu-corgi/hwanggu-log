@@ -8,10 +8,10 @@ Programmers current rank: 1376
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 - Apply for a job
 
-1. Corgi add progress #634 on practicing coding interview♥♥
-    - Corgi add progress #3 on problem `Chocolates by Numbers` in Codility (Python)♥♥
+1. Corgi add progress #635 on practicing coding interview♥♥
+    - Corgi completed problem `Chocolates by Numbers` in Codility (Python)♥♥
         - 여보 요기 링쿠♥♥!!: https://app.codility.com/programmers/lessons/12-euclidean_algorithm/chocolates_by_numbers/
-            - Corgi fixing `timeout` errors♥♥
+            - Corgi completed fixing `timeout` errors♥♥
             - Corgi completed adding code♥♥
             - Corgi completed adding pseudocode♥♥
             - Corgi completed understanding problem♥♥
