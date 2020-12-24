@@ -7,18 +7,14 @@ Programmers current rank: 1376
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 - Apply for a job
-    - (x): 캐럿글로벌, 프론트엔드 웹개발자
-        - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/4014
-    - (x): 아이시큐어, 웹 서비스 개발자
-        - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/953
-    - (x): 딜리버리히어로 코리아, Jr. Backend Developer
-        - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/1928
 
-1. Corgi add progress #628 on practicing coding interview♥♥
-    - Corgi add progress on problem `Max Profit` in Codility (Python)♥♥
+1. Corgi add progress #629 on practicing coding interview♥♥
+    - Corgi add progress #2 on problem `Max Profit` in Codility (Python)♥♥
         - 여보 요기 링쿠♥♥!!: https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/
-            - Corgi adding pseudocode♥♥
-            - Corgi understanding problem♥♥
+            - Corgi checking code before submission♥♥
+            - Corgi completed adding code♥♥
+            - Corgi completed adding pseudocode♥♥
+            - Corgi completed understanding problem♥♥
     - Corgi completed problem `Count Non Divisible` in Codility (Python)♥♥
         - 여보 요기 링쿠♥♥!!: https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/count_non_divisible/
             - Corgi completed fixing `timeout` error♥♥
