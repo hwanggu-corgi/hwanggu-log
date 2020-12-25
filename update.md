@@ -8,10 +8,13 @@ Programmers current rank: 1376
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 - Apply for a job
 
-1. Corgi add progress #646 on practicing coding interview♥♥
-    - Corgi add progress #12 on problem `Prime Divisors` in Codility (Python)♥♥
+1. 여보♥♥, 우리 형모 잘하고 올게요♥♥♥♥
+    - 여보♥♥, Merry Christmas♥♥♥♥
+
+2. Corgi add progress #646 on practicing coding interview♥♥
+    - Corgi completed problem `Prime Divisors` in Codility (Python)♥♥
         - 여보 요기 링쿠♥♥!!: https://app.codility.com/programmers/lessons/12-euclidean_algorithm/common_prime_divisors/
-            - Corgi fixing `memory` error♥♥ #5
+            - Corgi completed fixing `memory` error♥♥ #5
             - Corgi completed adding code♥♥
             - Corgi completed adding pseudocode♥♥
             - Corgi completed understanding problem♥♥
