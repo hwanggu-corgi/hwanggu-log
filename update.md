@@ -9,9 +9,16 @@ Programmers current rank: 1376
 - Apply for a job
 
 1. 여보♥♥, 우리 형모 잘하고 올게요♥♥♥♥
+    - 여보♥♥, 우리 형모 우리 시험 완료하구 왔어요♥♥♥♥
     - 여보♥♥, Merry Christmas♥♥♥♥
 
 2. Corgi add progress #646 on practicing coding interview♥♥
+    - Corgi add progress #4 on problem `디스크 컨트롤러` in Programmers (Python)♥♥
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42627
+            - Corgi working on adding code♥♥
+            - Corgi completed adding pseudocode♥♥
+            - Corgi completed understanding problem♥♥
+
     - Corgi completed problem `Prime Divisors` in Codility (Python)♥♥
         - 여보 요기 링쿠♥♥!!: https://app.codility.com/programmers/lessons/12-euclidean_algorithm/common_prime_divisors/
             - Corgi completed fixing `memory` error♥♥ #5
@@ -82,10 +89,6 @@ Programmers current rank: 1376
     - Corgi add progress #17 on problem `Flags` in Codility (Python)♥♥
         - 여보 요기 링쿠♥♥!!: https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/flags/
             - Corgi fixing code♥♥ #4
-    - [on hold] Corgi add progress #4 on problem `디스크 컨트롤러` in Programmers (Python)♥♥
-        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42627
-            - Corgi completed adding pseudocode♥♥
-            - Corgi completed understanding problem♥♥
 
 ### December 23rd, 2020
 
