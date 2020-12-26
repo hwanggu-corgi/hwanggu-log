@@ -12,10 +12,10 @@ Programmers current rank: 1376
     - 여보♥♥, 우리 형모 우리 시험 완료하구 왔어요♥♥♥♥
     - 여보♥♥, Merry Christmas♥♥♥♥
 
-2. Corgi add progress #670 on practicing coding interview♥♥
-    - Corgi add progress #27 on problem `디스크 컨트롤러` in Programmers (Python)♥♥
+2. Corgi add progress #671 on practicing coding interview♥♥
+    - Corgi add progress #28 on problem `디스크 컨트롤러` in Programmers (Python)♥♥
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42627
-            - Corgi fixing code♥♥ #18
+            - Corgi fixing code♥♥ #19
             - Corgi completed adding code♥♥
             - Corgi completed adding pseudocode♥♥
             - Corgi completed understanding problem♥♥
