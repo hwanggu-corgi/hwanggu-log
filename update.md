@@ -8,14 +8,14 @@ Programmers current rank: 1337
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 - Apply for a job
 
-1. Corgi add progress #685 on practicing coding interview♥♥
-    - Corgi add progress #9 on problem `단어 변환` in Programmers (Python)♥♥
+1. Corgi add progress #686 on practicing coding interview♥♥
+    - Corgi add progress #10 on problem `단어 변환` in Programmers (Python)♥♥
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/43163
-            - Corgi fixing `timeout` error♥♥ #2
+            - Corgi fixing `timeout` error♥♥ #3
             - Corgi completed fixing function before submission♥♥
             - Corgi completed adding code♥♥
                 - Corgi completed adding function `is_one_char_apart`
-            - Corgi adding pseudocode♥♥ #3
+            - Corgi completed adding pseudocode♥♥
             - Corgi completed understanding problem♥♥
 
 ### December 26th, 2020
