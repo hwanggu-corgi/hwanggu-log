@@ -8,10 +8,10 @@ Programmers current rank: 1231
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 - Apply for a job
 
-1. Corgi add progress #710 on practicing coding interview♥♥
-    - Corgi add progress #2 on problem `정수 삼각형` in Programmers (Python)♥♥
+1. Corgi add progress #711 on practicing coding interview♥♥
+    - Corgi add progress #3 on problem `정수 삼각형` in Programmers (Python)♥♥
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/43105
-            - Corgi adding pseudocode♥♥ #2
+            - Corgi adding pseudocode♥♥ #3
             - Corgi completed understanding problem♥♥
     - Corgi completed problem `섬 연결하기` in Programmers (Python)♥♥
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42861
