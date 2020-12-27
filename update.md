@@ -1,6 +1,6 @@
 ### December 28th, 2020
 
-Programmers current rank: 1231
+Programmers current rank: 1211
 
 ### Moe Todo to go home
 - (x): Attempt level 2 test at programmers
@@ -8,8 +8,12 @@ Programmers current rank: 1231
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 - Apply for a job
 
-1. Corgi add progress #714 on practicing coding interview♥♥
-    - Corgi add progress #6 on problem `정수 삼각형` in Programmers (Python)♥♥
+1. Corgi add progress #715 on practicing coding interview♥♥
+    - Corgi add progress on problem `가장 먼 노드` in Programmers (Python)♥♥
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/49189
+            - Corgi adding pseudocode♥♥
+            - Corgi understanding problem♥♥
+    - Corgi completed problem `정수 삼각형` in Programmers (Python)♥♥
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/43105
             - Corgi adding code♥♥
             - Corgi completed adding pseudocode♥♥
