@@ -8,10 +8,10 @@ Programmers current rank: 1211
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 - Apply for a job
 
-1. Corgi add progress #727 on practicing coding interview♥♥
-    - Corgi add progress #13 on problem `가장 먼 노드` in Programmers (Python)♥♥
+1. Corgi add progress #728 on practicing coding interview♥♥
+    - Corgi add progress #14 on problem `가장 먼 노드` in Programmers (Python)♥♥
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/49189
-            - Corgi fixing `time out` error♥♥ #6
+            - Corgi fixing `time out` error♥♥ #7
             - Corgi completed adding code♥♥
             - Corgi completed adding pseudocode♥♥
             - Corgi completed understanding problem♥♥
