@@ -9,14 +9,23 @@ Programmers current rank: 1133
 - Apply for a job
     - (x): 비바리퍼블리카, Server Developer
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/3965
+    - (x): 베어로보틱스코리아, 로봇 관제 서비스 Backend 개발자
+        - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/1941
     - ( ): 버즈니, 프론트엔드 엔지니어
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/3946
 
-1. Corgi add progress #748 on practicing coding interview♥♥
-    - Corgi add progress #2 on problem `고양이와 개는 몇 마리 있을까` in Programmers (MySQL)♥♥
-        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/59040
+1. Corgi add progress #749 on practicing coding interview♥♥
+    - Corgi add progress on problem `여러 기준으로 정렬하기` in Programmers (MySQL)♥♥
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/59404
             - Corgi adding code♥♥
-            - Corgi completed adding pseudocode♥♥
+            - Corgi understanding problem♥♥
+    - Corgi completed problem `동물의 아이디와 이름` in Programmers (MySQL)♥♥
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/59403
+            - Corgi completed adding code♥♥
+            - Corgi completed understanding problem♥♥
+    - Corgi completed problem `고양이와 개는 몇 마리 있을까` in Programmers (MySQL)♥♥
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/59040
+            - Corgi completed adding code♥♥
             - Corgi completed understanding problem♥♥
     - Corgi completed problem `등굣길` in Programmers (Python)♥♥
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42898
