@@ -1,4 +1,4 @@
-### December 28th, 2020
+### December 29th, 2020
 
 Programmers current rank: 1180
 
@@ -7,17 +7,13 @@ Programmers current rank: 1180
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 - Apply for a job
-    - (x): 벨루가브루어리, 백엔드 개발자
-        - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/4025
-    - (x): TAGby, Web Developer(Python)
-        - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/1956
     - (x): 비바리퍼블리카, Server Developer
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/3965
 
-1. Corgi add progress #741 on practicing coding interview♥♥
-    - Corgi add progress #8 on problem `등굣길` in Programmers (Python)♥♥
+1. Corgi add progress #742 on practicing coding interview♥♥
+    - Corgi add progress #9 on problem `등굣길` in Programmers (Python)♥♥
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42898
-            - Corgi fixing failures in test cases♥♥ #2
+            - Corgi fixing failures in test cases♥♥ #3
             - Corgi completed adding code♥♥
             - Corgi completed adding pseudocode♥♥
             - Corgi completed understanding problem♥♥
