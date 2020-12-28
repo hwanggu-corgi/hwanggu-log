@@ -1,6 +1,6 @@
 ### December 29th, 2020
 
-Programmers current rank: 1133
+Programmers current rank: 1092
 
 ### Moe Todo to go home
 - (x): Attempt level 2 test at programmers
@@ -11,13 +11,13 @@ Programmers current rank: 1133
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/3965
     - (x): 베어로보틱스코리아, 로봇 관제 서비스 Backend 개발자
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/1941
-    - ( ): 버즈니, 프론트엔드 엔지니어
+    - (x): 버즈니, 프론트엔드 엔지니어
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/3946
 
-1. Corgi add progress #755 on practicing coding interview♥♥
-    - Corgi add progress #8 on problem `단속카메라` in Programmers (python)♥♥
+1. Corgi add progress #756 on practicing coding interview♥♥
+    - Corgi completed problem `단속카메라` in Programmers (python)♥♥
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42884
-            - Corgi adding code♥♥ #2
+            - Corgi completed adding code♥♥
             - Corgi completed adding pseudocode♥♥
             - Corgi completed understanding problem♥♥
     - Corgi completed problem `여러 기준으로 정렬하기` in Programmers (MySQL)♥♥
