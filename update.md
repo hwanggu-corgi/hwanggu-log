@@ -11,13 +11,13 @@ Programmers current rank: 1180
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/4025
     - (x): TAGby, Web Developer(Python)
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/1956
-    - ( ): 비바리퍼블리카, Server Developer
+    - (x): 비바리퍼블리카, Server Developer
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/3965
 
-1. Corgi add progress #739 on practicing coding interview♥♥
-    - Corgi add progress #7 on problem `등굣길` in Programmers (Python)♥♥
+1. Corgi add progress #741 on practicing coding interview♥♥
+    - Corgi add progress #8 on problem `등굣길` in Programmers (Python)♥♥
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42898
-            - Corgi fixing code♥♥
+            - Corgi fixing failures in test cases♥♥ #2
             - Corgi completed adding code♥♥
             - Corgi completed adding pseudocode♥♥
             - Corgi completed understanding problem♥♥
