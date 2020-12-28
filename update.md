@@ -9,7 +9,7 @@ Programmers current rank: 1180
 - Apply for a job
     - (x): 벨루가브루어리, 백엔드 개발자
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/4025
-    - ( ): TAGby, Web Developer(Python)
+    - (x): TAGby, Web Developer(Python)
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/1956
 
 1. Corgi add progress #735 on practicing coding interview♥♥
