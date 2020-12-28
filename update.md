@@ -21,6 +21,30 @@ Programmers current rank: 1180
             - Corgi completed adding code♥♥
             - Corgi completed adding pseudocode♥♥
             - Corgi completed understanding problem♥♥
+
+### December 28th, 2020
+
+Programmers current rank: 1180
+
+### Moe Todo to go home
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+- Apply for a job
+    - (x): 벨루가브루어리, 백엔드 개발자
+        - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/4025
+    - (x): TAGby, Web Developer(Python)
+        - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/1956
+    - (x): 비바리퍼블리카, Server Developer
+        - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/3965
+
+1. Corgi add progress #741 on practicing coding interview♥♥
+    - Corgi add progress #8 on problem `등굣길` in Programmers (Python)♥♥
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42898
+            - Corgi fixing failures in test cases♥♥ #2
+            - Corgi completed adding code♥♥
+            - Corgi completed adding pseudocode♥♥
+            - Corgi completed understanding problem♥♥
     - Corgi completed problem `가장 먼 노드` in Programmers (Python)♥♥
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/49189
             - Corgi completed fixing `time out` error♥♥
