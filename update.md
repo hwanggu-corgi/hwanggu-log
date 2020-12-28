@@ -14,11 +14,11 @@ Programmers current rank: 1092
     - (x): 버즈니, 프론트엔드 엔지니어
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/3946
 
-1. Corgi add progress #758 on practicing coding interview♥♥
-    - Corgi add progress on problem `여행경로` in Programmers (python)♥♥
+1. Corgi add progress #759 on practicing coding interview♥♥
+    - Corgi add progress #2 on problem `여행경로` in Programmers (python)♥♥
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/43164
             - Corgi adding pseudocode♥♥
-            - Corgi understanding problem♥♥
+            - Corgi understanding problem♥♥ #2
     - Corgi completed problem `NULL 처리하기` in Programmers (MySQL)♥♥
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/59410
             - Corgi completed adding code♥♥
