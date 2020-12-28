@@ -14,10 +14,11 @@ Programmers current rank: 1180
     - ( ): 비바리퍼블리카, Server Developer
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/3965
 
-1. Corgi add progress #738 on practicing coding interview♥♥
-    - Corgi add progress #6 on problem `등굣길` in Programmers (Python)♥♥
+1. Corgi add progress #739 on practicing coding interview♥♥
+    - Corgi add progress #7 on problem `등굣길` in Programmers (Python)♥♥
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42898
-            - Corgi adding code♥♥ #2
+            - Corgi fixing code♥♥
+            - Corgi completed adding code♥♥
             - Corgi completed adding pseudocode♥♥
             - Corgi completed understanding problem♥♥
     - Corgi completed problem `가장 먼 노드` in Programmers (Python)♥♥
