@@ -15,7 +15,8 @@ Programmers current rank: 1092
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/3946
 
 1. Corgi preparing for interview♥♥
-    - Corgi working on `React Simple Counter` practice on React.js in coderbyte♥♥
+    - Corgi add progress #2 on `React Simple Counter` practice on React.js in coderbyte♥♥
+        - Corgi completed adding code♥♥
     - Corgi completed `React Button Toggle` practice on React.js in coderbyte♥♥
         - Corgi fixing error in question♥♥
             - 내♥♥
