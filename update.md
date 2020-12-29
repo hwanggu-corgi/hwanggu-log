@@ -16,7 +16,8 @@ Programmers current rank: 1092
 
 1. Corgi preparing for interview♥♥
     - Corgi add progress #4 on `React Phone Book` practice on React.js in coderbyte♥♥
-        - Corgi working on adding code♥♥ #4
+        - Corgi fixing code♥♥
+        - Corgi completed adding code♥♥
         - Corgi completed understanding problem♥♥
     - Corgi completed `React List` practice on React.js in coderbyte♥♥
         - Corgi completed adding code♥♥
