@@ -1,3 +1,34 @@
+### December 30th, 2020
+
+Programmers current rank: 1092
+
+### Moe Todo to go home
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+- Apply for a job
+    - (x): 비바리퍼블리카, Server Developer
+        - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/3965
+    - (x): 베어로보틱스코리아, 로봇 관제 서비스 Backend 개발자
+        - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/1941
+    - (x): 버즈니, 프론트엔드 엔지니어
+        - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/3946
+
+1. Corgi preparing for interview♥♥
+    - Corgi working on `React Button Toggle` practice on React.js in coderbyte
+        - 내♥♥
+        - 여♥♥
+        - 보♥♥
+        - 사♥♥
+        - 랑♥♥
+        - 스♥♥
+        - 럽♥♥
+        - 다 >.<♥♥!!!
+        - ♥♥
+        - 사♥♥
+        - 랑♥♥
+        - 해♥♥
+
 ### December 29th, 2020
 
 Programmers current rank: 1092
