@@ -14,9 +14,11 @@ Programmers current rank: 1092
     - (x): 버즈니, 프론트엔드 엔지니어
         - 여보♥♥♥, 우리 링크♥♥♥♥: https://programmers.co.kr/job_positions/3946
 
-1. Corgi preparing for interview♥♥
-    - Corgi add progress #12 on `React Tic Tac Toe` practice on React.js in coderbyte♥♥
-        - Corgi adding code♥♥ #12
+1. 여보♥♥, 우리 형모 잘하고 올게요♥♥♥♥
+
+2. Corgi preparing for interview♥♥
+    - Corgi completed `React Tic Tac Toe` practice on React.js in coderbyte♥♥
+        - Corgi completed adding code♥♥
         - Corgi completed understanding problem♥♥
     - Corgi completed `React Phone Book` practice on React.js in coderbyte♥♥
         - Corgi completed fixing code♥♥
