@@ -24,10 +24,10 @@ Programmers current rank: 1065
     - 해♥♥
 
 2. Corgi add progress #805 on practicing coding interview♥♥
-    - Corgi add progress #2 on problem `입양 시각 구하기(2)` in Programmers (MySQL)♥♥
+    - Corgi add progress #3 on problem `입양 시각 구하기(2)` in Programmers (MySQL)♥♥
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/59413
-            - Corgi adding pseudocode♥♥
-            - Corgi understanding problem♥♥
+            - Corgi adding code♥♥ #3
+            - Corgi completed understanding problem♥♥
     - Corgi completed problem `입양 시각 구하기(1)` in Programmers (MySQL)♥♥
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/59412
             - Corgi completed adding pseudocode♥♥
