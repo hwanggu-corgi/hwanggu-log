@@ -24,10 +24,14 @@ Programmers current rank: 1065
     - 해♥♥
 
 2. Corgi add progress #807 on practicing coding interview♥♥
-    - Corgi add progress on problem `중성화 여부 파악하기` in Programmers (MySQL)♥♥
-        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/59409
+    - Corgi add progress on problem `DATETIME에서 DATE로 형 변환` in Programmers (MySQL)♥♥
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/59414
             - Corgi adding code♥♥
             - Corgi understanding problem♥♥
+    - Corgi completed problem `중성화 여부 파악하기` in Programmers (MySQL)♥♥
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/59409
+            - Corgi completed adding code♥♥
+            - Corgi completed understanding problem♥♥
     - Corgi completed problem `이름에 el이 들어가는 동물 찾기` in Programmers (MySQL)♥♥
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/59047
             - Corgi completed adding code♥♥
