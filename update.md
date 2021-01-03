@@ -23,7 +23,11 @@ Programmers current rank: 1065
     - 랑♥♥
     - 해♥♥
 
-2. Corgi add progress #806 on practicing coding interview♥♥
+2. Corgi add progress #807 on practicing coding interview♥♥
+    - Corgi completed problem `이름에 el이 들어가는 동물 찾기` in Programmers (MySQL)♥♥
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/59047
+            - Corgi completed adding code♥♥
+            - Corgi completed understanding problem♥♥
     - Corgi completed problem `루시와 엘라 찾기` in Programmers (MySQL)♥♥
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/59046
             - Corgi completed adding code♥♥
