@@ -23,11 +23,15 @@ Programmers current rank: 1065
     - 랑♥♥
     - 해♥♥
 
-2. Corgi add progress #803 on practicing coding interview♥♥
-    - Corgi add progress review on problem `최대값 구하기` in Programmers (MySQL)♥♥
-        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/49191
-            - Corgi adding pseudocode♥♥
-            - Corgi understanding problem♥♥
+2. Corgi add progress #804 on practicing coding interview♥♥
+    - Corgi completed problem `최대값 구하기` in Programmers (MySQL)♥♥
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/59038
+            - Corgi completed adding pseudocode♥♥
+            - Corgi completed understanding problem♥♥
+    - Corgi completed problem `최대값 구하기` in Programmers (MySQL)♥♥
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/59415
+            - Corgi completed adding code♥♥
+            - Corgi completed understanding problem♥♥
 
 
 ### January 3rd, 2021
