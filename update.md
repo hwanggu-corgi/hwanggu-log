@@ -23,10 +23,10 @@ Programmers current rank: 1065
     - 랑♥♥
     - 해♥♥
 
-2. Corgi add progress #811 on practicing coding interview♥♥
-    - Corgi add progress #4 on problem `없어진 기록 찾기` in Programmers (MySQL)♥♥
+2. Corgi add progress #812 on practicing coding interview♥♥
+    - Corgi add progress #5 on problem `없어진 기록 찾기` in Programmers (MySQL)♥♥
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/59042
-            - Corgi adding code♥♥ #4
+            - Corgi adding code♥♥ #5
             - Corgi completed understanding problem♥♥
     - Corgi completed problem `상위 n개 레코드` in Programmers (MySQL)♥♥
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/59405
