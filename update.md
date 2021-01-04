@@ -23,9 +23,9 @@ Programmers current rank: 1065
     - 랑♥♥
     - 해♥♥
 
-2. Corgi add progress #2 on preparing for upcoming interview♥♥
-    - Corgi practicing interview♥♥
-    - Corgi gathering notes #2♥♥
+2. Corgi completed interview with tagby♥♥
+    - Corgi completed practicing interview♥♥
+    - Corgi completed gathering notes #2♥♥
 
 3. Corgi add progress #813 on practicing coding interview♥♥
     - Corgi completed problem `오랜 기간 보호한 동물(1)` in Programmers (MySQL)♥♥
