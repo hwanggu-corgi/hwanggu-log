@@ -23,11 +23,12 @@ Programmers current rank: 1065
     - 랑♥♥
     - 해♥♥
 
-2. Corgi add progress #7 on practicing coding interview♥♥
-    - Corgi add progress #29 on problem `순위` in Programmers (python)♥♥
+2. Corgi add progress #8 on practicing coding interview♥♥
+    - Corgi add progress #30 on problem `순위` in Programmers (python)♥♥
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/49191
-            - Corgi adding pseudocode♥♥
-            - Corgi understanding problem♥♥ #29
+            - Corgi adding code♥♥
+            - Corgi adding pseudocode♥♥ #2
+            - Corgi understanding problem♥♥ #30
 ### January 4th, 2021
 
 Programmers current rank: 1065
