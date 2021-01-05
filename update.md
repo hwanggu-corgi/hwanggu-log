@@ -1,6 +1,6 @@
-### January 5th, 2021
+### January 6th, 2021
 
-Programmers current rank: 1065
+Programmers current rank: 1031
 
 ### Moe Todo to go home
 - (x): Attempt level 2 test at programmers
@@ -23,10 +23,51 @@ Programmers current rank: 1065
     - 랑♥♥
     - 해♥♥
 
-2. Corgi add progress #845 on practicing coding interview♥♥
-    - Corgi add progress #38 on problem `순위` in Programmers (python)♥♥
+2. Corgi add progress #846 on practicing coding interview♥♥
+    - Corgi add progress on problem `가장 긴 팰린드롬` in Programmers (python)♥♥
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12904
+            - Corgi adding pseudocode♥♥
+            - Corgi understanding problem♥♥
+    - Corgi completed problem `순위` in Programmers (python)♥♥
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/49191
-            - Corgi adding code♥♥ #9
+            - Corgi completed adding code♥♥
+            - Corgi completed adding pseudocode♥♥
+            - Corgi completed understanding problem♥♥
+
+### January 5th, 2021
+
+Programmers current rank: 1031
+
+### Moe Todo to go home
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+- Apply for a job
+
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+2. Corgi add progress #846 on practicing coding interview♥♥
+    - Corgi completed problem `순위` in Programmers (python)♥♥
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/49191
+            - Corgi completed adding code♥♥
+            - Corgi completed adding pseudocode♥♥
+            - Corgi completed understanding problem♥♥
+    - Corgi completed problem `순위` in Programmers (python)♥♥
+        - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/49191
+            - Corgi completed adding code♥♥
             - Corgi completed adding pseudocode♥♥
             - Corgi completed understanding problem♥♥
 ### January 4th, 2021
