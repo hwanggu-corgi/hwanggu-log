@@ -24,9 +24,10 @@ Programmers current rank: 1031
     - 해♥♥
 
 2. Corgi add progress #847 on practicing coding interview♥♥
-    - Corgi add progress #3 on problem `가장 긴 팰린드롬` in Programmers (python)♥♥
+    - Corgi add progress #4 on problem `가장 긴 팰린드롬` in Programmers (python)♥♥
         - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12904
-            - Corgi adding code♥♥
+            - Corgi fixing code♥♥
+            - Corgi completed adding code♥♥
             - Corgi completed adding pseudocode♥♥
             - Corgi completed understanding problem♥♥
     - Corgi completed problem `순위` in Programmers (python)♥♥
