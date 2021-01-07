@@ -24,7 +24,7 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on mini projects♥♥
-    - Corgi add progress #3 on dark-mode♥♥
+    - Corgi add progress #4 on dark-mode♥♥
 
 3. Corgi add progress #883 on practicing coding interview♥♥
     - [on hold] Corgi add progress #27 on problem `이중우선순위큐` in Programmers (python)♥♥
