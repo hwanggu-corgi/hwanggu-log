@@ -24,8 +24,8 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on mini projects♥♥
-    - Corgi add progress #12 on dark-mode♥♥
-        - Corgi adding progress #3 on adding react component `DarkModeButton`♥♥
+    - Corgi add progress #13 on dark-mode♥♥
+        - Corgi adding progress #4 on adding react component `DarkModeButton`♥♥
         - Corgi refactoring code♥♥
         - Corgi completed adding static template♥♥
 
