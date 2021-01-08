@@ -24,8 +24,8 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on mini projects♥♥
-    - Corgi add progress #5 on project `image lazy loading`♥♥
-        - Corgi adding code♥♥ #3
+    - Corgi add progress #6 on project `image lazy loading`♥♥
+        - Corgi adding code♥♥ #4
         - Corgi completed adding files♥♥
     - Corgi completed dark-mode♥♥
         - Corgi completed fixing incorrect component name in code♥♥
