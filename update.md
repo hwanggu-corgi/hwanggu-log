@@ -24,8 +24,10 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on mini projects♥♥
-    - Corgi add progress #15 on project `image lazy loading`♥♥
-        - Corgi loading project to our github.com/hyungmogu♥♥
+    - Corgi add progress on project `Learn Typescript`♥♥
+        - Corgi add progress on lesson 1 - Types♥♥
+    - Corgi completed project `image lazy loading`♥♥
+        - Corgi completed loading project to our github.com/hyungmogu♥♥
         - Corgi completed adding solution as react project♥♥
         - Corgi completed adding code♥♥
         - Corgi completed adding files♥♥
