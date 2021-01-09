@@ -24,9 +24,9 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on mini projects♥♥
-    - Corgi add progress #19 on project `Learn Typescript`♥♥
-        - Corgi add progress #19 on lesson 1 - Types♥♥
-            - Corgi add progress on project `Type Mart`♥♥ #3
+    - Corgi add progress #20 on project `Learn Typescript`♥♥
+        - Corgi add progress #20 on lesson 1 - Types♥♥
+            - Corgi add progress on project `Type Mart`♥♥ #4
             - Corgi completed project `Restaurant Recommender`♥♥
             - Corgi completed quiz (8/8)♥♥
             - Corgi completed lesson part (7/7)♥♥
