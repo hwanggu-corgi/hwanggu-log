@@ -7,6 +7,9 @@ Programmers current rank: 966
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 - Apply for a job
+    - (): 베러웨이시스템즈, FrontEnd 개발자
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://programmers.co.kr/job_positions/4052
 
 
 1. Corgi completed interview♥♥
