@@ -10,7 +10,7 @@ Programmers current rank: 966
     - (x): 베러웨이시스템즈, FrontEnd 개발자
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://programmers.co.kr/job_positions/4052
-    - ( ): 트릿지, Software Engineer - Frontend
+    - (x): 트릿지, Software Engineer - Frontend
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://programmers.co.kr/job_positions/4060
 
@@ -29,9 +29,9 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on mini projects♥♥
-    - Corgi add progress #107 on project `Learn Typescript`♥♥
-        - Corgi add progress #6 on chapter 4 - Union Types♥♥
-            - Corgi working on lesson 1 (4/8)♥♥ #6
+    - Corgi add progress #108 on project `Learn Typescript`♥♥
+        - Corgi add progress #7 on chapter 4 - Union Types♥♥
+            - Corgi working on lesson 1 (5/8)♥♥ #7
         - Corgi completed chapter 3 - Complex Types♥♥
             - Corgi completed project `Restaurant Orders`♥♥
             - Corgi completed quiz 2 (10/10)♥♥
