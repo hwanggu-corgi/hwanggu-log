@@ -11,7 +11,6 @@ Programmers current rank: 966
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://programmers.co.kr/job_positions/4052
 
-
 1. Corgi completed interview♥♥
     - 내♥♥
     - 여♥♥
@@ -27,9 +26,9 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on mini projects♥♥
-    - Corgi add progress #82 on project `Learn Typescript`♥♥
-        - Corgi add progress #14 on lesson 4 - Custom Types♥♥
-            - Corgi working on lesson (5/9)♥♥ #14
+    - Corgi add progress #83 on project `Learn Typescript`♥♥
+        - Corgi add progress #15 on lesson 4 - Custom Types♥♥
+            - Corgi working on lesson (6/9)♥♥ #15
         - Corgi completed lesson 3 - Complex Types♥♥
             - Corgi completed quiz (10/10)♥♥
             - Corgi completed lesson (8/8)♥♥
