@@ -29,6 +29,7 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi add progress #12 on writing personal statement for Tridge♥♥
+    - Corgi working on refining resume♥♥
     - Corgi completed writing personal statement♥♥
 
 3. Corgi working on mini projects♥♥
