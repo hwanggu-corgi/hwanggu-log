@@ -7,7 +7,7 @@ Programmers current rank: 966
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 - Apply for a job
-    - ( ): datatrail, Front End React Developer
+    - (x): datatrail, Front End React Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.glassdoor.ca/job-listing/front-end-react-developer-datatrail-JV_IC2275123_KO0,25_KE26,35.htm?jl=3791594128&pos=101&ao=1044077&s=58&guid=000001770bd0886ea4e4076b0f87303f&src=GD_JOB_AD&t=SR&vt=w&uido=74DDC6889F4EFE3817A5D9532FC31251&ea=1&cs=1_8e490ca0&cb=1610810952017&jobListingId=3791594128&ctt=1610811149017
     - ( ): AgencyAnalytics, Frontend Developer (Website)
@@ -29,9 +29,9 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on mini projects♥♥
-    - Corgi add progress #140 on project `Learn Typescript`♥♥
-        - Corgi add progress #7 on chapter 5 - Type Narrowing♥♥
-            - Corgi working on lesson (4/6)♥♥ #7
+    - Corgi add progress #141 on project `Learn Typescript`♥♥
+        - Corgi add progress #8 on chapter 5 - Type Narrowing♥♥
+            - Corgi working on lesson (4/6)♥♥ #8
     - Corgi add progress #3 on `Digital Resume`
         - Corgi completed adding design♥♥
 
