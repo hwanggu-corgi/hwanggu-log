@@ -7,12 +7,12 @@ Programmers current rank: 966
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 - Apply for a job
-    - (x): 베러웨이시스템즈, FrontEnd 개발자
+    - ( ): datatrail, Front End React Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://programmers.co.kr/job_positions/4052
-    - (x): 트릿지, Software Engineer - Frontend
+            - https://www.glassdoor.ca/job-listing/front-end-react-developer-datatrail-JV_IC2275123_KO0,25_KE26,35.htm?jl=3791594128&pos=101&ao=1044077&s=58&guid=000001770bd0886ea4e4076b0f87303f&src=GD_JOB_AD&t=SR&vt=w&uido=74DDC6889F4EFE3817A5D9532FC31251&ea=1&cs=1_8e490ca0&cb=1610810952017&jobListingId=3791594128&ctt=1610811149017
+    - ( ): AgencyAnalytics, Frontend Developer (Website)
         - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://programmers.co.kr/job_positions/4060
+            - https://www.glassdoor.ca/job-listing/frontend-developer-website-agencyanalytics-JV_IC2281069_KO0,26_KE27,42.htm?jl=3781914634
 
 1. Corgi completed interview♥♥
     - 내♥♥
@@ -29,14 +29,9 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on mini projects♥♥
-    - Corgi add progress #137 on project `Learn Typescript`♥♥
-        - Corgi add progress #4 on chapter 5 - Type Narrowing♥♥
-            - Corgi working on lesson (2/6)♥♥ #4
-        - Corgi completed chapter 4 - Union Types♥♥
-            - Corgi completed uploading project to github.com/hyungmogu♥♥
-            - Corgi completed project `Unionversity`♥♥
-            - Corgi completed quiz (9/9)♥♥
-            - Corgi completed lesson (8/8)♥♥
+    - Corgi add progress #138 on project `Learn Typescript`♥♥
+        - Corgi add progress #5 on chapter 5 - Type Narrowing♥♥
+            - Corgi working on lesson (3/6)♥♥ #5
     - Corgi add progress #3 on `Digital Resume`
         - Corgi completed adding design♥♥
 
