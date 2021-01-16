@@ -29,8 +29,6 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on mini projects♥♥
-    - Corgi add progress #2 on `Digital Resume`
-        - Corgi add progress #2 on adding design♥♥
     - Corgi add progress #136 on project `Learn Typescript`♥♥
         - Corgi add progress #3 on chapter 5 - Type Narrowing♥♥
             - Corgi working on lesson (2/6)♥♥ #3
@@ -39,6 +37,8 @@ Programmers current rank: 966
             - Corgi completed project `Unionversity`♥♥
             - Corgi completed quiz (9/9)♥♥
             - Corgi completed lesson (8/8)♥♥
+    - Corgi add progress #3 on `Digital Resume`
+        - Corgi completed adding design♥♥
 
 3. Corgi completed writing personal statement for Tridge♥♥
     - Corgi completed refining personal statement♥♥
