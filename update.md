@@ -13,6 +13,9 @@ Programmers current rank: 966
     - ( ): AgencyAnalytics, Frontend Developer (Website)
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.glassdoor.ca/job-listing/frontend-developer-website-agencyanalytics-JV_IC2281069_KO0,26_KE27,42.htm?jl=3781914634
+    - ( ): Integra Data & Analytic Solutions, WEB DEVELOPER
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.glassdoor.ca/job-listing/web-developer-integra-data-analytic-solutions-JV_IC2275123_KO0,13_KE14,45.htm?jl=3756024689&pos=116&ao=1136006&s=58&guid=000001770cd84d32958e426ae4388980&src=GD_JOB_AD&t=SR&vt=w&uido=74DDC6889F4EFE3817A5D9532FC31251&cs=1_7bdf633a&cb=1610828238486&jobListingId=3756024689&ctt=1610831033704
 
 1. Corgi completed interview♥♥
     - 내♥♥
@@ -29,9 +32,9 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on mini projects♥♥
-    - Corgi add progress #147 on project `Learn Typescript`♥♥
-        - Corgi add progress #14 on chapter 5 - Type Narrowing♥♥
-            - Corgi working on project `Park Service Volunteer Appreciation Program`♥♥ #2
+    - Corgi add progress #148 on project `Learn Typescript`♥♥
+        - Corgi add progress #15 on chapter 5 - Type Narrowing♥♥
+            - Corgi working on project `Park Service Volunteer Appreciation Program`♥♥ #3
                 - Corgi adding README.md♥♥
             - Corgi completed quiz (7/7)♥♥
             - Corgi completed lesson (6/6)♥♥
