@@ -17,6 +17,10 @@ Programmers current rank: 966
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.glassdoor.ca/job-listing/web-developer-integra-data-analytic-solutions-JV_IC2275123_KO0,13_KE14,45.htm?jl=3756024689&pos=116&ao=1136006&s=58&guid=000001770cd84d32958e426ae4388980&src=GD_JOB_AD&t=SR&vt=w&uido=74DDC6889F4EFE3817A5D9532FC31251&cs=1_7bdf633a&cb=1610828238486&jobListingId=3756024689&ctt=1610831033704
 
+    - ( ): The University of Calgary, Software Developer
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.glassdoor.ca/partner/jobListing.htm?pos=303&ao=1136006&s=58&guid=000001770dabd0fcbd605dca5893a385&src=GD_JOB_AD&t=SR&vt=w&uido=74DDC6889F4EFE3817A5D9532FC31251&cs=1_aa352056&cb=1610842100429&jobListingId=3768132141
+
 1. Corgi completed interview♥♥
     - 내♥♥
     - 여♥♥
@@ -32,10 +36,10 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on mini projects♥♥
-    - Corgi add progress #154 on project `Learn Typescript`♥♥
-        - Corgi add progress #20 on chapter 5 - Type Narrowing♥♥
-            - Corgi working on project `Park Service Volunteer Appreciation Program`♥♥ #6
-                - Corgi working on step (15/22)♥♥
+    - Corgi add progress #155 on project `Learn Typescript`♥♥
+        - Corgi add progress #21 on chapter 5 - Type Narrowing♥♥
+            - Corgi working on project `Park Service Volunteer Appreciation Program`♥♥ #7
+                - Corgi working on step (19/22)♥♥
                 - Corgi completed adding README.md♥♥
             - Corgi completed quiz (7/7)♥♥
             - Corgi completed lesson (6/6)♥♥
