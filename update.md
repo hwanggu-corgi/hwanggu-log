@@ -16,10 +16,9 @@ Programmers current rank: 966
     - ( ): Integra Data & Analytic Solutions, WEB DEVELOPER
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.glassdoor.ca/job-listing/web-developer-integra-data-analytic-solutions-JV_IC2275123_KO0,13_KE14,45.htm?jl=3756024689&pos=116&ao=1136006&s=58&guid=000001770cd84d32958e426ae4388980&src=GD_JOB_AD&t=SR&vt=w&uido=74DDC6889F4EFE3817A5D9532FC31251&cs=1_7bdf633a&cb=1610828238486&jobListingId=3756024689&ctt=1610831033704
-
-    - ( ): The University of Calgary, Software Developer
+    - ( ): LIMA Jobs, Web Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://www.glassdoor.ca/partner/jobListing.htm?pos=303&ao=1136006&s=58&guid=000001770dabd0fcbd605dca5893a385&src=GD_JOB_AD&t=SR&vt=w&uido=74DDC6889F4EFE3817A5D9532FC31251&cs=1_aa352056&cb=1610842100429&jobListingId=3768132141
+            - https://www.jobbank.gc.ca/jobsearch/jobposting/33543551
 
 1. Corgi completed interview♥♥
     - 내♥♥
@@ -36,9 +35,9 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on mini projects♥♥
-    - Corgi add progress #163 on project `Learn Typescript`♥♥
-        - Corgi add progress #4 on chapter 6 - Advanced Object Types♥♥
-            - Corgi working on lesson (4/9)♥♥ #4
+    - Corgi add progress #164 on project `Learn Typescript`♥♥
+        - Corgi add progress #5 on chapter 6 - Advanced Object Types♥♥
+            - Corgi working on lesson (5/9)♥♥ #5
         - Corgi completed chapter 5 - Type Narrowing♥♥
             - Corgi completed project `Park Service Volunteer Appreciation Program`♥♥
                 - Corgi completed uploading project♥♥
