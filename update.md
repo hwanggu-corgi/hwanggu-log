@@ -19,7 +19,7 @@ Programmers current rank: 966
     - ( ): LIMA Jobs, Web Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.jobbank.gc.ca/jobsearch/jobposting/33543551
-    - ( ):  Thinking Big Information Technology Inc., Web Developer
+    - (x):  Thinking Big Information Technology Inc., Web Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.jobbank.gc.ca/jobsearch/jobposting/33684942?source=searchresults
 
@@ -38,9 +38,9 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on mini projects♥♥
-    - Corgi add progress #165 on project `Learn Typescript`♥♥
-        - Corgi add progress #6 on chapter 6 - Advanced Object Types♥♥
-            - Corgi working on lesson (5/9)♥♥ #6
+    - Corgi add progress #166 on project `Learn Typescript`♥♥
+        - Corgi add progress #7 on chapter 6 - Advanced Object Types♥♥
+            - Corgi working on lesson (5/9)♥♥ #7
         - Corgi completed chapter 5 - Type Narrowing♥♥
             - Corgi completed project `Park Service Volunteer Appreciation Program`♥♥
                 - Corgi completed uploading project♥♥
