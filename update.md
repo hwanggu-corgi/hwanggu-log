@@ -10,7 +10,7 @@ Programmers current rank: 966
     - (x): datatrail, Front End React Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.glassdoor.ca/job-listing/front-end-react-developer-datatrail-JV_IC2275123_KO0,25_KE26,35.htm?jl=3791594128&pos=101&ao=1044077&s=58&guid=000001770bd0886ea4e4076b0f87303f&src=GD_JOB_AD&t=SR&vt=w&uido=74DDC6889F4EFE3817A5D9532FC31251&ea=1&cs=1_8e490ca0&cb=1610810952017&jobListingId=3791594128&ctt=1610811149017
-    - ( ): AgencyAnalytics, Frontend Developer (Website)
+    - (x): AgencyAnalytics, Frontend Developer (Website)
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.glassdoor.ca/job-listing/frontend-developer-website-agencyanalytics-JV_IC2281069_KO0,26_KE27,42.htm?jl=3781914634
     - ( ): Integra Data & Analytic Solutions, WEB DEVELOPER
@@ -36,10 +36,12 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on mini projects♥♥
-    - Corgi add progress #157 on project `Learn Typescript`♥♥
-        - Corgi add progress #24 on chapter 5 - Type Narrowing♥♥
-            - Corgi working on project `Park Service Volunteer Appreciation Program`♥♥ #9
-                - Corgi uploading project♥♥
+    - Corgi add progress #158 on project `Learn Typescript`♥♥
+        - Corgi working on chapter 6 - Advanced Object Types♥♥
+            - Corgi working on lesson (1/9)♥♥
+        - Corgi completed chapter 5 - Type Narrowing♥♥
+            - Corgi completed project `Park Service Volunteer Appreciation Program`♥♥ #9
+                - Corgi completed uploading project♥♥
                 - Corgi completed step (22/22)♥♥
                 - Corgi completed adding README.md♥♥
             - Corgi completed quiz (7/7)♥♥
