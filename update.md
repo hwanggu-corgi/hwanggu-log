@@ -37,7 +37,9 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on mini projects♥♥
+2. Corgi working on refining cover letter for LIMA Jobs♥♥
+
+3. Corgi working on mini projects♥♥
     - Corgi add progress #3 on `Digital Resume`
         - Corgi completed adding design♥♥
     - Corgi completed course `Learn Typescript`♥♥
