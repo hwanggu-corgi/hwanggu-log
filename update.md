@@ -38,9 +38,11 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on mini projects♥♥
-    - Corgi add progress #190 on course `Learn Typescript`♥♥
+    - Corgi add progress #3 on `Digital Resume`
+        - Corgi completed adding design♥♥
+    - Corgi completed course `Learn Typescript`♥♥
         - Corgi completed chapter 6 - Advanced Object Types♥♥
-            - Corgi uploading code to github.com/hyungmogu♥♥
+            - Corgi completed uploading code to github.com/hyungmogu♥♥
             - Corgi completed step (33/33) of project `Self Driving Car`♥♥
             - Corgi completed quiz (8/8)♥♥
             - Corgi completed lesson (9/9)♥♥
@@ -51,8 +53,6 @@ Programmers current rank: 966
                 - Corgi completed adding README.md♥♥
             - Corgi completed quiz (7/7)♥♥
             - Corgi completed lesson (6/6)♥♥
-    - Corgi add progress #3 on `Digital Resume`
-        - Corgi completed adding design♥♥
 
 ### January 18th, 2021
 
