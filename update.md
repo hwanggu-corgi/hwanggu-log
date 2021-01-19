@@ -41,8 +41,8 @@ Programmers current rank: 966
     - Called LMIA jobs for hiring manager's name. Terry picked up and said he will callback later♥♥
 
 3. Corgi working on mini projects♥♥
-    - Corgi add progress #13 on `Digital Resume`
-        - Corgi working on creating template for digital resume♥♥ #10
+    - Corgi add progress #14 on `Digital Resume`
+        - Corgi working on creating template for digital resume♥♥ #11
         - Corgi completed adding design♥♥
     - Corgi completed course `Learn Typescript`♥♥
         - Corgi completed chapter 6 - Advanced Object Types♥♥
