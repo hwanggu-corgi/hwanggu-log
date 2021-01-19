@@ -16,7 +16,7 @@ Programmers current rank: 966
     - ( ): Integra Data & Analytic Solutions, WEB DEVELOPER
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.glassdoor.ca/job-listing/web-developer-integra-data-analytic-solutions-JV_IC2275123_KO0,13_KE14,45.htm?jl=3756024689&pos=116&ao=1136006&s=58&guid=000001770cd84d32958e426ae4388980&src=GD_JOB_AD&t=SR&vt=w&uido=74DDC6889F4EFE3817A5D9532FC31251&cs=1_7bdf633a&cb=1610828238486&jobListingId=3756024689&ctt=1610831033704
-    - ( ): LIMA Jobs, Web Developer
+    - (x): LIMA Jobs, Web Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.jobbank.gc.ca/jobsearch/jobposting/33543551
     - (x):  Thinking Big Information Technology Inc., Web Developer
@@ -38,7 +38,7 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi completed sending email to thinking big♥♥
-3. Corgi working on sending email to LMIA Jobs♥♥ #2
+3. Corgi completed sending email to LMIA Jobs♥♥
 
 4. Corgi working on mini projects♥♥
     - Corgi add progress #18 on `Digital Resume`
