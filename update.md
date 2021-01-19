@@ -38,7 +38,7 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi completed sending email to thinking big♥♥
-3. Corgi working on sending email to LMIA Jobs♥♥
+3. Corgi working on sending email to LMIA Jobs♥♥ #2
 
 4. Corgi working on mini projects♥♥
     - Corgi add progress #18 on `Digital Resume`
