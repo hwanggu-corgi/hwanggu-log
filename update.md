@@ -37,7 +37,7 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi writing email to thinking big♥♥ #2
+2. Corgi writing email to thinking big♥♥ #3
 
 3. Corgi working on mini projects♥♥
     - Corgi add progress #18 on `Digital Resume`
