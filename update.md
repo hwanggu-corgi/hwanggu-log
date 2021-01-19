@@ -1,3 +1,64 @@
+### January 20th, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+- Apply for a job
+    - (x): datatrail, Front End React Developer
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.glassdoor.ca/job-listing/front-end-react-developer-datatrail-JV_IC2275123_KO0,25_KE26,35.htm?jl=3791594128&pos=101&ao=1044077&s=58&guid=000001770bd0886ea4e4076b0f87303f&src=GD_JOB_AD&t=SR&vt=w&uido=74DDC6889F4EFE3817A5D9532FC31251&ea=1&cs=1_8e490ca0&cb=1610810952017&jobListingId=3791594128&ctt=1610811149017
+    - (x): AgencyAnalytics, Frontend Developer (Website)
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.glassdoor.ca/job-listing/frontend-developer-website-agencyanalytics-JV_IC2281069_KO0,26_KE27,42.htm?jl=3781914634
+    - ( ): Integra Data & Analytic Solutions, WEB DEVELOPER
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.glassdoor.ca/job-listing/web-developer-integra-data-analytic-solutions-JV_IC2275123_KO0,13_KE14,45.htm?jl=3756024689&pos=116&ao=1136006&s=58&guid=000001770cd84d32958e426ae4388980&src=GD_JOB_AD&t=SR&vt=w&uido=74DDC6889F4EFE3817A5D9532FC31251&cs=1_7bdf633a&cb=1610828238486&jobListingId=3756024689&ctt=1610831033704
+    - ( ): LIMA Jobs, Web Developer
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.jobbank.gc.ca/jobsearch/jobposting/33543551
+    - (x):  Thinking Big Information Technology Inc., Web Developer
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.jobbank.gc.ca/jobsearch/jobposting/33684942?source=searchresults
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+2. Corgi working on refining cover letter for LMIA Jobs♥♥ #7
+    - Called LMIA jobs for hiring manager's name. Terry picked up and said he will callback later♥♥
+
+3. Corgi working on mini projects♥♥
+    - Corgi add progress #17 on `Digital Resume`
+        - Corgi working on creating template for digital resume♥♥ #14
+        - Corgi completed adding design♥♥
+    - Corgi completed course `Learn Typescript`♥♥
+        - Corgi completed chapter 6 - Advanced Object Types♥♥
+            - Corgi completed uploading code to github.com/hyungmogu♥♥
+            - Corgi completed step (33/33) of project `Self Driving Car`♥♥
+            - Corgi completed quiz (8/8)♥♥
+            - Corgi completed lesson (9/9)♥♥
+        - Corgi completed chapter 5 - Type Narrowing♥♥
+            - Corgi completed project `Park Service Volunteer Appreciation Program`♥♥
+                - Corgi completed uploading project♥♥
+                - Corgi completed step (22/22)♥♥
+                - Corgi completed adding README.md♥♥
+            - Corgi completed quiz (7/7)♥♥
+            - Corgi completed lesson (6/6)♥♥
+
+
 ### January 19th, 2021
 
 Programmers current rank: 966
