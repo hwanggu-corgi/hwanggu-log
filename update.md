@@ -26,8 +26,8 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on mini projects♥♥
-    - Corgi add progress #44 on `Digital Resume`♥♥
-        - Corgi working on creating React App♥♥ #19
+    - Corgi add progress #46 on `Digital Resume`♥♥
+        - Corgi working on creating React App♥♥ #21
         - Corgi completed creating template for digital resume♥♥
         - Corgi completed adding design♥♥
 
