@@ -26,12 +26,13 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on mini projects♥♥
-    - Corgi add progress #43 on `Digital Resume`♥♥
-        - Corgi working on creating React App♥♥ #18
+    - Corgi add progress #44 on `Digital Resume`♥♥
+        - Corgi working on creating React App♥♥ #19
         - Corgi completed creating template for digital resume♥♥
         - Corgi completed adding design♥♥
 
 3. Corgi completed sending application to NiceJob♥♥
+    - Contacted the company. They said they are looking for a paid person
 
 ### January 20th, 2021
 
