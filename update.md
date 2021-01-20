@@ -41,10 +41,10 @@ Programmers current rank: 966
 3. Corgi completed sending email to LMIA Jobs♥♥
 4. Corgi sending application to Integra Data & Analytic Solutions♥♥
 
-4. Corgi working on mini projects♥♥
-    - Corgi add progress #32 on `Digital Resume`♥♥
-        - Corgi working on creating React App♥♥ #7
-        - Corgi completed creating template for digital resume♥♥ #21
+5. Corgi working on mini projects♥♥
+    - Corgi add progress #33 on `Digital Resume`♥♥
+        - Corgi working on creating React App♥♥ #8
+        - Corgi completed creating template for digital resume♥♥
         - Corgi completed adding design♥♥
     - Corgi completed course `Learn Typescript`♥♥
         - Corgi completed chapter 6 - Advanced Object Types♥♥
