@@ -13,7 +13,7 @@ Programmers current rank: 966
     - (x): AgencyAnalytics, Frontend Developer (Website)
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.glassdoor.ca/job-listing/frontend-developer-website-agencyanalytics-JV_IC2281069_KO0,26_KE27,42.htm?jl=3781914634
-    - ( ): Integra Data & Analytic Solutions, WEB DEVELOPER
+    - (x): Integra Data & Analytic Solutions, WEB DEVELOPER
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.glassdoor.ca/job-listing/web-developer-integra-data-analytic-solutions-JV_IC2275123_KO0,13_KE14,45.htm?jl=3756024689&pos=116&ao=1136006&s=58&guid=000001770cd84d32958e426ae4388980&src=GD_JOB_AD&t=SR&vt=w&uido=74DDC6889F4EFE3817A5D9532FC31251&cs=1_7bdf633a&cb=1610828238486&jobListingId=3756024689&ctt=1610831033704
     - (x): LIMA Jobs, Web Developer
@@ -22,6 +22,9 @@ Programmers current rank: 966
     - (x):  Thinking Big Information Technology Inc., Web Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.jobbank.gc.ca/jobsearch/jobposting/33684942?source=searchresults
+    - ( ): Nice Jobs, Front-end Developer
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://nicejob.breezy.hr/p/3d582a8388c6-front-end-engineer?source=get.nicejob.co/alt&popup=true
 
 1. Corgi completed interview♥♥
     - 내♥♥
@@ -42,8 +45,8 @@ Programmers current rank: 966
 4. Corgi completed sending application to Integra Data & Analytic Solutions♥♥
 
 5. Corgi working on mini projects♥♥
-    - Corgi add progress #33 on `Digital Resume`♥♥
-        - Corgi working on creating React App♥♥ #8
+    - Corgi add progress #34 on `Digital Resume`♥♥
+        - Corgi working on creating React App♥♥ #9
         - Corgi completed creating template for digital resume♥♥
         - Corgi completed adding design♥♥
     - Corgi completed course `Learn Typescript`♥♥
