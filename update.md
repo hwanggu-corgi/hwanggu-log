@@ -39,7 +39,7 @@ Programmers current rank: 966
 
 2. Corgi completed sending email to thinking big♥♥
 3. Corgi completed sending email to LMIA Jobs♥♥
-4. Corgi sending application to Integra Data & Analytic Solutions♥♥
+4. Corgi completed sending application to Integra Data & Analytic Solutions♥♥
 
 5. Corgi working on mini projects♥♥
     - Corgi add progress #33 on `Digital Resume`♥♥
