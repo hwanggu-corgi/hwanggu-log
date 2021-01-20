@@ -45,8 +45,8 @@ Programmers current rank: 966
 4. Corgi completed sending application to Integra Data & Analytic Solutions♥♥
 
 5. Corgi working on mini projects♥♥
-    - Corgi add progress #34 on `Digital Resume`♥♥
-        - Corgi working on creating React App♥♥ #9
+    - Corgi add progress #35 on `Digital Resume`♥♥
+        - Corgi working on creating React App♥♥ #10
         - Corgi completed creating template for digital resume♥♥
         - Corgi completed adding design♥♥
     - Corgi completed course `Learn Typescript`♥♥
