@@ -25,14 +25,16 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on mini projects♥♥
+2. Corgi working on interview for NiceJob♥♥
+    - Contacted the company. They said they are looking for a paid person
+    - Corgi we passed the first interview♥♥
+    - Corgi preparing the second interview♥♥
+
+3. Corgi working on mini projects♥♥
     - Corgi add progress #47 on `Digital Resume`♥♥
         - Corgi working on creating React App♥♥ #22
         - Corgi completed creating template for digital resume♥♥
         - Corgi completed adding design♥♥
-
-3. Corgi completed sending application to NiceJob♥♥
-    - Contacted the company. They said they are looking for a paid person
 
 ### January 20th, 2021
 
