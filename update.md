@@ -25,8 +25,8 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi add progress #35 on interview with NiceJob♥♥
-    - Corgi working on recording videos for interview♥♥ #3
+2. Corgi add progress #36 on interview with NiceJob♥♥
+    - Corgi working on recording videos for interview♥♥ #4
     - Corgi completed writing email to Shonnah♥♥
     - Corgi preparing the second interview♥♥
     - Corgi completed writing email to Josh♥♥
