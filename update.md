@@ -25,15 +25,16 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi add progress #32 on interview with NiceJob♥♥
-    - Corgi writing email to Shonnah♥♥ #4
-    - Corgi preparing the second interview♥♥ #
+2. Corgi add progress #33 on interview with NiceJob♥♥
+    - Corgi working on recording videos for interview♥♥
+    - Corgi completed writing email to Shonnah♥♥
+    - Corgi preparing the second interview♥♥
     - Corgi completed writing email to Josh♥♥
     - Corgi we passed the first interview♥♥
     - Contacted the company. They said they are looking for a paid person
 
 3. Corgi we got interview from Tridge♥♥ #2
-    - Corgi writing thank you email to Saeyan Ryu♥♥ #2
+    - Corgi completed writing thank you email to Saeyan Ryu♥♥
 
 4. Corgi working on mini projects♥♥
     - Corgi add progress #48 on `Digital Resume`♥♥
