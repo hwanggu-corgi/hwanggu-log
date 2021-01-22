@@ -32,8 +32,8 @@ Programmers current rank: 966
     - Corgi we passed the first interview♥♥
     - Contacted the company. They said they are looking for a paid person
 
-3. Corgi we got interview from Tridge♥♥
-    - Corgi writing thank you email to Saeyan Ryu♥♥
+3. Corgi we got interview from Tridge♥♥ #2
+    - Corgi writing thank you email to Saeyan Ryu♥♥ #2
 
 4. Corgi working on mini projects♥♥
     - Corgi add progress #48 on `Digital Resume`♥♥
