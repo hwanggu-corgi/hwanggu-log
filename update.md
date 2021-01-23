@@ -27,6 +27,10 @@ Programmers current rank: 966
 
 2. Corgi we got interview from Tridge♥♥ #24
     - Corgi working on practicing big interview for behavioral interview♥♥ #23
+        - Question: What are your most relevant qualifications for this position?
+            - https://app.biginterview.com/s/8681059f36
+
+        -
     - Corgi completed writing thank you email to Saeyan Ryu♥♥
 
 3. Corgi working on mini projects♥♥
