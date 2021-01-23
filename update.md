@@ -25,8 +25,8 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi we got interview from Tridge♥♥ #23
-    - Corgi working on practicing big interview for behavioral interview♥♥ #22
+2. Corgi we got interview from Tridge♥♥ #24
+    - Corgi working on practicing big interview for behavioral interview♥♥ #23
     - Corgi completed writing thank you email to Saeyan Ryu♥♥
 
 3. Corgi working on mini projects♥♥
