@@ -29,7 +29,8 @@ Programmers current rank: 966
     - Corgi working on practicing big interview for behavioral interview♥♥ #25
         - Question: What are your most relevant qualifications for this position?
             - (first attempt - silver) https://app.biginterview.com/s/8681059f36
-            - (second attempt ) https://app.biginterview.com/s/4c48be404d
+            - (second attempt - Bronze ) https://app.biginterview.com/s/4c48be404d
+            - (second attempt) https://app.biginterview.com/s/25534a0d93
 
     - Corgi completed writing thank you email to Saeyan Ryu♥♥
 
