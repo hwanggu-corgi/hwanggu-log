@@ -1,3 +1,40 @@
+### January 24th, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+- Apply for a job
+    - (x): Nice Jobs, Front-end Developer
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://nicejob.breezy.hr/p/3d582a8388c6-front-end-engineer?source=get.nicejob.co/alt&popup=true
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+2. Corgi we got interview from Tridge♥♥ #8
+    - Corgi working on practicing big interview for behavioral interview♥♥ #6
+    - Corgi completed writing thank you email to Saeyan Ryu♥♥
+
+3. Corgi working on mini projects♥♥
+    - Corgi add progress #48 on `Digital Resume`♥♥
+        - Corgi working on creating React App♥♥ #23
+        - Corgi completed creating template for digital resume♥♥
+        - Corgi completed adding design♥♥
+
 ### January 23rd, 2021
 
 Programmers current rank: 966
