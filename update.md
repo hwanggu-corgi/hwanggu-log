@@ -25,8 +25,9 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi we got interview from Tridge♥♥ #27
-    - Corgi working on practicing big interview for behavioral interview♥♥ #26
+2. Corgi we got interview from Tridge♥♥ #28
+    - Corgi working on practicing big interview for behavioral interview♥♥ #27
+        - Corgi working on question `Tell me about yourself`♥♥ #2
         - Question: What are your most relevant qualifications for this position?
             - (first attempt - silver) https://app.biginterview.com/s/8681059f36
             - (second attempt - Bronze ) https://app.biginterview.com/s/4c48be404d
