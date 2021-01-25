@@ -29,23 +29,12 @@ Programmers current rank: 966
     - Corgi working on practicing big interview for behavioral interview♥♥ #65
         - Corgi working on question `Tell me about your greatest career accomplishment`
             - Corgi working on video♥♥
+                - (first attempt, english) https://app.biginterview.com/s/dce58d7618 ♥♥
             - Corgi completed adding notes♥♥
-        - Corgi working on question `What do you know about our company and why do you want to work here?`♥♥
-            - (first attempt) https://app.biginterview.com/s/98336ddbbb
-            - Corgi completed adding notes♥♥
-        - Corgi completed working on question `Tell me about yourself`♥♥
-            - (first attempt) https://app.biginterview.com/s/5a087fffcf
-            - Corgi adding notes♥♥
-        - Question: What are your most relevant qualifications for this position?♥♥
-            - (first attempt - silver) https://app.biginterview.com/s/8681059f36
-            - (second attempt - Bronze ) https://app.biginterview.com/s/4c48be404d
-            - (second attempt) https://app.biginterview.com/s/25534a0d93
-    - Corgi completed adding styled components to `digital resume`♥♥
-    - Corgi completed writing thank you email to Saeyan Ryu♥♥
 
 3. Corgi working on mini projects♥♥
     - Corgi add progress #48 on `Digital Resume`♥♥
-        - Corgi working on creating React App♥♥ #23
+        - Corgi completed creating React App♥♥
         - Corgi completed creating template for digital resume♥♥
         - Corgi completed adding design♥♥
 
