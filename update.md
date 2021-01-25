@@ -1,3 +1,54 @@
+### January 26th, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+- Apply for a job
+    - (x): Nice Jobs, Front-end Developer
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://nicejob.breezy.hr/p/3d582a8388c6-front-end-engineer?source=get.nicejob.co/alt&popup=true
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+2. Corgi working on practicing interview with Tridge♥♥ #60
+    - Corgi working on practicing big interview for behavioral interview♥♥ #56
+        - Corgi working on question `Tell me about your greatest career accomplishment`
+            - Corgi adding notes♥♥ #9
+        - Corgi working on question `What do you know about our company and why do you want to work here?`♥♥
+            - (first attempt) https://app.biginterview.com/s/98336ddbbb
+            - Corgi completed adding notes♥♥
+        - Corgi completed working on question `Tell me about yourself`♥♥
+            - (first attempt) https://app.biginterview.com/s/5a087fffcf
+            - Corgi adding notes♥♥
+        - Question: What are your most relevant qualifications for this position?♥♥
+            - (first attempt - silver) https://app.biginterview.com/s/8681059f36
+            - (second attempt - Bronze ) https://app.biginterview.com/s/4c48be404d
+            - (second attempt) https://app.biginterview.com/s/25534a0d93
+    - Corgi completed adding styled components to `digital resume`♥♥
+    - Corgi completed writing thank you email to Saeyan Ryu♥♥
+
+3. Corgi working on mini projects♥♥
+    - Corgi add progress #48 on `Digital Resume`♥♥
+        - Corgi working on creating React App♥♥ #23
+        - Corgi completed creating template for digital resume♥♥
+        - Corgi completed adding design♥♥
+
+
 ### January 25th, 2021
 
 Programmers current rank: 966
