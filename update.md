@@ -29,6 +29,7 @@ Programmers current rank: 966
     - Corgi working on practicing big interview for behavioral interview♥♥ #80
         - Corgi working on question `What are your greatest strengths?`♥♥
             - Corgi working on adding video♥♥
+                - (first attempt, korean) https://app.biginterview.com/s/ee0f65a926 ♥♥
             - Corgi completed adding notes♥♥
         - Corgi working on question `Tell me about your greatest career accomplishment`♥♥
             - Corgi completed adding video♥♥
