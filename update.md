@@ -25,15 +25,14 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on practicing interview with Tridge♥♥ #98
-    - Corgi working on practicing big interview for behavioral interview♥♥ #95
+2. Corgi working on practicing interview with Tridge♥♥ #99
+    - Corgi working on practicing big interview for behavioral interview♥♥ #96
         - Corgi working on question `Where do you see yourself in 5 years`♥♥
-            - Corgi working on adding notes♥♥ #7
+            - Corgi working on adding notes♥♥ #8
         - Corgi working on question `what is your weakness`♥♥
             - Corgi completed adding video♥♥
                 - (first attempt, korean) https://app.biginterview.com/s/d85538e0e9 ♥♥
             - Corgi completed adding notes♥♥
-
 
 3. Corgi working on mini projects♥♥
     - Corgi add progress #48 on `Digital Resume`♥♥
