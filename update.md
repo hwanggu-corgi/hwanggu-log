@@ -1,3 +1,52 @@
+### January 27th, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+- Apply for a job
+    - (x): Nice Jobs, Front-end Developer
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://nicejob.breezy.hr/p/3d582a8388c6-front-end-engineer?source=get.nicejob.co/alt&popup=true
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+2. Corgi working on practicing interview with Tridge♥♥ #88
+    - Corgi working on practicing big interview for behavioral interview♥♥ #85
+        - Corgi working on question `what is your weakness`♥♥
+            - Corgi working on adding notes♥♥ #5
+        - Corgi working on question `What are your greatest strengths?`♥♥
+            - Corgi working on adding video♥♥
+                - (first attempt, korean) https://app.biginterview.com/s/ee0f65a926 ♥♥
+            - Corgi completed adding notes♥♥
+        - Corgi working on question `Tell me about your greatest career accomplishment`♥♥
+            - Corgi completed adding video♥♥
+                - (third attempt, korean) https://app.biginterview.com/s/3045cf2f07 ♥♥
+                - (second attempt, korean) https://app.biginterview.com/s/e06a3dbb9a ♥♥
+                - (first attempt, english) https://app.biginterview.com/s/dce58d7618 ♥♥
+            - Corgi completed adding notes♥♥
+
+3. Corgi working on mini projects♥♥
+    - Corgi add progress #48 on `Digital Resume`♥♥
+        - Corgi completed creating React App♥♥
+        - Corgi completed creating template for digital resume♥♥
+        - Corgi completed adding design♥♥
+
+
 ### January 26th, 2021
 
 Programmers current rank: 966
