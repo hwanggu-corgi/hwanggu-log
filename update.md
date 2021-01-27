@@ -25,7 +25,17 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi completed interview with Tridge♥♥
+2. Corgi working on mini projects♥♥
+    - Corgi add progress on `graph-ql`♥♥
+        - Corgi creating React App♥♥
+    - Corgi add progress #48 on `Digital Resume`♥♥
+        - Corgi completed creating React App♥♥
+        - Corgi completed creating template for digital resume♥♥
+        - Corgi completed adding design♥♥
+
+
+
+3. Corgi completed interview with Tridge♥♥
     - Corgi working on practicing big interview for behavioral interview♥♥ #106
         - Corgi working on question `What do you know about our company and why do you want to work here?`♥♥
             - Corgi completed adding video♥♥
@@ -61,14 +71,6 @@ Programmers current rank: 966
                 - (second attempt, korean) https://app.biginterview.com/s/2647258582 ♥♥
                 - (first attempt, korean) https://app.biginterview.com/s/df39f60480 ♥♥
             - Corgi completed adding notes♥♥
-
-3. Corgi working on mini projects♥♥
-    - Corgi add progress #48 on `Digital Resume`♥♥
-        - Corgi completed creating React App♥♥
-        - Corgi completed creating template for digital resume♥♥
-        - Corgi completed adding design♥♥
-
-
 
 
 ### January 27th, 2021
