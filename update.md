@@ -35,7 +35,9 @@ Programmers current rank: 966
             - Corgi completed adding notes♥♥
         - Corgi working on question `Where do you see yourself in 5 years`♥♥
             - Corgi completed adding video♥♥
-                - (first attempt, korean) https://app.biginterview.com/s/988cb41d94 ♥♥
+                - (fourth attempt, korean) https://app.biginterview.com/s/4a2af7e1ca ♥♥
+                - (third attempt, korean) https://app.biginterview.com/s/85af53feff ♥♥
+                - (second attempt, korean) https://app.biginterview.com/s/988cb41d94 ♥♥
                 - (first attempt, korean) https://app.biginterview.com/s/66c1505858 ♥♥
             - Corgi completed adding notes♥♥
         - Corgi working on question `what is your weakness`♥♥
