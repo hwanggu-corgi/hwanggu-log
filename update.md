@@ -1,3 +1,76 @@
+### January 28th, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+- Apply for a job
+    - (x): Nice Jobs, Front-end Developer
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://nicejob.breezy.hr/p/3d582a8388c6-front-end-engineer?source=get.nicejob.co/alt&popup=true
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+2. Corgi completed interview with Tridge♥♥
+    - Corgi working on practicing big interview for behavioral interview♥♥ #106
+        - Corgi working on question `What do you know about our company and why do you want to work here?`♥♥
+            - Corgi completed adding video♥♥
+                - (fourth attempt, korean) https://app.biginterview.com/s/285a5fe38b ♥♥
+                - (third attempt, korean) https://app.biginterview.com/s/2ccb342846 ♥♥
+                - (second attempt, korean) https://app.biginterview.com/s/4f739b1dcf ♥♥
+        - Corgi working on question `tell me about yourself`♥♥
+            - Corgi completed adding video♥♥
+                - (second attempt, korean) https://app.biginterview.com/s/3dbbcffba8 ♥♥
+        - Corgi working on question `what are your greatest strengths`♥♥
+            - Corgi completed adding video♥♥
+                - (second attempt, korean) https://app.biginterview.com/s/d69ca4a8f6 ♥♥
+        - Corgi working on question `what is your weakness`♥♥
+            - Corgi completed adding video♥♥
+                - (second attempt, korean) https://app.biginterview.com/s/a4da37a01d ♥♥
+                - (first attempt, korean) https://app.biginterview.com/s/d85538e0e9 ♥♥
+            - Corgi completed adding notes♥♥
+        - Corgi working on question `what is your weakness`♥♥
+            - Corgi completed adding video♥♥
+                - (second attempt, korean) https://app.biginterview.com/s/a4da37a01d ♥♥
+                - (first attempt, korean) https://app.biginterview.com/s/d85538e0e9 ♥♥
+            - Corgi completed adding notes♥♥
+        - Corgi working on question `Where do you see yourself in 5 years`♥♥
+            - Corgi completed adding video♥♥
+                - (fourth attempt, korean) https://app.biginterview.com/s/4a2af7e1ca ♥♥
+                - (third attempt, korean) https://app.biginterview.com/s/85af53feff ♥♥
+                - (second attempt, korean) https://app.biginterview.com/s/988cb41d94 ♥♥
+                - (first attempt, korean) https://app.biginterview.com/s/66c1505858 ♥♥
+            - Corgi completed adding notes♥♥
+        - Corgi working on question `What question do you have for me`♥♥
+            - Corgi completed adding video♥♥
+                - (third attempt, korean) https://app.biginterview.com/s/8a537b73d5 ♥♥
+                - (second attempt, korean) https://app.biginterview.com/s/2647258582 ♥♥
+                - (first attempt, korean) https://app.biginterview.com/s/df39f60480 ♥♥
+            - Corgi completed adding notes♥♥
+
+3. Corgi working on mini projects♥♥
+    - Corgi add progress #48 on `Digital Resume`♥♥
+        - Corgi completed creating React App♥♥
+        - Corgi completed creating template for digital resume♥♥
+        - Corgi completed adding design♥♥
+
+
+
+
 ### January 27th, 2021
 
 Programmers current rank: 966
