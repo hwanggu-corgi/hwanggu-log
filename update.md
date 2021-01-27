@@ -29,6 +29,7 @@ Programmers current rank: 966
     - Corgi working on practicing big interview for behavioral interview♥♥ #106
         - Corgi working on question `What do you know about our company and why do you want to work here?`♥♥
             - Corgi completed adding video♥♥
+                - (third attempt, korean) https://app.biginterview.com/s/2ccb342846 ♥♥
                 - (second attempt, korean) https://app.biginterview.com/s/4f739b1dcf ♥♥
         - Corgi working on question `tell me about yourself`♥♥
             - Corgi completed adding video♥♥
