@@ -25,13 +25,20 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on practicing interview with Tridge♥♥ #11
-    - Corgi working on practicing big interview for behavioral interview♥♥ #99
-        - Corgi working on question `What question do you have for me`♥♥
+2. Corgi working on practicing interview with Tridge♥♥ #12
+    - Corgi working on practicing big interview for behavioral interview♥♥ #100
+        - Corgi working on question `what are your greatest strengths`♥♥
             - Corgi completed adding video♥♥
-                - (third attempt, korean) https://app.biginterview.com/s/8a537b73d5 ♥♥
-                - (second attempt, korean) https://app.biginterview.com/s/2647258582 ♥♥
-                - (first attempt, korean) https://app.biginterview.com/s/df39f60480 ♥♥
+                - (second attempt, korean) https://app.biginterview.com/s/d69ca4a8f6 ♥♥
+        - Corgi working on question `what is your weakness`♥♥
+            - Corgi completed adding video♥♥
+                - (second attempt, korean) https://app.biginterview.com/s/a4da37a01d ♥♥
+                - (first attempt, korean) https://app.biginterview.com/s/d85538e0e9 ♥♥
+            - Corgi completed adding notes♥♥
+        - Corgi working on question `what is your weakness`♥♥
+            - Corgi completed adding video♥♥
+                - (second attempt, korean) https://app.biginterview.com/s/a4da37a01d ♥♥
+                - (first attempt, korean) https://app.biginterview.com/s/d85538e0e9 ♥♥
             - Corgi completed adding notes♥♥
         - Corgi working on question `Where do you see yourself in 5 years`♥♥
             - Corgi completed adding video♥♥
@@ -40,9 +47,11 @@ Programmers current rank: 966
                 - (second attempt, korean) https://app.biginterview.com/s/988cb41d94 ♥♥
                 - (first attempt, korean) https://app.biginterview.com/s/66c1505858 ♥♥
             - Corgi completed adding notes♥♥
-        - Corgi working on question `what is your weakness`♥♥
+        - Corgi working on question `What question do you have for me`♥♥
             - Corgi completed adding video♥♥
-                - (first attempt, korean) https://app.biginterview.com/s/d85538e0e9 ♥♥
+                - (third attempt, korean) https://app.biginterview.com/s/8a537b73d5 ♥♥
+                - (second attempt, korean) https://app.biginterview.com/s/2647258582 ♥♥
+                - (first attempt, korean) https://app.biginterview.com/s/df39f60480 ♥♥
             - Corgi completed adding notes♥♥
 
 3. Corgi working on mini projects♥♥
