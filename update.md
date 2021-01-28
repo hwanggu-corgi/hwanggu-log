@@ -15,6 +15,10 @@ Programmers current rank: 966
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.jobbank.gc.ca/jobsearch/jobposting/33719975?source=searchresults
 
+    - ( ): 11241141 CANADA CORP, Software Developer
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.jobbank.gc.ca/jobsearch/jobposting/33415819?source=searchresults
+
 1. Corgi completed interview♥♥
     - 내♥♥
     - 여♥♥
@@ -30,8 +34,8 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on mini projects♥♥
-    - Corgi add progress #30 on `graph-ql`♥♥
-        - Corgi creating React App♥♥ #7
+    - Corgi add progress #31 on `graph-ql`♥♥
+        - Corgi creating React App♥♥ #8
         - Corgi completed adding notes♥♥
     - Corgi add progress #48 on `Digital Resume`♥♥
         - Corgi completed creating React App♥♥
