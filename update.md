@@ -7,10 +7,6 @@ Programmers current rank: 966
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 - Apply for a job
-    - (x): Nice Jobs, Front-end Developer
-        - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://nicejob.breezy.hr/p/3d582a8388c6-front-end-engineer?source=get.nicejob.co/alt&popup=true
-
     - ( ): Hybrid Global, Web Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.glassdoor.ca/partner/jobListing.htm?pos=206&ao=1136006&s=58&guid=0000017746a4ac398f284a91c8521832&src=GD_JOB_AD&t=SR&vt=w&uido=74DDC6889F4EFE3817A5D9532FC31251&cs=1_8fa423db&cb=1611797933477&jobListingId=3659089095
@@ -34,8 +30,8 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on mini projects♥♥
-    - Corgi add progress #26 on `graph-ql`♥♥
-        - Corgi creating React App♥♥ #2
+    - Corgi add progress #27 on `graph-ql`♥♥
+        - Corgi creating React App♥♥ #3
         - Corgi completed adding notes♥♥
     - Corgi add progress #48 on `Digital Resume`♥♥
         - Corgi completed creating React App♥♥
