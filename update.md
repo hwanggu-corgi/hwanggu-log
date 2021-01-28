@@ -11,9 +11,9 @@ Programmers current rank: 966
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://nicejob.breezy.hr/p/3d582a8388c6-front-end-engineer?source=get.nicejob.co/alt&popup=true
 
-    - ( ): Zyris Software, Front-end Developer
+    - ( ): Hybrid Global, Web Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://www.glassdoor.ca/partner/jobListing.htm?pos=118&ao=1136006&s=58&guid=0000017746a2e188ba3acbac4505c731&src=GD_JOB_AD&t=SR&vt=w&uido=74DDC6889F4EFE3817A5D9532FC31251&cs=1_631c7baf&cb=1611797816188&jobListingId=3659088895
+            - https://www.glassdoor.ca/partner/jobListing.htm?pos=206&ao=1136006&s=58&guid=0000017746a4ac398f284a91c8521832&src=GD_JOB_AD&t=SR&vt=w&uido=74DDC6889F4EFE3817A5D9532FC31251&cs=1_8fa423db&cb=1611797933477&jobListingId=3659089095
 
 
 1. Corgi completed interview♥♥
@@ -31,8 +31,8 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on mini projects♥♥
-    - Corgi add progress #20 on `graph-ql`♥♥
-        - Corgi adding notes♥♥ #19
+    - Corgi add progress #22 on `graph-ql`♥♥
+        - Corgi adding notes♥♥ #21
         - Corgi creating React App♥♥
     - Corgi add progress #48 on `Digital Resume`♥♥
         - Corgi completed creating React App♥♥
