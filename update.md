@@ -23,6 +23,11 @@ Programmers current rank: 966
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.jobbank.gc.ca/jobsearch/jobposting/33640462?source=searchresults
 
+    - ( ): SoftForward Technologies Inc., Front End Developer
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://ca.indeed.com/Front-End-Developer-jobs-in-Calgary,-AB?vjk=07e4a50e84853a83
+
+
 1. Corgi completed interview♥♥
     - 내♥♥
     - 여♥♥
@@ -37,9 +42,12 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on mini projects♥♥
-    - Corgi add progress #50 on `graph-ql`♥♥
-        - Corgi creating React App♥♥ #27
+2. Corgi working on submitting application to Hybrid Global♥♥
+    - Corgi working on writing email message♥♥
+
+3. Corgi working on mini projects♥♥
+    - Corgi add progress #51 on `graph-ql`♥♥
+        - Corgi creating React App♥♥ #28
         - Corgi completed adding notes♥♥
     - Corgi add progress #48 on `Digital Resume`♥♥
         - Corgi completed creating React App♥♥
