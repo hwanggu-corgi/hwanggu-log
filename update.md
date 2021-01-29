@@ -11,7 +11,7 @@ Programmers current rank: 966
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.glassdoor.ca/partner/jobListing.htm?pos=206&ao=1136006&s=58&guid=0000017746a4ac398f284a91c8521832&src=GD_JOB_AD&t=SR&vt=w&uido=74DDC6889F4EFE3817A5D9532FC31251&cs=1_8fa423db&cb=1611797933477&jobListingId=3659089095
 
-    - ( ): Reachout Solutions Inc., Web Developer
+    - (x): Reachout Solutions Inc., Web Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.jobbank.gc.ca/jobsearch/jobposting/33719975?source=searchresults
 
@@ -42,8 +42,8 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on submitting application to Reachout Solutions Inc.♥♥ #2
-    - Corgi working on writing email message♥♥ #2
+2. Corgi working on submitting application to 11241141 CANADA CORP♥♥
+    - Corgi working on writing email message♥♥
 
 3. Corgi working on mini projects♥♥
     - Corgi add progress #51 on `graph-ql`♥♥
@@ -55,6 +55,8 @@ Programmers current rank: 966
         - Corgi completed adding design♥♥
 
 4. Corgi completed submitting application to Hybrid Global♥♥
+    - Corgi completed writing email message♥♥
+5. Corgi completed submitting application to Reachout Solutions Inc.♥♥
     - Corgi completed writing email message♥♥
 
 ### January 28th, 2021
