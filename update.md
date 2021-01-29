@@ -42,8 +42,8 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on submitting application to Reachout Solutions Inc.♥♥
-    - Corgi working on writing email message♥♥
+2. Corgi working on submitting application to Reachout Solutions Inc.♥♥ #2
+    - Corgi working on writing email message♥♥ #2
 
 3. Corgi working on mini projects♥♥
     - Corgi add progress #51 on `graph-ql`♥♥
