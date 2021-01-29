@@ -42,8 +42,8 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on submitting application to 11241141 CANADA CORP♥♥
-    - Corgi working on writing email message♥♥
+2. Corgi working on submitting application to 11241141 CANADA CORP♥♥ #2
+    - Corgi working on writing email message♥♥ #2
 
 3. Corgi working on mini projects♥♥
     - Corgi add progress #51 on `graph-ql`♥♥
