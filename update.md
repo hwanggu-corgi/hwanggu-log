@@ -19,7 +19,7 @@ Programmers current rank: 966
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.jobbank.gc.ca/jobsearch/jobposting/33415819?source=searchresults
 
-    - ( ): Accel Professional Corporation, Web Developer
+    - (x): Accel Professional Corporation, Web Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.jobbank.gc.ca/jobsearch/jobposting/33640462?source=searchresults
 
@@ -42,8 +42,8 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on submitting application to Accel Professional Corporation♥♥ #3
-    - Corgi working on writing email message♥♥ #3
+2. Corgi working on submitting application to SoftForward Technologies Inc.♥♥
+    - Corgi working on writing email message♥♥
 
 3. Corgi working on mini projects♥♥
     - Corgi add progress #51 on `graph-ql`♥♥
@@ -53,6 +53,9 @@ Programmers current rank: 966
         - Corgi completed creating React App♥♥
         - Corgi completed creating template for digital resume♥♥
         - Corgi completed adding design♥♥
+
+4. Corgi completed submitting application to Accel Professional Corporation♥♥
+    - Corgi completed writing email message♥♥
 
 ### January 29th, 2021
 
