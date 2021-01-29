@@ -23,7 +23,7 @@ Programmers current rank: 966
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.jobbank.gc.ca/jobsearch/jobposting/33640462?source=searchresults
 
-    - ( ): SoftForward Technologies Inc., Front End Developer
+    - (x): SoftForward Technologies Inc., Front End Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://ca.indeed.com/Front-End-Developer-jobs-in-Calgary,-AB?vjk=07e4a50e84853a83
 
@@ -42,20 +42,19 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on submitting application to SoftForward Technologies Inc.♥♥ #3
-    - Corgi working on writing email message♥♥ #3
-
-3. Corgi working on mini projects♥♥
-    - Corgi add progress #51 on `graph-ql`♥♥
-        - Corgi creating React App♥♥ #28
+2. Corgi working on mini projects♥♥
+    - Corgi add progress #52 on `graph-ql`♥♥
+        - Corgi creating React App♥♥ #29
         - Corgi completed adding notes♥♥
     - Corgi add progress #48 on `Digital Resume`♥♥
         - Corgi completed creating React App♥♥
         - Corgi completed creating template for digital resume♥♥
         - Corgi completed adding design♥♥
 
-4. Corgi completed submitting application to Accel Professional Corporation♥♥
+3. Corgi completed submitting application to Accel Professional Corporation♥♥
     - Corgi completed writing email message♥♥
+4. Corgi completed submitting application to SoftForward Technologies Inc.♥♥ #3
+    - Corgi completed writing email message♥♥ #3
 
 ### January 29th, 2021
 
