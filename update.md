@@ -7,7 +7,7 @@ Programmers current rank: 966
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 - Apply for a job
-    - ( ): Hybrid Global, Front-end Developer
+    - (x): Hybrid Global, Front-end Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.glassdoor.ca/partner/jobListing.htm?pos=206&ao=1136006&s=58&guid=0000017746a4ac398f284a91c8521832&src=GD_JOB_AD&t=SR&vt=w&uido=74DDC6889F4EFE3817A5D9532FC31251&cs=1_8fa423db&cb=1611797933477&jobListingId=3659089095
 
@@ -42,9 +42,6 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on submitting application to Hybrid Global♥♥ #3
-    - Corgi working on writing email message♥♥ #3
-
 3. Corgi working on mini projects♥♥
     - Corgi add progress #51 on `graph-ql`♥♥
         - Corgi creating React App♥♥ #28
@@ -53,6 +50,9 @@ Programmers current rank: 966
         - Corgi completed creating React App♥♥
         - Corgi completed creating template for digital resume♥♥
         - Corgi completed adding design♥♥
+
+4. Corgi completed submitting application to Hybrid Global♥♥
+    - Corgi completed writing email message♥♥
 
 ### January 28th, 2021
 
