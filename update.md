@@ -42,8 +42,8 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on submitting application to SoftForward Technologies Inc.♥♥ #2
-    - Corgi working on writing email message♥♥ #2
+2. Corgi working on submitting application to SoftForward Technologies Inc.♥♥ #3
+    - Corgi working on writing email message♥♥ #3
 
 3. Corgi working on mini projects♥♥
     - Corgi add progress #51 on `graph-ql`♥♥
