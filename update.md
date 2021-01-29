@@ -15,7 +15,7 @@ Programmers current rank: 966
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.jobbank.gc.ca/jobsearch/jobposting/33719975?source=searchresults
 
-    - ( ): 11241141 CANADA CORP, Software Developer
+    - (x): 11241141 CANADA CORP, Software Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.jobbank.gc.ca/jobsearch/jobposting/33415819?source=searchresults
 
@@ -42,8 +42,8 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on submitting application to 11241141 CANADA CORP♥♥ #3
-    - Corgi working on writing email message♥♥ #3
+2. Corgi working on submitting application to Accel Professional Corporation♥♥
+    - Corgi working on writing email message♥♥
 
 3. Corgi working on mini projects♥♥
     - Corgi add progress #51 on `graph-ql`♥♥
@@ -57,6 +57,8 @@ Programmers current rank: 966
 4. Corgi completed submitting application to Hybrid Global♥♥
     - Corgi completed writing email message♥♥
 5. Corgi completed submitting application to Reachout Solutions Inc.♥♥
+    - Corgi completed writing email message♥♥
+6. Corgi completed submitting application to 11641141 CANADA CORP♥♥ #3
     - Corgi completed writing email message♥♥
 
 ### January 28th, 2021
