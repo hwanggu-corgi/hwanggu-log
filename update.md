@@ -7,26 +7,6 @@ Programmers current rank: 966
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 - Apply for a job
-    - (x): Hybrid Global, Front-end Developer
-        - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://www.glassdoor.ca/partner/jobListing.htm?pos=206&ao=1136006&s=58&guid=0000017746a4ac398f284a91c8521832&src=GD_JOB_AD&t=SR&vt=w&uido=74DDC6889F4EFE3817A5D9532FC31251&cs=1_8fa423db&cb=1611797933477&jobListingId=3659089095
-
-    - (x): Reachout Solutions Inc., Web Developer
-        - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://www.jobbank.gc.ca/jobsearch/jobposting/33719975?source=searchresults
-
-    - (x): 11241141 CANADA CORP, Software Developer
-        - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://www.jobbank.gc.ca/jobsearch/jobposting/33415819?source=searchresults
-
-    - (x): Accel Professional Corporation, Web Developer
-        - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://www.jobbank.gc.ca/jobsearch/jobposting/33640462?source=searchresults
-
-    - (x): SoftForward Technologies Inc., Front End Developer
-        - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://ca.indeed.com/Front-End-Developer-jobs-in-Calgary,-AB?vjk=07e4a50e84853a83
-
     - ( ): SkyIT Services, Front End Developer (React)
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://ca.indeed.com/Front-End-Developer-jobs-in-Calgary,-AB?vjk=77e2583527b5ffd9
@@ -50,18 +30,13 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on mini projects♥♥
-    - Corgi add progress #74 on `graph-ql`♥♥
-        - Corgi creating React App♥♥ #51
+    - Corgi add progress #75 on `graph-ql`♥♥
+        - Corgi creating React App♥♥ #52
         - Corgi completed adding notes♥♥
     - Corgi add progress #48 on `Digital Resume`♥♥
         - Corgi completed creating React App♥♥
         - Corgi completed creating template for digital resume♥♥
         - Corgi completed adding design♥♥
-
-3. Corgi completed submitting application to Accel Professional Corporation♥♥
-    - Corgi completed writing email message♥♥
-4. Corgi completed submitting application to SoftForward Technologies Inc.♥♥ #3
-    - Corgi completed writing email message♥♥ #3
 
 
 ### January 30th, 2021
