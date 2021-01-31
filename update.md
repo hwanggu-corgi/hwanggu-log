@@ -26,8 +26,8 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on mini projects♥♥
-    - Corgi add progress #112 on `graph-ql`♥♥
-        - Corgi creating React App♥♥ #89
+    - Corgi add progress #113 on `graph-ql`♥♥
+        - Corgi creating React App♥♥ #90
         - Corgi completed adding notes♥♥
     - Corgi add progress #48 on `Digital Resume`♥♥
         - Corgi completed creating React App♥♥
