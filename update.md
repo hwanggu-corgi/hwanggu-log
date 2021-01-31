@@ -7,10 +7,6 @@ Programmers current rank: 966
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 - Apply for a job
-    - ( ): SkyIT Services, Front End Developer (React)
-        - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://ca.indeed.com/Front-End-Developer-jobs-in-Calgary,-AB?vjk=77e2583527b5ffd9
-
     - ( ): Aucerna, Software Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://ca.indeed.com/jobs?q=Front%20End%20Developer&l=Calgary%2C%20AB&start=10&vjk=e169a076dc04b7d5
@@ -30,8 +26,8 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on mini projects♥♥
-    - Corgi add progress #102 on `graph-ql`♥♥
-        - Corgi creating React App♥♥ #79
+    - Corgi add progress #103 on `graph-ql`♥♥
+        - Corgi creating React App♥♥ #80
         - Corgi completed adding notes♥♥
     - Corgi add progress #48 on `Digital Resume`♥♥
         - Corgi completed creating React App♥♥
