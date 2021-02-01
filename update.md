@@ -10,6 +10,9 @@ Programmers current rank: 966
     - (x): Aucerna, Software Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://ca.indeed.com/jobs?q=Front%20End%20Developer&l=Calgary%2C%20AB&start=10&vjk=e169a076dc04b7d5
+    - ( ): Mastermind, Startup Software Developer
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.linkedin.com/jobs/view/2376340071
 
 1. Corgi completed interview♥♥
     - 내♥♥
@@ -26,8 +29,8 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on mini projects♥♥
-    - Corgi add progress #58 on `Digital Resume`♥♥
-        - Corgi working on integrating app to `hyungmogu.com`♥♥ #9
+    - Corgi add progress #59 on `Digital Resume`♥♥
+        - Corgi working on integrating app to `hyungmogu.com`♥♥ #10
         - Corgi completed creating React App♥♥
         - Corgi completed creating template for digital resume♥♥
         - Corgi completed adding design♥♥
