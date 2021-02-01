@@ -13,6 +13,9 @@ Programmers current rank: 966
     - ( ): Mastermind, Startup Software Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.linkedin.com/jobs/view/2376340071
+    - ( ): Givelify, Frontend REACT Engineer
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.linkedin.com/jobs/view/2368421258
 
 1. Corgi completed interview♥♥
     - 내♥♥
@@ -29,8 +32,8 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on mini projects♥♥
-    - Corgi add progress #60 on `Digital Resume`♥♥
-        - Corgi working on integrating app to `hyungmogu.com`♥♥ #11
+    - Corgi add progress #61 on `Digital Resume`♥♥
+        - Corgi working on integrating app to `hyungmogu.com`♥♥ #12
         - Corgi completed creating React App♥♥
         - Corgi completed creating template for digital resume♥♥
         - Corgi completed adding design♥♥
