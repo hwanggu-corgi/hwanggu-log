@@ -7,7 +7,7 @@ Programmers current rank: 966
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 - Apply for a job
-    - ( ): Aucerna, Software Developer
+    - (x): Aucerna, Software Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://ca.indeed.com/jobs?q=Front%20End%20Developer&l=Calgary%2C%20AB&start=10&vjk=e169a076dc04b7d5
 
@@ -25,8 +25,8 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on submitting application to Aucerna♥♥ #4
-    - Corgi working on writing email message♥♥ #4
+2. Corgi completed submitting application to Aucerna♥♥
+    - Corgi completed writing email message♥♥
 
 3. Corgi working on mini projects♥♥
     - Corgi completed `graph-ql`♥♥
