@@ -25,8 +25,8 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on submitting application to Aucerna♥♥
-    - Corgi working on writing email message♥♥
+2. Corgi working on submitting application to Aucerna♥♥ #2
+    - Corgi working on writing email message♥♥ #2
 
 3. Corgi working on mini projects♥♥
     - Corgi completed `graph-ql`♥♥
