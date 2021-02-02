@@ -35,8 +35,9 @@ Programmers current rank: 966
     - 해♥♥
 
 
-2. Corgi working on submitting application to Givelify♥♥ #2
-    - Corgi working on writing email message♥♥ #2
+2. Corgi working on submitting application to Givelify♥♥ #3
+    - Corgi working on filling out application♥♥
+    - Corgi working on writing email message♥♥ #3
 
 3. Corgi working on mini projects♥♥
     - Corgi add progress #66 on `Digital Resume`♥♥
