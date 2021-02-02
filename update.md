@@ -19,6 +19,9 @@ Programmers current rank: 966
     - ( ): Clio, Software Developer (Remote Option)
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.linkedin.com/jobs/view/2380394483
+    - ( ): Auth0, Fullstack Engineer, Docs
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.linkedin.com/jobs/view/2357740680
 
 1. Corgi completed interview♥♥
     - 내♥♥
@@ -35,8 +38,8 @@ Programmers current rank: 966
     - 해♥♥
 
 
-2. Corgi working on submitting application to Clio♥♥
-    - Corgi working on writing email message♥♥
+2. Corgi working on submitting application to Clio♥♥ #2
+    - Corgi working on writing email message♥♥ #2
 
 3. Corgi working on mini projects♥♥
     - Corgi add progress #66 on `Digital Resume`♥♥
