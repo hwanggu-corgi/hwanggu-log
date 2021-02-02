@@ -52,6 +52,60 @@ Programmers current rank: 966
         - Corgi completed creating React App♥♥
         - Corgi completed adding notes♥♥
 
+### February 2nd, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+- Apply for a job
+    - (x): Aucerna, Software Developer
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://ca.indeed.com/jobs?q=Front%20End%20Developer&l=Calgary%2C%20AB&start=10&vjk=e169a076dc04b7d5
+    - (x): Mastermind, Startup Software Developer
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.linkedin.com/jobs/view/2376340071
+    - (x): Givelify, Frontend REACT Engineer
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://careers.givelify.com/apply-now/?gh_jid=4890948002
+    - (x): Clio, Software Developer (Remote Option)
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.linkedin.com/jobs/view/2380394483
+    - ( ): Auth0, Fullstack Engineer, Docs
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.linkedin.com/jobs/view/2357740680
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+
+2. Corgi working on submitting application to Auth0♥♥ #2
+    - Corgi working on writing email message♥♥ #2
+
+3. Corgi working on mini projects♥♥
+    - Corgi add progress #66 on `Digital Resume`♥♥
+        - Corgi working on integrating app to `hyungmogu.com`♥♥ #17
+        - Corgi completed creating React App♥♥
+        - Corgi completed creating template for digital resume♥♥
+        - Corgi completed adding design♥♥
+    - Corgi completed `graph-ql`♥♥
+        - Corgi completed uploading project to github.com/hyungmogu♥♥
+        - Corgi completed creating React App♥♥
+        - Corgi completed adding notes♥♥
+
 5. Corgi completed submitting application to Clio♥♥
     - Corgi completed filling out application♥♥
     - Corgi completed writing email message♥♥
