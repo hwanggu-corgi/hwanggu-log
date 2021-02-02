@@ -13,7 +13,13 @@ Programmers current rank: 966
     - ( ): Decisive Farming, Front End Software Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.linkedin.com/jobs/view/2379580568/?refId=8uqqvSV3%2B4nrJCB8UGiLEA%3D%3D&trackingId=Ox38q21uiz3m5hXHZ4uWCQ%3D%3D
+    - ( ): Revature, Front End Developer (Entry level)
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.linkedin.com/jobs/view/2404780656/?refId=0m87ipk44FM2bwSzv4rVaw%3D%3D&trackingId=je8bjpzlbiqOwIwhbiLRaQ%3D%3D
 
+    - ( ): Robert Half, Intermediate React Developer
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.linkedin.com/jobs/view/2386115810/?refId=8uqqvSV3%2B4nrJCB8UGiLEA%3D%3D&trackingId=lxVSULgy%2FTgjashO%2FJ5PXQ%3D%3D
 1. Corgi completed interview♥♥
     - 내♥♥
     - 여♥♥
@@ -29,10 +35,10 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on mini projects♥♥
-    - Corgi working on project `Clock App` from frontend mentors♥♥ #3
+    - Corgi working on project `Clock App` from frontend mentors♥♥ #4
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.frontendmentor.io/challenges/clock-app-LMFaxFwrM
-        - Corgi working on creating react app♥♥ #3
+        - Corgi working on creating react app♥♥ #4
         - Corgi completed setting up project♥♥
     - Corgi completed `Digital Resume`♥♥
         - Corgi uploading solution to `github.com/hyungmogu`♥♥
