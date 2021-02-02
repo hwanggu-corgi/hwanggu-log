@@ -16,7 +16,7 @@ Programmers current rank: 966
     - (x): Givelify, Frontend REACT Engineer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://careers.givelify.com/apply-now/?gh_jid=4890948002
-    - ( ): Clio, Software Developer (Remote Option)
+    - (x): Clio, Software Developer (Remote Option)
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.linkedin.com/jobs/view/2380394483
     - ( ): Auth0, Fullstack Engineer, Docs
@@ -38,8 +38,8 @@ Programmers current rank: 966
     - 해♥♥
 
 
-2. Corgi working on submitting application to Clio♥♥ #3
-    - Corgi working on writing email message♥♥ #3
+2. Corgi working on submitting application to Auth0♥♥
+    - Corgi working on writing email message♥♥
 
 3. Corgi working on mini projects♥♥
     - Corgi add progress #66 on `Digital Resume`♥♥
@@ -52,6 +52,9 @@ Programmers current rank: 966
         - Corgi completed creating React App♥♥
         - Corgi completed adding notes♥♥
 
+5. Corgi completed submitting application to Clio♥♥
+    - Corgi completed filling out application♥♥
+    - Corgi completed writing email message♥♥
 4. Corgi completed submitting application to Givelify♥♥
     - Corgi completed filling out application♥♥
     - Corgi completed writing email message♥♥
