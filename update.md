@@ -7,21 +7,12 @@ Programmers current rank: 966
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 - Apply for a job
-    - (x): Aucerna, Software Developer
-        - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://ca.indeed.com/jobs?q=Front%20End%20Developer&l=Calgary%2C%20AB&start=10&vjk=e169a076dc04b7d5
-    - (x): Mastermind, Startup Software Developer
-        - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://www.linkedin.com/jobs/view/2376340071
-    - (x): Givelify, Frontend REACT Engineer
-        - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://careers.givelify.com/apply-now/?gh_jid=4890948002
-    - (x): Clio, Software Developer (Remote Option)
-        - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://www.linkedin.com/jobs/view/2380394483
     - ( ): Auth0, Fullstack Engineer, Docs
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.linkedin.com/jobs/view/2357740680
+    - ( ): Decisive Farming, Front End Software Developer
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.linkedin.com/jobs/view/2379580568/?refId=8uqqvSV3%2B4nrJCB8UGiLEA%3D%3D&trackingId=Ox38q21uiz3m5hXHZ4uWCQ%3D%3D
 
 1. Corgi completed interview♥♥
     - 내♥♥
@@ -41,6 +32,7 @@ Programmers current rank: 966
     - Corgi working on project `Clock App` from frontend mentors♥♥
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.frontendmentor.io/challenges/clock-app-LMFaxFwrM
+        - Corgi working on creating react app♥♥
         - Corgi setting up project♥♥
     - Corgi completed `Digital Resume`♥♥
         - Corgi uploading solution to `github.com/hyungmogu`♥♥
