@@ -34,7 +34,11 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on mini projects♥♥
+
+2. Corgi working on submitting application to Mastermind♥♥
+    - Corgi working on writing email message♥♥
+
+3. Corgi working on mini projects♥♥
     - Corgi add progress #66 on `Digital Resume`♥♥
         - Corgi working on integrating app to `hyungmogu.com`♥♥ #17
         - Corgi completed creating React App♥♥
@@ -45,7 +49,7 @@ Programmers current rank: 966
         - Corgi completed creating React App♥♥
         - Corgi completed adding notes♥♥
 
-3. Corgi completed submitting application to Aucerna♥♥
+4. Corgi completed submitting application to Aucerna♥♥
     - Corgi completed writing email message♥♥
 
 ### February 1st, 2021
