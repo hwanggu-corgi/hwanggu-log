@@ -34,8 +34,9 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on submitting application to Auth0♥♥ #3
-    - Corgi working on writing email message♥♥ #3
+2. Corgi working on submitting application to Auth0♥♥ #4
+    - Corgi working on updating resume♥♥
+    - Corgi working on writing email message♥♥ #4
 
 3. Corgi working on mini projects♥♥
     - Corgi working on project `Clock App` from frontend mentors♥♥ #13
