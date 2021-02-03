@@ -34,9 +34,9 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on submitting application to MobSquad♥♥ #3
-    - Corgi working on updating resume♥♥ #3
-    - Corgi working on writing email message♥♥ #3
+2. Corgi working on submitting application to Robert Half♥♥
+    - Corgi working on updating resume♥♥
+    - Corgi working on writing email message♥♥
 
 3. Corgi working on mini projects♥♥
     - Corgi working on project `Clock App` from frontend mentors♥♥ #13
@@ -55,10 +55,13 @@ Programmers current rank: 966
         - Corgi completed creating React App♥♥
         - Corgi completed adding notes♥♥
 
-4. Corgi completed submitting application to Decisive Farming♥♥
+4. Corgi completed submitting application to MobSquad♥♥
     - Corgi completed updating resume♥♥
     - Corgi completed writing email message♥♥
-5. Corgi completed submitting application to Auth0♥♥
+5. Corgi completed submitting application to Decisive Farming♥♥
+    - Corgi completed updating resume♥♥
+    - Corgi completed writing email message♥♥
+6. Corgi completed submitting application to Auth0♥♥
     - Corgi completed updating resume♥♥
     - Corgi completed writing email message♥♥
 
