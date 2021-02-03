@@ -17,7 +17,7 @@ Programmers current rank: 966
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.linkedin.com/jobs/view/2342680913
 
-    - ( ): Fortinet, Web Developer
+    - (x): Fortinet, Web Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.linkedin.com/jobs/view/2383151805
 1. Corgi completed interview♥♥
@@ -34,11 +34,7 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on submitting application to Fortinet♥♥ #2
-    - Corgi working on updating resume♥♥ #2
-    - Corgi working on filling out application♥♥ #2
-
-3. Corgi working on mini projects♥♥
+2. Corgi working on mini projects♥♥
     - Corgi working on project `Clock App` from frontend mentors♥♥ #13
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.frontendmentor.io/challenges/clock-app-LMFaxFwrM
@@ -55,6 +51,8 @@ Programmers current rank: 966
         - Corgi completed creating React App♥♥
         - Corgi completed adding notes♥♥
 
+3. Corgi completed submitting application to Fortinet♥♥
+    - Corgi completed filling out application♥♥
 4. Corgi completed submitting application to MobSquad♥♥
     - Corgi completed updating resume♥♥
     - Corgi completed writing email message♥♥
