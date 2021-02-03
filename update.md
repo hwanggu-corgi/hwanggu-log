@@ -13,13 +13,13 @@ Programmers current rank: 966
     - (x): Decisive Farming, Front End Software Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.linkedin.com/jobs/view/2379580568/?refId=8uqqvSV3%2B4nrJCB8UGiLEA%3D%3D&trackingId=Ox38q21uiz3m5hXHZ4uWCQ%3D%3D
-    - ( ): MobSquad, Front-End Developer (Entry level)
+    - (x): MobSquad, Front-End Developer (Entry level)
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.linkedin.com/jobs/view/2342680913
 
-    - ( ): Robert Half, Intermediate React Developer
+    - ( ): Fortinet, Web Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://www.linkedin.com/jobs/view/2386115810/?refId=8uqqvSV3%2B4nrJCB8UGiLEA%3D%3D&trackingId=lxVSULgy%2FTgjashO%2FJ5PXQ%3D%3D
+            - https://www.linkedin.com/jobs/view/2383151805
 1. Corgi completed interview♥♥
     - 내♥♥
     - 여♥♥
@@ -34,9 +34,9 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on submitting application to Robert Half♥♥
-    - Corgi working on updating resume♥♥
-    - Corgi working on writing email message♥♥
+2. Corgi working on submitting application to Fortinet♥♥ #2
+    - Corgi working on updating resume♥♥ #2
+    - Corgi working on filling out application♥♥ #2
 
 3. Corgi working on mini projects♥♥
     - Corgi working on project `Clock App` from frontend mentors♥♥ #13
