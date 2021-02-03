@@ -34,7 +34,10 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on mini projects♥♥
+2. Corgi working on submitting application to Auth0♥♥ #3
+    - Corgi working on writing email message♥♥ #3
+
+3. Corgi working on mini projects♥♥
     - Corgi working on project `Clock App` from frontend mentors♥♥ #13
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.frontendmentor.io/challenges/clock-app-LMFaxFwrM
@@ -51,8 +54,6 @@ Programmers current rank: 966
         - Corgi completed creating React App♥♥
         - Corgi completed adding notes♥♥
 
-3. Corgi working on submitting application to Auth0♥♥ #2
-    - Corgi working on writing email message♥♥ #2
 
 ### February 2nd, 2021
 
