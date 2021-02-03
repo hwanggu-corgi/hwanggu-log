@@ -7,6 +7,9 @@ Programmers current rank: 966
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 - Apply for a job
+    - ( ): Korbit AI, Intermediate Front-End Developer
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.linkedin.com/jobs/view/2369639640
 
 1. Corgi completed interview♥♥
     - 내♥♥
@@ -23,8 +26,8 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on mini projects♥♥
-    - Corgi updating our `hyungmogu.com`♥♥ #2
-        - Corgi fixing contact email, portfolio dates and resume information♥♥ #2
+    - Corgi updating our `hyungmogu.com`♥♥ #3
+        - Corgi fixing contact email, portfolio dates and resume information♥♥ #3
     - Corgi working on project `Clock App` from frontend mentors♥♥ #13
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.frontendmentor.io/challenges/clock-app-LMFaxFwrM
