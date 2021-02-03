@@ -10,7 +10,7 @@ Programmers current rank: 966
     - (x): Auth0, Fullstack Engineer, Docs
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.linkedin.com/jobs/view/2357740680
-    - ( ): Decisive Farming, Front End Software Developer
+    - (x): Decisive Farming, Front End Software Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.linkedin.com/jobs/view/2379580568/?refId=8uqqvSV3%2B4nrJCB8UGiLEA%3D%3D&trackingId=Ox38q21uiz3m5hXHZ4uWCQ%3D%3D
     - ( ): Revature, Front End Developer (Entry level)
@@ -34,7 +34,7 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on submitting application to Decisive Farming♥♥
+2. Corgi working on submitting application to Revature♥♥
     - Corgi working on updating resume♥♥
     - Corgi working on writing email message♥♥
 
@@ -55,7 +55,10 @@ Programmers current rank: 966
         - Corgi completed creating React App♥♥
         - Corgi completed adding notes♥♥
 
-4. Corgi completed submitting application to Auth0♥♥
+4. Corgi completed submitting application to Decisive Farming♥♥
+    - Corgi completed updating resume♥♥
+    - Corgi completed writing email message♥♥
+5. Corgi completed submitting application to Auth0♥♥
     - Corgi completed updating resume♥♥
     - Corgi completed writing email message♥♥
 
