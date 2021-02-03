@@ -16,6 +16,9 @@ Programmers current rank: 966
     - ( ): Morad Creative Agency, Front End Web Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.glassdoor.ca/partner/jobListing.htm?pos=115&ao=1136006&s=58&guid=0000017769aae4718157eb33cd92b3f8&src=GD_JOB_AD&t=SR&vt=w&uido=74DDC6889F4EFE3817A5D9532FC31251&ea=1&cs=1_2f8b3110&cb=1612385543987&jobListingId=3814103162
+    - ( ): Auth0, Software Engineer, Growth and Enablement
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.linkedin.com/jobs/view/2361736123
 
 1. Corgi completed interview♥♥
     - 내♥♥
@@ -32,10 +35,10 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on mini projects♥♥
-    - Corgi working on project `Clock App` from frontend mentors♥♥ #16
+    - Corgi working on project `Clock App` from frontend mentors♥♥ #17
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.frontendmentor.io/challenges/clock-app-LMFaxFwrM
-        - Corgi working on creating react app♥♥ #16
+        - Corgi working on creating react app♥♥ #17
         - Corgi completed setting up project♥♥
     - Corgi completed updating our `hyungmogu.com`♥♥
         - Corgi completed fixing contact email, portfolio dates and resume information♥♥
