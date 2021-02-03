@@ -10,6 +10,9 @@ Programmers current rank: 966
     - ( ): Korbit AI, Intermediate Front-End Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.linkedin.com/jobs/view/2369639640
+    - ( ): jobDNES.cz, React developer home office
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.linkedin.com/jobs/view/2384816584/?alternateChannel=search&refId=bXVbm%2FuBmodtBW%2FEaDqBBw%3D%3D&trackingId=dBebvroN6HkjrNAWSf%2BtqA%3D%3D
 
 1. Corgi completed interview♥♥
     - 내♥♥
