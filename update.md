@@ -13,6 +13,9 @@ Programmers current rank: 966
     - ( ): jobDNES.cz, React developer home office
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.linkedin.com/jobs/view/2384816584/?alternateChannel=search&refId=bXVbm%2FuBmodtBW%2FEaDqBBw%3D%3D&trackingId=dBebvroN6HkjrNAWSf%2BtqA%3D%3D
+    - ( ): Morad Creative Agency, Front End Web Developer
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.glassdoor.ca/partner/jobListing.htm?pos=115&ao=1136006&s=58&guid=0000017769aae4718157eb33cd92b3f8&src=GD_JOB_AD&t=SR&vt=w&uido=74DDC6889F4EFE3817A5D9532FC31251&ea=1&cs=1_2f8b3110&cb=1612385543987&jobListingId=3814103162
 
 1. Corgi completed interview♥♥
     - 내♥♥
@@ -29,13 +32,13 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on mini projects♥♥
-    - Corgi updating our `hyungmogu.com`♥♥ #11
-        - Corgi fixing contact email, portfolio dates and resume information♥♥ #11
     - Corgi working on project `Clock App` from frontend mentors♥♥ #13
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.frontendmentor.io/challenges/clock-app-LMFaxFwrM
         - Corgi working on creating react app♥♥ #13
         - Corgi completed setting up project♥♥
+    - Corgi completed updating our `hyungmogu.com`♥♥
+        - Corgi completed fixing contact email, portfolio dates and resume information♥♥
 ### February 2nd, 2021
 
 Programmers current rank: 966
