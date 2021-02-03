@@ -34,9 +34,9 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on submitting application to MobSquad♥♥ #2
-    - Corgi working on updating resume♥♥ #2
-    - Corgi working on writing email message♥♥ #2
+2. Corgi working on submitting application to MobSquad♥♥ #3
+    - Corgi working on updating resume♥♥ #3
+    - Corgi working on writing email message♥♥ #3
 
 3. Corgi working on mini projects♥♥
     - Corgi working on project `Clock App` from frontend mentors♥♥ #13
