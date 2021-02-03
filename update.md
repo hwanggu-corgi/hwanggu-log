@@ -7,7 +7,7 @@ Programmers current rank: 966
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 - Apply for a job
-    - ( ): Auth0, Fullstack Engineer, Docs
+    - (x): Auth0, Fullstack Engineer, Docs
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.linkedin.com/jobs/view/2357740680
     - ( ): Decisive Farming, Front End Software Developer
@@ -34,9 +34,9 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on submitting application to Auth0♥♥ #6
-    - Corgi completed updating resume♥♥
-    - Corgi completed writing email message♥♥
+2. Corgi working on submitting application to Decisive Farming♥♥
+    - Corgi working on updating resume♥♥
+    - Corgi working on writing email message♥♥
 
 3. Corgi working on mini projects♥♥
     - Corgi working on project `Clock App` from frontend mentors♥♥ #13
@@ -54,6 +54,10 @@ Programmers current rank: 966
         - Corgi completed uploading project to github.com/hyungmogu♥♥
         - Corgi completed creating React App♥♥
         - Corgi completed adding notes♥♥
+
+4. Corgi completed submitting application to Auth0♥♥
+    - Corgi completed updating resume♥♥
+    - Corgi completed writing email message♥♥
 
 
 ### February 2nd, 2021
