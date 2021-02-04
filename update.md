@@ -7,9 +7,12 @@ Programmers current rank: 966
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 - Apply for a job
-    - ( ): Korbit AI, Intermediate Front-End Developer
+    - (x): Korbit AI, Intermediate Front-End Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.linkedin.com/jobs/view/2369639640
+    - ( ): Coalition Technologies, Shopify Developer
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://app.testedrecruits.com/posting/7668
     - ( ): jobDNES.cz, React developer home office
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.linkedin.com/jobs/view/2384816584/?alternateChannel=search&refId=bXVbm%2FuBmodtBW%2FEaDqBBw%3D%3D&trackingId=dBebvroN6HkjrNAWSf%2BtqA%3D%3D
@@ -34,9 +37,9 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on submitting application to Korbit AI♥♥ #2
-    - Corgi working on filling out application♥♥ #2
-    - Corgi completed updating resume♥♥
+2. Corgi working on submitting application to Coalition Technologies♥♥
+    - Corgi working on filling out application♥♥
+    - Corgi working on updating resume♥♥
 
 3. Corgi working on mini projects♥♥
     - Corgi working on project `Clock App` from frontend mentors♥♥ #17
@@ -46,6 +49,10 @@ Programmers current rank: 966
         - Corgi completed setting up project♥♥
     - Corgi completed updating our `hyungmogu.com`♥♥
         - Corgi completed fixing contact email, portfolio dates and resume information♥♥
+
+4. Corgi completed submitting application to Korbit AI♥♥
+    - Corgi completed filling out application♥♥
+    - Corgi completed updating resume♥♥
 ### February 2nd, 2021
 
 Programmers current rank: 966
