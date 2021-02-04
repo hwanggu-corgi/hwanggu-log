@@ -13,7 +13,7 @@ Programmers current rank: 966
     - (x): Coalition Technologies, Shopify Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://app.testedrecruits.com/posting/7668
-    - ( ): Monetize More, Web Developer (fully remote)
+    - (x): Monetize More, Web Developer (fully remote)
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://monetizem.applytojob.com/apply/gO6r4Zsetn/Web-Developer-fully-Remote
     - ( ): Morad Creative Agency, Front End Web Developer
@@ -37,9 +37,8 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on submitting application to Monetize More♥♥ #5
-    - Corgi working on filling out application♥♥ #5
-    - Corgi working on updating cover letter♥♥ #5
+2. Corgi working on submitting application to Morad Creative Agency♥♥
+    - Corgi working on filling out application♥♥
 
 3. Corgi working on mini projects♥♥
     - Corgi working on project `Clock App` from frontend mentors♥♥ #17
@@ -50,10 +49,13 @@ Programmers current rank: 966
     - Corgi completed updating our `hyungmogu.com`♥♥
         - Corgi completed fixing contact email, portfolio dates and resume information♥♥
 
-4. Corgi completed submitting application to Coalition Technologies♥♥
+4. Corgi completed submitting application to Monetize More♥♥
+    - Corgi completed filling out application♥♥
+    - Corgi completed updating cover letter♥♥
+5. Corgi completed submitting application to Coalition Technologies♥♥
     - Corgi completed filling out application♥♥
     - Corgi completed updating resume♥♥
-5. Corgi completed submitting application to Korbit AI♥♥
+6. Corgi completed submitting application to Korbit AI♥♥
     - Corgi completed filling out application♥♥
     - Corgi completed updating resume♥♥
 ### February 2nd, 2021
