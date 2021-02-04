@@ -34,7 +34,10 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on mini projects♥♥
+2. Corgi working on submitting application to Korbit AI♥♥
+    - Corgi working on filling out application♥♥
+
+3. Corgi working on mini projects♥♥
     - Corgi working on project `Clock App` from frontend mentors♥♥ #17
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.frontendmentor.io/challenges/clock-app-LMFaxFwrM
