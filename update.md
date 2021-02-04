@@ -34,8 +34,9 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on submitting application to Korbit AI♥♥
-    - Corgi working on filling out application♥♥
+2. Corgi working on submitting application to Korbit AI♥♥ #2
+    - Corgi working on filling out application♥♥ #2
+    - Corgi completed updating resume♥♥
 
 3. Corgi working on mini projects♥♥
     - Corgi working on project `Clock App` from frontend mentors♥♥ #17
