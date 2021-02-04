@@ -10,12 +10,12 @@ Programmers current rank: 966
     - (x): Korbit AI, Intermediate Front-End Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.linkedin.com/jobs/view/2369639640
-    - ( ): Coalition Technologies, Shopify Developer
+    - (x): Coalition Technologies, Shopify Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://app.testedrecruits.com/posting/7668
-    - ( ): jobDNES.cz, React developer home office
+    - ( ): Day Translations, Front End Web Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://www.linkedin.com/jobs/view/2384816584/?alternateChannel=search&refId=bXVbm%2FuBmodtBW%2FEaDqBBw%3D%3D&trackingId=dBebvroN6HkjrNAWSf%2BtqA%3D%3D
+            - https://day-translations.breezy.hr/p/a9fe6252367f-front-end-web-developer?source=flexjobs
     - ( ): Morad Creative Agency, Front End Web Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.glassdoor.ca/partner/jobListing.htm?pos=115&ao=1136006&s=58&guid=0000017769aae4718157eb33cd92b3f8&src=GD_JOB_AD&t=SR&vt=w&uido=74DDC6889F4EFE3817A5D9532FC31251&ea=1&cs=1_2f8b3110&cb=1612385543987&jobListingId=3814103162
