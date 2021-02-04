@@ -13,9 +13,9 @@ Programmers current rank: 966
     - (x): Coalition Technologies, Shopify Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://app.testedrecruits.com/posting/7668
-    - ( ): Day Translations, Front End Web Developer
+    - ( ): Monetize More, Web Developer (fully remote)
         - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://day-translations.breezy.hr/p/a9fe6252367f-front-end-web-developer?source=flexjobs
+            - https://monetizem.applytojob.com/apply/gO6r4Zsetn/Web-Developer-fully-Remote
     - ( ): Morad Creative Agency, Front End Web Developer
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.glassdoor.ca/partner/jobListing.htm?pos=115&ao=1136006&s=58&guid=0000017769aae4718157eb33cd92b3f8&src=GD_JOB_AD&t=SR&vt=w&uido=74DDC6889F4EFE3817A5D9532FC31251&ea=1&cs=1_2f8b3110&cb=1612385543987&jobListingId=3814103162
@@ -37,7 +37,7 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on submitting application to Coalition Technologies♥♥
+2. Corgi working on submitting application to Monetize More♥♥
     - Corgi working on filling out application♥♥
     - Corgi working on updating resume♥♥
 
@@ -50,7 +50,10 @@ Programmers current rank: 966
     - Corgi completed updating our `hyungmogu.com`♥♥
         - Corgi completed fixing contact email, portfolio dates and resume information♥♥
 
-4. Corgi completed submitting application to Korbit AI♥♥
+4. Corgi completed submitting application to Coalition Technologies♥♥
+    - Corgi completed filling out application♥♥
+    - Corgi completed updating resume♥♥
+5. Corgi completed submitting application to Korbit AI♥♥
     - Corgi completed filling out application♥♥
     - Corgi completed updating resume♥♥
 ### February 2nd, 2021
