@@ -23,10 +23,10 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on mini projects♥♥
-    - Corgi working on project `Clock App` from frontend mentors♥♥ #30
+    - Corgi working on project `Clock App` from frontend mentors♥♥ #31
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.frontendmentor.io/challenges/clock-app-LMFaxFwrM
-        - Corgi working on creating react app♥♥ #30
+        - Corgi working on creating react app♥♥ #31
         - Corgi completed setting up project♥♥
     - Corgi completed updating our `hyungmogu.com`♥♥
         - Corgi completed fixing contact email, portfolio dates and resume information♥♥
