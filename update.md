@@ -37,9 +37,9 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on submitting application to Monetize More♥♥ #2
-    - Corgi working on filling out application♥♥ #2
-    - Corgi working on updating cover letter♥♥ #2
+2. Corgi working on submitting application to Monetize More♥♥ #3
+    - Corgi working on filling out application♥♥ #3
+    - Corgi working on updating cover letter♥♥ #3
 
 3. Corgi working on mini projects♥♥
     - Corgi working on project `Clock App` from frontend mentors♥♥ #17
