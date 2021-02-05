@@ -23,22 +23,13 @@ Programmers current rank: 966
     - 해♥♥
 
 
-2. Corgi working on practicing algorithm for Mobsquad♥♥ #7
-    - Corgi working on question `체육복` in Programmers♥♥ #2
+2. Corgi working on practicing algorithm for Mobsquad♥♥ #8
+    - Corgi working on question `Sorting: Bubble Sort` in hackerrank♥♥
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting
+    - Corgi completed question `체육복` in Programmers♥♥
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://programmers.co.kr/learn/courses/30/lessons/42862
-    - Corgi completed question `Dictionaries and Hashmap: Two Strings` in hackerrank♥♥
-        - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays
-    - Corgi completed question `모의고사` in Programmers♥♥
-        - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://programmers.co.kr/learn/courses/30/lessons/42840
-    - Corgi completed question `Arrays: Left Rotation` in hackerrank♥♥
-        - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays
-    - Corgi completed question `완주하지 못한 선수` in Programmers♥♥
-        - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://programmers.co.kr/learn/courses/30/lessons/42576
 
 
 ### February 5th, 2021
