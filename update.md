@@ -23,8 +23,8 @@ Programmers current rank: 966
     - 해♥♥
 
 
-2. Corgi working on practicing algorithm for Mobsquad♥♥ #2
-    - Corgi working on question `모의고사` in Programmers♥♥
+2. Corgi working on practicing algorithm for Mobsquad♥♥ #4
+    - Corgi working on question `모의고사` in Programmers♥♥ #2
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://programmers.co.kr/learn/courses/30/lessons/42840
     - Corgi completed question `Arrays: Left Rotation` in hackerrank♥♥
