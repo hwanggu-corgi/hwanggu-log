@@ -1,4 +1,4 @@
-### February 4th, 2021
+### February 6th, 2021
 
 Programmers current rank: 966
 
@@ -23,8 +23,8 @@ Programmers current rank: 966
     - 해♥♥
 
 
-2. Corgi working on practicing algorithm for Mobsquad♥♥ #6
-    - Corgi working on question `체육복` in Programmers♥♥
+2. Corgi working on practicing algorithm for Mobsquad♥♥ #7
+    - Corgi working on question `체육복` in Programmers♥♥ #2
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://programmers.co.kr/learn/courses/30/lessons/42862
     - Corgi completed question `Dictionaries and Hashmap: Two Strings` in hackerrank♥♥
@@ -41,7 +41,7 @@ Programmers current rank: 966
             - https://programmers.co.kr/learn/courses/30/lessons/42576
 
 
-### February 3rd, 2021
+### February 5th, 2021
 
 Programmers current rank: 966
 
@@ -91,7 +91,7 @@ Programmers current rank: 966
         - Corgi completed fixing contact email, portfolio dates and resume information♥♥
 
 
-### February 2nd, 2021
+### February 4th, 2021
 
 Programmers current rank: 966
 
@@ -152,7 +152,8 @@ Programmers current rank: 966
 7. Corgi completed submitting application to Korbit AI♥♥
     - Corgi completed filling out application♥♥
     - Corgi completed updating resume♥♥
-### February 2nd, 2021
+
+### February 3rd, 2021
 
 Programmers current rank: 966
 
