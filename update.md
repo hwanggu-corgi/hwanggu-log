@@ -23,8 +23,8 @@ Programmers current rank: 966
     - 해♥♥
 
 
-2. Corgi working on practicing algorithm for Mobsquad♥♥
-    - Corgi working on question `완주하지 못한 선수`♥♥
+2. Corgi working on practicing algorithm for Mobsquad♥♥ #2
+    - Corgi working on question `완주하지 못한 선수`♥♥ #2
 
 
 3. Corgi working on mini projects♥♥
