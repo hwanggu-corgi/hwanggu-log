@@ -24,7 +24,10 @@ Programmers current rank: 966
 
 
 2. Corgi working on practicing algorithm for Mobsquad♥♥ #21
-    - Corgi working on question `Search: Swap Nodes` in hackerrank♥♥ #3
+    - Corgi completed question `가운데 글자 가져오기` in Programmers♥♥
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://programmers.co.kr/learn/courses/30/lessons/12903
+    - [on hold] Corgi working on question `Search: Swap Nodes` in hackerrank♥♥ #3
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.hackerrank.com/challenges/swap-nodes-algo/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search
     - Corgi completed question `2016년` in Programmers♥♥
