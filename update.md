@@ -23,8 +23,8 @@ Programmers current rank: 966
     - 해♥♥
 
 
-2. Corgi working on practicing algorithm for Mobsquad♥♥ #14
-    - Corgi working on question `Greedy: Luck Balance` in hackerrank♥♥ #3
+2. Corgi working on practicing algorithm for Mobsquad♥♥ #15
+    - Corgi working on question `Greedy: Luck Balance` in hackerrank♥♥ #4
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.hackerrank.com/challenges/luck-balance/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms
     - Corgi completed question `K번째수` in Programmers♥♥
