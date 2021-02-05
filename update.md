@@ -23,8 +23,12 @@ Programmers current rank: 966
     - 해♥♥
 
 
-2. Corgi working on practicing algorithm for Mobsquad♥♥ #10
-    - Corgi working on question `Sorting: Bubble Sort` in hackerrank♥♥ #3
+2. Corgi working on practicing algorithm for Mobsquad♥♥ #12
+    - Corgi working on question `K번째수` in Programmers♥♥
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://programmers.co.kr/learn/courses/30/lessons/42748
+
+    - Corgi completed question `Sorting: Bubble Sort` in hackerrank♥♥
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting
     - Corgi completed question `체육복` in Programmers♥♥
