@@ -1,3 +1,43 @@
+### February 4th, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+- Apply for a job
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+
+2. Corgi working on practicing algorithm for Mobsquad♥♥ #5
+    - Corgi working on question `Dictionaries and Hashmap: Two Strings` in hackerrank♥♥
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays
+    - Corgi completed question `모의고사` in Programmers♥♥
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://programmers.co.kr/learn/courses/30/lessons/42840
+    - Corgi completed question `Arrays: Left Rotation` in hackerrank♥♥
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays
+    - Corgi completed question `완주하지 못한 선수` in Programmers♥♥
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://programmers.co.kr/learn/courses/30/lessons/42576
+
+
 ### February 3rd, 2021
 
 Programmers current rank: 966
