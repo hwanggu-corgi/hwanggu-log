@@ -23,8 +23,8 @@ Programmers current rank: 966
     - 해♥♥
 
 
-2. Corgi working on practicing algorithm for Mobsquad♥♥ #24
-    - [on hold] Corgi working on question `Stack and Queues: Balanced Brackets` in hackerrank♥♥
+2. Corgi working on practicing algorithm for Mobsquad♥♥ #25
+    - Corgi working on question `Stack and Queues: Balanced Brackets` in hackerrank♥♥ #2
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.hackerrank.com/challenges/balanced-brackets/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues
     - Corgi completed question `3진법 뒤집기` in Programmers♥♥
