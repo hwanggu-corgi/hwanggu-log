@@ -25,7 +25,13 @@ Programmers current rank: 966
 2. 자기야♥♥, 우리 Auth0 서류 합격했어요♥♥♥♥♥♥♥♥!!!!!!!
 
 3. Corgi working on practicing algorithm for Mobsquad♥♥ #29
-    - Corgi working on question `문자열 내 마음대로 정렬하기` in Programmers♥♥
+    - Corgi working on question `문자열 내림차순으로 배치하기` in Programmers♥♥
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://programmers.co.kr/learn/courses/30/lessons/12917
+    - Corgi completed question `문자열 내 p와 y의 개수` in Programmers♥♥
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://programmers.co.kr/learn/courses/30/lessons/12916
+    - Corgi completed question `문자열 내 마음대로 정렬하기` in Programmers♥♥
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://programmers.co.kr/learn/courses/30/lessons/12915
     - Corgi completed question `두 정수 사이의 합` in Programmers♥♥
