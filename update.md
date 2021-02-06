@@ -24,8 +24,8 @@ Programmers current rank: 966
 
 2. 자기야♥♥, 우리 Auth0 서류 합격했어요♥♥♥♥♥♥♥♥!!!!!!!
 
-3. Corgi working on practicing algorithm for Mobsquad♥♥ #45
-    - Corgi working on question `전화번호 목록` in Programmers♥♥ #2
+3. Corgi working on practicing algorithm for Mobsquad♥♥ #46
+    - Corgi working on question `전화번호 목록` in Programmers♥♥ #3
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://programmers.co.kr/learn/courses/30/lessons/42577
     - Corgi completed question `위장` in Programmers♥♥
