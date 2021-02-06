@@ -24,8 +24,8 @@ Programmers current rank: 966
 
 2. 자기야♥♥, 우리 Auth0 서류 합격했어요♥♥♥♥♥♥♥♥!!!!!!!
 
-3. Corgi working on practicing algorithm for Mobsquad♥♥ #26
-    - Corgi working on question `Search: Pairs` in hackerrank♥♥
+3. Corgi working on practicing algorithm for Mobsquad♥♥ #27
+    - Corgi working on question `Search: Pairs` in hackerrank♥♥ #2
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.hackerrank.com/challenges/pairs/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search
     - Corgi completed question `같은 숫자는 싫어` in Programmers♥♥
