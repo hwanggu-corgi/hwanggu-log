@@ -24,8 +24,11 @@ Programmers current rank: 966
 
 2. 자기야♥♥, 우리 Auth0 서류 합격했어요♥♥♥♥♥♥♥♥!!!!!!!
 
-3. Corgi working on practicing algorithm for Mobsquad♥♥ #28
-    - Corgi working on question `나누어 떨어지는 숫자 배열` in Programmers♥♥
+3. Corgi working on practicing algorithm for Mobsquad♥♥ #29
+    - Corgi working on question `두 정수 사이의 합` in Programmers♥♥
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://programmers.co.kr/learn/courses/30/lessons/12912
+    - Corgi completed question `나누어 떨어지는 숫자 배열` in Programmers♥♥
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://programmers.co.kr/learn/courses/30/lessons/12910
     - Corgi completed question `Search: Pairs` in hackerrank♥♥
