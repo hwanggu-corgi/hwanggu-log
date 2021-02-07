@@ -27,6 +27,7 @@ Programmers current rank: 966
 3. Corgi practicing interview with Auth0♥♥ #12
     - Corgi practicing the question `Why are you looking for a new position now?`♥♥ #2
         - Corgi taking notes♥♥ #2
+        - First practice (Silver) - https://app.biginterview.com/s/474eb226db♥♥
     - Corgi practiced the question `Describe your current and most recent job role`♥♥
         - Corgi taking notes♥♥ #5
         - First practice (Bronze) - https://app.biginterview.com/s/2efda24843♥♥
