@@ -1,4 +1,4 @@
-### February 7th, 2021
+### February 8th, 2021
 
 Programmers current rank: 966
 
@@ -24,36 +24,10 @@ Programmers current rank: 966
 
 2. 자기야♥♥, 우리 Auth0 서류 합격했어요♥♥♥♥♥♥♥♥!!!!!!!
 
-3. Corgi working on practicing algorithm for Mobsquad♥♥ #48
-    - Corgi completed question `동물의 아이디와 이름` in Programmers♥♥
-        - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://programmers.co.kr/learn/courses/30/lessons/59403
-    - Corgi completed question `어린 동물 찾기` in Programmers♥♥
-        - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://programmers.co.kr/learn/courses/30/lessons/59037
-    - Corgi completed question `역순 정렬하기` in Programmers♥♥
-        - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://programmers.co.kr/learn/courses/30/lessons/59035
-    - Corgi completed question `모든 레코드 조회하기` in Programmers♥♥
-        - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://programmers.co.kr/learn/courses/30/lessons/59034
-    - Corgi completed question `전화번호 목록` in Programmers♥♥
-        - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://programmers.co.kr/learn/courses/30/lessons/42577
-    - Corgi completed question `위장` in Programmers♥♥
-        - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://programmers.co.kr/learn/courses/30/lessons/42578
-    - Corgi completed question `프린터` in Programmers♥♥
-        - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://programmers.co.kr/learn/courses/30/lessons/42587
-    - Corgi complete question `구명보트` in Programmers♥♥
-        - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://programmers.co.kr/learn/courses/30/lessons/42885
-    - Corgi completed question `문자열 다루기 기본` in Programmers♥♥
-        - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://programmers.co.kr/learn/courses/30/lessons/12918
+3. Corgi practicing interview with Auth0♥♥ #3
 
-### February 6th, 2021
+
+### February 7th, 2021
 
 Programmers current rank: 966
 
@@ -137,6 +111,63 @@ Programmers current rank: 966
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://programmers.co.kr/learn/courses/30/lessons/42862
 
+
+
+
+### February 6th, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+- Apply for a job
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+2. 자기야♥♥, 우리 Auth0 서류 합격했어요♥♥♥♥♥♥♥♥!!!!!!!
+
+3. Corgi working on practicing algorithm for Mobsquad♥♥ #48
+    - Corgi completed question `동물의 아이디와 이름` in Programmers♥♥
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://programmers.co.kr/learn/courses/30/lessons/59403
+    - Corgi completed question `어린 동물 찾기` in Programmers♥♥
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://programmers.co.kr/learn/courses/30/lessons/59037
+    - Corgi completed question `역순 정렬하기` in Programmers♥♥
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://programmers.co.kr/learn/courses/30/lessons/59035
+    - Corgi completed question `모든 레코드 조회하기` in Programmers♥♥
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://programmers.co.kr/learn/courses/30/lessons/59034
+    - Corgi completed question `전화번호 목록` in Programmers♥♥
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://programmers.co.kr/learn/courses/30/lessons/42577
+    - Corgi completed question `위장` in Programmers♥♥
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://programmers.co.kr/learn/courses/30/lessons/42578
+    - Corgi completed question `프린터` in Programmers♥♥
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://programmers.co.kr/learn/courses/30/lessons/42587
+    - Corgi complete question `구명보트` in Programmers♥♥
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://programmers.co.kr/learn/courses/30/lessons/42885
+    - Corgi completed question `문자열 다루기 기본` in Programmers♥♥
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://programmers.co.kr/learn/courses/30/lessons/12918
 
 ### February 5th, 2021
 
