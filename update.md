@@ -1,3 +1,34 @@
+### February 9th, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+- Apply for a job
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+2. 자기야♥♥, 우리 Auth0 서류 합격했어요♥♥♥♥♥♥♥♥!!!!!!!
+
+3. Corgi practicing interview with Auth0♥♥ #22
+    - Corgi completed practicing the question `Talking About Weaknesses`♥♥
+        - Second practice (Bronze) https://app.biginterview.com/s/761d8ac48d♥♥
+        - First practice (Silver) https://app.biginterview.com/s/4e46b8031c♥♥
+
 ### February 8th, 2021
 
 Programmers current rank: 966
