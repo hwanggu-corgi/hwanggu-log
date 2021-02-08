@@ -24,9 +24,9 @@ Programmers current rank: 966
 
 2. 자기야♥♥, 우리 Auth0 서류 합격했어요♥♥♥♥♥♥♥♥!!!!!!!
 
-3. Corgi practicing interview with Auth0♥♥ #14
-    - Corgi practicing the question `What are your most relevant qualifications for this position?`♥♥
-        - Corgi taking notes♥♥
+3. Corgi practicing interview with Auth0♥♥ #15
+    - Corgi practicing the question `What are your most relevant qualifications for this position?`♥♥ #2
+        - Corgi taking notes♥♥ #2
     - Corgi completed practicing the question `Why are you looking for a new position now?`♥♥
         - Corgi taking notes♥♥
         - First practice (Silver) - https://app.biginterview.com/s/474eb226db♥♥
