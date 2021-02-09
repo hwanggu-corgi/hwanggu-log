@@ -24,8 +24,8 @@ Programmers current rank: 966
 
 2. 자기야♥♥, 우리 Auth0 서류 합격했어요♥♥♥♥♥♥♥♥!!!!!!!
 
-3. Corgi practicing interview with Coalition Technologies♥♥ #4
-    - Corgi practicing creating templates `Social proof section`♥♥ #4
+3. Corgi practicing interview with Coalition Technologies♥♥ #5
+    - Corgi practicing creating templates `Social proof section`♥♥ #5
         - 여보, 여기 우리 링크♥♥♥♥
             - https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA
             - https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA/hub/social-proof-section-vKpsXHcVt
