@@ -1,4 +1,4 @@
-### February 9th, 2021
+### February 10th, 2021
 
 Programmers current rank: 966
 
@@ -24,8 +24,10 @@ Programmers current rank: 966
 
 2. 자기야♥♥, 우리 Auth0 서류 합격했어요♥♥♥♥♥♥♥♥!!!!!!!
 
-3. Corgi practicing interview with Auth0♥♥ #46
-    - Corgi organizing notes♥♥ #2
+2. Corgi writing email to Bear Robotics♥♥
+
+3. [on hold] Corgi practicing interview with Auth0♥♥
+    - Corgi completed organizing notes♥♥
     - Corgi completed practicing the question `Why do you want to work here`♥♥
         - Corgi completed taking notes♥♥
         - Third practice (Silver) : https://app.biginterview.com/s/44aa18507d♥♥
