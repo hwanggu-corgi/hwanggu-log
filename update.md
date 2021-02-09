@@ -24,15 +24,21 @@ Programmers current rank: 966
 
 2. 자기야♥♥, 우리 Auth0 서류 합격했어요♥♥♥♥♥♥♥♥!!!!!!!
 
-2. Corgi writing email to Bear Robotics♥♥
+3. Corgi practicing interview with Coalition Technologies♥♥
+    - Corgi practicing creating templates `Social proof section`♥♥
+        - 여보, 여기 우리 링크♥♥♥♥
+            - https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA
+            - https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA/hub/social-proof-section-vKpsXHcVt
 
-3. [on hold] Corgi practicing interview with Auth0♥♥
+4. [on hold] Corgi practicing interview with Auth0♥♥
     - Corgi completed organizing notes♥♥
     - Corgi completed practicing the question `Why do you want to work here`♥♥
         - Corgi completed taking notes♥♥
         - Third practice (Silver) : https://app.biginterview.com/s/44aa18507d♥♥
         - Second practice (Bronze) : https://app.biginterview.com/s/cdd04329d5♥♥
         - First practice (Silver) : https://app.biginterview.com/s/4f1286115e♥♥
+
+5. Corgi completed writing email to Bear Robotics♥♥
 
 ### February 9th, 2021
 
