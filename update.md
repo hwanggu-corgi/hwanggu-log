@@ -27,8 +27,8 @@ Programmers current rank: 966
 3. Corgi working on writing email to Bear Robotics♥♥
     - Corgi working on sending response to Bear Robotics♥♥
 
-4. Corgi practicing interview with Coalition Technologies♥♥ #
-    - Corgi practicing creating templates `Social proof section`♥♥ #6
+4. Corgi practicing interview with Coalition Technologies♥♥ #7
+    - Corgi practicing creating templates `Social proof section`♥♥ #7
         - 여보, 여기 우리 링크♥♥♥♥
             - https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA
             - https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA/hub/social-proof-section-vKpsXHcVt
