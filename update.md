@@ -24,20 +24,21 @@ Programmers current rank: 966
 
 2. 자기야♥♥, 우리 Auth0 서류 합격했어요♥♥♥♥♥♥♥♥!!!!!!!
 
-3. Corgi completed updating hyungmogu.com♥♥
-
-4. Corgi practicing interview with Mobsquad♥♥
-    - Corgi practicing the question `Describe your recent job role`♥♥
+3. Corgi practicing interview with Mobsquad♥♥
+    - Corgi practicing the question `Describe your current or most recent job role`♥♥
         - Corgi working on taking notes♥♥
+        - First practice (Bronze) : https://app.biginterview.com/s/d40706b49e♥♥
 
 
-5. [on hold] Corgi practicing interview with Auth0♥♥
+4. [on hold] Corgi practicing interview with Auth0♥♥
     - Corgi completed organizing notes♥♥
     - Corgi completed practicing the question `Why do you want to work here`♥♥
         - Corgi completed taking notes♥♥
         - Third practice (Silver) : https://app.biginterview.com/s/44aa18507d♥♥
         - Second practice (Bronze) : https://app.biginterview.com/s/cdd04329d5♥♥
         - First practice (Silver) : https://app.biginterview.com/s/4f1286115e♥♥
+
+5. Corgi completed updating hyungmogu.com♥♥
 
 6. Corgi completed interview with Coalition Technologies♥♥
     - Corgi completed creating templates `Social proof section`♥♥
