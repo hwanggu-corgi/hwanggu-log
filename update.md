@@ -29,6 +29,7 @@ Programmers current rank: 966
         - Corgi working on taking notes♥♥
     - Corgi practicing the question `What do you know about Our company and why do you want to be here?`♥♥
         - Corgi working on taking notes♥♥
+        - First practice (Silver) : https://app.biginterview.com/s/fc6dbaad04♥♥
     - Corgi practicing the question `What questions do you have for me?`♥♥
         - Corgi working on taking notes♥♥
         - First practice (Gold) : https://app.biginterview.com/s/8a1852aa95♥♥
