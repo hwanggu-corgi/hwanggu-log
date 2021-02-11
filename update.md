@@ -27,6 +27,7 @@ Programmers current rank: 966
 3. Corgi practicing interview with Mobsquad♥♥
     - Corgi practicing the question `Why looking for a new position now`♥♥
         - Corgi working on taking notes♥♥
+        - First practice (Silver) : https://app.biginterview.com/s/33dfc2ea7d♥♥
     - Corgi practicing the question `Why did you choose this career`♥♥
         - Corgi working on taking notes♥♥
         - First practice (Bronze) : https://app.biginterview.com/s/c40872b127♥♥
