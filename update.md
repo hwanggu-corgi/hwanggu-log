@@ -25,11 +25,16 @@ Programmers current rank: 966
 2. 자기야♥♥, 우리 Auth0 서류 합격했어요♥♥♥♥♥♥♥♥!!!!!!!
 
 3. Corgi practicing interview with Mobsquad♥♥
+    - Corgi practicing the question `Why are you looking for a new position now`♥♥
+        - Corgi working on taking notes♥♥
+        - First practice (Silver) : https://app.biginterview.com/s/33dfc2ea7d♥♥
+        - Second practice (Bronze) : https://app.biginterview.com/s/71e559a06b♥♥
     - Corgi practicing the question `Why are you looking for a new position now?`♥♥
         - Corgi working on taking notes♥♥
+        - First practice (Bronze): https://app.biginterview.com/s/71e559a06b♥♥
     - Corgi practicing the question `What is your greatest strength?`♥♥
         - Corgi working on taking notes♥♥
-        - First practice (Silver): https://app.biginterview.com/s/d50cc00c65♥♥
+        - First practice (Gold): https://app.biginterview.com/s/56fcfac850♥♥
     - Corgi practicing the question `What is your greatest weakness?`♥♥
         - Corgi working on taking notes♥♥
         - First practice (Silver): https://app.biginterview.com/s/d50cc00c65♥♥
@@ -39,9 +44,6 @@ Programmers current rank: 966
     - Corgi practicing the question `Tell me about yourself`♥♥
         - Corgi working on taking notes♥♥
         - First practice (Silver) : https://app.biginterview.com/s/05707c4dd2♥♥
-    - Corgi practicing the question `Why looking for a new position now`♥♥
-        - Corgi working on taking notes♥♥
-        - First practice (Silver) : https://app.biginterview.com/s/33dfc2ea7d♥♥
     - Corgi practicing the question `Why did you choose this career`♥♥
         - Corgi working on taking notes♥♥
         - First practice (Bronze) : https://app.biginterview.com/s/c40872b127♥♥
