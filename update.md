@@ -1,4 +1,47 @@
-### February 11h, 2021
+### February 12th, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+- Apply for a job
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+2. 자기야♥♥, 우리 Auth0 서류 합격했어요♥♥♥♥♥♥♥♥!!!!!!!
+
+3. Corgi practicing interview with Mobsquad♥♥
+    - Corgi practicing the question `Why did you choose this career`♥♥
+        - Corgi working on taking notes♥♥
+        - First practice (Bronze) : https://app.biginterview.com/s/c40872b127♥♥
+    - Corgi practicing the question `Describe your current or most recent job role`♥♥
+        - Corgi working on taking notes♥♥
+        - First practice (Bronze) : https://app.biginterview.com/s/d40706b49e♥♥
+
+
+4. [on hold] Corgi practicing interview with Auth0♥♥
+    - Corgi completed organizing notes♥♥
+    - Corgi completed practicing the question `Why do you want to work here`♥♥
+        - Corgi completed taking notes♥♥
+        - Third practice (Silver) : https://app.biginterview.com/s/44aa18507d♥♥
+        - Second practice (Bronze) : https://app.biginterview.com/s/cdd04329d5♥♥
+        - First practice (Silver) : https://app.biginterview.com/s/4f1286115e♥♥
+
+### February 11th, 2021
 
 Programmers current rank: 966
 
