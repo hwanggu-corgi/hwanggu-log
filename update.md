@@ -25,6 +25,12 @@ Programmers current rank: 966
 2. 자기야♥♥, 우리 Auth0 서류 합격했어요♥♥♥♥♥♥♥♥!!!!!!!
 
 3. Corgi practicing interview with Mobsquad♥♥
+    - Corgi practicing the question `What questions do you have for me?`♥♥
+        - Corgi working on taking notes♥♥
+        - First practice (Gold) : https://app.biginterview.com/s/8a1852aa95♥♥
+    - Corgi practicing the question `Let's talk compensation. How much do you think you're worth?`♥♥
+        - Corgi working on taking notes♥♥
+        - First practice (Bronze) : https://app.biginterview.com/s/fb4bbbbcf2♥♥
     - Corgi practicing the question `Where do you see yourself in five years?`♥♥
         - Corgi working on taking notes♥♥
         - First practice (Silver) : https://app.biginterview.com/s/0091172b9e♥♥
