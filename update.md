@@ -27,6 +27,7 @@ Programmers current rank: 966
 3. Corgi practicing interview with Mobsquad♥♥
     - Corgi practicing the question `Describe your most recent development project.`♥♥
         - Corgi working on taking notes♥♥
+        - First practice (Gold) : https://app.biginterview.com/s/2cc0c002fc♥♥
     - Corgi practicing the question `What do you know about Our company and why do you want to be here?`♥♥
         - Corgi working on taking notes♥♥
         - Second practice (Bronze) : https://app.biginterview.com/s/e75f767bcf♥♥
