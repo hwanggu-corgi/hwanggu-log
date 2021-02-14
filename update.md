@@ -25,8 +25,12 @@ Programmers current rank: 966
 2. 자기야♥♥, 우리 Auth0 서류 합격했어요♥♥♥♥♥♥♥♥!!!!!!!
 
 3. Corgi working on preparing for Bear Robotics♥♥ #42
-    - Corgi working on refactoring our hyungmogu.com♥♥ #42
-        - Corgi working on moving styles in App.scss to components using style components♥♥ #35
+    - Corgi working on preparing for algorithm test♥♥
+        - Corgi working on problem `콜라츠 추측` in Programmers (Python3)♥♥
+            - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12943
+                - Corgi understanding problem♥♥
+    - Corgi completed refactoring our hyungmogu.com♥♥
+        - Corgi completed moving styles in App.scss to components using style components♥♥
         - Corgi completed merging data from resume component with general data♥♥
 
 4. [on hold] Corgi practicing interview with Auth0♥♥
