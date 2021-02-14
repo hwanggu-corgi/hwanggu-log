@@ -26,9 +26,13 @@ Programmers current rank: 966
 
 3. Corgi working on preparing for Bear Robotics♥♥ #49
     - Corgi working on preparing for algorithm test♥♥
-        - Corgi working on problem `기능계발` in Programmers (Python3)♥♥
-            - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42586
+        - Corgi completed problem `124 나라의 숫자` in Programmers (Python3)♥♥
+            - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12899
                 - Corgi working on adding code♥♥
+                - Corgi working on understanding problem♥♥
+        - Corgi completed problem `기능계발` in Programmers (Python3)♥♥
+            - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42586
+                - Corgi completed adding code♥♥
                 - Corgi completed understanding problem♥♥
         - Corgi completed problem `주식가격` in Programmers (Python3)♥♥
             - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/42584
