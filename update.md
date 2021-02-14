@@ -24,11 +24,16 @@ Programmers current rank: 966
 
 2. 자기야♥♥, 우리 Auth0 서류 합격했어요♥♥♥♥♥♥♥♥!!!!!!!
 
-3. Corgi working on preparing for Bear Robotics♥♥ #46
+3. Corgi working on preparing for Bear Robotics♥♥ #47
     - Corgi working on preparing for algorithm test♥♥
-        - Corgi working on problem `소수 찾기` in Programmers (Python3)♥♥
+        - Corgi working on problem `x만큼 간격이 있는 n개의 숫자` in Programmers (Python3)♥♥
+            - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12954
+                - Corgi working on adding code♥♥
+                - Corgi working on understanding problem♥♥
+        - Corgi completed problem `소수 찾기` in Programmers (Python3)♥♥
             - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12921
-                - Corgi understanding problem♥♥
+                - Corgi completed adding code♥♥
+                - Corgi completed understanding problem♥♥
         - Corgi completed problem `직사각형 별찍기` in Programmers (Python3)♥♥
             - 여보 요기 링쿠♥♥!!: https://programmers.co.kr/learn/courses/30/lessons/12969
                 - Corgi completed adding code♥♥
