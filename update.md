@@ -24,7 +24,11 @@ Programmers current rank: 966
 
 2. 자기야♥♥, 우리 Auth0 서류 합격했어요♥♥♥♥♥♥♥♥!!!!!!!
 
-3. Corgi working on preparing for Bear Robotics♥♥ #69
+3. Corgi working on preparing for Bear Robotics♥♥ #70
+    - Corgi practicing the question `Why did you choose this career?`♥♥
+        - Corgi working on taking notes♥♥
+        - First practice (Bronze) : https://app.biginterview.com/s/ddeba0cfc1♥♥
+        - Second practice : https://app.biginterview.com/s/047364a2c7♥♥
     - Corgi practicing the question `What are your most relevant qualifications for this position?`♥♥
         - Corgi working on taking notes♥♥
         - First practice : https://app.biginterview.com/s/d4b624b254♥♥
@@ -50,9 +54,6 @@ Programmers current rank: 966
     - Corgi practicing the question `Why are you looking for a new position now?`♥♥
         - Corgi working on taking notes♥♥
         - First practice : https://app.biginterview.com/s/93918da06d♥♥
-    - Corgi practicing the question `Why did you choose this career?`♥♥
-        - Corgi working on taking notes♥♥
-        - First practice (Bronze) : https://app.biginterview.com/s/ddeba0cfc1♥♥
     - Corgi practicing the question `Describe your most recent development project.`♥♥
         - Corgi working on taking notes♥♥
         - First practice : https://app.biginterview.com/s/7841879470♥♥
