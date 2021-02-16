@@ -24,7 +24,11 @@ Programmers current rank: 966
 
 2. 자기야♥♥, 우리 Auth0 서류 합격했어요♥♥♥♥♥♥♥♥!!!!!!!
 
-3. Corgi working on preparing for Bear Robotics♥♥ #66
+3. Corgi working on preparing for Bear Robotics♥♥ #67
+    - Corgi practicing the question `Tell me about yourself`♥♥
+        - Corgi working on taking notes♥♥
+        - First practice : https://app.biginterview.com/s/76c79b5b85♥♥
+        - Second Practice: https://app.biginterview.com/s/b37f72af99♥♥
     - Corgi practicing the question `What are your most relevant qualifications for this position?`♥♥
         - Corgi working on taking notes♥♥
         - First practice : https://app.biginterview.com/s/d4b624b254♥♥
