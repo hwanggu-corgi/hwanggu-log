@@ -26,7 +26,7 @@ Programmers current rank: 966
 
 3. Corgi improving hyungmogu.com♥♥ #11
 
-4. Corgi filling out application for Mobsquad♥♥ #25
+4. Corgi filling out application for Mobsquad♥♥ #26
 
 5. [on hold] Corgi practicing interview with Auth0♥♥
     - Corgi completed organizing notes♥♥
