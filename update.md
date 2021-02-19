@@ -25,6 +25,8 @@ Programmers current rank: 966
 2. 자기야♥♥, 우리 Auth0 서류 합격했어요♥♥♥♥♥♥♥♥!!!!!!!
 
 3. Corgi improving hyungmogu.com♥♥ #12
+    - Corgi fixing button on resume screen♥♥
+        - Icon looks misplaced on safari over♥♥
 
 4. 자기야, 나 잘 하고 올게♥♥ 사랑해♥♥♥♥
 
