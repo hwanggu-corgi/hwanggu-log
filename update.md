@@ -26,8 +26,11 @@ Programmers current rank: 966
 
 3. Corgi improving hyungmogu.com♥♥ #11
 
-4. Corgi practicing interview with Auth0♥♥ #4
+4. Corgi practicing interview with Auth0♥♥ #5
     - Corgi completed organizing notes♥♥
+    - Corgi working on practicing the question `Tell me about your weakness?`♥♥
+        - Corgi working on taking notes♥♥
+        - First Practice : https://app.biginterview.com/s/3799a382c4♥♥
     - Corgi working on practicing the question `Tell me about your greatest career accomplishment?`♥♥
         - Corgi working on taking notes♥♥
         - First Practice : https://app.biginterview.com/s/8bea9eb728♥♥
