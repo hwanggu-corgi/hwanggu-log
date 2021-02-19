@@ -28,8 +28,10 @@ Programmers current rank: 966
 
 4. Corgi practicing interview with Auth0♥♥
     - Corgi completed organizing notes♥♥
-    - Corgi working on practicing the qeustion `Why did you choose this career?`♥♥
+    - Corgi working on practicing the question `Why did you choose this career?`♥♥
         - Corgi working on taking notes♥♥
+        - First practice : https://app.biginterview.com/s/440d431d05♥♥
+
     - Corgi completed practicing the question `Why do you want to work here`♥♥
         - Corgi completed taking notes♥♥
         - Third practice (Silver) : https://app.biginterview.com/s/44aa18507d♥♥
