@@ -24,8 +24,13 @@ Programmers current rank: 966
 
 2. 자기야♥♥, 우리 Auth0 서류 합격했어요♥♥♥♥♥♥♥♥!!!!!!!
 
-3. Corgi improving hyungmogu.com♥♥ #43
-    - Corgi added title to our website♥♥
+3. 자기야, 나 잘 하고 올게♥♥ 사랑해♥♥♥♥
+
+4. Corgi working on creating Chat application♥♥
+    - Corgi working on design♥♥
+
+5. Corgi completed improving hyungmogu.com♥♥
+    - Corgi completed adding title to our website♥♥
     - Corgi completed fixing font-size of header on digital resume♥♥
     - Corgi completed fixing mobile menu not closing on click♥♥
     - Corgi completed fixing off-positioned mobile menu header♥♥
@@ -34,9 +39,7 @@ Programmers current rank: 966
     - Corgi completed fixing button on resume screen♥♥
         - Icon looks misplaced on safari over♥♥
 
-4. 자기야, 나 잘 하고 올게♥♥ 사랑해♥♥♥♥
-
-5. Corgi completed interview with Auth0♥♥
+6. Corgi completed interview with Auth0♥♥
     - Corgi completed organizing notes♥♥
     - Corgi working on practicing the question `Tell me about your greatest career accomplishment?`♥♥
         - Corgi working on taking notes♥♥
