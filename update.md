@@ -1,3 +1,70 @@
+### February 21st, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+- Apply for a job
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+2. 자기야♥♥, 우리 Auth0 서류 합격했어요♥♥♥♥♥♥♥♥!!!!!!!
+
+3. Corgi improving hyungmogu.com♥♥ #37
+    - Corgi fixing styles on print window♥♥ #23
+    - Corgi completed fixing button on resume screen♥♥
+        - Icon looks misplaced on safari over♥♥
+
+4. 자기야, 나 잘 하고 올게♥♥ 사랑해♥♥♥♥
+
+5. Corgi completed interview with Auth0♥♥
+    - Corgi completed organizing notes♥♥
+    - Corgi working on practicing the question `Tell me about your greatest career accomplishment?`♥♥
+        - Corgi working on taking notes♥♥
+        - First Practice : https://app.biginterview.com/s/8bea9eb728♥♥
+        - Second Practice: https://app.biginterview.com/s/d48bf3f1b4♥♥
+        - Third practice : https://app.biginterview.com/s/12a17c7b1d♥♥
+        - Fourth Practice : https://app.biginterview.com/s/3f4d1378e6♥♥
+    - Corgi working on practicing the question `Where do you see yourself in five years?`♥♥
+        - Corgi working on taking notes♥♥
+        - First Practice : https://app.biginterview.com/s/4e19f3e295♥♥
+    - Corgi working on practicing the question `Tell me about your weakness?`♥♥
+        - Corgi working on taking notes♥♥
+        - First Practice : https://app.biginterview.com/s/3799a382c4♥♥
+    - Corgi working on practicing the question `What are your most relevant qualifications for this position?`♥♥
+        - Corgi working on taking notes♥♥
+        - First practice : https://app.biginterview.com/s/dee5cf6799♥♥
+    - Corgi working on practicing the question `Why are you looking for a new position now?`♥♥
+        - Corgi working on taking notes♥♥
+        - First practice (Gold) : https://app.biginterview.com/s/1c4c52a502♥♥
+    - Corgi working on practicing the question `Describe your current and most recent job role?`♥♥
+        - Corgi working on taking notes♥♥
+        - First practice (Bronze) : https://app.biginterview.com/s/af1104c8ff♥♥
+
+    - Corgi working on practicing the question `Why did you choose this career?`♥♥
+        - Corgi working on taking notes♥♥
+        - First practice : https://app.biginterview.com/s/440d431d05♥♥
+
+    - Corgi completed practicing the question `Why do you want to work here`♥♥
+        - Corgi completed taking notes♥♥
+        - Third practice (Silver) : https://app.biginterview.com/s/44aa18507d♥♥
+        - Second practice (Bronze) : https://app.biginterview.com/s/cdd04329d5♥♥
+        - First practice (Silver) : https://app.biginterview.com/s/4f1286115e♥♥
+
 ### February 20th, 2021
 
 Programmers current rank: 966
