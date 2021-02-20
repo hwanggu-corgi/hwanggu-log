@@ -26,8 +26,8 @@ Programmers current rank: 966
 
 3. 자기야, 나 잘 하고 올게♥♥ 사랑해♥♥♥♥
 
-4. Corgi working on creating Chat application♥♥ #6
-    - Corgi working on design♥♥ #6
+4. Corgi working on creating Chat application♥♥ #7
+    - Corgi working on design♥♥ #7
 
 5. Corgi completed improving hyungmogu.com♥♥
     - Corgi completed adding title to our website♥♥
