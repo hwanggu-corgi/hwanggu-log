@@ -24,8 +24,8 @@ Programmers current rank: 966
 
 2. 자기야♥♥, 우리 Auth0 서류 합격했어요♥♥♥♥♥♥♥♥!!!!!!!
 
-3. Corgi improving hyungmogu.com♥♥ #41
-    - Corgi fixing font-size of header on digital resume♥♥
+3. Corgi improving hyungmogu.com♥♥ #42
+    - Corgi completed fixing font-size of header on digital resume♥♥
     - Corgi completed fixing mobile menu not closing on click♥♥
     - Corgi completed fixing off-positioned mobile menu header♥♥
     - Corgi completed fixing styles on print window♥♥
