@@ -1,3 +1,42 @@
+### February 24th, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+- Apply for a job
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+2. 자기야♥♥, 우리 Auth0 서류 합격했어요♥♥♥♥♥♥♥♥!!!!!!!
+
+3. 자기야, 나 잘 하고 올게♥♥ 사랑해♥♥♥♥
+
+4. Corgi working on creating Chat application♥♥ #60
+    - Corgi working on backend of the chat application♥♥ #26
+        - Corgi fixing chat posts being created without userid♥♥ #16
+    - Corgi working on frontend of the chat application♥♥ #46
+        - Corgi working on adding APIs and logics to chat screen♥♥
+        - Corgi completed adding APIs and logics to login screen♥♥
+        - Corgi completed adding APIs and logics to ignup screen♥♥
+        - Corgi completed creating login and signup screen♥♥
+    - Corgi completed design♥♥
+
+
 ### February 23rd, 2021
 
 Programmers current rank: 966
