@@ -7,6 +7,9 @@ Programmers current rank: 966
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 - Apply for a job
+    - ( ): React/React Native Developer, Targeted Talent
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.linkedin.com/jobs/view/2305932511
 
 1. Corgi completed interview♥♥
     - 내♥♥
@@ -26,13 +29,13 @@ Programmers current rank: 966
 
 3. 자기야, 나 잘 하고 올게♥♥ 사랑해♥♥♥♥
 
-4. Corgi working on creating Chat application♥♥ #85
-    - Corgi working on backend of the chat application♥♥ #49
-        - Corgi adding subscription for adding chatbox♥♥ #5
+4. Corgi working on creating Chat application♥♥ #86
+    - Corgi working on backend of the chat application♥♥ #50
+        - Corgi completed adding subscription for adding chatbox♥♥
         - Corgi completed adding server to heroku♥♥
         - Corgi completed fixing chat posts being created without userid♥♥
-    - Corgi working on frontend of the chat application♥♥ #83
-        - Corgi working on refining the view of chat screen♥♥ #17
+    - Corgi working on frontend of the chat application♥♥ #84
+        - Corgi working on refining the view of chat screen♥♥ #18
         - Corgi completed scrolling chatboxes to bottom on load and update♥♥
         - Corgi completed fixing authentication error♥♥
             - Username abc
