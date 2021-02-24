@@ -10,6 +10,9 @@ Programmers current rank: 966
     - ( ): React/React Native Developer, Targeted Talent
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.linkedin.com/jobs/view/2305932511
+    - ( ): Senior Software Developer, Frontend, Hootsuite
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.linkedin.com/jobs/view/2417288522
 
 1. Corgi completed interview♥♥
     - 내♥♥
