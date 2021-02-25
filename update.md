@@ -32,7 +32,9 @@ Programmers current rank: 966
 
 3. 자기야, 나 잘 하고 올게♥♥ 사랑해♥♥♥♥
 
-4. Corgi working on updating his resume♥♥
+4. Corgi working on updating his resume♥♥ #2
+    - Corgi working on adding images♥♥
+    - Corgi completed adding works' highlight♥♥
 
 5. Corgi working on creating Chat application♥♥ #124
     - Corgi working on backend of the chat application♥♥ #85
