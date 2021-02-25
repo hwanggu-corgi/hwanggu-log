@@ -33,10 +33,10 @@ Programmers current rank: 966
 3. 자기야, 나 잘 하고 올게♥♥ 사랑해♥♥♥♥
 
 4. Corgi working on creating Chat application♥♥ #110
-    - Corgi working on backend of the chat application♥♥ #71
-        - Corgi working on adding participants on enter♥♥ #5
-    - Corgi working on frontend of the chat application♥♥ #103
-        - Corgi working on adding participants x enter♥♥ #5
+    - Corgi working on backend of the chat application♥♥ #72
+        - Corgi working on adding participants on enter♥♥ #6
+    - Corgi working on frontend of the chat application♥♥ #104
+        - Corgi working on adding participants x enter♥♥ #6
 
 
 ### February 25th, 2021
