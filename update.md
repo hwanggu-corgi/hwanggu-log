@@ -32,15 +32,15 @@ Programmers current rank: 966
 
 3. 자기야, 나 잘 하고 올게♥♥ 사랑해♥♥♥♥
 
-4. Corgi working on creating Chat application♥♥ #101
-    - Corgi working on backend of the chat application♥♥ #62
-        - Corgi working on refining list of participants♥♥ #2
+4. Corgi working on creating Chat application♥♥ #102
+    - Corgi working on backend of the chat application♥♥ #63
+        - Corgi working on refining list of participants♥♥ #3
         - Corgi completed adding logout feature♥♥
         - Corgi completed adding subscription for adding chatbox♥♥
         - Corgi completed adding server to heroku♥♥
         - Corgi completed fixing chat posts being created without userid♥♥
-    - Corgi working on frontend of the chat application♥♥ #95
-        - Corgi working on refining list of participants♥♥ #2
+    - Corgi working on frontend of the chat application♥♥ #96
+        - Corgi working on refining list of participants♥♥ #3
         - Corgi completed mobile navigation menu♥♥
         - Corgi completed adding logout feature♥♥
         - Corgi completed scrolling chatboxes to bottom on load and update♥♥
