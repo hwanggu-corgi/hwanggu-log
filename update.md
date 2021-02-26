@@ -30,8 +30,8 @@ Programmers current rank: 966
 
 2. 자기야, 우리 triplebyte assessment 잘 하고 올게요♥♥
 
-3. Corgi working on updating his resume♥♥ #2
-    - Corgi working on adding images♥♥
+3. Corgi working on updating his resume♥♥ #3
+    - Corgi working on adding images♥♥ #2
     - Corgi completed adding works' highlight♥♥
 
 4. Corgi working on creating Chat application♥♥ #124
