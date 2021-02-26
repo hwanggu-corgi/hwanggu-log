@@ -30,7 +30,7 @@ Programmers current rank: 966
 
 2. 자기야, 우리 triplebyte assessment 잘 하고 올게요♥♥
 
-3. Corgi learning about learning node.js on Codecademy♥♥
+3. Corgi learning about node.js on Codecademy♥♥ #2
 
 4. Corgi working on updating his resume♥♥ #5
     - Corgi working on adding images♥♥ #4
