@@ -1,3 +1,50 @@
+### February 27th, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+- Apply for a job
+    - ( ): React/React Native Developer, Targeted Talent
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.linkedin.com/jobs/view/2305932511
+    - ( ): Senior Software Developer, Frontend, Hootsuite
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.linkedin.com/jobs/view/2417288522
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+2. 자기야, 우리 triplebyte assessment 잘 하고 올게요♥♥
+
+3. Corgi learning about node.js on Codecademy♥♥ #4
+
+4. Corgi working on updating his resume♥♥ #5
+    - Corgi working on adding images♥♥ #4
+    - Corgi completed adding works' highlight♥♥
+
+5. Corgi working on creating Chat application♥♥ #124
+    - Corgi working on backend of the chat application♥♥ #85
+        - Corgi completed working on adding participants on enter♥♥
+    - Corgi working on frontend of the chat application♥♥ #117
+        - Corgi completed refactoring code♥♥
+        - Corgi completed preventing unauthorized users from accessing chat page♥♥
+        - Corgi completed working on adding participants x enter♥♥
+
+
 ### February 26th, 2021
 
 Programmers current rank: 966
