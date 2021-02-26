@@ -28,15 +28,13 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. 자기야♥♥, 우리 Auth0 서류 합격했어요♥♥♥♥♥♥♥♥!!!!!!!
+2. 자기야, 우리 triplebyte assessment 잘 하고 올게요♥♥
 
-3. 자기야, 나 잘 하고 올게♥♥ 사랑해♥♥♥♥
-
-4. Corgi working on updating his resume♥♥ #2
+3. Corgi working on updating his resume♥♥ #2
     - Corgi working on adding images♥♥
     - Corgi completed adding works' highlight♥♥
 
-5. Corgi working on creating Chat application♥♥ #124
+4. Corgi working on creating Chat application♥♥ #124
     - Corgi working on backend of the chat application♥♥ #85
         - Corgi completed working on adding participants on enter♥♥
     - Corgi working on frontend of the chat application♥♥ #117
