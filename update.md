@@ -39,19 +39,6 @@ Programmers current rank: 966
     - 여보♥♥, 요기 우리 링크♥♥♥♥
         - https://www.linkedin.com/jobs/view/2305932511
 
-4. Corgi working on updating his resume♥♥ #6
-    - Corgi working on adding images♥♥ #5
-    - Corgi completed adding works' highlight♥♥
-
-5. Corgi working on creating Chat application♥♥ #124
-    - Corgi working on backend of the chat application♥♥ #85
-        - Corgi completed working on adding participants on enter♥♥
-    - Corgi working on frontend of the chat application♥♥ #117
-        - Corgi completed refactoring code♥♥
-        - Corgi completed preventing unauthorized users from accessing chat page♥♥
-        - Corgi completed working on adding participants x enter♥♥
-
-
 ### February 26th, 2021
 
 Programmers current rank: 966
@@ -86,8 +73,8 @@ Programmers current rank: 966
 
 3. Corgi learning about node.js on Codecademy♥♥ #4
 
-4. Corgi working on updating his resume♥♥ #5
-    - Corgi working on adding images♥♥ #4
+4. Corgi completed working on updating our portfolio site♥♥
+    - Corgi completed adding images♥♥
     - Corgi completed adding works' highlight♥♥
 
 5. Corgi working on creating Chat application♥♥ #124
