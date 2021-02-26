@@ -7,7 +7,7 @@ Programmers current rank: 966
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 - Apply for a job
-    - ( ): React/React Native Developer, Targeted Talent
+    - (x): React/React Native Developer, Targeted Talent
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.linkedin.com/jobs/view/2305932511
     - ( ): Senior Software Developer, Frontend, Hootsuite
@@ -30,12 +30,12 @@ Programmers current rank: 966
 
 2. 자기야, 우리 triplebyte assessment 잘 하고 올게요♥♥
 
-3. Corgi learning about node.js on Codecademy♥♥ #10
-    - Corgi working on "Learn Express: Routes" (5/15)♥♥ #3
+3. Corgi learning about node.js on Codecademy♥♥ #11
+    - Corgi working on "Learn Express: Routes" (6/15)♥♥
     - Corgi completed working on "Express"♥♥
     - Corgi completed working on "Express/Node Introduction"♥♥
 
-4. Corgi working on submitting resume to Targeted Talent♥♥ #2
+4. Corgi completed submitting resume to Targeted Talent♥♥
     - Corgi submitting resume♥♥
     - 여보♥♥, 요기 우리 링크♥♥♥♥
         - https://www.linkedin.com/jobs/view/2305932511
