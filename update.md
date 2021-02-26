@@ -10,7 +10,7 @@ Programmers current rank: 966
     - (x): React/React Native Developer, Targeted Talent
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.linkedin.com/jobs/view/2305932511
-    - ( ): Senior Software Developer, Frontend, Hootsuite
+    - (x): Senior Software Developer, Frontend, Hootsuite
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.linkedin.com/jobs/view/2417288522
 
@@ -30,13 +30,13 @@ Programmers current rank: 966
 
 2. 자기야, 우리 triplebyte assessment 잘 하고 올게요♥♥
 
-3. Corgi learning about node.js on Codecademy♥♥ #13
-    - Corgi working on "Learn Express: Routes" (10/15)♥♥
+3. Corgi learning about node.js on Codecademy♥♥ #14
+    - Corgi working on "Learn Express: Routes" (10/15)♥♥ #2
     - Corgi completed working on "Express"♥♥
     - Corgi completed working on "Express/Node Introduction"♥♥
 
-4. Corgi submitting resume to HootSuite♥♥
-    - Corgi submitting resume♥♥
+4. Corgi completed submitting resume to HootSuite♥♥
+    - Corgi completed submitting resume♥♥
     - 여보♥♥, 요기 우리 링크♥♥♥♥
         - https://www.linkedin.com/jobs/view/2417288522
 
