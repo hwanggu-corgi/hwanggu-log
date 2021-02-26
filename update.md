@@ -35,7 +35,8 @@ Programmers current rank: 966
     - Corgi completed working on "Express"♥♥
     - Corgi completed working on "Express/Node Introduction"♥♥
 
-4. Corgi working on submitting resume to Targeted Talent♥♥
+4. Corgi working on submitting resume to Targeted Talent♥♥ #2
+    - Corgi submitting resume♥♥
     - 여보♥♥, 요기 우리 링크♥♥♥♥
         - https://www.linkedin.com/jobs/view/2305932511
 
