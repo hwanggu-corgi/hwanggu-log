@@ -37,8 +37,9 @@ Programmers current rank: 966
     - Corgi completed working on "Express"♥♥
     - Corgi completed working on "Express/Node Introduction"♥♥
 
-4. Corgi working on submitting resume to Collage.com♥♥ #3
-    - Corgi filling out form♥♥ #2
+4. Corgi working on submitting resume to Collage.com♥♥ #4
+    - Corgi filling out form♥♥ #3
+        - Corgi working on the question `What interests you about working for Collage.com?`♥♥
     - Corgi completed tailoring resume♥♥
     - 여보♥♥, 요기 우리 링크♥♥♥♥
         - https://www.linkedin.com/jobs/view/2342681126
