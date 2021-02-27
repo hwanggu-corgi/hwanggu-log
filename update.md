@@ -16,6 +16,9 @@ Programmers current rank: 966
     - ( ): Software Engineer, Ceridian
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.linkedin.com/jobs/view/2431984012
+    - ( ): Senior Front-end Software Engineer, Collage.com
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.linkedin.com/jobs/view/2342681126
 
 1. Corgi completed interview♥♥
     - 내♥♥
@@ -33,8 +36,8 @@ Programmers current rank: 966
 
 2. 자기야, 우리 triplebyte assessment 잘 하고 올게요♥♥
 
-3. Corgi learning about node.js on Codecademy♥♥ #18
-    - Corgi working on "Learn Express: Routes" (14/15)♥♥ #2
+3. Corgi learning about node.js on Codecademy♥♥ #19
+    - Corgi working on "Learn Express: Routes" (14/15)♥♥ #3
     - Corgi completed working on "Express"♥♥
     - Corgi completed working on "Express/Node Introduction"♥♥
 
