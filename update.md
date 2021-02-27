@@ -7,7 +7,7 @@ Programmers current rank: 966
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 - Apply for a job
-    - ( ): Software Engineer, Ceridian
+    - (x): Software Engineer, Ceridian
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.linkedin.com/jobs/view/2431984012
     - ( ): Senior Front-end Software Engineer, Collage.com
@@ -36,8 +36,8 @@ Programmers current rank: 966
     - Corgi completed working on "Express"♥♥
     - Corgi completed working on "Express/Node Introduction"♥♥
 
-4. Corgi working on submitting resume to Ceridian♥♥ #3
-    - Corgi submitting resume♥♥ #3
+4. Corgi completed submitting resume to Ceridian♥♥
+    - Corgi completed submitting resume♥♥
     - 여보♥♥, 요기 우리 링크♥♥♥♥
         - https://www.linkedin.com/jobs/view/2431984012
 
