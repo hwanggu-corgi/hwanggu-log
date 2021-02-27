@@ -13,6 +13,9 @@ Programmers current rank: 966
     - (x): Senior Software Developer, Frontend, Hootsuite
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.linkedin.com/jobs/view/2417288522
+    - ( ): Software Engineer, Ceridian
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.linkedin.com/jobs/view/2431984012
 
 1. Corgi completed interview♥♥
     - 내♥♥
@@ -35,8 +38,8 @@ Programmers current rank: 966
     - Corgi completed working on "Express"♥♥
     - Corgi completed working on "Express/Node Introduction"♥♥
 
-4. Corgi worked on "in-city-cultural-event-application"♥♥
-    - Corgi working on design♥♥
+4. [on hold] Corgi worked on "in-city-cultural-event-application"♥♥
+    - Corgi working on design♥♥ #2
 
 5. Corgi completed submitting resume to HootSuite♥♥
     - Corgi completed submitting resume♥♥
