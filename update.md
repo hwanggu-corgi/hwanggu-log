@@ -7,6 +7,9 @@ Programmers current rank: 966
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 - Apply for a job
+    - ( ): Front End Developer, Critical Mass
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.linkedin.com/jobs/view/2376376062
     - ( ): UI software developer, Modis
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.linkedin.com/jobs/view/2405756479
@@ -25,8 +28,8 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi learning about node.js on Codecademy♥♥ #46
-    - Corgi learning about how to use postgresql in node.js♥♥ #4
+2. Corgi learning about node.js on Codecademy♥♥ #47
+    - Corgi learning about how to use postgresql in node.js♥♥ #5
     - Corgi completed working on "Learn Express: Routers" quiz (14/14)♥♥
     - Corgi completed working on "Learn Express: Routers" code challenges (10/10)♥♥
     - Corgi completed working on "Learn Express: Routers" (7/7)♥♥
