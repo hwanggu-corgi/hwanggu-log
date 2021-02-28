@@ -25,8 +25,8 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi learning about node.js on Codecademy♥♥ #44
-    - Corgi learning about how to use postgresql in node.js♥♥ #2
+2. Corgi learning about node.js on Codecademy♥♥ #46
+    - Corgi learning about how to use postgresql in node.js♥♥ #4
     - Corgi completed working on "Learn Express: Routers" quiz (14/14)♥♥
     - Corgi completed working on "Learn Express: Routers" code challenges (10/10)♥♥
     - Corgi completed working on "Learn Express: Routers" (7/7)♥♥
