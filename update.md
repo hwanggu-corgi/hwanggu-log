@@ -28,7 +28,9 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi learning about node.js on Codecademy♥♥ #47
+2. Corgi creating dashboard for our portfolio site♥♥
+
+3. Corgi learning about node.js on Codecademy♥♥ #47
     - Corgi learning about how to use postgresql in node.js♥♥ #5
     - Corgi completed working on "Learn Express: Routers" quiz (14/14)♥♥
     - Corgi completed working on "Learn Express: Routers" code challenges (10/10)♥♥
@@ -37,7 +39,7 @@ Programmers current rank: 966
     - Corgi completed working on "Express"♥♥
     - Corgi completed working on "Express/Node Introduction"♥♥
 
-3. [on hold] Corgi working on In-city-event-app♥♥ #4
+4. [on hold] Corgi working on In-city-event-app♥♥ #4
     - Corgi working on design♥♥ #4
 
 
