@@ -30,9 +30,9 @@ Programmers current rank: 966
 
 2. 자기야, 우리 triplebyte assessment 잘 하고 올게요♥♥
 
-5. Corgi working on submitting resume to Collage.com♥♥ #6
-    - Corgi filling out form♥♥ #5
-        - Corgi working on the question `What interests you about working for Collage.com?`♥♥
+5. Corgi completed submitting resume to Collage.com♥♥
+    - Corgi completed filling out form♥♥
+        - Corgi completed working on the question `What interests you about working for Collage.com?`♥♥
     - Corgi completed tailoring resume♥♥
     - 여보♥♥, 요기 우리 링크♥♥♥♥
         - https://www.linkedin.com/jobs/view/2342681126
