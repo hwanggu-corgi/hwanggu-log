@@ -7,12 +7,9 @@ Programmers current rank: 966
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 - Apply for a job
-    - (x): Software Engineer, Ceridian
+    - ( ): UI software developer, Modis
         - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://www.linkedin.com/jobs/view/2431984012
-    - (x): Senior Front-end Software Engineer, Collage.com
-        - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://www.linkedin.com/jobs/view/2342681126
+            - https://www.linkedin.com/jobs/view/2405756479
 
 1. Corgi completed interview♥♥
     - 내♥♥
@@ -28,10 +25,8 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. 자기야, 우리 triplebyte assessment 잘 하고 올게요♥♥
-
-3. Corgi learning about node.js on Codecademy♥♥ #43
-    - Corgi learning about how to use postgresql in node.js♥♥
+2. Corgi learning about node.js on Codecademy♥♥ #44
+    - Corgi learning about how to use postgresql in node.js♥♥ #2
     - Corgi completed working on "Learn Express: Routers" quiz (14/14)♥♥
     - Corgi completed working on "Learn Express: Routers" code challenges (10/10)♥♥
     - Corgi completed working on "Learn Express: Routers" (7/7)♥♥
@@ -39,7 +34,7 @@ Programmers current rank: 966
     - Corgi completed working on "Express"♥♥
     - Corgi completed working on "Express/Node Introduction"♥♥
 
-4. [on hold] Corgi working on In-city-event-app♥♥ #4
+3. [on hold] Corgi working on In-city-event-app♥♥ #4
     - Corgi working on design♥♥ #4
 
 
