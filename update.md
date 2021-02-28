@@ -30,8 +30,8 @@ Programmers current rank: 966
 
 2. 자기야, 우리 triplebyte assessment 잘 하고 올게요♥♥
 
-3. Corgi working on In-city-event-app♥♥ #2
-    - Corgi working on design♥♥ #2
+3. Corgi working on In-city-event-app♥♥ #3
+    - Corgi working on design♥♥ #3
 
 4. Corgi completed submitting resume to Collage.com♥♥
     - Corgi completed filling out form♥♥
