@@ -1,3 +1,48 @@
+### February 29th, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+- Apply for a job
+    - (x): Software Engineer, Ceridian
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.linkedin.com/jobs/view/2431984012
+    - (x): Senior Front-end Software Engineer, Collage.com
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.linkedin.com/jobs/view/2342681126
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+2. 자기야, 우리 triplebyte assessment 잘 하고 올게요♥♥
+
+3. Corgi learning about node.js on Codecademy♥♥ #43
+    - Corgi learning about how to use postgresql in node.js♥♥
+    - Corgi completed working on "Learn Express: Routers" quiz (14/14)♥♥
+    - Corgi completed working on "Learn Express: Routers" code challenges (10/10)♥♥
+    - Corgi completed working on "Learn Express: Routers" (7/7)♥♥
+    - Corgi completed working on "Learn Express: Routes" (15/15)♥♥
+    - Corgi completed working on "Express"♥♥
+    - Corgi completed working on "Express/Node Introduction"♥♥
+
+4. [on hold] Corgi working on In-city-event-app♥♥ #4
+    - Corgi working on design♥♥ #4
+
+
 ### February 28th, 2021
 
 Programmers current rank: 966
