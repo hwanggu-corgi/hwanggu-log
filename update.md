@@ -31,12 +31,13 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi creating dashboard for our portfolio site♥♥ #37
-    - Corgi working on creating front-end template♥♥ #27
+2. Corgi creating dashboard for our portfolio site♥♥ #39
+    - Corgi working on creating front-end template♥♥ #29
     - Corgi completed creating design♥♥
 
-3. Corgi working on submitting resume to Cookly♥♥ #2
-    - Corgi working on filling out application♥♥ #2
+3. Corgi working on submitting resume to Cookly♥♥ #3
+    - Corgi working on filling out application♥♥ #3
+    - Corgi working on writing cover letter♥♥
     - 여보♥♥, 요기 우리 링크♥♥♥♥
         - https://careers.cookly.me/open-positions/senior-software-developer
 
