@@ -7,7 +7,7 @@ Programmers current rank: 966
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 - Apply for a job
-    - ( ): Front End Developer, Critical Mass
+    - (x): Front End Developer, Critical Mass
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.linkedin.com/jobs/view/2376376062
     - ( ): UI software developer, Modis
@@ -31,12 +31,12 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi creating dashboard for our portfolio site♥♥ #28
-    - Corgi working on creating front-end template♥♥ #18
+2. Corgi creating dashboard for our portfolio site♥♥ #29
+    - Corgi working on creating front-end template♥♥ #19
     - Corgi completed creating design♥♥
 
-3. Corgi working on submitting resume to Critical Mass♥♥ #2
-    - Corgi working on submitting resume♥♥ #2
+3. Corgi completed submitting resume to Critical Mass♥♥
+    - Corgi completed submitting resume♥♥
     - Corgi completed filling out application♥♥
     - 여보♥♥, 요기 우리 링크♥♥♥♥
         - https://www.linkedin.com/jobs/view/2376376062
