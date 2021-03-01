@@ -31,18 +31,24 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi creating dashboard for our portfolio site♥♥ #29
-    - Corgi working on creating front-end template♥♥ #19
+2. Corgi creating dashboard for our portfolio site♥♥ #30
+    - Corgi working on creating front-end template♥♥ #20
     - Corgi completed creating design♥♥
 
-3. Corgi completed submitting resume to Critical Mass♥♥
+3. Corgi working on submitting resume to Modis♥♥
+    - Corgi working on submitting resume♥♥
+    - Corgi working on filling out application♥♥
+    - 여보♥♥, 요기 우리 링크♥♥♥♥
+        - https://www.linkedin.com/jobs/view/2405756479
+
+4. Corgi completed submitting resume to Critical Mass♥♥
     - Corgi completed submitting resume♥♥
     - Corgi completed filling out application♥♥
     - 여보♥♥, 요기 우리 링크♥♥♥♥
         - https://www.linkedin.com/jobs/view/2376376062
 
 
-4. [on hold] Corgi learning about node.js on Codecademy♥♥ #47
+5. [on hold] Corgi learning about node.js on Codecademy♥♥ #47
     - Corgi learning about how to use postgresql in node.js♥♥ #5
     - Corgi completed working on "Learn Express: Routers" quiz (14/14)♥♥
     - Corgi completed working on "Learn Express: Routers" code challenges (10/10)♥♥
@@ -52,7 +58,7 @@ Programmers current rank: 966
     - Corgi completed working on "Express/Node Introduction"♥♥
 
 
-5. [on hold] Corgi working on In-city-event-app♥♥ #4
+6. [on hold] Corgi working on In-city-event-app♥♥ #4
     - Corgi working on design♥♥ #4
 
 ### March 1st, 2021
