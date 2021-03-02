@@ -16,6 +16,9 @@ Programmers current rank: 966
     - (x): Senior Software Developer, Cookly
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://careers.cookly.me/open-positions/senior-software-developer
+    - ( ): Software Developer, Chime
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.chime.com/job-openings/?gh_jid=4842827002
 
 1. Corgi completed interview♥♥
     - 내♥♥
