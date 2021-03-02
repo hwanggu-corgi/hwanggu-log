@@ -10,7 +10,7 @@ Programmers current rank: 966
     - ( ): Software Developer, Chime
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.chime.com/job-openings/?gh_jid=4842827002
-    - ( ): Full Stack Developer, Fishtank Consulting
+    - (x): Full Stack Developer, Fishtank Consulting
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.linkedin.com/jobs/view/2417252750
 
@@ -32,8 +32,8 @@ Programmers current rank: 966
     - Corgi working on creating front-end template♥♥ #39
     - Corgi completed creating design♥♥
 
-3. Corgi working on submitting application to fishtank consulting♥♥
-    - Corgi working on filling out application♥♥
+3. Corgi completed submitting application to fishtank consulting♥♥
+    - Corgi completed filling out application♥♥
     - 여보♥♥, 요기 우리 링크♥♥♥♥
         - https://www.linkedin.com/jobs/view/2417252750
 
