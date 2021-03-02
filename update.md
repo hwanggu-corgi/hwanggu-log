@@ -1,3 +1,50 @@
+### March 3rd, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+- Apply for a job
+    - ( ): Software Developer, Chime
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.chime.com/job-openings/?gh_jid=4842827002
+    - ( ): Full Stack Developer, Fishtank Consulting
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.linkedin.com/jobs/view/2417252750
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+2. Corgi creating dashboard for our portfolio site♥♥ #48
+    - Corgi working on creating front-end template♥♥ #38
+    - Corgi completed creating design♥♥
+
+6. [on hold] Corgi learning about node.js on Codecademy♥♥ #47
+    - Corgi learning about how to use postgresql in node.js♥♥ #5
+    - Corgi completed working on "Learn Express: Routers" quiz (14/14)♥♥
+    - Corgi completed working on "Learn Express: Routers" code challenges (10/10)♥♥
+    - Corgi completed working on "Learn Express: Routers" (7/7)♥♥
+    - Corgi completed working on "Learn Express: Routes" (15/15)♥♥
+    - Corgi completed working on "Express"♥♥
+    - Corgi completed working on "Express/Node Introduction"♥♥
+
+
+7. [on hold] Corgi working on In-city-event-app♥♥ #4
+    - Corgi working on design♥♥ #4
+
 ### March 2nd, 2021
 
 Programmers current rank: 966
