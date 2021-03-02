@@ -28,13 +28,13 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi creating dashboard for our portfolio site♥♥ #53
-    - Corgi working on creating front-end template♥♥ #53
-        - Corgi working on creating front-end template for project page♥♥ #4
+2. Corgi creating dashboard for our portfolio site♥♥ #54
+    - Corgi working on creating front-end template♥♥ #54
+        - Corgi working on creating front-end template for project page♥♥ #5
     - Corgi completed creating design♥♥
 
-4. Corgi working on submitting application to Chime♥♥
-    - Corgi working on filling out application♥♥
+4. Corgi working on submitting application to Chime♥♥ #2
+    - Corgi working on filling out application♥♥ #2
     - 여보♥♥, 요기 우리 링크♥♥♥♥
         - https://www.chime.com/job-openings/?gh_jid=4842827002
 
