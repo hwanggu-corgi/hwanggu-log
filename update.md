@@ -7,7 +7,7 @@ Programmers current rank: 966
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 - Apply for a job
-    - ( ): Software Developer, Chime
+    - (x): Software Developer, Chime
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.chime.com/job-openings/?gh_jid=4842827002
     - (x): Full Stack Developer, Fishtank Consulting
@@ -28,15 +28,15 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi creating dashboard for our portfolio site♥♥ #57
-    - Corgi working on creating front-end template♥♥ #57
-        - Corgi working on creating front-end template for project page♥♥ #8
+2. Corgi creating dashboard for our portfolio site♥♥ #59
+    - Corgi working on creating front-end template♥♥ #59
+        - Corgi working on creating front-end template for project page♥♥ #10
     - Corgi completed creating design♥♥
 
 3. Corgi completed writing thank you email to Critical Mass♥♥
 
-4. Corgi working on submitting application to Chime♥♥ #2
-    - Corgi working on filling out application♥♥ #2
+4. Corgi completed submitting application to Chime♥♥
+    - Corgi completed filling out application♥♥
     - 여보♥♥, 요기 우리 링크♥♥♥♥
         - https://www.chime.com/job-openings/?gh_jid=4842827002
 
