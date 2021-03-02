@@ -28,11 +28,16 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi creating dashboard for our portfolio site♥♥ #48
-    - Corgi working on creating front-end template♥♥ #38
+2. Corgi creating dashboard for our portfolio site♥♥ #49
+    - Corgi working on creating front-end template♥♥ #39
     - Corgi completed creating design♥♥
 
-6. [on hold] Corgi learning about node.js on Codecademy♥♥ #47
+3. Corgi working on submitting application to fishtank consulting♥♥
+    - Corgi working on filling out application♥♥
+    - 여보♥♥, 요기 우리 링크♥♥♥♥
+        - https://www.linkedin.com/jobs/view/2417252750
+
+4. [on hold] Corgi learning about node.js on Codecademy♥♥ #47
     - Corgi learning about how to use postgresql in node.js♥♥ #5
     - Corgi completed working on "Learn Express: Routers" quiz (14/14)♥♥
     - Corgi completed working on "Learn Express: Routers" code challenges (10/10)♥♥
