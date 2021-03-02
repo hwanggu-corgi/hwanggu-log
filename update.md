@@ -13,7 +13,7 @@ Programmers current rank: 966
     - (x): UI software developer, Modis
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://www.linkedin.com/jobs/view/2405756479
-    - ( ): Senior Software Developer, Cookly
+    - (x): Senior Software Developer, Cookly
         - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://careers.cookly.me/open-positions/senior-software-developer
 
@@ -31,12 +31,12 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi creating dashboard for our portfolio site♥♥ #42
-    - Corgi working on creating front-end template♥♥ #32
+2. Corgi creating dashboard for our portfolio site♥♥ #44
+    - Corgi working on creating front-end template♥♥ #34
     - Corgi completed creating design♥♥
 
-3. Corgi working on submitting resume to Cookly♥♥ #4
-    - Corgi working on filling out application♥♥ #4
+3. Corgi completed submitting resume to Cookly♥♥
+    - Corgi completed filling out application♥♥
     - Corgi completed working on writing cover letter♥♥
     - 여보♥♥, 요기 우리 링크♥♥♥♥
         - https://careers.cookly.me/open-positions/senior-software-developer
