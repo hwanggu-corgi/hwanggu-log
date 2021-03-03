@@ -36,7 +36,7 @@ Programmers current rank: 966
 3. Corgi working on test at turing.com♥♥
     - Corgi completed the quiz `tell me about yourself`♥♥
 
-4. Corgi completed writing email to Morad Creative Agency♥♥
+4. Corgi working on writing email #2 to Morad Creative Agency♥♥!!!
 
 5. [on hold] Corgi learning about node.js on Codecademy♥♥ #47
     - Corgi learning about how to use postgresql in node.js♥♥ #5
