@@ -28,15 +28,15 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi creating dashboard for our portfolio site♥♥ #65
-    - Corgi working on creating front-end template♥♥ #65
-        - Corgi working on creating front-end template for project page♥♥ #16
+2. Corgi creating dashboard for our portfolio site♥♥ #66
+    - Corgi working on creating front-end template♥♥ #66
+        - Corgi working on creating front-end template for project page♥♥ #17
     - Corgi completed creating design♥♥
 
 3. Corgi working on test at turing.com♥♥
     - Corgi completed the quiz `tell me about yourself`♥♥
 
-4. Corgi working on writing email to Morad Creative Agency♥♥
+4. Corgi completed writing email to Morad Creative Agency♥♥
 
 5. [on hold] Corgi learning about node.js on Codecademy♥♥ #47
     - Corgi learning about how to use postgresql in node.js♥♥ #5
