@@ -34,6 +34,7 @@ Programmers current rank: 966
     - Corgi completed creating design♥♥
 
 3. Corgi working on test at turing.com♥♥
+    - Corgi completed the quiz `tell me about yourself`♥♥
 
 4. Corgi completed applying to 2021-Dev-Matching♥♥
     - 여보♥♥, 요기 우리 링크♥♥♥♥
