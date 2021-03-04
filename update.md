@@ -7,12 +7,12 @@ Programmers current rank: 966
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 - Apply for a job
-    - (x): Software Developer, Chime
+    - ( ): Frontend Engineer, Cloud, Grafana Labs
         - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://www.chime.com/job-openings/?gh_jid=4842827002
-    - (x): Full Stack Developer, Fishtank Consulting
+            - https://www.linkedin.com/jobs/view/2442762169
+    - ( ): Software Engineer - Full Stack (Remote), Yelp
         - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://www.linkedin.com/jobs/view/2417252750
+            - https://www.linkedin.com/jobs/view/2433031518
 
 1. Corgi completed interview♥♥
     - 내♥♥
@@ -28,9 +28,9 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi creating dashboard for our portfolio site♥♥ #76
-    - Corgi working on creating front-end template♥♥ #76
-        - Corgi working on creating front-end template for project page♥♥ #29
+2. Corgi creating dashboard for our portfolio site♥♥ #77
+    - Corgi working on creating front-end template♥♥ #77
+        - Corgi working on creating front-end template for project page♥♥ #30
     - Corgi completed creating design♥♥
 
 3. Corgi working on test at turing.com♥♥
