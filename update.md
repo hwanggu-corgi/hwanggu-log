@@ -28,9 +28,9 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi creating dashboard for our portfolio site♥♥ #73
-    - Corgi working on creating front-end template♥♥ #73
-        - Corgi working on creating front-end template for project page♥♥ #26
+2. Corgi creating dashboard for our portfolio site♥♥ #74
+    - Corgi working on creating front-end template♥♥ #74
+        - Corgi working on creating front-end template for project page♥♥ #27
     - Corgi completed creating design♥♥
 
 3. Corgi working on test at turing.com♥♥
