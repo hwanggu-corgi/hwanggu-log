@@ -28,11 +28,11 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi creating dashboard for our portfolio site♥♥ #140
-    - Corgi working on creating front-end template♥♥ #140
-        - Corgi working on server♥♥ #53
-        - Corgi fixing unmatching parameter and value fields for `INSERT`♥♥ #5
-        - Corgi working on the end point `POST /work-experiences` #1 ♥♥
+2. Corgi creating dashboard for our portfolio site♥♥ #141
+    - Corgi working on creating front-end template♥♥ #141
+        - Corgi working on server♥♥ #54
+        - Corgi fixing unmatching parameter and value fields for `INSERT`♥♥ #6
+        - Corgi working on the end point `POST /work-experiences` #1 ♥♥ #2
         - Corgi completed working on the end point `POST /projects` #1 ♥♥
         - Corgi completed fixing stored project returning null♥♥
         - Corgi completed installing jest testing library♥♥
