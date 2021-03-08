@@ -28,10 +28,11 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi creating dashboard for our portfolio site♥♥ #170
-    - Corgi working on creating front-end template♥♥ #170
+2. Corgi creating dashboard for our portfolio site♥♥ #171
+    - Corgi working on creating front-end template♥♥ #171
         - Corgi working on server♥♥ #272
-        - Corgi working on the end point `PUT /admin/work-experiences/:id` #1 ♥♥
+        - Corgi refactoring code♥♥
+        - Corgi completed working on the end point `PUT /admin/work-experiences/:id` #1 ♥♥
         - Corgi completed working on the end point `PUT /admin/projects/:id` #1 ♥♥
         - Corgi completed working on the end point `DELETE /admin/work-experiences/:id` #1 ♥♥
         - Corgi completed working on the end point `DELETE /admin/projects/:id` #1 ♥♥
