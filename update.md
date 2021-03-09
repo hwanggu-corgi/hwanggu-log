@@ -30,7 +30,9 @@ Programmers current rank: 966
 
 2. 자기야, 우리 형모 이발 깎구 올게요♥♥
 
-3. Corgi creating dashboard for our portfolio site♥♥ #182
+3. Corgi practicing Morad creative agency♥♥
+
+4. Corgi creating dashboard for our portfolio site♥♥ #182
     - Corgi working on creating front-end template♥♥ #182
         - Corgi working on server♥♥ #38
         - Corgi completed working on the end point `PUT /admin/info` #1 ♥♥
@@ -42,10 +44,10 @@ Programmers current rank: 966
         - Corgi completed working on the end point `GET /admin/info` #1 ♥♥
         - Corgi completed working on the end point `GET /work-experiences` #1 ♥♥
 
-4. [on hold] Corgi working on test at turing.com♥♥
+5. [on hold] Corgi working on test at turing.com♥♥
     - Corgi completed the quiz `tell me about yourself`♥♥
 
-5. [on hold] Corgi learning about node.js on Codecademy♥♥ #47
+6. [on hold] Corgi learning about node.js on Codecademy♥♥ #47
     - Corgi learning about how to use postgresql in node.js♥♥ #5
     - Corgi completed working on "Learn Express: Routers" quiz (14/14)♥♥
     - Corgi completed working on "Learn Express: Routers" code challenges (10/10)♥♥
@@ -54,7 +56,7 @@ Programmers current rank: 966
     - Corgi completed working on "Express"♥♥
     - Corgi completed working on "Express/Node Introduction"♥♥
 
-6. [on hold] Corgi working on In-city-event-app♥♥ #4
+7. [on hold] Corgi working on In-city-event-app♥♥ #4
     - Corgi working on design♥♥ #4
 
 
