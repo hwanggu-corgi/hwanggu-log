@@ -29,6 +29,9 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi practicing Morad creative agency♥♥
+    - Corgi worked on the question `What are your greatest strengths?`♥♥
+        - Second Practice: https://app.biginterview.com/s/87a13d5e2c♥♥
+        - First Practice: https://app.biginterview.com/s/ce5636432d♥♥
     - Corgi worked on the question `Why do you want to be here?`♥♥
         - Second Practice: https://app.biginterview.com/s/93aa056742♥♥
         - First Practice: https://app.biginterview.com/s/eeb6772e47♥♥
@@ -46,8 +49,6 @@ Programmers current rank: 966
         - First Practice: https://app.biginterview.com/s/8465bc79d9♥♥
     - Corgi worked on the question `Where do you see yourself in 5 years?`♥♥
         - First Practice: https://app.biginterview.com/s/c0f0965663♥♥
-    - Corgi worked on the question `What are your greatest strengths?`♥♥
-        - First Practice: https://app.biginterview.com/s/ce5636432d♥♥
     - Corgi worked on the question `Why are you looking for a new position now?`♥♥
         - First Practice: https://app.biginterview.com/s/b5d50b34ac♥♥
     - Corgi worked on the question `Describe your current and most recent job role`♥♥
