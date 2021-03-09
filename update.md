@@ -31,6 +31,8 @@ Programmers current rank: 966
 2. 자기야, 우리 형모 이발 깎구 올게요♥♥
 
 3. Corgi practicing Morad creative agency♥♥
+    - Corgi worked on the question `Describe your current and most recent job role`♥♥
+        - First Practice: https://app.biginterview.com/s/9cff1388c4♥♥
     - Corgi worked on the question `Why did you choose this career?`♥♥
         - First Practice: https://app.biginterview.com/s/2db5ee7dd5♥♥
 
