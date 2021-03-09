@@ -1,3 +1,59 @@
+### March 10th, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+- Apply for a job
+    - ( ): Frontend Engineer, Cloud, Grafana Labs
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.linkedin.com/jobs/view/2442762169
+    - ( ): Software Engineer - Full Stack (Remote), Yelp
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.linkedin.com/jobs/view/2433031518
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+2. 자기야, 우리 형모 이발 깎구 올게요♥♥
+
+3. Corgi practicing Morad creative agency♥♥
+    - Corgi worked on the question `Why are you looking for a new position now?`♥♥
+        - First Practice: https://app.biginterview.com/s/b5d50b34ac♥♥
+    - Corgi worked on the question `Describe your current and most recent job role`♥♥
+        - First Practice: https://app.biginterview.com/s/9cff1388c4♥♥
+    - Corgi worked on the question `Why did you choose this career?`♥♥
+        - First Practice: https://app.biginterview.com/s/2db5ee7dd5♥♥
+
+5. [on hold] Corgi working on test at turing.com♥♥
+    - Corgi completed the quiz `tell me about yourself`♥♥
+
+6. [on hold] Corgi learning about node.js on Codecademy♥♥ #47
+    - Corgi learning about how to use postgresql in node.js♥♥ #5
+    - Corgi completed working on "Learn Express: Routers" quiz (14/14)♥♥
+    - Corgi completed working on "Learn Express: Routers" code challenges (10/10)♥♥
+    - Corgi completed working on "Learn Express: Routers" (7/7)♥♥
+    - Corgi completed working on "Learn Express: Routes" (15/15)♥♥
+    - Corgi completed working on "Express"♥♥
+    - Corgi completed working on "Express/Node Introduction"♥♥
+
+7. [on hold] Corgi working on In-city-event-app♥♥ #4
+    - Corgi working on design♥♥ #4
+
+
 ### March 9th, 2021
 
 Programmers current rank: 966
