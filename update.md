@@ -31,6 +31,8 @@ Programmers current rank: 966
 2. 자기야, 우리 형모 이발 깎구 올게요♥♥
 
 3. Corgi practicing Morad creative agency♥♥
+    - Corgi worked on the question `What are your greatest strengths??`♥♥
+        - First Practice: https://app.biginterview.com/s/ce5636432d♥♥
     - Corgi worked on the question `What is your weakness?`♥♥
         - First Practice: https://app.biginterview.com/s/49a6b3ee2b♥♥
     - Corgi worked on the question `Why are you looking for a new position now?`♥♥
