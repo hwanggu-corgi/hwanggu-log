@@ -28,10 +28,10 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. 자기야, 우리 형모 이발 깎구 올게요♥♥
-
-3. Corgi practicing Morad creative agency♥♥
-    - Corgi worked on the question `What are your greatest strengths??`♥♥
+2. Corgi practicing Morad creative agency♥♥
+    - Corgi worked on the question `Tell me about yourself`♥♥
+        - First Practice:
+    - Corgi worked on the question `What are your greatest strengths?`♥♥
         - First Practice: https://app.biginterview.com/s/ce5636432d♥♥
     - Corgi worked on the question `What is your weakness?`♥♥
         - First Practice: https://app.biginterview.com/s/49a6b3ee2b♥♥
@@ -42,10 +42,10 @@ Programmers current rank: 966
     - Corgi worked on the question `Why did you choose this career?`♥♥
         - First Practice: https://app.biginterview.com/s/2db5ee7dd5♥♥
 
-5. [on hold] Corgi working on test at turing.com♥♥
+3. [on hold] Corgi working on test at turing.com♥♥
     - Corgi completed the quiz `tell me about yourself`♥♥
 
-6. [on hold] Corgi learning about node.js on Codecademy♥♥ #47
+4. [on hold] Corgi learning about node.js on Codecademy♥♥ #47
     - Corgi learning about how to use postgresql in node.js♥♥ #5
     - Corgi completed working on "Learn Express: Routers" quiz (14/14)♥♥
     - Corgi completed working on "Learn Express: Routers" code challenges (10/10)♥♥
@@ -54,7 +54,7 @@ Programmers current rank: 966
     - Corgi completed working on "Express"♥♥
     - Corgi completed working on "Express/Node Introduction"♥♥
 
-7. [on hold] Corgi working on In-city-event-app♥♥ #4
+5. [on hold] Corgi working on In-city-event-app♥♥ #4
     - Corgi working on design♥♥ #4
 
 
