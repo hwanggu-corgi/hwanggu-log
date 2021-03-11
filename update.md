@@ -1,3 +1,110 @@
+### March 12th, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+- Apply for a job
+    - ( ): Frontend Engineer, Cloud, Grafana Labs
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.linkedin.com/jobs/view/2442762169
+    - ( ): Software Engineer - Full Stack (Remote), Yelp
+        - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://www.linkedin.com/jobs/view/2433031518
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+2. Corgi working on reviewing algorithm problems for Betterway Systems♥♥
+    - Corgi working on problem `2016년` in programmers♥♥
+    - Corgi completed problem `모의고사` in programmers♥♥
+
+3. Corgi practicing Betterway Systems♥♥
+    - Corgi worked on the question `Tell me about your greatest career accomplishment.`♥♥
+        - First Practice: https://app.biginterview.com/s/53e2cdde46♥♥
+    - Corgi worked on the question `What do you know about our company and why do you want to work here?`♥♥
+        - First Practice: https://app.biginterview.com/s/18393a8829♥♥
+    - Corgi worked on the question `Tell me about yourself`♥♥
+        - Second Practice: https://app.biginterview.com/s/b126de611e♥♥
+        - First Practice: https://app.biginterview.com/s/51bb7f1db1♥♥
+    - Corgi worked on the question `Why are you looking for a new position now?`♥♥
+        - Second Practice: https://app.biginterview.com/s/044b29aa92♥♥
+        - First Practice: https://app.biginterview.com/s/47c935dade♥♥
+    - Corgi worked on the question `Tell me about yourself`♥♥
+        - First Practice: https://app.biginterview.com/s/51bb7f1db1♥♥
+    - Corgi worked on the question `What is your weakness?`♥♥
+        - First Practice: https://app.biginterview.com/s/c2745129d2♥♥
+    - Corgi worked on the question `Describe your current or most recent job role.`♥♥
+        - First Practice: https://app.biginterview.com/s/c759c4dbf1♥♥
+    - Corgi worked on the question `Why did you choose this career?`♥♥
+        - First Practice: https://app.biginterview.com/s/c759c4dbf1♥♥
+
+3. Corgi completed practicing Morad creative agency♥♥
+    - Corgi worked on the question `What are your most relevant qualifications for this position?`♥♥
+        - Third Practice: https://app.biginterview.com/s/95062d91a3♥♥
+        - Second Practice: https://app.biginterview.com/s/32a29e2041♥♥
+        - First Practice: https://app.biginterview.com/s/b69cddb83f♥♥
+    - Corgi worked on the question `What questions do you have for me?`♥♥
+        - Second Practice: https://app.biginterview.com/s/ecdde448d8♥♥
+        - First Practice: https://app.biginterview.com/s/8465bc79d9♥♥
+    - Corgi worked on the question `What is your greatest career accomplishment?`♥♥
+        - Second Practice: https://app.biginterview.com/s/4f612f3730♥♥
+        - First Practice: https://app.biginterview.com/s/fd963f8cf8♥♥
+    - Corgi worked on the question `Where do you see yourself in 5 years?`♥♥
+        - Second Practice: https://app.biginterview.com/s/a63ba284b8♥♥
+        - First Practice: https://app.biginterview.com/s/c0f0965663♥♥
+    - Corgi worked on the question `Why are you looking for a new position now?`♥♥
+        - Second Practice: https://app.biginterview.com/s/8cb52ee7f3♥♥
+        - First Practice: https://app.biginterview.com/s/b5d50b34ac♥♥
+    - Corgi worked on the question `Describe your current or most recent job role.`♥♥
+        - Second Practice: https://app.biginterview.com/s/2be71b7fe1♥♥
+        - First Practice: https://app.biginterview.com/s/9cff1388c4♥♥
+    - Corgi worked on the question `Why did you choose this career?`♥♥
+        - Second Practice: https://app.biginterview.com/s/acc598dced♥♥
+        - First Practice: https://app.biginterview.com/s/2db5ee7dd5♥♥
+    - Corgi worked on the question `What are your greatest strengths?`♥♥
+        - Second Practice: https://app.biginterview.com/s/87a13d5e2c♥♥
+        - First Practice: https://app.biginterview.com/s/ce5636432d♥♥
+    - Corgi worked on the question `Why do you want to be here?`♥♥
+        - Second Practice: https://app.biginterview.com/s/93aa056742♥♥
+        - First Practice: https://app.biginterview.com/s/eeb6772e47♥♥
+    - Corgi worked on the question `Tell me about yourself`♥♥
+        - Second Practice: https://app.biginterview.com/s/4d096d7825♥♥
+        - First Practice: https://app.biginterview.com/s/ff020b7416♥♥
+    - Corgi worked on the question `What is your weakness?`♥♥
+        - Second Practice: https://app.biginterview.com/s/67fe235d55♥♥
+        - First Practice: https://app.biginterview.com/s/49a6b3ee2b♥♥
+
+3. [on hold] Corgi working on test at turing.com♥♥
+    - Corgi completed the quiz `tell me about yourself`♥♥
+
+4. [on hold] Corgi learning about node.js on Codecademy♥♥ #47
+    - Corgi learning about how to use postgresql in node.js♥♥ #5
+    - Corgi completed working on "Learn Express: Routers" quiz (14/14)♥♥
+    - Corgi completed working on "Learn Express: Routers" code challenges (10/10)♥♥
+    - Corgi completed working on "Learn Express: Routers" (7/7)♥♥
+    - Corgi completed working on "Learn Express: Routes" (15/15)♥♥
+    - Corgi completed working on "Express"♥♥
+    - Corgi completed working on "Express/Node Introduction"♥♥
+
+5. [on hold] Corgi working on In-city-event-app♥♥ #4
+    - Corgi working on design♥♥ #4
+
+
+
 ### March 11th, 2021
 
 Programmers current rank: 966
