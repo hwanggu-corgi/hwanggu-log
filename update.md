@@ -29,7 +29,8 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on reviewing algorithm problems for Betterway Systems♥♥
-    - Corgi working on problem `체육복` in programmers♥♥ #3
+    - Corgi working on problem `나누어 떨어지는 숫자` in programmers♥♥
+    - Corgi completed problem `체육복` in programmers♥♥
     - Corgi completed problem `2016년` in programmers♥♥
     - Corgi completed problem `모의고사` in programmers♥♥
 
