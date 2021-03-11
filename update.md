@@ -28,7 +28,11 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi practicing Betterway Systems♥♥
+2. Corgi working on reviewing algorithm problems for Betterway Systems♥♥
+    - Corgi working on problem `2016년` in programmers♥♥
+    - Corgi completed problem `모의고사` in programmers♥♥
+
+3. Corgi practicing Betterway Systems♥♥
     - Corgi worked on the question `Tell me about your greatest career accomplishment.`♥♥
         - First Practice: https://app.biginterview.com/s/53e2cdde46♥♥
     - Corgi worked on the question `What do you know about our company and why do you want to work here?`♥♥
