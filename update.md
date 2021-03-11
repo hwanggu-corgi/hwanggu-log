@@ -29,8 +29,9 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi practicing Betterway Systems♥♥
-    - Corgi worked on the question `What are your most relevant qualifications for this position?`♥♥
-        - First Practice: https://app.biginterview.com/s/c434e01897♥♥
+    - Corgi worked on the question `Tell me about yourself`♥♥
+        - Second Practice: https://app.biginterview.com/s/b126de611e♥♥
+        - First Practice: https://app.biginterview.com/s/51bb7f1db1♥♥
     - Corgi worked on the question `Why are you looking for a new position now?`♥♥
         - Second Practice: https://app.biginterview.com/s/044b29aa92♥♥
         - First Practice: https://app.biginterview.com/s/47c935dade♥♥
