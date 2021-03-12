@@ -28,20 +28,11 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on reviewing algorithm problems for Betterway Systems♥♥
-    - Corgi completed problem `문자열 다루기 기본` in programmers♥♥
-    - Corgi completed problem `문자열 내 p와 y의 개수` in programmers♥♥
-    - Corgi completed problem `문자열 내 마음대로 정렬하기` in programmers♥♥
-    - Corgi completed problem `가운데 글자 가져오기` in programmers♥♥
-    - Corgi completed problem `같은 숫자는 싫어` in programmers♥♥
-    - Corgi completed problem `두 정수 사이의 합` in programmers♥♥
-    - Corgi completed problem `K 번째 수` in programmers♥♥
-    - Corgi completed problem `나누어 떨어지는 숫자` in programmers♥♥
-    - Corgi completed problem `체육복` in programmers♥♥
-    - Corgi completed problem `2016년` in programmers♥♥
-    - Corgi completed problem `모의고사` in programmers♥♥
 
-3. Corgi practicing Betterway Systems♥♥
+2. Corgi practicing Betterway Systems♥♥
+    - Corgi worked on the question `What is your weakness?`♥♥
+        - Second Practice: https://app.biginterview.com/s/7208a987f8♥♥
+        - First Practice: https://app.biginterview.com/s/c2745129d2♥♥
     - Corgi worked on the question `Tell me about your greatest career accomplishment.`♥♥
         - First Practice: https://app.biginterview.com/s/53e2cdde46♥♥
     - Corgi worked on the question `What do you know about our company and why do you want to work here?`♥♥
@@ -54,12 +45,23 @@ Programmers current rank: 966
         - First Practice: https://app.biginterview.com/s/47c935dade♥♥
     - Corgi worked on the question `Tell me about yourself`♥♥
         - First Practice: https://app.biginterview.com/s/51bb7f1db1♥♥
-    - Corgi worked on the question `What is your weakness?`♥♥
-        - First Practice: https://app.biginterview.com/s/c2745129d2♥♥
     - Corgi worked on the question `Describe your current or most recent job role.`♥♥
         - First Practice: https://app.biginterview.com/s/c759c4dbf1♥♥
     - Corgi worked on the question `Why did you choose this career?`♥♥
         - First Practice: https://app.biginterview.com/s/c759c4dbf1♥♥
+
+3. Corgi working on reviewing algorithm problems for Betterway Systems♥♥
+    - Corgi completed problem `문자열 다루기 기본` in programmers♥♥
+    - Corgi completed problem `문자열 내 p와 y의 개수` in programmers♥♥
+    - Corgi completed problem `문자열 내 마음대로 정렬하기` in programmers♥♥
+    - Corgi completed problem `가운데 글자 가져오기` in programmers♥♥
+    - Corgi completed problem `같은 숫자는 싫어` in programmers♥♥
+    - Corgi completed problem `두 정수 사이의 합` in programmers♥♥
+    - Corgi completed problem `K 번째 수` in programmers♥♥
+    - Corgi completed problem `나누어 떨어지는 숫자` in programmers♥♥
+    - Corgi completed problem `체육복` in programmers♥♥
+    - Corgi completed problem `2016년` in programmers♥♥
+    - Corgi completed problem `모의고사` in programmers♥♥
 
 3. Corgi completed practicing Morad creative agency♥♥
     - Corgi worked on the question `What are your most relevant qualifications for this position?`♥♥
