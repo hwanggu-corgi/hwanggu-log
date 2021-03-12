@@ -29,7 +29,7 @@ Programmers current rank: 966
     - 해♥♥
 
 
-2. Corgi practicing Betterway Systems♥♥
+2. Corgi completed practicing Betterway Systems♥♥
     - Corgi working on sample better way systems problems♥♥ #2
     - Corgi worked on the question `What is your weakness?`♥♥
         - Second Practice: https://app.biginterview.com/s/7208a987f8♥♥
