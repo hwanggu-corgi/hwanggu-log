@@ -28,6 +28,8 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
+2. Corgi working on hyungmogu.com dashboard♥♥
+    - Corgi enabling CORS
 
 2. Corgi completed practicing Betterway Systems♥♥
     - Corgi working on sample better way systems problems♥♥ #2
@@ -51,7 +53,7 @@ Programmers current rank: 966
     - Corgi worked on the question `Why did you choose this career?`♥♥
         - First Practice: https://app.biginterview.com/s/c759c4dbf1♥♥
 
-3. Corgi working on reviewing algorithm problems for Betterway Systems♥♥
+3. Corgi completed working on reviewing algorithm problems for Betterway Systems♥♥
     - Corgi completed problem `문자열 다루기 기본` in programmers♥♥
     - Corgi completed problem `문자열 내 p와 y의 개수` in programmers♥♥
     - Corgi completed problem `문자열 내 마음대로 정렬하기` in programmers♥♥
