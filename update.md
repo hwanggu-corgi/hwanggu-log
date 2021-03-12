@@ -29,7 +29,8 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on hyungmogu.com dashboard♥♥
-    - Corgi enabling CORS♥♥
+    - Corgi integrating front-end dashboard to backend♥♥
+    - Corgi completed enabling CORS♥♥
 
 2. Corgi completed practicing Betterway Systems♥♥
     - Corgi working on sample better way systems problems♥♥ #2
