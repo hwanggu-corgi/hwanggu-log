@@ -6,13 +6,6 @@ Programmers current rank: 966
 - (x): Attempt level 2 test at programmers
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
-- Apply for a job
-    - ( ): Frontend Engineer, Cloud, Grafana Labs
-        - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://www.linkedin.com/jobs/view/2442762169
-    - ( ): Software Engineer - Full Stack (Remote), Yelp
-        - 여보♥♥, 요기 우리 링크♥♥♥♥
-            - https://www.linkedin.com/jobs/view/2433031518
 
 1. Corgi completed interview♥♥
     - 내♥♥
@@ -29,7 +22,8 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on hyungmogu.com dashboard♥♥
-    - Corgi integrating front-end dashboard to backend♥♥ #11
+    - Corgi integrating front-end dashboard to backend♥♥ #12
+        - Corgi working on adding ADD call on `/projects`♥♥
         - Corgi completed working on adding DELETE call on `/projects`♥♥
         - Corgi completed formatting date on `/projects`♥♥
     - Corgi completed enabling CORS♥♥
