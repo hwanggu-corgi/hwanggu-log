@@ -22,8 +22,8 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on hyungmogu.com dashboard♥♥
-    - Corgi integrating front-end dashboard to backend♥♥ #47
-        - Corgi working on adding date input on `/projects`♥♥ #4
+    - Corgi integrating front-end dashboard to backend♥♥ #48
+        - Corgi working on adding date input on `/projects`♥♥ #5
         - Corgi completed adding ADD call on `/projects`♥♥
         - Corgi completed adding DELETE call on `/projects`♥♥
         - Corgi completed formatting date on `/projects`♥♥
