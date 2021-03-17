@@ -21,7 +21,12 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on hyungmogu.com dashboard♥♥
+2. Corgi working on practicing for morad creative♥♥
+    - Corgi recreating Cana website
+         - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://cana.ca/
+
+3. Corgi working on hyungmogu.com dashboard♥♥
     - Corgi integrating front-end dashboard to backend♥♥ #66
         - Corgi working on adding PUT call on `/info`♥♥ #2
         - Corgi working on adding POST call on `/info`♥♥ #2
@@ -31,10 +36,10 @@ Programmers current rank: 966
         - Corgi completed working on adding GET call on `/work-experiences/`♥♥
     - Corgi completed enabling CORS♥♥
 
-3. [on hold] Corgi working on test at turing.com♥♥
+4. [on hold] Corgi working on test at turing.com♥♥
     - Corgi completed the quiz `tell me about yourself`♥♥
 
-4. [on hold] Corgi working on In-city-event-app♥♥ #4
+5. [on hold] Corgi working on In-city-event-app♥♥ #4
     - Corgi working on design♥♥ #4
 
 
