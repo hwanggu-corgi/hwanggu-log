@@ -7,6 +7,8 @@ Programmers current rank: 966
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 
+재희야♥♥, 사랑해♥♥♥♥
+
 1. Corgi completed interview♥♥
     - 내♥♥
     - 여♥♥
