@@ -1,3 +1,52 @@
+### March 20th, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+
+재희야♥♥, 부디 편안하고 좋은 꿈 꿔♥♥♥♥
+자기야♥♥, 사랑해♥♥♥♥
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+2. [on hold] Corgi working on practicing for morad creative♥♥ #10
+    - Corgi working on learning Vue.js♥♥ #2
+    - Corgi recreating Cana website♥♥ #8
+         - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://cana.ca/
+
+3. Corgi working on hyungmogu.com dashboard♥♥
+    - Corgi integrating front-end dashboard to backend♥♥ #74
+        - Corgi working on adding PUT call on `/info`♥♥ #11
+        - Corgi working on adding POST call on `/info`♥♥ #10
+        - Corgi working on adding GET call on `/info`♥♥ #10
+        - Corgi completed working on adding GET call on `/work-experiences/:id`♥♥
+        - Corgi completed working on adding PUT and POST call on `/work-experiences/:id`♥♥
+        - Corgi completed working on adding GET call on `/work-experiences/`♥♥
+    - Corgi completed enabling CORS♥♥
+
+4. [on hold] Corgi working on test at turing.com♥♥
+    - Corgi completed the quiz `tell me about yourself`♥♥
+
+5. [on hold] Corgi working on In-city-event-app♥♥ #4
+    - Corgi working on design♥♥ #4
+
+
 ### March 19th, 2021
 
 Programmers current rank: 966
