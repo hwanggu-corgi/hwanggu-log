@@ -31,9 +31,9 @@ Programmers current rank: 966
             - https://cana.ca/
 
 3. Corgi working on hyungmogu.com dashboard♥♥
-    - Corgi integrating front-end dashboard to backend♥♥ #84
-        - Corgi working on adding PUT call on `/info`♥♥ #21
-        - Corgi working on adding GET call on `/info`♥♥ #20
+    - Corgi integrating front-end dashboard to backend♥♥ #85
+        - Corgi working on adding PUT call on `/info`♥♥ #22
+        - Corgi working on adding GET call on `/info`♥♥ #21
         - Corgi completed working on adding GET call on `/work-experiences/:id`♥♥
         - Corgi completed working on adding PUT and POST call on `/work-experiences/:id`♥♥
         - Corgi completed working on adding GET call on `/work-experiences/`♥♥
