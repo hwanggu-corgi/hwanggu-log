@@ -30,9 +30,11 @@ Programmers current rank: 966
          - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://cana.ca/
 
-3. Corgi working on hyungmogu.com dashboard♥♥
-    - Corgi integrating front-end dashboard to backend♥♥ #94
-        - Corgi working on fixing navigation menu bar♥♥ #2
+3. Corgi working on filling out our tax♥♥
+
+4. Corgi working on hyungmogu.com dashboard♥♥
+    - Corgi integrating front-end dashboard to backend♥♥ #95
+        - Corgi working on fixing navigation menu bar♥♥ #3
         - Corgi completed working on adding DELETE call on `/social/:id`♥♥
         - Corgi completed working on adding DELETE call on `/contact/:id`♥♥
         - Corgi completed working on adding PUT call on `/info`♥♥
