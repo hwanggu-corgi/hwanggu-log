@@ -32,8 +32,8 @@ Programmers current rank: 966
 
 3. Corgi working on hyungmogu.com dashboard♥♥
     - Corgi integrating front-end dashboard to backend♥♥ #92
-        - Corgi working on adding DELETE call on `/social/:id`♥♥ #2
-        - Corgi working on adding DELETE call on `/contact/:id`♥♥ #2
+        - Corgi working on adding DELETE call on `/social/:id`♥♥ #3
+        - Corgi working on adding DELETE call on `/contact/:id`♥♥ #3
         - Corgi completed working on adding PUT call on `/info`♥♥
         - Corgi completed working on adding GET call on `/info`♥♥
         - Corgi completed working on adding GET call on `/work-experiences/:id`♥♥
