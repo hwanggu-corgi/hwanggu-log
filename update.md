@@ -32,13 +32,12 @@ Programmers current rank: 966
 
 3. Corgi working on filling out our tax♥♥ #2
 
-4. Corgi working on learning Vue.js
-
-5. [on hold] Corgi working on hyungmogu.com dashboard♥♥
-    - Corgi integrating front-end dashboard to backend♥♥ #97
-        - Corgi completed working on adding DELETE call on `/techs-used/:id`♥♥ #2
-        - Corgi completed working on adding DELETE call on `/highlights/:id`♥♥ #2
-        - Corgi completed working on adding DELETE call on `/images/:id`♥♥ #2
+4. Corgi working on hyungmogu.com dashboard♥♥
+    - Corgi integrating front-end dashboard to backend♥♥ #98
+        - Corgi loading `hyungmogu.com` server to heroku♥♥ #2
+        - Corgi completed working on adding DELETE call on `/techs-used/:id`♥♥
+        - Corgi completed working on adding DELETE call on `/highlights/:id`♥♥
+        - Corgi completed working on adding DELETE call on `/images/:id`♥♥
         - Corgi completed working on fixing navigation menu bar♥♥
         - Corgi completed working on adding DELETE call on `/social/:id`♥♥
         - Corgi completed working on adding DELETE call on `/contact/:id`♥♥
@@ -49,10 +48,12 @@ Programmers current rank: 966
         - Corgi completed working on adding GET call on `/work-experiences/`♥♥
     - Corgi completed enabling CORS♥♥
 
-4. [on hold] Corgi working on test at turing.com♥♥
+5. Corgi working on learning Vue.js
+
+6. [on hold] Corgi working on test at turing.com♥♥
     - Corgi completed the quiz `tell me about yourself`♥♥
 
-5. [on hold] Corgi working on In-city-event-app♥♥ #4
+7. [on hold] Corgi working on In-city-event-app♥♥ #4
     - Corgi working on design♥♥ #4
 
 
