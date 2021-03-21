@@ -33,8 +33,8 @@ Programmers current rank: 966
 3. Corgi working on filling out our tax♥♥ #2
 
 4. Corgi working on hyungmogu.com dashboard♥♥
-    - Corgi integrating front-end dashboard to backend♥♥ #99
-        - Corgi loading `hyungmogu.com` server to heroku♥♥ #3
+    - Corgi integrating front-end dashboard to backend♥♥ #100
+        - Corgi loading `hyungmogu.com` server to heroku♥♥ #4
         - Corgi completed working on adding DELETE call on `/techs-used/:id`♥♥
         - Corgi completed working on adding DELETE call on `/highlights/:id`♥♥
         - Corgi completed working on adding DELETE call on `/images/:id`♥♥
