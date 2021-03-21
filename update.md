@@ -31,8 +31,8 @@ Programmers current rank: 966
          - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://cana.ca/
 
-3. Corgi working on learning Vue.js♥♥ #10
-    - Corgi learning about how vue.js works♥♥ #9
+3. Corgi working on learning Vue.js♥♥ #11
+    - Corgi learning about how vue.js works♥♥ #10
         - Corgi completed learning about `Your first component`♥♥
         - Corgi completed learning about `amazing v-model`♥♥
         - Corgi completed learning about `input validation`♥♥
