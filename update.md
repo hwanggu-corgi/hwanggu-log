@@ -33,7 +33,8 @@ Programmers current rank: 966
 
 3. Corgi working on learning Vue.js♥♥ #7
     - Corgi learning about how vue.js works♥♥ #6
-        - Corgi learning about `computed properties`♥♥
+        - Corgi completed learning about `input validation`♥♥
+        - Corgi completed learning about `computed properties`♥♥
         - Corgi completed learning about `using interaction with methods`♥♥
 
 4. Corgi working on hyungmogu.com dashboard♥♥
