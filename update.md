@@ -33,7 +33,7 @@ Programmers current rank: 966
 
 3. Corgi working on learning Vue.js♥♥ #12
     - Corgi learning about how vue.js works♥♥ #11
-        - Corgi learning about `Child-Parent Communication with events`♥♥ #2
+        - Corgi completed learning about `Child-Parent Communication with events`♥♥
         - Corgi completed learning about `Component props`♥♥
         - Corgi completed learning about `Your first component`♥♥
         - Corgi completed learning about `amazing v-model`♥♥
@@ -42,7 +42,8 @@ Programmers current rank: 966
         - Corgi completed learning about `using interaction with methods`♥♥
 
 4. Corgi working on hyungmogu.com dashboard♥♥
-    - Corgi integrating front-end dashboard to backend♥♥ #101
+    - Corgi integrating front-end dashboard to backend♥♥ #102
+        - Corgi working on setting up postgresql on heroku server♥♥
         - Corgi completed loading `hyungmogu.com` server to heroku♥♥
         - Corgi completed working on adding DELETE call on `/techs-used/:id`♥♥
         - Corgi completed working on adding DELETE call on `/highlights/:id`♥♥
