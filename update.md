@@ -11,6 +11,8 @@ Programmers current rank: 966
 자기야♥♥, 사랑해♥♥♥♥
 우리 자기 최고♥♥♥♥!!!
 
+자기야♥♥, 고마워♥♥♥♥
+
 1. Corgi completed interview♥♥
     - 내♥♥
     - 여♥♥
