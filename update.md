@@ -1,3 +1,75 @@
+### March 23rd, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+
+자기야♥♥, 부디 편안하고 좋은 꿈 꿔♥♥♥♥
+자기야♥♥, 사랑해♥♥♥♥
+우리 자기 최고♥♥♥♥!!!
+
+자기야♥♥, 고마워♥♥♥♥
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+2. [on hold] Corgi working on practicing for morad creative♥♥ #11
+    - Corgi working on learning Vue.js♥♥ #3
+    - Corgi recreating Cana website♥♥ #9
+         - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://cana.ca/
+
+3. Corgi working on learning Vue.js♥♥ #13
+    - Corgi learning about how vue.js works♥♥ #12
+        - Corgi learning about `Single File Components`♥♥
+        - Corgi completed learning about `Child-Parent Communication with events`♥♥
+        - Corgi completed learning about `Component props`♥♥
+        - Corgi completed learning about `Your first component`♥♥
+        - Corgi completed learning about `amazing v-model`♥♥
+        - Corgi completed learning about `input validation`♥♥
+        - Corgi completed learning about `computed properties`♥♥
+        - Corgi completed learning about `using interaction with methods`♥♥
+
+4. Corgi working on hyungmogu.com dashboard♥♥
+    - Corgi integrating front-end dashboard to backend♥♥ #105
+        - Corgi completed working on setting up postgresql on heroku server♥♥
+        - Corgi completed loading `hyungmogu.com` server to heroku♥♥
+        - Corgi completed working on adding DELETE call on `/techs-used/:id`♥♥
+        - Corgi completed working on adding DELETE call on `/highlights/:id`♥♥
+        - Corgi completed working on adding DELETE call on `/images/:id`♥♥
+        - Corgi completed working on fixing navigation menu bar♥♥
+        - Corgi completed working on adding DELETE call on `/social/:id`♥♥
+        - Corgi completed working on adding DELETE call on `/contact/:id`♥♥
+        - Corgi completed working on adding PUT call on `/info`♥♥
+        - Corgi completed working on adding GET call on `/info`♥♥
+        - Corgi completed working on adding GET call on `/work-experiences/:id`♥♥
+        - Corgi completed working on adding PUT and POST call on `/work-experiences/:id`♥♥
+        - Corgi completed working on adding GET call on `/work-experiences/`♥♥
+    - Corgi completed enabling CORS♥♥
+
+5. [on hold] Corgi working on test at turing.com♥♥
+    - Corgi completed the quiz `tell me about yourself`♥♥
+
+6. [on hold] Corgi working on In-city-event-app♥♥ #4
+    - Corgi working on design♥♥ #4
+
+7. Corgi completed working on filling out our tax♥♥
+
+
 ### March 22nd, 2021
 
 Programmers current rank: 966
