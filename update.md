@@ -42,8 +42,8 @@ Programmers current rank: 966
         - Corgi completed learning about `using interaction with methods`♥♥
 
 4. Corgi working on hyungmogu.com dashboard♥♥
-    - Corgi integrating front-end dashboard to backend♥♥ #102
-        - Corgi working on setting up postgresql on heroku server♥♥
+    - Corgi integrating front-end dashboard to backend♥♥ #103
+        - Corgi working on setting up postgresql on heroku server♥♥ #2
         - Corgi completed loading `hyungmogu.com` server to heroku♥♥
         - Corgi completed working on adding DELETE call on `/techs-used/:id`♥♥
         - Corgi completed working on adding DELETE call on `/highlights/:id`♥♥
