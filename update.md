@@ -27,8 +27,7 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. [on hold] Corgi working on practicing for morad creative♥♥ #11
-    - Corgi working on learning Vue.js♥♥ #3
+2. Corgi working on practicing for morad creative♥♥ #12
     - Corgi recreating Cana website♥♥ #9
          - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://cana.ca/
