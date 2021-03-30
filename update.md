@@ -1,4 +1,4 @@
-### March 30th, 2021
+### March 31st, 2021
 
 Programmers current rank: 966
 
@@ -7,10 +7,11 @@ Programmers current rank: 966
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 
+자기야♥♥, 우리 자기 으♥ 가득한 미세먼지 잘 견뎌줘서 고마워♥♥♥♥♥
+
 ♥
 
-자기야♥♥, sweet dream my love♥♥♥♥
-자기야♥♥, I love you♥♥♥♥
+자기야♥♥, 우리 자기 예쁘다♥♥♥♥♥
 
 1. Corgi completed interview♥♥
     - 내♥♥
