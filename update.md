@@ -7,6 +7,10 @@ Programmers current rank: 966
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 
+자기야♥♥, 화이팅♥♥♥♥♥
+
+♥
+
 자기야♥♥, 우리 자기 으♥ 가득한 미세먼지 잘 견뎌줘서 고마워♥♥♥♥♥
 
 ♥
@@ -28,11 +32,12 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on practicing for morad creative♥♥ #64
-    - Corgi working on creating number counter 1♥♥ #3
+    - Corgi working on sliding up image card♥♥
     - Corgi working on image card♥♥ #17
     - Corgi recreating Cana website♥♥ #12
          - 여보♥♥, 요기 우리 링크♥♥♥♥
             - https://cana.ca/
+    - Corgi completed working on creating number counter 1♥♥
     - Corgi completed working on creating button 2♥♥
     - Corgi completed working on mobile menu 2♥♥
     - Corgi completed working on menu button♥♥
