@@ -24,8 +24,8 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on practicing for morad creative♥♥ #113
-    - Corgi working on design for thinkcalgary.com♥♥ #32
+2. Corgi working on practicing for morad creative♥♥ #114
+    - Corgi working on design for thinkcalgary.com♥♥ #33
         - Now under domain https://royalblue.morwebcms.com/♥♥♥♥
     - [on hold] Corgi working on desktop menu 1♥♥
     - Corgi working on image card♥♥ #17
