@@ -8,6 +8,7 @@ Programmers current rank: 966
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 
 
+자기야♥♥, 부디 회사 조심히 잘 다녀와요♥♥♥♥♥
 자기야♥♥, 우리 예쁜 내 여보 부디 안전히 있어줘요...♥♥♥♥♥
 
 1. Corgi completed interview♥♥
@@ -24,8 +25,8 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on practicing for morad creative♥♥ #119
-    - Corgi working on design for thinkcalgary.com♥♥ #38
+2. Corgi working on practicing for morad creative♥♥ #120
+    - Corgi working on design for thinkcalgary.com♥♥ #39
         - Now under domain https://royalblue.morwebcms.com/♥♥♥♥
     - [on hold] Corgi working on desktop menu 1♥♥
     - Corgi working on image card♥♥ #17
