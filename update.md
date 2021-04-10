@@ -28,8 +28,8 @@ Programmers current rank: 966
         - 자기야♥♥, 요기 우리 링크♥♥♥♥
             - https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/
 
-        - Corgi working on the lesson `Getting Started` (3/3)♥♥
-            - Corgi on the lesson `What is UI vs UX`♥♥
+        - Corgi working on the lesson `Getting Started` (3/3)♥♥ #2
+            - Corgi on the lesson `What is UI vs UX`♥♥ #2
     - Corgi working on image card♥♥ #17
     - Corgi recreating Cana website♥♥ #12
          - 여보♥♥, 요기 우리 링크♥♥♥♥
