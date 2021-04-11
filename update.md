@@ -7,6 +7,10 @@ Programmers current rank: 966
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 
+자기야♥♥, 고마워♥♥♥♥♥
+
+♥
+
 자기야♥♥, 우리 예쁜 내 여보 감기걸리지 않게 이불 꼭 덥고 자요♥♥♥♥♥
 
 1. Corgi completed interview♥♥
@@ -23,17 +27,17 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on practicing for morad creative♥♥ #161
+2. Corgi working on practicing for morad creative♥♥ #162
     - Corgi learning about 'User Experience Design Essentials - Adobe XD UI UX design'♥♥
         - 자기야♥♥, 요기 우리 링크♥♥♥♥
             - https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/
 
         - Corgi working on `Type, color & icon intrudoction` (5/7)♥♥
-            - Corgi working on the lesson `Adding footers @ Lorem ipsum to our XD wireframe`
-            - Corgi completed working on the lesson `Adding footers & Lorem Ipsum to our XD wireframe`
-            - Corgi completed working on the lesson `Free icons for your Adobe XD & UX UI projects`
-            - Corgi completed working on the lesson `Basic Colors & buttons in Adobe XD wireframes`
-            - Corgi completed working on the lesson `Working with type in your XD wireframes`
+            - Corgi working on the lesson `Adding footers & Lorem ipsum to our XD wireframe`♥♥ #2
+            - Corgi completed working on the lesson `Adding footers & Lorem Ipsum to our XD wireframe`♥♥
+            - Corgi completed working on the lesson `Free icons for your Adobe XD & UX UI projects`♥♥
+            - Corgi completed working on the lesson `Basic Colors & buttons in Adobe XD wireframes`♥♥
+            - Corgi completed working on the lesson `Working with type in your XD wireframes`♥♥
         - Corgi completed working on `Wireframing Low Fidelity` (3/3)♥♥
             - Corgi completed working on the lesson `Working with existing UI kits in Adobe XD`♥♥
             - Corgi completed working on the lesson `How wide should my website or app be in Adobe XD?`♥♥
