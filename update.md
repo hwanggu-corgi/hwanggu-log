@@ -28,8 +28,10 @@ Programmers current rank: 966
         - 자기야♥♥, 요기 우리 링크♥♥♥♥
             - https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/
 
-        - Corgi working on `Type, color & icon intrudoction` (3/7)♥♥
-            - Corgi working on the lesson `Free icons for your Adobe XD & UX UI projects`
+        - Corgi working on `Type, color & icon intrudoction` (5/7)♥♥
+            - Corgi working on the lesson `Adding footers @ Lorem ipsum to our XD wireframe`
+            - Corgi completed working on the lesson `Adding footers & Lorem Ipsum to our XD wireframe`
+            - Corgi completed working on the lesson `Free icons for your Adobe XD & UX UI projects`
             - Corgi completed working on the lesson `Basic Colors & buttons in Adobe XD wireframes`
             - Corgi completed working on the lesson `Working with type in your XD wireframes`
         - Corgi completed working on `Wireframing Low Fidelity` (3/3)♥♥
