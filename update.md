@@ -33,8 +33,9 @@ Programmers current rank: 966
             - https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/♥♥♥♥
             - https://university.webflow.com/courses/the-freelancers-journey?video=KBi9YpV3lzs♥♥♥♥
 
-        - Corgi working on `Prototyping a website - introduction` (1/4)♥♥
-            - Corgi working on the lesson `Prototyping & adding interactivity to Adobe XD`♥♥
+        - Corgi working on `Prototyping a website - introduction` (2/4)♥♥
+            - Corgi working on the lesson `How to create a Popup Modal or popup box in Adobe XD`♥♥
+            - Corgi completed working on the lesson `Prototyping & adding interactivity to Adobe XD`♥♥
         - Corgi completed working on `Type, color & icon intrudoction` (7/7)♥♥
             - Corgi completed working on the lesson `New Pages & Artboards in Adobe XD`♥♥
             - Corgi completed working on the lesson `Adding footers & Lorem ipsum to our XD wireframe`♥♥
