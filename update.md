@@ -29,9 +29,10 @@ I can't express to you how much that means to me♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on practicing for morad creative♥♥ #197
-    - Corgi working on company tasks♥♥ #21
-        - Corgi adding contents to fishing on About candlewood lake page♥♥♥♥ #4
+2. Corgi working on practicing for morad creative♥♥ #198
+    - Corgi working on company tasks♥♥ #22
+        - Corgi adding contents to hiking on About candlewood lake page♥♥♥♥
+        - Corgi completed adding contents to fishing on About candlewood lake page♥♥♥♥
     - Corgi learning about 'User Experience Design Essentials - Adobe XD UI UX design'♥♥
         - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
             - https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/♥♥♥♥
