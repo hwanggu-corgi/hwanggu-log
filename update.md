@@ -32,10 +32,11 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on practicing for morad creative♥♥ #209
-    - Corgi working on company tasks♥♥ #33
-        - Corgi working on fixing sign up newsletter on `contact us` page under `about CLA`♥♥ #2
+2. Corgi working on practicing for morad creative♥♥ #210
+    - Corgi working on company tasks♥♥ #34
+        - Corgi fixing `news` page under `about CLA`♥♥
         - [on hold]Corgi working on improving navigation menu bar♥♥
+        - Corgi completed working on fixing sign up newsletter on `contact us` page under `about CLA`♥♥
         - Corgi completed fixing sucuba diving flag picture on `lake diving` page under `about Candlewood lake`♥♥
         - Corgi completed adding contents to Water Sports on About candlewood lake page♥♥♥♥
         - Corgi completed adding contents to Parks & launches on About candlewood lake page♥♥♥♥
