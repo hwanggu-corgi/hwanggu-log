@@ -29,9 +29,11 @@ I can't express to you how much that means to me♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on practicing for morad creative♥♥ #203
-    - Corgi working on company tasks♥♥ #27
-        - Corgi adding contents to Paddle Sports on About candlewood lake page♥♥♥♥
+2. Corgi working on practicing for morad creative♥♥ #204
+    - Corgi working on company tasks♥♥ #28
+        - Corgi completed adding contents to Water Sports on About candlewood lake page♥♥♥♥
+        - Corgi completed adding contents to Parks & launches on About candlewood lake page♥♥♥♥
+        - Corgi completed adding contents to Paddle Sports on About candlewood lake page♥♥♥♥
         - Corgi completed adding contents to Lake Diving on About candlewood lake page♥♥♥♥
         - Corgi completed adding contents to Hiking on About candlewood lake page♥♥♥♥
         - Corgi completed adding contents to Fishing on About candlewood lake page♥♥♥♥
