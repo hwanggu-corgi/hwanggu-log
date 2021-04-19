@@ -32,8 +32,8 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on practicing for morad creative♥♥ #218
-    - Corgi working on company tasks♥♥ #42
+2. Corgi working on practicing for morad creative♥♥ #219
+    - Corgi working on company tasks♥♥ #43
         - Corgi working on `business partnership` page under `support section`♥♥
         - Corgi completed working on `volunteers` page under `support section`♥♥
         - Corgi completed improving `Authority Annual Fund` page under `support section`♥♥
