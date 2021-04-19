@@ -8,6 +8,132 @@ Programmers current rank: 966
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 
 우리 소중한 내 사랑아♥♥♥♥,
+오늘 당신 일도하고 일찍일어나 많이 피곤할텐데 부디 편히 좋은 꿈 꿔요♥♥♥♥♥♥
+
+우리 소중한 내 사랑아♥♥♥♥,
+여보의 소중한 시간내어 우리 형모 당신 곁에 있게 해줘서 고마워♥♥♥♥♥♥
+
+우리 귀여운
+내 사랑아♥♥♥♥,
+사랑해♥♥♥♥♥
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+2. Corgi working on practicing for morad creative♥♥ #223
+    - Corgi working on company tasks♥♥ #46
+        - Corgi working on `business partnership` page under `support section`♥♥ #4
+        - Corgi completed working on `volunteers` page under `support section`♥♥
+        - Corgi completed improving `Authority Annual Fund` page under `support section`♥♥
+        - Corgi completed fixing `fast facts & map` page under `about Candlewood lake`♥♥
+        - [on hold]Corgi working on improving navigation menu bar♥♥
+        - Corgi completed working on fixing sign up newsletter on `contact us` page under `about CLA`♥♥
+        - Corgi completed fixing sucuba diving flag picture on `lake diving` page under `about Candlewood lake`♥♥
+        - Corgi completed adding contents to Water Sports on About candlewood lake page♥♥♥♥
+        - Corgi completed adding contents to Parks & launches on About candlewood lake page♥♥♥♥
+        - Corgi completed adding contents to Paddle Sports on About candlewood lake page♥♥♥♥
+        - Corgi completed adding contents to Lake Diving on About candlewood lake page♥♥♥♥
+        - Corgi completed adding contents to Hiking on About candlewood lake page♥♥♥♥
+        - Corgi completed adding contents to Fishing on About candlewood lake page♥♥♥♥
+    - Corgi learning about 'User Experience Design Essentials - Adobe XD UI UX design'♥♥
+        - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
+            - https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/♥♥♥♥
+            - https://university.webflow.com/courses/the-freelancers-journey?video=KBi9YpV3lzs♥♥♥♥
+
+        - Corgi working on `symbols & repeatable grids` (3/9)♥♥
+            - Corgi completed working on the lesson `Prouction Video - Left Nav`♥♥
+            - Corgi completed working on the lesson `How to make & use symbols in Adobe XD`♥♥
+            - Corgi completed working on the lesson `working with groups & isolation mode in Adobe XD`♥♥
+        - Corgi completed working on `Prototyping a website - introduction` (4/4)♥♥
+            - Corgi completed working on the lesson `How to create a Popup Modal or popup box in Adobe XD`♥♥
+            - Corgi completed working on the lesson `How to create a Popup Modal or popup box in Adobe XD`♥♥
+            - Corgi completed working on the lesson `Prototyping & adding interactivity to Adobe XD`♥♥
+        - Corgi completed working on `Type, color & icon intrudoction` (7/7)♥♥
+            - Corgi completed working on the lesson `New Pages & Artboards in Adobe XD`♥♥
+            - Corgi completed working on the lesson `Adding footers & Lorem ipsum to our XD wireframe`♥♥
+            - Corgi completed working on the lesson `Adding footers & Lorem Ipsum to our XD wireframe`♥♥
+            - Corgi completed working on the lesson `Free icons for your Adobe XD & UX UI projects`♥♥
+            - Corgi completed working on the lesson `Basic Colors & buttons in Adobe XD wireframes`♥♥
+            - Corgi completed working on the lesson `Working with type in your XD wireframes`♥♥
+        - Corgi completed working on `Wireframing Low Fidelity` (3/3)♥♥
+            - Corgi completed working on the lesson `Working with existing UI kits in Adobe XD`♥♥
+            - Corgi completed working on the lesson `How wide should my website or app be in Adobe XD?`♥♥
+            - Corgi completed the lesson `Wireframing (low fidelity) in Adobe XD`♥♥
+        - Corgi completed working on `Getting Started` (3/3)♥♥
+            - Corgi completed the lesson `What is UI vs UX`♥♥
+    - Corgi working on image card♥♥ #17
+    - Corgi recreating Cana website♥♥ #12
+         - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://cana.ca/
+    - Corgi completed working on design for thinkcalgary.com♥♥
+        - Now under domain https://royalblue.morwebcms.com/♥♥♥♥
+    - Corgi completed working on navigation menu for royalblue.morwebcms.com♥♥
+    - Corgi completed working on desktop menu 1♥♥
+    - Corgi completed working on mouse hover effect♥♥
+    - Corgi completed working on sliding up image card♥♥
+    - Corgi completed working on creating number counter 1♥♥
+    - Corgi completed working on creating button 2♥♥
+    - Corgi completed working on mobile menu 2♥♥
+    - Corgi completed working on menu button♥♥
+    - Corgi completed working on email♥♥
+        - yay!!! 자기야♥♥, 우리 다해쬬♥♥♥♥!!!
+
+3. Corgi working on learning Vue.js♥♥ #13
+    - Corgi learning about how vue.js works♥♥ #12
+        - Corgi learning about `Single File Components`♥♥
+        - Corgi completed learning about `Child-Parent Communication with events`♥♥
+        - Corgi completed learning about `Component props`♥♥
+        - Corgi completed learning about `Your first component`♥♥
+        - Corgi completed learning about `amazing v-model`♥♥
+        - Corgi completed learning about `input validation`♥♥
+        - Corgi completed learning about `computed properties`♥♥
+        - Corgi completed learning about `using interaction with methods`♥♥
+
+4. Corgi working on hyungmogu.com dashboard♥♥
+    - Corgi integrating front-end dashboard to backend♥♥ #105
+        - Corgi completed working on setting up postgresql on heroku server♥♥
+        - Corgi completed loading `hyungmogu.com` server to heroku♥♥
+        - Corgi completed working on adding DELETE call on `/techs-used/:id`♥♥
+        - Corgi completed working on adding DELETE call on `/highlights/:id`♥♥
+        - Corgi completed working on adding DELETE call on `/images/:id`♥♥
+        - Corgi completed working on fixing navigation menu bar♥♥
+        - Corgi completed working on adding DELETE call on `/social/:id`♥♥
+        - Corgi completed working on adding DELETE call on `/contact/:id`♥♥
+        - Corgi completed working on adding PUT call on `/info`♥♥
+        - Corgi completed working on adding GET call on `/info`♥♥
+        - Corgi completed working on adding GET call on `/work-experiences/:id`♥♥
+        - Corgi completed working on adding PUT and POST call on `/work-experiences/:id`♥♥
+        - Corgi completed working on adding GET call on `/work-experiences/`♥♥
+    - Corgi completed enabling CORS♥♥
+
+5. [on hold] Corgi working on test at turing.com♥♥
+    - Corgi completed the quiz `tell me about yourself`♥♥
+
+6. [on hold] Corgi working on In-city-event-app♥♥ #4
+    - Corgi working on design♥♥ #4
+
+
+### April 19th, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+
+우리 소중한 내 사랑아♥♥♥♥,
 우리 귀여운 내 여보 부디 좋은 꿈 꿔요♥♥♥♥♥♥
 
 자기야♥♥♥♥,
