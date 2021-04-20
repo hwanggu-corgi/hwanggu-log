@@ -31,8 +31,8 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on practicing for morad creative♥♥ #227
-    - Corgi working on company tasks♥♥ #49
+2. Corgi working on practicing for morad creative♥♥ #28
+    - Corgi working on company tasks♥♥ #50
         - Corgi working on footer for teamsters♥♥ #3
         - Corgi completed working on navigation menu for teamsters♥♥
     - Corgi learning about 'User Experience Design Essentials - Adobe XD UI UX design'♥♥
