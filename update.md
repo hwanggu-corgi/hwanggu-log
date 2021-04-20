@@ -31,21 +31,9 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on practicing for morad creative♥♥ #224
-    - Corgi working on company tasks♥♥ #47
-        - Corgi completed working on `business partnership` page under `support section`♥♥ #4
-        - Corgi completed working on `volunteers` page under `support section`♥♥
-        - Corgi completed improving `Authority Annual Fund` page under `support section`♥♥
-        - Corgi completed fixing `fast facts & map` page under `about Candlewood lake`♥♥
-        - [on hold]Corgi working on improving navigation menu bar♥♥
-        - Corgi completed working on fixing sign up newsletter on `contact us` page under `about CLA`♥♥
-        - Corgi completed fixing sucuba diving flag picture on `lake diving` page under `about Candlewood lake`♥♥
-        - Corgi completed adding contents to Water Sports on About candlewood lake page♥♥♥♥
-        - Corgi completed adding contents to Parks & launches on About candlewood lake page♥♥♥♥
-        - Corgi completed adding contents to Paddle Sports on About candlewood lake page♥♥♥♥
-        - Corgi completed adding contents to Lake Diving on About candlewood lake page♥♥♥♥
-        - Corgi completed adding contents to Hiking on About candlewood lake page♥♥♥♥
-        - Corgi completed adding contents to Fishing on About candlewood lake page♥♥♥♥
+2. Corgi working on practicing for morad creative♥♥ #225
+    - Corgi working on company tasks♥♥ #48
+        - Corgi working on footer for teamsters♥♥
     - Corgi learning about 'User Experience Design Essentials - Adobe XD UI UX design'♥♥
         - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
             - https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/♥♥♥♥
