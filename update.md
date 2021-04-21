@@ -32,9 +32,10 @@ I love you♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on practicing for morad creative♥♥ #230
-    - Corgi working on company tasks♥♥ #52
-        - Corgi working on footer for teamsters♥♥ #5
+2. Corgi working on practicing for morad creative♥♥ #231
+    - Corgi working on company tasks♥♥ #53
+        - Corgi working on slider for teamsters♥♥
+        - Corgi completed working on footer for teamsters♥♥
         - Corgi completed working on navigation menu for teamsters♥♥
     - Corgi learning about 'User Experience Design Essentials - Adobe XD UI UX design'♥♥
         - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
