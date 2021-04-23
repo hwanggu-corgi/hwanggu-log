@@ -37,9 +37,9 @@ I love you♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on practicing for morad creative♥♥ #50
-    - Corgi working on company tasks♥♥ #73
-        - Corgi working on testimonials block for teamsters♥♥ #2
+2. Corgi working on practicing for morad creative♥♥ #51
+    - Corgi working on company tasks♥♥ #74
+        - Corgi working on testimonials block for teamsters♥♥ #3
         - Corgi completed working on news block for teamsters♥♥
         - Corgi completed working on icon block for teamsters♥♥
         - Corgi completed working on slider for teamsters♥♥
