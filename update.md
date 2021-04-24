@@ -29,7 +29,14 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on practicing for morad creative♥♥ #51
+2. Corgi working on practicing for morad creative♥♥ #52
+    - Corgi learning about 'User Experience Design Essentials - Adobe XD UI UX design'♥♥
+        - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
+            - https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/♥♥♥♥
+            - https://university.webflow.com/courses/the-freelancers-journey?video=KBi9YpV3lzs♥♥♥♥
+        - Corgi working on `symbols & repeatable grids` (4/9)♥♥
+            - Corgi learning using repeat grid in Adobe XD♥♥
+
     - Corgi working on company tasks♥♥ #74
         - Corgi working on testimonials block for teamsters♥♥ #3
         - Corgi completed working on news block for teamsters♥♥
@@ -37,32 +44,6 @@ Programmers current rank: 966
         - Corgi completed working on slider for teamsters♥♥
         - Corgi completed working on footer for teamsters♥♥
         - Corgi completed working on navigation menu for teamsters♥♥
-    - Corgi learning about 'User Experience Design Essentials - Adobe XD UI UX design'♥♥
-        - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
-            - https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/♥♥♥♥
-            - https://university.webflow.com/courses/the-freelancers-journey?video=KBi9YpV3lzs♥♥♥♥
-
-        - Corgi working on `symbols & repeatable grids` (3/9)♥♥
-            - Corgi completed working on the lesson `Prouction Video - Left Nav`♥♥
-            - Corgi completed working on the lesson `How to make & use symbols in Adobe XD`♥♥
-            - Corgi completed working on the lesson `working with groups & isolation mode in Adobe XD`♥♥
-        - Corgi completed working on `Prototyping a website - introduction` (4/4)♥♥
-            - Corgi completed working on the lesson `How to create a Popup Modal or popup box in Adobe XD`♥♥
-            - Corgi completed working on the lesson `How to create a Popup Modal or popup box in Adobe XD`♥♥
-            - Corgi completed working on the lesson `Prototyping & adding interactivity to Adobe XD`♥♥
-        - Corgi completed working on `Type, color & icon intrudoction` (7/7)♥♥
-            - Corgi completed working on the lesson `New Pages & Artboards in Adobe XD`♥♥
-            - Corgi completed working on the lesson `Adding footers & Lorem ipsum to our XD wireframe`♥♥
-            - Corgi completed working on the lesson `Adding footers & Lorem Ipsum to our XD wireframe`♥♥
-            - Corgi completed working on the lesson `Free icons for your Adobe XD & UX UI projects`♥♥
-            - Corgi completed working on the lesson `Basic Colors & buttons in Adobe XD wireframes`♥♥
-            - Corgi completed working on the lesson `Working with type in your XD wireframes`♥♥
-        - Corgi completed working on `Wireframing Low Fidelity` (3/3)♥♥
-            - Corgi completed working on the lesson `Working with existing UI kits in Adobe XD`♥♥
-            - Corgi completed working on the lesson `How wide should my website or app be in Adobe XD?`♥♥
-            - Corgi completed the lesson `Wireframing (low fidelity) in Adobe XD`♥♥
-        - Corgi completed working on `Getting Started` (3/3)♥♥
-            - Corgi completed the lesson `What is UI vs UX`♥♥
     - Corgi working on image card♥♥ #17
     - Corgi recreating Cana website♥♥ #12
          - 여보♥♥, 요기 우리 링크♥♥♥♥
