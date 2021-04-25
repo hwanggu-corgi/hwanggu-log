@@ -36,7 +36,9 @@ I love you♥♥♥♥♥♥
         - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
             - https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/♥♥♥♥
             - https://university.webflow.com/courses/the-freelancers-journey?video=KBi9YpV3lzs♥♥♥♥
-        - Corgi working on `symbols & repeatable grids` (9/9)♥♥
+        - Corgi working on `Prototyping a App - Introduction` (1/5)♥♥
+            - Corgi learning `Mockng up an app in Adobe XD`♥♥
+        - Corgi completed working on `symbols & repeatable grids` (9/9)♥♥
             - Corgi completed learning `Navigation tricks & tips in Adobe XD`♥♥
             - Corgi completed learning `Prototypes trick to save time in Adobe XD`♥♥
             - Corgi completed learning `updating symbols & problems with using repeat grids`♥♥
