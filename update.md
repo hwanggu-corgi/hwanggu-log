@@ -27,13 +27,13 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on practicing for morad creative♥♥ #73
+2. Corgi working on practicing for morad creative♥♥ #74
     - Corgi learning about 'User Experience Design Essentials - Adobe XD UI UX design'♥♥
         - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
             - https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/♥♥♥♥
             - https://university.webflow.com/courses/the-freelancers-journey?video=KBi9YpV3lzs♥♥♥♥
         - Corgi working on `Prototyping a App - Introduction` (2/5)♥♥
-            - Corgi learning `Adding iPhone & Android battery & status icons to mockup`♥♥ #5
+            - Corgi learning `Adding iPhone & Android battery & status icons to mockup`♥♥ #6
             - Corgi completed learning `How to use the XD App on iPhone & Android`♥♥
             - Corgi completed learning `Mockng up an app in Adobe XD`♥♥
         - Corgi completed working on `symbols & repeatable grids` (9/9)♥♥
