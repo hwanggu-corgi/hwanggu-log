@@ -27,8 +27,8 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on practicing for TOEFL♥♥ #11
-    - Corgi practicing reading section♥♥ #10
+2. Corgi working on practicing for TOEFL♥♥ #12
+    - Corgi practicing reading section♥♥ #11
 
 3. [on hold] Corgi working on practicing for morad creative♥♥ #78
     - Corgi learning about 'User Experience Design Essentials - Adobe XD UI UX design'♥♥
