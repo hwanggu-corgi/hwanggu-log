@@ -43,12 +43,12 @@ I love you♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on practicing for TOEFL♥♥ #16
-    - Corgi practicing reading section♥♥ #17
+2. Corgi working on practicing for TOEFL♥♥ #17
+    - Corgi practicing reading section♥♥ #18
     - Corgi learning about 'The complete TOEFL iBT Success Course'♥♥
         - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
             - https://www.udemy.com/course/the-complete-toefl-ibt-success-course/♥♥♥♥
-        - Corgi learning `should you read the text?`♥♥
+        - Corgi learning `should you read the text?` under `TOEFL Reading`♥♥ #2
 
 3. [on hold] Corgi working on practicing for morad creative♥♥ #78
     - Corgi learning about 'User Experience Design Essentials - Adobe XD UI UX design'♥♥
