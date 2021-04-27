@@ -14,7 +14,7 @@ Programmers current rank: 966
 우리 자기하고 우리 가족의 행복을 위해♥♥♥♥♥♥
 
 우리 소중한 내 사랑아♥♥♥♥,
-I love you♥♥♥♥♥♥
+I love you my girl :)♥♥♥♥♥♥
 
 1. Corgi completed interview♥♥
     - 내♥♥
