@@ -43,8 +43,8 @@ I love you♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on practicing for TOEFL♥♥ #12
-    - Corgi practicing reading section♥♥ #11
+2. Corgi working on practicing for TOEFL♥♥ #13
+    - Corgi practicing reading section♥♥ #12
 
 3. [on hold] Corgi working on practicing for morad creative♥♥ #78
     - Corgi learning about 'User Experience Design Essentials - Adobe XD UI UX design'♥♥
