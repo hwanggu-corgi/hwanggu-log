@@ -30,8 +30,8 @@ I love you my girl :)♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on practicing for TOEFL♥♥ #25
-    - Corgi practicing reading section♥♥ #26
+2. Corgi working on practicing for TOEFL♥♥ #26
+    - Corgi practicing reading section♥♥ #276
         - Corgi solving question 6♥♥
         - Corgi completed solving question 5♥♥
         - Corgi completed solving question 4♥♥
@@ -40,7 +40,7 @@ I love you my girl :)♥♥♥♥♥♥
         - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
             - https://www.udemy.com/course/the-complete-toefl-ibt-success-course/♥♥♥♥
         - Corgi working on `TOEFL reading` (3/23)♥♥
-            - Corgi learning `Word questions` under `TOEFL Reading`♥♥ #2
+            - Corgi learning `Word questions` under `TOEFL Reading`♥♥ #3
             - Corgi completed learning `TOEFL Reading Answers to Avoid` under `TOEFL Reading`♥♥
             - Corgi completed learning `should you read the text?` under `TOEFL Reading`♥♥
 
