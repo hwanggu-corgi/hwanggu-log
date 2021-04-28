@@ -1,3 +1,122 @@
+### April 29th, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+
+우리 이 세상아♥♥♥♥,
+우리 예쁜 내 여보 우리 장모님 우리 장인어른 우리 부모님 부디 건강히 행복히 오래오래 있게해주세요♥♥♥♥♥♥
+
+우리 소중한 내 사랑아♥♥♥♥,
+사랑해요♥♥♥♥♥♥
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+2. Corgi working on practicing for TOEFL♥♥ #27
+    - Corgi practicing reading section♥♥ #28
+        - Corgi solving question 6♥♥ #2
+        - Corgi completed solving question 5♥♥
+        - Corgi completed solving question 4♥♥
+        - Corgi completed solving question 3♥♥
+    - Corgi learning about 'The complete TOEFL iBT Success Course'♥♥
+        - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
+            - https://www.udemy.com/course/the-complete-toefl-ibt-success-course/♥♥♥♥
+        - Corgi working on `TOEFL reading` (3/23)♥♥
+            - Corgi learning `Word questions` under `TOEFL Reading`♥♥ #4
+            - Corgi completed learning `TOEFL Reading Answers to Avoid` under `TOEFL Reading`♥♥
+            - Corgi completed learning `should you read the text?` under `TOEFL Reading`♥♥
+
+3. [on hold] Corgi working on practicing for morad creative♥♥ #78
+    - Corgi learning about 'User Experience Design Essentials - Adobe XD UI UX design'♥♥
+        - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
+            - https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/♥♥♥♥
+            - https://university.webflow.com/courses/the-freelancers-journey?video=KBi9YpV3lzs♥♥♥♥
+        - Corgi completed working on `High fidelity UI design` (4/4)♥♥
+            - Corgi completed learning `Mood Boards & Recources for hi fidelity UI design in Adobe XD`♥♥
+        - Corgi completed working on `Prototyping a App - Introduction` (5/5)♥♥
+            - Corgi completed learning `How to fix the position of the nav or battery icons in XD`♥♥
+            - Corgi completed learning `Adding iPhone & Android battery & status icons to mockup`♥♥
+            - Corgi completed learning `How to use the XD App on iPhone & Android`♥♥
+            - Corgi completed learning `Mockng up an app in Adobe XD`♥♥
+        - Corgi completed working on `symbols & repeatable grids` (9/9)♥♥
+            - Corgi completed learning `Navigation tricks & tips in Adobe XD`♥♥
+            - Corgi completed learning `Prototypes trick to save time in Adobe XD`♥♥
+            - Corgi completed learning `updating symbols & problems with using repeat grids`♥♥
+            - Corgi completed learning `using repeat grid in Adobe XD`♥♥
+
+    - Corgi working on company tasks♥♥ #74
+        - Corgi working on testimonials block for teamsters♥♥ #3
+        - Corgi completed working on news block for teamsters♥♥
+        - Corgi completed working on icon block for teamsters♥♥
+        - Corgi completed working on slider for teamsters♥♥
+        - Corgi completed working on footer for teamsters♥♥
+        - Corgi completed working on navigation menu for teamsters♥♥
+    - Corgi working on image card♥♥ #17
+    - Corgi recreating Cana website♥♥ #12
+         - 여보♥♥, 요기 우리 링크♥♥♥♥
+            - https://cana.ca/
+    - Corgi completed working on design for thinkcalgary.com♥♥
+        - Now under domain https://royalblue.morwebcms.com/♥♥♥♥
+    - Corgi completed working on navigation menu for royalblue.morwebcms.com♥♥
+    - Corgi completed working on desktop menu 1♥♥
+    - Corgi completed working on mouse hover effect♥♥
+    - Corgi completed working on sliding up image card♥♥
+    - Corgi completed working on creating number counter 1♥♥
+    - Corgi completed working on creating button 2♥♥
+    - Corgi completed working on mobile menu 2♥♥
+    - Corgi completed working on menu button♥♥
+    - Corgi completed working on email♥♥
+        - yay!!! 자기야♥♥, 우리 다해쬬♥♥♥♥!!!
+
+3. Corgi working on learning Vue.js♥♥ #13
+    - Corgi learning about how vue.js works♥♥ #12
+        - Corgi learning about `Single File Components`♥♥
+        - Corgi completed learning about `Child-Parent Communication with events`♥♥
+        - Corgi completed learning about `Component props`♥♥
+        - Corgi completed learning about `Your first component`♥♥
+        - Corgi completed learning about `amazing v-model`♥♥
+        - Corgi completed learning about `input validation`♥♥
+        - Corgi completed learning about `computed properties`♥♥
+        - Corgi completed learning about `using interaction with methods`♥♥
+
+4. Corgi working on hyungmogu.com dashboard♥♥
+    - Corgi integrating front-end dashboard to backend♥♥ #105
+        - Corgi completed working on setting up postgresql on heroku server♥♥
+        - Corgi completed loading `hyungmogu.com` server to heroku♥♥
+        - Corgi completed working on adding DELETE call on `/techs-used/:id`♥♥
+        - Corgi completed working on adding DELETE call on `/highlights/:id`♥♥
+        - Corgi completed working on adding DELETE call on `/images/:id`♥♥
+        - Corgi completed working on fixing navigation menu bar♥♥
+        - Corgi completed working on adding DELETE call on `/social/:id`♥♥
+        - Corgi completed working on adding DELETE call on `/contact/:id`♥♥
+        - Corgi completed working on adding PUT call on `/info`♥♥
+        - Corgi completed working on adding GET call on `/info`♥♥
+        - Corgi completed working on adding GET call on `/work-experiences/:id`♥♥
+        - Corgi completed working on adding PUT and POST call on `/work-experiences/:id`♥♥
+        - Corgi completed working on adding GET call on `/work-experiences/`♥♥
+    - Corgi completed enabling CORS♥♥
+
+5. [on hold] Corgi working on test at turing.com♥♥
+    - Corgi completed the quiz `tell me about yourself`♥♥
+
+6. [on hold] Corgi working on In-city-event-app♥♥ #4
+    - Corgi working on design♥♥ #4
+
 ### April 28th, 2021
 
 Programmers current rank: 966
