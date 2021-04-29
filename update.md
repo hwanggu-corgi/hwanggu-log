@@ -27,9 +27,10 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on practicing for TOEFL♥♥ #29
-    - Corgi practicing reading section♥♥ #30
-        - Corgi solving question 8♥♥
+2. Corgi working on practicing for TOEFL♥♥ #31
+    - Corgi practicing reading section♥♥ #31
+        - Corgi solving question 9♥♥
+        - Corgi completed solving question 8♥♥
         - Corgi completed solving question 7♥♥
         - Corgi completed solving question 6♥♥
         - Corgi completed solving question 5♥♥
@@ -39,7 +40,7 @@ Programmers current rank: 966
         - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
             - https://www.udemy.com/course/the-complete-toefl-ibt-success-course/♥♥♥♥
         - Corgi working on `TOEFL reading` (3/23)♥♥
-            - Corgi learning `Word questions` under `TOEFL Reading`♥♥ #6
+            - Corgi learning `Word questions` under `TOEFL Reading`♥♥ #7
             - Corgi completed learning `TOEFL Reading Answers to Avoid` under `TOEFL Reading`♥♥
             - Corgi completed learning `should you read the text?` under `TOEFL Reading`♥♥
 
