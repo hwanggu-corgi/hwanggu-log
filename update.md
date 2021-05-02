@@ -35,9 +35,10 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on practicing for TOEFL♥♥ #62
+2. Corgi working on practicing for TOEFL♥♥ #63
     - Corgi practicing reading section exercise 2♥♥
-        - Corgi solving question 12♥♥
+        - Corgi solving question 13♥♥
+        - Corgi completed solving question 12♥♥
         - Corgi completed solving question 11♥♥
         - Corgi completed solving question 10♥♥
         - Corgi completed solving question 9♥♥
