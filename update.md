@@ -1,3 +1,54 @@
+### May 4th, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+
+여보♥♥♥♥,
+오늘 자는데 우리 달하고 우리 태양이 걱정마♥ 우리 예쁜 자기 보호해줄꼬야
+하고 말해줬어요♥♥♥♥♥♥
+
+여보♥♥♥♥,
+우리 귀여운 내 자기 오늘 부디 따뜻하고 편안한 밤 보내요♥♥♥♥♥♥
+
+우리 소중한
+내 사랑아♥♥♥♥,
+I love you♥♥♥♥♥♥
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+2. Corgi working on practicing for TOEFL♥♥ #13
+    - Corgi learning about 'The complete TOEFL iBT Success Course'♥♥
+        - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
+            - https://www.udemy.com/course/the-complete-toefl-ibt-success-course/♥♥♥♥
+        - Corgi working on `TOEFL reading` (18/23)♥♥
+            - Corgi learning `inference questions` under `TOEFL Reading`♥♥ #3
+            - Corgi completed learning `detailed questions` under `TOEFL Reading`♥♥
+    - Corgi completed practicing reading section exercise 2♥♥
+        - Corgi working on self-checking answers♥♥
+            - My love, we got 10/13♥♥♥♥!!!
+        - Corgi completed solving question 13♥♥
+        - Corgi completed solving question 12♥♥
+        - Corgi completed solving question 11♥♥
+        - Corgi completed solving question 10♥♥
+        - Corgi completed solving question 9♥♥
+
+
 ### May 3rd, 2021
 
 Programmers current rank: 966
