@@ -32,9 +32,9 @@ I love you♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on practicing for TOEFL♥♥ #19
+2. Corgi working on practicing for TOEFL♥♥ #20
     - Corgi working on morad creative♥♥♥♥
-        - Corgi working on creating mobile navigation menu♥♥♥♥ #6
+        - Corgi working on creating mobile navigation menu♥♥♥♥ #7
     - Corgi learning about 'The complete TOEFL iBT Success Course'♥♥
         - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
             - https://www.udemy.com/course/the-complete-toefl-ibt-success-course/♥♥♥♥
