@@ -29,7 +29,10 @@ I love you♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on practicing for TOEFL♥♥ #30
+2. Corgi working on company tasks♥♥ #74
+    - Corgi working on personal insurance forms for axion♥♥♥♥s
+
+3. Corgi working on practicing for TOEFL♥♥ #30
     - Corgi learning about 'The complete TOEFL iBT Success Course'♥♥
         - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
             - https://www.udemy.com/course/the-complete-toefl-ibt-success-course/♥♥♥♥
