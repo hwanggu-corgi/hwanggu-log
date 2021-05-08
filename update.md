@@ -37,8 +37,9 @@ I love you♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on company tasks♥♥ #80
-    - Corgi working on car insurance forms for axion #5♥♥♥♥
+2. Corgi working on company tasks♥♥ #81
+    - Corgi working on slides for axion♥♥♥♥
+    - Corgi completed working on car insurance forms for axion♥♥♥♥
     - Corgi completed working on property insurance forms for axion♥♥♥♥
 
 3. Corgi working on practicing for TOEFL♥♥ #30
