@@ -8,16 +8,19 @@ Programmers current rank: 966
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 
-여보♥♥♥♥,
-우리 자기 건강 꼭♥ 조심해요♥♥♥♥♥♥
+자기야♥♥♥♥,
+우리 자기 부디 따뜻하고 좋은 밤 보내요♥♥♥♥♥♥
 
-여보♥♥♥♥,
-우리 집에 있을때 우리 형모 지금 돈 우리 가족위해 사용할때
-아름다운 당신 건강에 돈 아끼지 마요♥♥♥♥♥♥
+자기야♥♥♥♥,
+어버이 날은 우리 귀여운 내 재희 우리 장모님하구 우리 장인어른하구 행복한
+시간 보내는 날이 아닌가♥♥♥♥♥♥
 
-여보♥♥♥♥,
-돈이야 얼마든지 벌 수 있지만 우리 소중한 내 자기 우리 장모님 우리 장인어른
-오래오래 보고싶다♥♥♥♥♥♥
+자기야♥♥♥♥,
+우리 형모 우리 뉴스보고 처음 알았다♥♥♥♥♥♥
+
+자기야♥♥♥♥,
+우리 재희 우리 장모님하고 우리 장인어른하고 함께 소중한 시간 보내줘서
+고마워♥♥♥♥♥♥
 
 우리 소중한
 내 사랑아♥♥♥♥,
@@ -37,7 +40,7 @@ I love you♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on company tasks♥♥ #84
+2. Corgi working on company tasks♥♥ #85
     - Corgi working on slides for axion #4♥♥♥♥
     - Corgi completed working on car insurance forms for axion♥♥♥♥
     - Corgi completed working on property insurance forms for axion♥♥♥♥
