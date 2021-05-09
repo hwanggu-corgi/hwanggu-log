@@ -40,8 +40,8 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on company tasks♥♥ #117
-    - Corgi working on popup for axion #3♥♥♥♥
+2. Corgi working on company tasks♥♥ #118
+    - Corgi working on popup for axion #4♥♥♥♥
     - Corgi completed working on slides for axion♥♥♥♥
     - Corgi completed working on car insurance forms for axion♥♥♥♥
     - Corgi completed working on property insurance forms for axion♥♥♥♥
