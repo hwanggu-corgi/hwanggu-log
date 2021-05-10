@@ -1,3 +1,57 @@
+### May 11th, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- ( ): Attempt Toefl Test
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+
+자기야♥♥♥♥,
+사랑해요♥♥♥♥♥♥♥
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+2. Corgi working on company tasks♥♥ #123
+    - Corgi working on popup for axion #9♥♥♥♥
+    - Corgi completed working on slides for axion♥♥♥♥
+    - Corgi completed working on car insurance forms for axion♥♥♥♥
+    - Corgi completed working on property insurance forms for axion♥♥♥♥
+
+3. Corgi working on practicing for TOEFL♥♥ #30
+    - Corgi learning about 'The complete TOEFL iBT Success Course'♥♥
+        - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
+            - https://www.udemy.com/course/the-complete-toefl-ibt-success-course/♥♥♥♥
+        - Corgi working on `TOEFL reading` (23/23)♥♥
+            - Corgi learning `Reading Section Wrap Up` under `TOEFL Reading`♥♥ #6
+            - Corgi completed learning `summary questions` under `TOEFL Reading`♥♥
+            - Corgi completed learning `summary questions` under `TOEFL Reading`♥♥
+            - Corgi completed learning `summary questions` under `TOEFL Reading`♥♥
+            - Corgi completed learning `inference questions` under `TOEFL Reading`♥♥ #4
+            - Corgi completed learning `detailed questions` under `TOEFL Reading`♥♥
+    - Corgi completed practicing reading section exercise 2♥♥
+        - Corgi working on self-checking answers♥♥
+            - My love, we got 10/13♥♥♥♥!!!
+        - Corgi completed solving question 13♥♥
+        - Corgi completed solving question 12♥♥
+        - Corgi completed solving question 11♥♥
+        - Corgi completed solving question 10♥♥
+        - Corgi completed solving question 9♥♥
+
+
 ### May 10th, 2021
 
 Programmers current rank: 966
