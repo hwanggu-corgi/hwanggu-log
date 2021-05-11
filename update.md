@@ -30,6 +30,7 @@ Programmers current rank: 966
         - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
             - https://www.udemy.com/course/the-complete-toefl-ibt-success-course/♥♥♥♥
         - Corgi working on `TOEFL writing` (1/25)♥♥
+            - Corgi learning `Writing Section Overview` under `TOEFL Writing`♥♥
         - Corgi working on `TOEFL reading` (23/23)♥♥
             - Corgi completed learning `Reading Section Wrap Up` under `TOEFL Reading`♥♥
             - Corgi completed learning `summary questions` under `TOEFL Reading`♥♥
