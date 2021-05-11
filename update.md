@@ -25,18 +25,13 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on company tasks♥♥ #123
-    - Corgi working on popup for axion #9♥♥♥♥
-    - Corgi completed working on slides for axion♥♥♥♥
-    - Corgi completed working on car insurance forms for axion♥♥♥♥
-    - Corgi completed working on property insurance forms for axion♥♥♥♥
-
-3. Corgi working on practicing for TOEFL♥♥ #30
+2. Corgi working on practicing for TOEFL♥♥
     - Corgi learning about 'The complete TOEFL iBT Success Course'♥♥
         - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
             - https://www.udemy.com/course/the-complete-toefl-ibt-success-course/♥♥♥♥
+        - Corgi working on `TOEFL writing` (1/25)♥♥
         - Corgi working on `TOEFL reading` (23/23)♥♥
-            - Corgi learning `Reading Section Wrap Up` under `TOEFL Reading`♥♥ #6
+            - Corgi completed learning `Reading Section Wrap Up` under `TOEFL Reading`♥♥
             - Corgi completed learning `summary questions` under `TOEFL Reading`♥♥
             - Corgi completed learning `summary questions` under `TOEFL Reading`♥♥
             - Corgi completed learning `summary questions` under `TOEFL Reading`♥♥
@@ -51,6 +46,12 @@ Programmers current rank: 966
         - Corgi completed solving question 10♥♥
         - Corgi completed solving question 9♥♥
 
+
+3. Corgi completed working on company tasks♥♥
+    - Corgi completed working on popup for axion♥♥♥♥
+    - Corgi completed working on slides for axion♥♥♥♥
+    - Corgi completed working on car insurance forms for axion♥♥♥♥
+    - Corgi completed working on property insurance forms for axion♥♥♥♥
 
 ### May 10th, 2021
 
