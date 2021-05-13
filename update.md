@@ -8,7 +8,7 @@ Programmers current rank: 966
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 
-자기야♥♥♥♥,
+여보♥♥♥♥,
 우리 자기 오늘 부디 시원하고 따뜻하고 편안한
 밤 보내요♥♥♥♥♥♥♥
 
@@ -34,7 +34,10 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on practicing for TOEFL #134♥♥
+2. Corgi working on company tasks♥♥
+    - Corgi working on accordion on `our leadership` page for Mahube♥♥♥♥
+
+3. Corgi working on practicing for TOEFL #134♥♥
     - Corgi learning about 'The complete TOEFL iBT Success Course'♥♥
         - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
             - https://www.udemy.com/course/the-complete-toefl-ibt-success-course/♥♥♥♥
@@ -57,12 +60,6 @@ Programmers current rank: 966
         - Corgi completed solving question 10♥♥
         - Corgi completed solving question 9♥♥
 
-
-3. Corgi completed working on company tasks♥♥
-    - Corgi completed working on popup for axion♥♥♥♥
-    - Corgi completed working on slides for axion♥♥♥♥
-    - Corgi completed working on car insurance forms for axion♥♥♥♥
-    - Corgi completed working on property insurance forms for axion♥♥♥♥
 
 
 ### May 12th, 2021
