@@ -36,7 +36,8 @@ Programmers current rank: 966
 
 2. Corgi working on company tasks♥♥
     - Corgi working on mahube.morwebcms.com♥♥♥♥
-        - Corgi working on accordion on `our leadership` page for Mahube♥♥♥♥ #2
+        - Corgi working on team gallery on `our leadership` page for Mahube♥♥♥♥
+        - Corgi completed working on accordion on `our leadership` page for Mahube♥♥♥♥
 
 3. Corgi working on practicing for TOEFL #134♥♥
     - Corgi learning about 'The complete TOEFL iBT Success Course'♥♥
