@@ -21,7 +21,7 @@ Programmers current rank: 966
 
 우리 소중한
 내 사랑아♥♥♥♥,
-I love you my sweetheart♥♥♥♥♥♥♥
+I love you my sweetheart♥♥♥♥♥♥♥♥
 
 1. Corgi completed interview♥♥
     - 내♥♥
