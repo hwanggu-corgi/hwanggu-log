@@ -9,6 +9,67 @@ Programmers current rank: 966
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 
 여보♥♥♥♥,
+오늘 회사 부디 조심히 잘 다녀와요♥♥♥♥♥♥♥
+
+우리 소중한
+내 자기야♥♥♥♥,
+사랑해요♥♥♥♥♥♥♥
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+2. Corgi working on company tasks♥♥
+    - Corgi working on mahube.morwebcms.com♥♥♥♥ #7
+        - Corgi working on newsletter on website footer for Mahube♥♥♥♥
+        - Corgi completed working on team gallery on `our leadership` page for Mahube♥♥♥♥
+        - Corgi completed working on accordion on `our leadership` page for Mahube♥♥♥♥
+
+3. Corgi working on practicing for TOEFL #134♥♥
+    - Corgi learning about 'The complete TOEFL iBT Success Course'♥♥
+        - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
+            - https://www.udemy.com/course/the-complete-toefl-ibt-success-course/♥♥♥♥
+        - Corgi working on `TOEFL writing` (2/25)♥♥
+            - Corgi learning `Writing Concisely` under `TOEFL Writing`♥♥ #7
+            - Corgi completed learning `Writing Section Overview` under `TOEFL Writing`♥♥
+        - Corgi working on `TOEFL reading` (23/23)♥♥
+            - Corgi completed learning `Reading Section Wrap Up` under `TOEFL Reading`♥♥
+            - Corgi completed learning `summary questions` under `TOEFL Reading`♥♥
+            - Corgi completed learning `summary questions` under `TOEFL Reading`♥♥
+            - Corgi completed learning `summary questions` under `TOEFL Reading`♥♥
+            - Corgi completed learning `inference questions` under `TOEFL Reading`♥♥ #4
+            - Corgi completed learning `detailed questions` under `TOEFL Reading`♥♥
+    - Corgi completed practicing reading section exercise 2♥♥
+        - Corgi working on self-checking answers♥♥
+            - My love, we got 10/13♥♥♥♥!!!
+        - Corgi completed solving question 13♥♥
+        - Corgi completed solving question 12♥♥
+        - Corgi completed solving question 11♥♥
+        - Corgi completed solving question 10♥♥
+        - Corgi completed solving question 9♥♥
+
+
+### May 13th, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- ( ): Attempt Toefl Test
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+
+여보♥♥♥♥,
 우리 자기 오늘 부디 시원하고 따뜻하고 편안한
 밤 보내요♥♥♥♥♥♥♥
 
