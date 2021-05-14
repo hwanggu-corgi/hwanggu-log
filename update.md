@@ -30,8 +30,8 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on company tasks♥♥
-    - Corgi working on mahube.morwebcms.com♥♥♥♥ #8
-        - Corgi working on newsletter on website footer for Mahube♥♥♥♥ #2
+    - Corgi working on mahube.morwebcms.com♥♥♥♥ #9
+        - Corgi working on newsletter on website footer for Mahube♥♥♥♥ #3
         - Corgi completed working on team gallery on `our leadership` page for Mahube♥♥♥♥
         - Corgi completed working on accordion on `our leadership` page for Mahube♥♥♥♥
 
