@@ -38,8 +38,9 @@ I love you my sweetheart♥♥♥♥♥♥♥♥
     - 해♥♥
 
 2. Corgi working on company tasks♥♥
-    - Corgi working on mahube.morwebcms.com♥♥♥♥ #15
-        - Corgi working on newsletter on website footer for Mahube♥♥♥♥ #9
+    - Corgi working on mahube.morwebcms.com♥♥♥♥ #16
+        - Corgi working on header on website for Mahube♥♥♥♥
+        - Corgi completed working on newsletter on website footer for Mahube♥♥♥♥
         - Corgi completed working on team gallery on `our leadership` page for Mahube♥♥♥♥
         - Corgi completed working on accordion on `our leadership` page for Mahube♥♥♥♥
 
