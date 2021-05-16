@@ -1,3 +1,75 @@
+### May 17th, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- ( ): Attempt Toefl Test
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+
+자기야♥♥♥♥,
+우리 하나씩 하나씩 잘 풀리게 될테니 걱정마♥♥♥♥♥♥♥
+
+자기야♥♥♥♥,
+우리 비도 우리 예쁜 내 여보 우리 장모님 우리 장인어른 여보 오빠
+백신 맞기 전에 많이많이 장맛비를 내리는것 같아♥♥♥♥♥♥♥
+
+자기야♥♥♥♥,
+백신 맞구 장맛비 내리면은 우리 가족 꿉꿉하고 노노잖아요♥♥♥♥♥♥♥
+
+그러면 우리 예쁜 내 자기야♥♥♥♥,
+우리 자기 눈부신 햇볓이 가득한 날 우리 멋진 우리 장모님하고 우리 장인어른하고
+여보 오빠하고 즐거운 하루를 보낼 수 있을거야♥♥♥♥♥♥♥♥
+
+우리 소중한
+내 사랑아♥♥♥♥,
+사랑해요 my love♥♥♥♥♥♥♥♥
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+2. Corgi working on practicing for TOEFL #150♥♥
+    - Corgi learning about 'The complete TOEFL iBT Success Course'♥♥
+        - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
+            - https://www.udemy.com/course/the-complete-toefl-ibt-success-course/♥♥♥♥
+        - Corgi working on `TOEFL writing` (2/25)♥♥
+            - Corgi learning `Writing Concisely` under `TOEFL Writing`♥♥ #23
+            - Corgi completed learning `Writing Section Overview` under `TOEFL Writing`♥♥
+        - Corgi working on `TOEFL reading` (23/23)♥♥
+            - Corgi completed learning `Reading Section Wrap Up` under `TOEFL Reading`♥♥
+            - Corgi completed learning `summary questions` under `TOEFL Reading`♥♥
+            - Corgi completed learning `summary questions` under `TOEFL Reading`♥♥
+            - Corgi completed learning `summary questions` under `TOEFL Reading`♥♥
+            - Corgi completed learning `inference questions` under `TOEFL Reading`♥♥ #4
+            - Corgi completed learning `detailed questions` under `TOEFL Reading`♥♥
+    - Corgi completed practicing reading section exercise 2♥♥
+        - Corgi working on self-checking answers♥♥
+            - My love, we got 10/13♥♥♥♥!!!
+        - Corgi completed solving question 13♥♥
+        - Corgi completed solving question 12♥♥
+        - Corgi completed solving question 11♥♥
+        - Corgi completed solving question 10♥♥
+        - Corgi completed solving question 9♥♥
+
+3. Corgi working on company tasks♥♥
+    - Corgi working on mahube.morwebcms.com♥♥♥♥ #18
+        - Corgi working on header on website for Mahube♥♥♥♥ #4
+        - Corgi completed working on newsletter on website footer for Mahube♥♥♥♥
+        - Corgi completed working on team gallery on `our leadership` page for Mahube♥♥♥♥
+        - Corgi completed working on accordion on `our leadership` page for Mahube♥♥♥♥
+
 ### May 16th, 2021
 
 Programmers current rank: 966
