@@ -31,17 +31,17 @@ I love you my beautiful girl♥♥♥♥♥♥♥♥
     - 해♥♥
 
 2. Corgi working on company tasks♥♥
-    - Corgi working on axion.morwebcms.com♥♥♥♥ #3
-        - Corgi completed working on site under construction page for the live site♥♥♥♥
-    - Corgi working on mahube.morwebcms.com♥♥♥♥ #34
-        - Corgi working on improving mobile menu for Mahube♥♥♥♥ #3
+    - Corgi working on mahube.morwebcms.com♥♥♥♥ #35
+        - Corgi working on fixings news slider for Mahube♥♥♥♥
+        - Corgi completed working on improving mobile menu for Mahube♥♥♥♥
         - Corgi completed working on generating map on `contact us` page for Mahube♥♥♥♥
         - Corgi completed working on `How to Get Help from Mahube-Otwa` on home page for Mahube♥♥♥♥
         - Corgi completed working on header on website for Mahube♥♥♥♥
         - Corgi completed working on newsletter on website footer for Mahube♥♥♥♥
         - Corgi completed working on team gallery on `our leadership` page for Mahube♥♥♥♥
         - Corgi completed working on accordion on `our leadership` page for Mahube♥♥♥♥
-
+    - Corgi working on axion.morwebcms.com♥♥♥♥ #4
+        - Corgi completed working on site under construction page for the live site♥♥♥♥
 
 3. Corgi working on practicing for TOEFL #162♥♥
     - Corgi learning about 'The complete TOEFL iBT Success Course'♥♥
