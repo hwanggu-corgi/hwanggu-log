@@ -1,3 +1,72 @@
+### May 22nd, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- ( ): Attempt Toefl Test
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+
+자기야♥♥♥♥,
+우리 자기 귀여워♥♥♥♥♥♥♥♥♥
+
+우리 소중한
+내 사랑아♥♥♥♥,
+I love you my beautiful girl♥♥♥♥♥♥♥♥
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+2. Corgi working on company tasks♥♥
+    - Corgi working on mahube.morwebcms.com♥♥♥♥ #39
+        - Corgi working on fixings news slider for Mahube♥♥♥♥ #5
+        - Corgi completed working on improving mobile menu for Mahube♥♥♥♥
+        - Corgi completed working on generating map on `contact us` page for Mahube♥♥♥♥
+        - Corgi completed working on `How to Get Help from Mahube-Otwa` on home page for Mahube♥♥♥♥
+        - Corgi completed working on header on website for Mahube♥♥♥♥
+        - Corgi completed working on newsletter on website footer for Mahube♥♥♥♥
+        - Corgi completed working on team gallery on `our leadership` page for Mahube♥♥♥♥
+        - Corgi completed working on accordion on `our leadership` page for Mahube♥♥♥♥
+    - Corgi working on axion.morwebcms.com♥♥♥♥ #4
+        - Corgi completed working on site under construction page for the live site♥♥♥♥
+
+3. Corgi working on practicing for TOEFL #162♥♥
+    - Corgi learning about 'The complete TOEFL iBT Success Course'♥♥
+        - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
+            - https://www.udemy.com/course/the-complete-toefl-ibt-success-course/♥♥♥♥
+        - Corgi working on `TOEFL writing` (4/25)♥♥
+            - Corgi learning `Writing Coherently` under `TOEFL Writing`♥♥ #11
+            - Corgi completed learning `Writing Concisely` under `TOEFL Writing`♥♥
+            - Corgi completed learning `Writing Section Overview` under `TOEFL Writing`♥♥
+        - Corgi working on `TOEFL reading` (23/23)♥♥
+            - Corgi completed learning `Reading Section Wrap Up` under `TOEFL Reading`♥♥
+            - Corgi completed learning `summary questions` under `TOEFL Reading`♥♥
+            - Corgi completed learning `summary questions` under `TOEFL Reading`♥♥
+            - Corgi completed learning `summary questions` under `TOEFL Reading`♥♥
+            - Corgi completed learning `inference questions` under `TOEFL Reading`♥♥ #4
+            - Corgi completed learning `detailed questions` under `TOEFL Reading`♥♥
+    - Corgi completed practicing reading section exercise 2♥♥
+        - Corgi working on self-checking answers♥♥
+            - My love, we got 10/13♥♥♥♥!!!
+        - Corgi completed solving question 13♥♥
+        - Corgi completed solving question 12♥♥
+        - Corgi completed solving question 11♥♥
+        - Corgi completed solving question 10♥♥
+        - Corgi completed solving question 9♥♥
+
+
 ### May 21st, 2021
 
 Programmers current rank: 966
