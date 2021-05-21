@@ -31,8 +31,8 @@ I love you my beautiful girl♥♥♥♥♥♥♥♥
     - 해♥♥
 
 2. Corgi working on company tasks♥♥
-    - Corgi working on mahube.morwebcms.com♥♥♥♥ #37
-        - Corgi working on fixings news slider for Mahube♥♥♥♥ #3
+    - Corgi working on mahube.morwebcms.com♥♥♥♥ #38
+        - Corgi working on fixings news slider for Mahube♥♥♥♥ #4
         - Corgi completed working on improving mobile menu for Mahube♥♥♥♥
         - Corgi completed working on generating map on `contact us` page for Mahube♥♥♥♥
         - Corgi completed working on `How to Get Help from Mahube-Otwa` on home page for Mahube♥♥♥♥
