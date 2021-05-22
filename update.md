@@ -33,8 +33,8 @@ I love you my sweetheart♥♥♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on practicing for TOEFL #167♥♥
-    - Corgi learning about 'The complete TOEFL iBT Success Course'♥♥
+2. Corgi working on practicing for TOEFL #168♥♥
+    - Corgi learning about 'The complete TOEFL iBT Success Course♥♥
         - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
             - https://www.udemy.com/course/the-complete-toefl-ibt-success-course/♥♥♥♥
         - Corgi working on `TOEFL writing` (4/25)♥♥
@@ -42,7 +42,7 @@ I love you my sweetheart♥♥♥♥♥♥♥♥
             - Corgi completed learning `Writing Concisely` under `TOEFL Writing`♥♥
             - Corgi completed learning `Writing Section Overview` under `TOEFL Writing`♥♥
 
-3. Corgi researching banking account types♥♥
+3. Corgi researching our family's banking account types and eligibility requirements♥♥ #2
 
 4. Corgi working on company tasks♥♥
     - Corgi working on mahube.morwebcms.com♥♥♥♥ #42
