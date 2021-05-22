@@ -33,16 +33,18 @@ I love you my sweetheart♥♥♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on practicing for TOEFL #165♥♥
+2. Corgi working on practicing for TOEFL #166♥♥
     - Corgi learning about 'The complete TOEFL iBT Success Course'♥♥
         - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
             - https://www.udemy.com/course/the-complete-toefl-ibt-success-course/♥♥♥♥
         - Corgi working on `TOEFL writing` (4/25)♥♥
-            - Corgi learning `Writing Coherently` under `TOEFL Writing`♥♥ #13
+            - Corgi learning `Writing Coherently` under `TOEFL Writing`♥♥ #14
             - Corgi completed learning `Writing Concisely` under `TOEFL Writing`♥♥
             - Corgi completed learning `Writing Section Overview` under `TOEFL Writing`♥♥
 
-3. Corgi working on company tasks♥♥
+3. Corgi researching banking account types♥♥
+
+4. Corgi working on company tasks♥♥
     - Corgi working on mahube.morwebcms.com♥♥♥♥ #42
         - Corgi working on fixings news slider for Mahube♥♥♥♥ #8
         - Corgi completed working on improving mobile menu for Mahube♥♥♥♥
