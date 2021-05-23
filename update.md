@@ -33,12 +33,12 @@ I love you my sweetheart♥♥♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on practicing for TOEFL #177♥♥
+2. Corgi working on practicing for TOEFL #178♥♥
     - Corgi learning about 'The complete TOEFL iBT Success Course♥♥
         - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
             - https://www.udemy.com/course/the-complete-toefl-ibt-success-course/♥♥♥♥
         - Corgi working on `TOEFL writing` (8/25)♥♥
-            - Corgi learning `Writing 1: Structuring Your Essay` under `TOEFL Writing`♥♥
+            - Corgi learning `Writing 1: Structuring Your Essay` under `TOEFL Writing`♥♥ #2
             - Corgi completed learning `Writing 1: Introduction` under `TOEFL Writing`♥♥
             - Corgi completed learning `Writing Coherently` under `TOEFL Writing`♥♥
             - Corgi completed learning `Writing Concisely` under `TOEFL Writing`♥♥
