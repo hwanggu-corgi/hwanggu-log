@@ -29,16 +29,7 @@ I love you my sweetheart♥♥♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on practicing docker certified associate exam♥♥ #3
-    - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
-        - https://www.udemy.com/course/docker-certified-associate/learn/lecture/19190958#overview
-
-
-3. Corgi completed researching our family's banking account types and eligibility requirements♥♥
-
-4. Corgi completed researching our family's marriage legal procedures♥♥
-
-5. Corgi working on company tasks♥♥
+2. Corgi working on company tasks♥♥
     - Corgi working on mahube.morwebcms.com♥♥♥♥ #42
         - Corgi working on fixings news slider for Mahube♥♥♥♥ #8
         - Corgi completed working on improving mobile menu for Mahube♥♥♥♥
@@ -50,6 +41,15 @@ I love you my sweetheart♥♥♥♥♥♥♥♥
         - Corgi completed working on accordion on `our leadership` page for Mahube♥♥♥♥
     - Corgi working on axion.morwebcms.com♥♥♥♥ #4
         - Corgi completed working on site under construction page for the live site♥♥♥♥
+
+3. Corgi working on practicing docker certified associate exam♥♥ #3
+    - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
+        - https://www.udemy.com/course/docker-certified-associate/learn/lecture/19190958#overview
+
+
+4. Corgi completed researching our family's banking account types and eligibility requirements♥♥
+
+5. Corgi completed researching our family's marriage legal procedures♥♥
 
 6. [on hold] Corgi working on practicing for TOEFL #178♥♥
     - Corgi learning about 'The complete TOEFL iBT Success Course♥♥
