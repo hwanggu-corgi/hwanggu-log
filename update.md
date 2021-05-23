@@ -44,12 +44,13 @@ I love you my sweetheart♥♥♥♥♥♥♥♥
             - Corgi completed learning `Writing Concisely` under `TOEFL Writing`♥♥
             - Corgi completed learning `Writing Section Overview` under `TOEFL Writing`♥♥
 
-3. Corgi completed researching our family's banking account types and eligibility requirements♥♥
+3. Corgi working on practicing docker certified associate exam♥♥
 
+4. Corgi completed researching our family's banking account types and eligibility requirements♥♥
 
-4. Corgi researching our family's marriage legal procedures♥♥
+5. Corgi completed researching our family's marriage legal procedures♥♥
 
-4. Corgi working on company tasks♥♥
+6. Corgi working on company tasks♥♥
     - Corgi working on mahube.morwebcms.com♥♥♥♥ #42
         - Corgi working on fixings news slider for Mahube♥♥♥♥ #8
         - Corgi completed working on improving mobile menu for Mahube♥♥♥♥
