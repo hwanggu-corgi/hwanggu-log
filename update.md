@@ -42,9 +42,10 @@ I love you my sweetie♥♥♥♥♥♥♥♥
     - 해♥♥
 
 2. Corgi working on company tasks♥♥
-    - Corgi working on mahube.morwebcms.com♥♥♥♥ #59
-        - Corgi completed fixings content blocks on `contact us` page for Mahube♥♥♥♥
-        - Corgi completed fixings news slider for Mahube♥♥♥♥
+    - Corgi working on mahube.morwebcms.com♥♥♥♥ #60
+        - Corgi fixing `Toll free ---` on navigation menu for Mahube♥♥♥♥
+        - Corgi completed fixing content blocks on `contact us` page for Mahube♥♥♥♥
+        - Corgi completed fixing news slider for Mahube♥♥♥♥
         - Corgi completed working on improving mobile menu for Mahube♥♥♥♥
         - Corgi completed working on generating map on `contact us` page for Mahube♥♥♥♥
         - Corgi completed working on `How to Get Help from Mahube-Otwa` on home page for Mahube♥♥♥♥
