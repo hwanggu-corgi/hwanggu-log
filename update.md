@@ -42,8 +42,8 @@ I love you my sweetie♥♥♥♥♥♥♥♥
     - 해♥♥
 
 2. Corgi working on company tasks♥♥
-    - Corgi working on bisac.morwebcms.com♥♥♥♥
-        - Corgi fixing donation form on `donate` page♥♥♥♥
+    - Corgi working on bisac.morwebcms.com♥♥♥♥ #2
+        - Corgi fixing donation form on `donate` page♥♥♥♥ #2
     - Corgi completed working on mahube.morwebcms.com♥♥♥♥
         - Hurrrrayyyy♥♥♥♥!!!
             - My wife is the best♥♥♥♥!!!
