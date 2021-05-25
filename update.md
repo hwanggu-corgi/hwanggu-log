@@ -1,3 +1,73 @@
+### May 26th, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- ( ): Attempt Toefl Test
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+
+자기야♥♥♥♥,
+우리 자기 오늘 부디 편안히 이불 덥고 자요♥♥♥♥♥♥♥♥♥
+
+우리 소중한
+내 사랑아♥♥♥♥,
+I love you my dearest♥♥♥♥♥♥♥♥
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+2. Corgi working on company tasks♥♥
+    - Corgi working on bisac.morwebcms.com♥♥♥♥ #4
+        - Corgi fixing donation form on `donate` page♥♥♥♥ #4
+    - Corgi completed working on mahube.morwebcms.com♥♥♥♥
+        - Hurrrrayyyy♥♥♥♥!!!
+            - My wife is the best♥♥♥♥!!!
+        - Corgi completed fixing `Toll free ---` on navigation menu for Mahube♥♥♥♥
+        - Corgi completed fixing content blocks on `contact us` page for Mahube♥♥♥♥
+        - Corgi completed fixing news slider for Mahube♥♥♥♥
+        - Corgi completed working on improving mobile menu for Mahube♥♥♥♥
+        - Corgi completed working on generating map on `contact us` page for Mahube♥♥♥♥
+        - Corgi completed working on `How to Get Help from Mahube-Otwa` on home page for Mahube♥♥♥♥
+        - Corgi completed working on header on website for Mahube♥♥♥♥
+        - Corgi completed working on newsletter on website footer for Mahube♥♥♥♥
+        - Corgi completed working on team gallery on `our leadership` page for Mahube♥♥♥♥
+        - Corgi completed working on accordion on `our leadership` page for Mahube♥♥♥♥
+    - Corgi working on axion.morwebcms.com♥♥♥♥ #4
+        - Corgi completed working on site under construction page for the live site♥♥♥♥
+
+3. Corgi working on practicing docker certified associate exam♥♥ #3
+    - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
+        - https://www.udemy.com/course/docker-certified-associate/learn/lecture/19190958#overview
+
+
+4. Corgi completed researching our family's banking account types and eligibility requirements♥♥
+
+5. Corgi completed researching our family's marriage legal procedures♥♥
+
+6. [on hold] Corgi working on practicing for TOEFL #178♥♥
+    - Corgi learning about 'The complete TOEFL iBT Success Course♥♥
+        - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
+            - https://www.udemy.com/course/the-complete-toefl-ibt-success-course/♥♥♥♥
+        - Corgi working on `TOEFL writing` (8/25)♥♥
+            - Corgi learning `Writing 1: Structuring Your Essay` under `TOEFL Writing`♥♥ #2
+            - Corgi completed learning `Writing 1: Introduction` under `TOEFL Writing`♥♥
+            - Corgi completed learning `Writing Coherently` under `TOEFL Writing`♥♥
+            - Corgi completed learning `Writing Concisely` under `TOEFL Writing`♥♥
+            - Corgi completed learning `Writing Section Overview` under `TOEFL Writing`♥♥
+
 ### May 25th, 2021
 
 Programmers current rank: 966
