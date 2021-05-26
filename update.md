@@ -29,7 +29,13 @@ I love you my dearest♥♥♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on company tasks♥♥
+2. Corgi working on practicing docker certified associate exam♥♥ #4
+    - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
+        - https://www.udemy.com/course/docker-certified-associate/learn/lecture/19190958#overview
+            - Corgi working on lesson (3/21) `Introcution to Docker Containers` under `Getting Started With Dockers`♥♥♥♥
+
+
+3. Corgi working on company tasks♥♥
     - Corgi working on bisac.morwebcms.com♥♥♥♥ #4
         - Corgi fixing donation form on `donate` page♥♥♥♥ #4
     - Corgi completed working on mahube.morwebcms.com♥♥♥♥
@@ -47,10 +53,6 @@ I love you my dearest♥♥♥♥♥♥♥♥
         - Corgi completed working on accordion on `our leadership` page for Mahube♥♥♥♥
     - Corgi working on axion.morwebcms.com♥♥♥♥ #4
         - Corgi completed working on site under construction page for the live site♥♥♥♥
-
-3. Corgi working on practicing docker certified associate exam♥♥ #3
-    - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
-        - https://www.udemy.com/course/docker-certified-associate/learn/lecture/19190958#overview
 
 
 4. Corgi completed researching our family's banking account types and eligibility requirements♥♥
