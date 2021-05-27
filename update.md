@@ -1,3 +1,64 @@
+### May 28th, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- ( ): Attempt Toefl Test
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+
+자기야♥♥♥♥,
+사랑해요 자기야♥♥♥♥♥♥♥♥♥
+
+자기야♥♥♥♥,
+그댈만나서 당신의 사랑곁에 있을 수 있어
+행복합니다♥♥♥♥♥♥♥♥♥
+
+우리 소중한
+내 사랑아♥♥♥♥,
+I love you♥♥♥♥♥♥♥♥♥
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+
+2. Corgi working on practicing docker certified associate exam♥♥ #6
+    - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
+        - https://www.udemy.com/course/docker-certified-associate/learn/lecture/19190958#overview
+            - Corgi working on lesson (7/21) `Docker Image Vs Docker Containers` under `Getting Started With Dockers`♥♥♥♥
+            - Corgi completed lesson (4/21) `Installing Docker` under `Getting Started With Dockers`♥♥♥♥
+            - Corgi completed lesson (3/21) `Introduction to Docker Containers` under `Getting Started With Dockers`♥♥♥♥
+
+3. Corgi working on company tasks♥♥
+    - Corgi working on mendpoverty.morwebcms.com♥♥♥♥
+        - Corgi fixing shopping checkout on `test` page♥♥♥♥ #2
+        - Corgi completed fixing shopping detail on `test` page♥♥♥♥
+        - Corgi completed fixing shopping list on `test` page♥♥♥♥
+
+4. [on hold] Corgi working on practicing for TOEFL #178♥♥
+    - Corgi learning about 'The complete TOEFL iBT Success Course♥♥
+        - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
+            - https://www.udemy.com/course/the-complete-toefl-ibt-success-course/♥♥♥♥
+        - Corgi working on `TOEFL writing` (8/25)♥♥
+            - Corgi learning `Writing 1: Structuring Your Essay` under `TOEFL Writing`♥♥ #2
+            - Corgi completed learning `Writing 1: Introduction` under `TOEFL Writing`♥♥
+            - Corgi completed learning `Writing Coherently` under `TOEFL Writing`♥♥
+            - Corgi completed learning `Writing Concisely` under `TOEFL Writing`♥♥
+            - Corgi completed learning `Writing Section Overview` under `TOEFL Writing`♥♥
+
+
 ### May 27th, 2021
 
 Programmers current rank: 966
