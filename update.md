@@ -8,6 +8,14 @@ Programmers current rank: 966
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 
+자기야♥♥♥♥,
+Good night my beautiful princess♥♥♥♥♥♥♥♥♥
+
+우리 귀여운
+내 사랑아♥♥♥♥,
+I love you♥♥♥♥♥♥♥♥♥
+
+-------------
 
 나쁜 바이러스야♥♥♥♥,
 우리 예쁜 재희에게 가려거든 캐나다에 있는 우리 형모에게 와랐♥♥♥♥♥♥♥♥♥
