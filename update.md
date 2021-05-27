@@ -39,38 +39,19 @@ I love you my puppy♥♥♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on practicing docker certified associate exam♥♥ #5
+
+
+2. Corgi working on company tasks♥♥
+    - Corgi working on mendpoverty.morwebcms.com♥♥♥♥
+        - Corgi fixing shopping form on `test` page♥♥♥♥
+
+3. Corgi working on practicing docker certified associate exam♥♥ #5
     - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
         - https://www.udemy.com/course/docker-certified-associate/learn/lecture/19190958#overview
             - Corgi working on lesson (4/21) `Installing Docker` under `Getting Started With Dockers`♥♥♥♥ #2
             - Corgi completed lesson (3/21) `Introduction to Docker Containers` under `Getting Started With Dockers`♥♥♥♥
 
-
-3. Corgi working on company tasks♥♥
-    - Corgi working on bisac.morwebcms.com♥♥♥♥ #4
-        - Corgi fixing donation form on `donate` page♥♥♥♥ #4
-    - Corgi completed working on mahube.morwebcms.com♥♥♥♥
-        - Hurrrrayyyy♥♥♥♥!!!
-            - My wife is the best♥♥♥♥!!!
-        - Corgi completed fixing `Toll free ---` on navigation menu for Mahube♥♥♥♥
-        - Corgi completed fixing content blocks on `contact us` page for Mahube♥♥♥♥
-        - Corgi completed fixing news slider for Mahube♥♥♥♥
-        - Corgi completed working on improving mobile menu for Mahube♥♥♥♥
-        - Corgi completed working on generating map on `contact us` page for Mahube♥♥♥♥
-        - Corgi completed working on `How to Get Help from Mahube-Otwa` on home page for Mahube♥♥♥♥
-        - Corgi completed working on header on website for Mahube♥♥♥♥
-        - Corgi completed working on newsletter on website footer for Mahube♥♥♥♥
-        - Corgi completed working on team gallery on `our leadership` page for Mahube♥♥♥♥
-        - Corgi completed working on accordion on `our leadership` page for Mahube♥♥♥♥
-    - Corgi working on axion.morwebcms.com♥♥♥♥ #4
-        - Corgi completed working on site under construction page for the live site♥♥♥♥
-
-
-4. Corgi completed researching our family's banking account types and eligibility requirements♥♥
-
-5. Corgi completed researching our family's marriage legal procedures♥♥
-
-6. [on hold] Corgi working on practicing for TOEFL #178♥♥
+4. [on hold] Corgi working on practicing for TOEFL #178♥♥
     - Corgi learning about 'The complete TOEFL iBT Success Course♥♥
         - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
             - https://www.udemy.com/course/the-complete-toefl-ibt-success-course/♥♥♥♥
