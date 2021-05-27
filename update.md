@@ -45,10 +45,10 @@ I love you my puppy♥♥♥♥♥♥♥♥
     - Corgi working on mendpoverty.morwebcms.com♥♥♥♥
         - Corgi fixing shopping form on `test` page♥♥♥♥
 
-3. Corgi working on practicing docker certified associate exam♥♥ #5
+3. Corgi working on practicing docker certified associate exam♥♥ #6
     - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
         - https://www.udemy.com/course/docker-certified-associate/learn/lecture/19190958#overview
-            - Corgi working on lesson (4/21) `Installing Docker` under `Getting Started With Dockers`♥♥♥♥ #2
+            - Corgi working on lesson (4/21) `Installing Docker` under `Getting Started With Dockers`♥♥♥♥ #3
             - Corgi completed lesson (3/21) `Introduction to Docker Containers` under `Getting Started With Dockers`♥♥♥♥
 
 4. [on hold] Corgi working on practicing for TOEFL #178♥♥
