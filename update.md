@@ -43,7 +43,7 @@ I love you my puppy♥♥♥♥♥♥♥♥
 
 2. Corgi working on company tasks♥♥
     - Corgi working on mendpoverty.morwebcms.com♥♥♥♥
-        - Corgi fixing shopping checkout on `test` page♥♥♥♥
+        - Corgi fixing shopping checkout on `test` page♥♥♥♥ #2
         - Corgi completed fixing shopping detail on `test` page♥♥♥♥
         - Corgi completed fixing shopping list on `test` page♥♥♥♥
 
