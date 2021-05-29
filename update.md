@@ -31,10 +31,11 @@ I love you♥♥♥♥♥♥♥♥♥
 
 
 
-2. Corgi working on practicing docker certified associate exam♥♥ #23
+2. Corgi working on practicing docker certified associate exam♥♥ #24
     - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
         - https://www.udemy.com/course/docker-certified-associate/learn/lecture/19190958#overview
-            - Corgi working on lesson (11/21) `Removing Docker Containers` under `Getting Started With Dockers`♥♥♥♥ #5
+            - Corgi completed lesson (12/21) `New Docker Command CLI` under `Getting Started With Dockers`♥♥♥♥
+            - Corgi completed lesson (11/21) `Removing Docker Containers` under `Getting Started With Dockers`♥♥♥♥
             - Corgi completed lesson (10/21) `Attached and Detached mode` under `Getting Started With Dockers`♥♥♥♥
             - Corgi completed lesson (9/21) `Port Binding` under `Getting Started With Dockers`♥♥♥♥
             - Corgi completed lesson (8/21) `Container Identification` under `Getting Started With Dockers`♥♥♥♥
