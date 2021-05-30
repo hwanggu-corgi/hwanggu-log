@@ -35,6 +35,7 @@ I love you my dear♥♥♥♥♥♥♥♥♥
     - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
         - https://www.udemy.com/course/docker-certified-associate/learn/lecture/19190958#overview
             - Corgi working on `Section 2 - Image Creation, Management, and Registry`♥♥♥♥♥
+                - Corgi completed lesson (1/28) `Working with Docker Images`♥♥♥♥
             - Corgi completed `Section 1 - Getting Started with Dockers`♥♥♥♥♥!!!
                 - Corgi completed lesson (20/21) `Automatically Delete Container on Exit` under `Getting Started With Dockers`♥♥♥♥
                 - Corgi completed lesson (19/21) `Disk Usage Metrics for Docker Components` under `Getting Started With Dockers`♥♥♥♥
