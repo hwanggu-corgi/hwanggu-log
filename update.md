@@ -1,3 +1,64 @@
+### June 1st, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- ( ): Attempt Toefl Test
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+
+자기야♥♥♥♥,
+우리 형모 걷다보면 언젠가 우리 소중한 내 자기 우리 장모님 우리 장인어른 우리 어머님 우리 아버님 처럼 좋은 부모님 그리고 아들이 되어있겠지♥♥♥♥♥♥♥♥♥
+
+우리 소중한
+내 사랑아♥♥♥♥,
+I love you my dear♥♥♥♥♥♥♥♥♥
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+
+
+2. Corgi working on practicing docker certified associate exam♥♥ #32
+    - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
+        - https://www.udemy.com/course/docker-certified-associate/learn/lecture/19190958#overview
+            - Corgi completed lesson (13/21) `Docker container Exec` under `Getting Started With Dockers`♥♥♥♥
+            - Corgi completed lesson (12/21) `New Docker Command CLI` under `Getting Started With Dockers`♥♥♥♥
+            - Corgi completed lesson (11/21) `Removing Docker Containers` under `Getting Started With Dockers`♥♥♥♥
+            - Corgi completed lesson (10/21) `Attached and Detached mode` under `Getting Started With Dockers`♥♥♥♥
+            - Corgi completed lesson (9/21) `Port Binding` under `Getting Started With Dockers`♥♥♥♥
+            - Corgi completed lesson (8/21) `Container Identification` under `Getting Started With Dockers`♥♥♥♥
+            - Corgi completed lesson (7/21) `Docker Image Vs Docker Containers` under `Getting Started With Dockers`♥♥♥♥
+
+3. Corgi working on company tasks♥♥
+    - Corgi working on mendpoverty.morwebcms.com♥♥♥♥
+        - Corgi fixing shopping checkout on `test` page♥♥♥♥ #2
+        - Corgi completed fixing shopping detail on `test` page♥♥♥♥
+        - Corgi completed fixing shopping list on `test` page♥♥♥♥
+
+4. [on hold] Corgi working on practicing for TOEFL #178♥♥
+    - Corgi learning about 'The complete TOEFL iBT Success Course♥♥
+        - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
+            - https://www.udemy.com/course/the-complete-toefl-ibt-success-course/♥♥♥♥
+        - Corgi working on `TOEFL writing` (8/25)♥♥
+            - Corgi learning `Writing 1: Structuring Your Essay` under `TOEFL Writing`♥♥ #2
+            - Corgi completed learning `Writing 1: Introduction` under `TOEFL Writing`♥♥
+            - Corgi completed learning `Writing Coherently` under `TOEFL Writing`♥♥
+            - Corgi completed learning `Writing Concisely` under `TOEFL Writing`♥♥
+            - Corgi completed learning `Writing Section Overview` under `TOEFL Writing`♥♥
+
 ### May 30th, 2021
 
 Programmers current rank: 966
