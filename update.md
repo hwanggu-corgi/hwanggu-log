@@ -31,10 +31,11 @@ I love you my dear♥♥♥♥♥♥♥♥♥
 
 
 
-2. Corgi working on practicing docker certified associate exam♥♥ #41
+2. Corgi working on practicing docker certified associate exam♥♥ #42
     - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
         - https://www.udemy.com/course/docker-certified-associate/learn/lecture/19190958#overview
             - Corgi working on `Section 2 - Image Creation, Management, and Registry`♥♥♥♥♥
+                - Corgi working on lesson (2/28) `Overview of Dockerfile`♥♥♥♥
                 - Corgi completed lesson (1/28) `Working with Docker Images`♥♥♥♥
             - Corgi completed `Section 1 - Getting Started with Dockers`♥♥♥♥♥!!!
                 - Corgi completed lesson (20/21) `Automatically Delete Container on Exit` under `Getting Started With Dockers`♥♥♥♥
