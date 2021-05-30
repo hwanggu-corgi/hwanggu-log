@@ -34,11 +34,15 @@ I love you my dear♥♥♥♥♥♥♥♥♥
 2. Corgi working on practicing docker certified associate exam♥♥ #41
     - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
         - https://www.udemy.com/course/docker-certified-associate/learn/lecture/19190958#overview
-            - Corgi working on lesson (18/21) `Disk Usage Metrics for Docker Components` under `Getting Started With Dockers`♥♥♥♥
-            - Corgi completed lesson (17/21) `Removing Docker Container Images` under `Getting Started With Dockers`♥♥♥♥
-            - Corgi completed lesson (16/21) `Restart Policies in Docker` under `Getting Started With Dockers`♥♥♥♥
-            - Corgi completed lesson (15/21) `Default Container Commands` under `Getting Started With Dockers`♥♥♥♥
-            - Corgi completed lesson (14/21) `Importance of IT Flags` under `Getting Started With Dockers`♥♥♥♥
+            - Corgi working on `Section 2 - Image Creation, Management, and Registry`♥♥♥♥♥
+            - Corgi completed `Section 1 - Getting Started with Dockers`♥♥♥♥♥!!!
+                - Corgi completed lesson (20/21) `Automatically Delete Container on Exit` under `Getting Started With Dockers`♥♥♥♥
+                - Corgi completed lesson (19/21) `Disk Usage Metrics for Docker Components` under `Getting Started With Dockers`♥♥♥♥
+                - Corgi completed lesson (18/21) `Removing Docker Container Images` under `Getting Started With Dockers`♥♥♥♥
+                - Corgi completed lesson (17/21) `Restart Policies in Docker` under `Getting Started With Dockers`♥♥♥♥
+                - Corgi completed lesson (16/21) `Overriding default container commands` under `Getting Started With Dockers`♥♥♥♥
+                - Corgi completed lesson (15/21) `Default Container Commands` under `Getting Started With Dockers`♥♥♥♥
+                - Corgi completed lesson (14/21) `Importance of IT Flags` under `Getting Started With Dockers`♥♥♥♥
 
 3. Corgi working on company tasks♥♥
     - Corgi working on mendpoverty.morwebcms.com♥♥♥♥
