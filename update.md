@@ -31,10 +31,10 @@ I love you my dear♥♥♥♥♥♥♥♥♥
 
 
 
-2. Corgi working on practicing docker certified associate exam♥♥ #38
+2. Corgi working on practicing docker certified associate exam♥♥ #39
     - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
         - https://www.udemy.com/course/docker-certified-associate/learn/lecture/19190958#overview
-            - Corgi working on lesson (17/21) `Removing Docker Container Images` under `Getting Started With Dockers`♥♥♥♥
+            - Corgi working on lesson (17/21) `Removing Docker Container Images` under `Getting Started With Dockers`♥♥♥♥ #2
             - Corgi completed lesson (16/21) `Restart Policies in Docker` under `Getting Started With Dockers`♥♥♥♥
             - Corgi completed lesson (15/21) `Default Container Commands` under `Getting Started With Dockers`♥♥♥♥
             - Corgi completed lesson (14/21) `Importance of IT Flags` under `Getting Started With Dockers`♥♥♥♥
