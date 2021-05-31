@@ -8,6 +8,80 @@ Programmers current rank: 966
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 
+자기야♥♥♥♥,
+우리 형모 우리 사랑하고 사랑하는 당신
+곁에 있게 해줘서 고마워♥♥♥♥♥♥♥♥♥
+
+자기야♥♥♥♥,
+우리 형모 예쁜 당신 덕분에 우오오오오오♥ 하구 힘난다♥♥♥♥♥♥♥♥♥
+
+자기야♥♥♥♥,
+우리 형모두 예쁜 당신과 함께 힘♥힘♥ ♥♥♥♥♥♥♥♥♥!!!!
+
+우리 소중한
+내 사랑아♥♥♥♥,
+I love you my beautiful sweetheart♥♥♥♥♥♥♥♥♥♥
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+
+
+2. Corgi working on practicing docker certified associate exam♥♥ #47
+    - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
+        - https://www.udemy.com/course/docker-certified-associate/learn/lecture/19190958#overview
+            - Corgi working on `Section 2 - Image Creation, Management, and Registry`♥♥♥♥♥
+                - Corgi completed lesson (5/28) `EXPOSE Instruction`♥♥♥♥ #2
+                - Corgi completed lesson (4/28) `COPY VS ADD Instruction`♥♥♥♥
+                - Corgi completed lesson (2/28) `Overview of Dockerfile`♥♥♥♥
+                - Corgi completed lesson (1/28) `Working with Docker Images`♥♥♥♥
+            - Corgi completed `Section 1 - Getting Started with Dockers`♥♥♥♥♥!!!
+                - Corgi completed lesson (20/21) `Automatically Delete Container on Exit` under `Getting Started With Dockers`♥♥♥♥
+                - Corgi completed lesson (19/21) `Disk Usage Metrics for Docker Components` under `Getting Started With Dockers`♥♥♥♥
+                - Corgi completed lesson (18/21) `Removing Docker Container Images` under `Getting Started With Dockers`♥♥♥♥
+                - Corgi completed lesson (17/21) `Restart Policies in Docker` under `Getting Started With Dockers`♥♥♥♥
+                - Corgi completed lesson (16/21) `Overriding default container commands` under `Getting Started With Dockers`♥♥♥♥
+                - Corgi completed lesson (15/21) `Default Container Commands` under `Getting Started With Dockers`♥♥♥♥
+                - Corgi completed lesson (14/21) `Importance of IT Flags` under `Getting Started With Dockers`♥♥♥♥
+
+3. Corgi working on company tasks♥♥
+    - Corgi working on mendpoverty.morwebcms.com♥♥♥♥
+        - Corgi fixing shopping checkout on `test` page♥♥♥♥ #2
+        - Corgi completed fixing shopping detail on `test` page♥♥♥♥
+        - Corgi completed fixing shopping list on `test` page♥♥♥♥
+
+4. [on hold] Corgi working on practicing for TOEFL #178♥♥
+    - Corgi learning about 'The complete TOEFL iBT Success Course♥♥
+        - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
+            - https://www.udemy.com/course/the-complete-toefl-ibt-success-course/♥♥♥♥
+        - Corgi working on `TOEFL writing` (8/25)♥♥
+            - Corgi learning `Writing 1: Structuring Your Essay` under `TOEFL Writing`♥♥ #2
+            - Corgi completed learning `Writing 1: Introduction` under `TOEFL Writing`♥♥
+            - Corgi completed learning `Writing Coherently` under `TOEFL Writing`♥♥
+            - Corgi completed learning `Writing Concisely` under `TOEFL Writing`♥♥
+            - Corgi completed learning `Writing Section Overview` under `TOEFL Writing`♥♥
+
+### May 31st, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- ( ): Attempt Toefl Test
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+
 여보♥♥♥♥,
 Goodnight my princess♥♥♥♥♥♥♥♥♥
 
