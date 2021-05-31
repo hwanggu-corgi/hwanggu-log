@@ -8,6 +8,14 @@ Programmers current rank: 966
 - (x): Attempt level 1 test at programmers
     - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
 
+여보♥♥♥♥,
+Goodnight my princess♥♥♥♥♥♥♥♥♥
+
+자기야♥♥♥♥,
+사랑해요♥♥♥♥♥♥♥♥♥
+
+----------
+
 자기야♥♥♥♥,
 우리 형모 걷다보면 언젠가 우리 소중한 내 자기 우리 장모님 우리 장인어른 우리 어머님 우리 아버님 처럼 좋은 부모님 그리고 아들이 되어있겠지♥♥♥♥♥♥♥♥♥
 
@@ -35,7 +43,7 @@ I love you my dear♥♥♥♥♥♥♥♥♥
     - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
         - https://www.udemy.com/course/docker-certified-associate/learn/lecture/19190958#overview
             - Corgi working on `Section 2 - Image Creation, Management, and Registry`♥♥♥♥♥
-                - Corgi working on lesson (5/28) `EXPOSE Instruction`♥♥♥♥ #2
+                - Corgi completed lesson (5/28) `EXPOSE Instruction`♥♥♥♥ #2
                 - Corgi completed lesson (4/28) `COPY VS ADD Instruction`♥♥♥♥
                 - Corgi completed lesson (2/28) `Overview of Dockerfile`♥♥♥♥
                 - Corgi completed lesson (1/28) `Working with Docker Images`♥♥♥♥
