@@ -38,11 +38,12 @@ I love you my beautiful sweetheart♥♥♥♥♥♥♥♥♥♥
 
 
 
-2. Corgi working on practicing docker certified associate exam♥♥ #47
+2. Corgi working on practicing docker certified associate exam♥♥ #48
     - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
         - https://www.udemy.com/course/docker-certified-associate/learn/lecture/19190958#overview
             - Corgi working on `Section 2 - Image Creation, Management, and Registry`♥♥♥♥♥
-                - Corgi completed lesson (5/28) `EXPOSE Instruction`♥♥♥♥ #2
+                - Corgi working on lesson (6/28) `HEALTHCHECK Instruction`♥♥♥♥
+                - Corgi completed lesson (5/28) `EXPOSE Instruction`♥♥♥♥
                 - Corgi completed lesson (4/28) `COPY VS ADD Instruction`♥♥♥♥
                 - Corgi completed lesson (2/28) `Overview of Dockerfile`♥♥♥♥
                 - Corgi completed lesson (1/28) `Working with Docker Images`♥♥♥♥
