@@ -30,9 +30,8 @@ I love you~♥♥♥♥♥♥♥♥♥♥
     - 해♥♥
 
 2. Corgi working on company tasks♥♥
-    - Corgi working on liferoads.morwebcms.com♥♥♥♥ #3
-        - Corgi working on `news section` on homepage♥♥♥♥ #3
-
+    - Corgi working on liferoads.morwebcms.com♥♥♥♥ #4
+        - Corgi working on `news section` on homepage♥♥♥♥ #4
 
 3. Corgi working on practicing docker certified associate exam♥♥ #57
     - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
