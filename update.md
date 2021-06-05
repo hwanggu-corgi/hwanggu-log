@@ -30,8 +30,8 @@ I love you my beautiful sweetheart♥♥♥♥♥♥♥♥♥♥
     - 해♥♥
 
 2. Corgi working on company tasks♥♥
-    - Corgi working on liferoads.morwebcms.com♥♥♥♥ #25
-        - Corgi fixing `our testimonial` on homepage♥♥♥♥ #2
+    - Corgi working on liferoads.morwebcms.com♥♥♥♥ #26
+        - Corgi fixing responsiveness of `featured events` on homepage♥♥♥♥
         - Corgi completed fixing search bar on desktop menu♥♥♥♥
         - Corgi completed fixing mobile action menu♥♥♥♥
         - Corgi completed `our testimonial` on homepage♥♥♥♥
