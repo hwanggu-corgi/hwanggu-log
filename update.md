@@ -39,8 +39,8 @@ I love you♥♥♥♥♥♥♥♥♥♥
 
 
 3. Corgi working on company tasks♥♥
-    - Corgi working on liferoads.morwebcms.com♥♥♥♥ #28
-        - Corgi fixing responsiveness of `featured events` on homepage♥♥♥♥ #3
+    - Corgi working on liferoads.morwebcms.com♥♥♥♥ #29
+        - Corgi fixing responsiveness of `featured events` on homepage♥♥♥♥ #4
         - Corgi completed fixing search bar on desktop menu♥♥♥♥
         - Corgi completed fixing mobile action menu♥♥♥♥
         - Corgi completed `our testimonial` on homepage♥♥♥♥
