@@ -30,8 +30,9 @@ I love you my beautiful sweetheart♥♥♥♥♥♥♥♥♥♥
     - 해♥♥
 
 2. Corgi working on company tasks♥♥
-    - Corgi working on liferoads.morwebcms.com♥♥♥♥ #15
-        - Corgi working on `our testimonial` on homepage♥♥♥♥ #8
+    - Corgi working on liferoads.morwebcms.com♥♥♥♥ #16
+        - Corgi working on menu♥♥♥♥
+        - Corgi completed `our testimonial` on homepage♥♥♥♥
         - Corgi completed `featured events` on homepage♥♥♥♥
 
 3. Corgi working on practicing docker certified associate exam♥♥ #57
