@@ -30,19 +30,20 @@ I love you♥♥♥♥♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on practicing docker certified associate exam♥♥ #87
+2. Corgi working on practicing docker certified associate exam♥♥ #88
     - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
         - https://www.udemy.com/course/docker-certified-associate/learn/lecture/19190958#overview
             - Corgi working on `Section 2 - Image Creation, Management, and Registry`♥♥♥♥♥
-                - Corgi completed lesson (15/28) `Inspecting Docker Images`♥♥♥♥
-                - Corgi completed lesson (14/28) `Managing Images with CLI`♥♥♥♥
-                - Corgi completed lesson (13/28) `Layers of Docker Image`♥♥♥♥
-                - Corgi completed lesson (12/28) `Docker Commit`♥♥♥♥
-                - Corgi completed lesson (11/28) `Tagging Docker Image`♥♥♥♥
-                - Corgi completed lesson (9/28) `ENV Instruction`♥♥♥♥
-                - Corgi completed lesson (8/28) `WORKDIR Instruction`♥♥♥♥
-                - Corgi completed lesson (7/28) `ENTRYPOINT Instruction`♥♥♥♥
-                - Corgi completed lesson (6/28) `HEALTHCHECK Instruction`♥♥♥♥
+                - Corgi working on the lesson (19/28) `Pruning Docker Images`♥♥♥♥
+                - Corgi completed lesson (18/28) `Inspecting Docker Images`♥♥♥♥
+                - Corgi completed lesson (17/28) `Managing Images with CLI`♥♥♥♥
+                - Corgi completed lesson (16/28) `Layers of Docker Image`♥♥♥♥
+                - Corgi completed lesson (15/28) `Docker Commit`♥♥♥♥
+                - Corgi completed lesson (14/28) `Tagging Docker Image`♥♥♥♥
+                - Corgi completed lesson (12/28) `ENV Instruction`♥♥♥♥
+                - Corgi completed lesson (10/28) `WORKDIR Instruction`♥♥♥♥
+                - Corgi completed lesson (9/28) `ENTRYPOINT Instruction`♥♥♥♥
+                - Corgi completed lesson (7/28) `HEALTHCHECK Instruction`♥♥♥♥
 
 
 3. Corgi working on company tasks♥♥
