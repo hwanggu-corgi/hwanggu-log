@@ -34,7 +34,8 @@ I love you♥♥♥♥♥♥♥♥♥♥
     - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
         - https://www.udemy.com/course/docker-certified-associate/learn/lecture/19190958#overview
             - Corgi working on `Section 2 - Image Creation, Management, and Registry`♥♥♥♥♥
-                - Corgi working on the lesson (19/28) `Pruning Docker Images`♥♥♥♥
+                - Corgi working on lesson (20/28) `Flattening Docker Images`♥♥♥♥
+                - Corgi completed lesson (19/28) `Pruning Docker Images`♥♥♥♥
                 - Corgi completed lesson (18/28) `Inspecting Docker Images`♥♥♥♥
                 - Corgi completed lesson (17/28) `Managing Images with CLI`♥♥♥♥
                 - Corgi completed lesson (16/28) `Layers of Docker Image`♥♥♥♥
