@@ -32,7 +32,8 @@ I love you♥♥♥♥♥♥♥♥♥♥
 
 2. Corgi working on company tasks♥♥
     - Corgi working on oahu.morwebcms.com♥♥♥♥
-        - Corgi working on Content Style♥♥♥♥
+        - Corgi working on gallery for `homepage`♥♥♥♥
+        - Corgi completed Content Style♥♥♥♥
     - Corgi completed liferoads.morwebcms.com♥♥♥♥
 
 
