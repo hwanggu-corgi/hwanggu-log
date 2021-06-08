@@ -30,7 +30,13 @@ I love you♥♥♥♥♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on practicing docker certified associate exam♥♥ #93
+2. Corgi working on company tasks♥♥
+    - Corgi working on oahu.morwebcms.com♥♥♥♥
+        - Corgi working on Content Style♥♥♥♥
+    - Corgi completed liferoads.morwebcms.com♥♥♥♥
+
+
+3. Corgi working on practicing docker certified associate exam♥♥ #94
     - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
         - https://www.udemy.com/course/docker-certified-associate/learn/lecture/19190958#overview
             - Corgi working on `Section 2 - Image Creation, Management, and Registry`♥♥♥♥♥
@@ -45,15 +51,6 @@ I love you♥♥♥♥♥♥♥♥♥♥
                 - Corgi completed lesson (10/28) `WORKDIR Instruction`♥♥♥♥
                 - Corgi completed lesson (9/28) `ENTRYPOINT Instruction`♥♥♥♥
                 - Corgi completed lesson (7/28) `HEALTHCHECK Instruction`♥♥♥♥
-
-
-3. Corgi working on company tasks♥♥
-    - Corgi working on liferoads.morwebcms.com♥♥♥♥ #29
-        - Corgi fixing responsiveness of `featured events` on homepage♥♥♥♥ #4
-        - Corgi completed fixing search bar on desktop menu♥♥♥♥
-        - Corgi completed fixing mobile action menu♥♥♥♥
-        - Corgi completed `our testimonial` on homepage♥♥♥♥
-        - Corgi completed `featured events` on homepage♥♥♥♥
 
 4. [on hold] Corgi working on practicing for TOEFL #178♥♥
     - Corgi learning about 'The complete TOEFL iBT Success Course♥♥
