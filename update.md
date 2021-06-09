@@ -40,8 +40,8 @@ I love you♥♥♥♥♥♥♥♥♥♥
     - 해♥♥
 
 2. Corgi working on company tasks♥♥
-    - Corgi working on oahu.morwebcms.com♥♥♥♥ #6
-        - Corgi working on icon blocks for `homepage`♥♥♥♥ #2
+    - Corgi working on oahu.morwebcms.com♥♥♥♥ #7
+        - Corgi working on icon blocks for `homepage`♥♥♥♥ #3
         - Corgi completed gallery for `homepage`♥♥♥♥
         - Corgi completed Content Style♥♥♥♥
     - Corgi completed liferoads.morwebcms.com♥♥♥♥
