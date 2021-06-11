@@ -32,7 +32,8 @@ I love you♥♥♥♥♥♥♥♥♥♥
 
 2. Corgi working on company tasks♥♥
     - Corgi working on oahu.morwebcms.com♥♥♥♥ #23
-        - Corgi working on 2 column blocks on `contact us page`♥♥♥♥ #9
+        - Corgi working on blog detail on `blog detail page`♥♥♥♥
+        - Corgi completed 2 column blocks on `contact us page`♥♥♥♥
         - Corgi completed icon blocks for `homepage`♥♥♥♥
         - Corgi completed gallery for `homepage`♥♥♥♥
         - Corgi completed Content Style♥♥♥♥
