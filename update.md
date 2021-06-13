@@ -30,8 +30,8 @@ Programmers current rank: 966
     - 해♥♥
 
 2. Corgi working on company tasks♥♥
-    - Corgi working on oahu.morwebcms.com♥♥♥♥ #62
-        - Corgi working on slider on `home page`♥♥♥♥♥ #35
+    - Corgi working on oahu.morwebcms.com♥♥♥♥ #63
+        - Corgi working on slider on `home page`♥♥♥♥♥ #36
         - Corgi completed blog detail on `blog detail page`♥♥♥♥♥
         - Corgi completed 2 column blocks on `contact us page`♥♥♥♥
         - Corgi completed icon blocks for `homepage`♥♥♥♥
