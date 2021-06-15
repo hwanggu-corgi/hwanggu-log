@@ -1,3 +1,76 @@
+### June 16th, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- ( ): Attempt Toefl Test
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+
+자기야♥♥♥♥,
+우리 귀여운 내 자기 선풍기하고 에어콘 전기값 걱정하지마♥♥♥♥♥♥♥♥♥♥
+
+여보♥♥♥♥,
+우리 형모 우리 가족 전기값 벌어올거야♥♥♥♥♥♥♥♥♥♥
+
+여보♥♥♥♥,
+우리 소중한 내 자기 오늘 부디 시원히 그리고 편안히 하고 자요♥♥♥♥♥♥♥♥♥♥
+
+우리 소중한
+내 사랑아♥♥♥♥♥,
+I love you♥♥♥♥♥♥♥♥♥♥♥
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+2. Corgi working on company tasks♥♥
+    - Corgi working on oahu.morwebcms.com♥♥♥♥ #86
+        - Corgi working on fixing video section on `home page`♥♥♥♥♥ #3
+        - Corgi completed fixing 3 icon and title section on `home page`♥♥♥♥♥
+        - Corgi completed fixing slider on `home page`♥♥♥♥♥
+        - Corgi completed logo carousel on `home page`♥♥♥♥♥
+
+
+3. Corgi working on practicing docker certified associate exam♥♥ #94
+    - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
+        - https://www.udemy.com/course/docker-certified-associate/learn/lecture/19190958#overview
+            - Corgi working on `Section 2 - Image Creation, Management, and Registry`♥♥♥♥♥
+                - Corgi completed lesson (20/28) `Flattening Docker Images`♥♥♥♥
+                - Corgi completed lesson (19/28) `Pruning Docker Images`♥♥♥♥
+                - Corgi completed lesson (18/28) `Inspecting Docker Images`♥♥♥♥
+                - Corgi completed lesson (17/28) `Managing Images with CLI`♥♥♥♥
+                - Corgi completed lesson (16/28) `Layers of Docker Image`♥♥♥♥
+                - Corgi completed lesson (15/28) `Docker Commit`♥♥♥♥
+                - Corgi completed lesson (14/28) `Tagging Docker Image`♥♥♥♥
+                - Corgi completed lesson (12/28) `ENV Instruction`♥♥♥♥
+                - Corgi completed lesson (10/28) `WORKDIR Instruction`♥♥♥♥
+                - Corgi completed lesson (9/28) `ENTRYPOINT Instruction`♥♥♥♥
+                - Corgi completed lesson (7/28) `HEALTHCHECK Instruction`♥♥♥♥
+
+4. [on hold] Corgi working on practicing for TOEFL #178♥♥
+    - Corgi learning about 'The complete TOEFL iBT Success Course♥♥
+        - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
+            - https://www.udemy.com/course/the-complete-toefl-ibt-success-course/♥♥♥♥
+        - Corgi working on `TOEFL writing` (8/25)♥♥
+            - Corgi learning `Writing 1: Structuring Your Essay` under `TOEFL Writing`♥♥ #2
+            - Corgi completed learning `Writing 1: Introduction` under `TOEFL Writing`♥♥
+            - Corgi completed learning `Writing Coherently` under `TOEFL Writing`♥♥
+            - Corgi completed learning `Writing Concisely` under `TOEFL Writing`♥♥
+            - Corgi completed learning `Writing Section Overview` under `TOEFL Writing`♥♥
+
+
 ### June 15th, 2021
 
 Programmers current rank: 966
