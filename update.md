@@ -35,19 +35,11 @@ I love you♥♥♥♥♥♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on company tasks♥♥
-    - Corgi working on oahu.morwebcms.com♥♥♥♥ #88
-        - Corgi completed cleaning css code♥♥♥♥♥
-        - Corgi completed fixing video section on `home page`♥♥♥♥♥
-        - Corgi completed fixing 3 icon and title section on `home page`♥♥♥♥♥
-        - Corgi completed fixing slider on `home page`♥♥♥♥♥
-        - Corgi completed logo carousel on `home page`♥♥♥♥♥
-
-
-3. Corgi working on practicing docker certified associate exam♥♥ #94
+2. Corgi working on practicing docker certified associate exam♥♥ #94
     - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
         - https://www.udemy.com/course/docker-certified-associate/learn/lecture/19190958#overview
             - Corgi working on `Section 2 - Image Creation, Management, and Registry`♥♥♥♥♥
+                - Corgi completed lesson (21/28) `Overview of Docker Registries`♥♥♥♥
                 - Corgi completed lesson (20/28) `Flattening Docker Images`♥♥♥♥
                 - Corgi completed lesson (19/28) `Pruning Docker Images`♥♥♥♥
                 - Corgi completed lesson (18/28) `Inspecting Docker Images`♥♥♥♥
@@ -59,6 +51,15 @@ I love you♥♥♥♥♥♥♥♥♥♥♥
                 - Corgi completed lesson (10/28) `WORKDIR Instruction`♥♥♥♥
                 - Corgi completed lesson (9/28) `ENTRYPOINT Instruction`♥♥♥♥
                 - Corgi completed lesson (7/28) `HEALTHCHECK Instruction`♥♥♥♥
+
+3. Corgi working on company tasks♥♥
+    - Corgi working on oahu.morwebcms.com♥♥♥♥ #88
+        - Corgi completed cleaning css code♥♥♥♥♥
+        - Corgi completed fixing video section on `home page`♥♥♥♥♥
+        - Corgi completed fixing 3 icon and title section on `home page`♥♥♥♥♥
+        - Corgi completed fixing slider on `home page`♥♥♥♥♥
+        - Corgi completed logo carousel on `home page`♥♥♥♥♥
+
 
 4. [on hold] Corgi working on practicing for TOEFL #178♥♥
     - Corgi learning about 'The complete TOEFL iBT Success Course♥♥
