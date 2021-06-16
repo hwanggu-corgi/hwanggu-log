@@ -37,7 +37,7 @@ I love you♥♥♥♥♥♥♥♥♥♥♥
 
 2. Corgi working on company tasks♥♥
     - Corgi working on oahu.morwebcms.com♥♥♥♥ #88
-        - Corgi cleaning css code♥♥♥♥♥
+        - Corgi completed cleaning css code♥♥♥♥♥
         - Corgi completed fixing video section on `home page`♥♥♥♥♥
         - Corgi completed fixing 3 icon and title section on `home page`♥♥♥♥♥
         - Corgi completed fixing slider on `home page`♥♥♥♥♥
