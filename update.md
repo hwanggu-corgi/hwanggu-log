@@ -25,7 +25,9 @@ I love you my beautiful sweetheart♥♥♥♥♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on practicing docker certified associate exam♥♥ #95
+2. Corgi working on marriage cost analysis♥♥♥♥♥♥
+
+3. Corgi working on practicing docker certified associate exam♥♥ #95
     - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
         - https://www.udemy.com/course/docker-certified-associate/learn/lecture/19190958#overview
             - Corgi working on `Section 2 - Image Creation, Management, and Registry`♥♥♥♥♥
@@ -42,7 +44,7 @@ I love you my beautiful sweetheart♥♥♥♥♥♥♥♥♥♥
                 - Corgi completed lesson (9/28) `ENTRYPOINT Instruction`♥♥♥♥
                 - Corgi completed lesson (7/28) `HEALTHCHECK Instruction`♥♥♥♥
 
-3. Corgi working on company tasks♥♥
+4. Corgi working on company tasks♥♥
     - Corgi working on oahu.morwebcms.com♥♥♥♥ #88
         - Corgi completed cleaning css code♥♥♥♥♥
         - Corgi completed fixing video section on `home page`♥♥♥♥♥
@@ -51,7 +53,7 @@ I love you my beautiful sweetheart♥♥♥♥♥♥♥♥♥♥
         - Corgi completed logo carousel on `home page`♥♥♥♥♥
 
 
-4. [on hold] Corgi working on practicing for TOEFL #178♥♥
+5. [on hold] Corgi working on practicing for TOEFL #178♥♥
     - Corgi learning about 'The complete TOEFL iBT Success Course♥♥
         - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
             - https://www.udemy.com/course/the-complete-toefl-ibt-success-course/♥♥♥♥
