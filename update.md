@@ -11,8 +11,11 @@ Programmers current rank: 966
 우리 소중한 내 사랑아♥♥♥♥,
 우리 자기는 귀여워♥♥♥♥♥♥♥♥♥♥
 
+우리 예쁜 내 사랑아♥♥♥♥,
+우리 자기 최고♥ 최고♥♥♥♥♥♥♥♥♥♥♥
+
 우리 소중한 내 사랑아♥♥♥♥,
-I love you my beautiful sweetheart♥♥♥♥♥♥♥♥♥♥
+I love you so much my beautiful sweetheart♥♥♥♥♥♥♥♥♥♥
 
 1. Corgi completed interview♥♥
     - 내♥♥
