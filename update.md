@@ -35,8 +35,9 @@ I love you so much my beautiful sweetheart♥♥♥♥♥♥♥♥♥♥
 
 
 3. Corgi working on company tasks♥♥
-    - Corgi working on cobbt.org♥♥♥♥ #3
-        - Corgi refining footer on homepage♥♥♥♥ #2
+    - Corgi working on cobbt.org♥♥♥♥ #4
+        - Corgi working on slider on landing page♥♥♥♥
+        - Corgi completed refining footer on homepage♥♥♥♥
         - Corgi completed creating news letter list to `/Benefit-News` Page♥♥♥♥
     - Corgi completed oahu.morwebcms.com♥♥♥♥
         - Corgi completed cleaning css code♥♥♥♥♥
