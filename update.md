@@ -33,9 +33,9 @@ I love you so much my baby♥♥♥♥♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on marriage cost analysis♥♥♥♥♥♥ #28
+2. Corgi working on marriage cost analysis♥♥♥♥♥♥ #29
 
-3. Corgi working on creating stock trading bot♥♥♥♥♥♥ #9
+3. Corgi working on creating stock trading bot♥♥♥♥♥♥ #10
     - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
         - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
             - Corgi working on `advanced python concepts`♥♥♥♥
