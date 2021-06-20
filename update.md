@@ -35,19 +35,21 @@ I love you so much my baby♥♥♥♥♥♥♥♥♥♥
 
 2. Corgi working on marriage cost analysis♥♥♥♥♥♥ #29
 
-3. Corgi working on creating stock trading bot♥♥♥♥♥♥ #11
+3. Corgi working on creating stock trading bot♥♥♥♥♥♥ #12
     - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
         - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
-            - Corgi working on `advanced python concepts`♥♥♥♥
-                - Corgi learning `Websocket Intro` under advanced python concepts♥♥♥♥
-                - Corgi completed learning `Multi Threading Using Event Object` under advanced python concepts♥♥♥♥
-                - Corgi completed learning `Turning 'Daemon' Threads into Your Angel` under advanced python concepts♥♥♥♥
-                - Corgi finished learning `Threads in Python` under advanced python concepts♥♥♥♥
+            - Corgi working on `Historical Data`♥♥♥♥
+                - Corgi learning `Market Data Subscription`♥♥♥♥
             - Corgi completed `Understanding IB API Python Wrapper`♥♥♥♥
-                - Corgi completed learning `Asynchronous Implementation Using Event` under advanced python concepts♥♥♥♥
-                - Corgi completed learning `Asynchronous Implementation Intro` under advanced python concepts♥♥♥♥
-                - Corgi finished learning `Getting Contract Info` under advanced python concepts♥♥♥♥
+                - Corgi completed learning `Asynchronous Implementation Using Event`♥♥♥♥
+                - Corgi completed learning `Asynchronous Implementation Intro`♥♥♥♥
+                - Corgi finished learning `Getting Contract Info`♥♥♥♥
                 - Corgi finished learning `Eclient and Ewrapper Class intro`♥♥♥♥
+            - Corgi working on `advanced python concepts`♥♥♥♥
+                - Corgi completed learning `Websocket Intro`♥♥♥♥
+                - Corgi completed learning `Multi Threading Using Event Object`♥♥♥♥
+                - Corgi completed learning `Turning 'Daemon' Threads into Your Angel`♥♥♥♥
+                - Corgi finished learning `Threads in Python`♥♥♥♥
 
 4. Corgi working on company tasks♥♥
     - Corgi working on cobbt.org♥♥♥♥ #7
