@@ -39,7 +39,10 @@ I love you my baby♥♥♥♥♥♥♥♥♥♥
 
 2. Corgi working on marriage cost analysis♥♥♥♥♥♥ #25
 
-3. Corgi working on creating stock trading bot♥♥♥♥♥♥
+3. Corgi working on creating stock trading bot♥♥♥♥♥♥ #2
+    - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
+        - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
+            - Corgi finished learning `Threads in Python` under advanced python concepts♥♥♥♥
 
 4. Corgi working on company tasks♥♥
     - Corgi working on cobbt.org♥♥♥♥ #7
