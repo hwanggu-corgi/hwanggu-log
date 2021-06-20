@@ -39,8 +39,9 @@ I love you my baby♥♥♥♥♥♥♥♥♥♥
 
 2. Corgi working on marriage cost analysis♥♥♥♥♥♥ #25
 
+3. Corgi working on creating stock trading bot♥♥♥♥♥♥
 
-3. Corgi working on company tasks♥♥
+4. Corgi working on company tasks♥♥
     - Corgi working on cobbt.org♥♥♥♥ #7
         - Corgi working on slider on landing page♥♥♥♥ #3
         - Corgi completed refining footer on homepage♥♥♥♥
@@ -52,7 +53,7 @@ I love you my baby♥♥♥♥♥♥♥♥♥♥
         - Corgi completed fixing slider on `home page`♥♥♥♥♥
         - Corgi completed logo carousel on `home page`♥♥♥♥♥
 
-4. Corgi working on practicing docker certified associate exam♥♥ #95
+5. Corgi working on practicing docker certified associate exam♥♥ #95
     - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
         - https://www.udemy.com/course/docker-certified-associate/learn/lecture/19190958#overview
             - Corgi working on `Section 2 - Image Creation, Management, and Registry`♥♥♥♥♥
@@ -69,7 +70,7 @@ I love you my baby♥♥♥♥♥♥♥♥♥♥
                 - Corgi completed lesson (9/28) `ENTRYPOINT Instruction`♥♥♥♥
                 - Corgi completed lesson (7/28) `HEALTHCHECK Instruction`♥♥♥♥
 
-5. [on hold] Corgi working on practicing for TOEFL #178♥♥
+6. [on hold] Corgi working on practicing for TOEFL #178♥♥
     - Corgi learning about 'The complete TOEFL iBT Success Course♥♥
         - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
             - https://www.udemy.com/course/the-complete-toefl-ibt-success-course/♥♥♥♥
