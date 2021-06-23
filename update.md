@@ -37,11 +37,12 @@ I love you so much my dear♥♥♥♥♥♥♥♥♥♥
 
 2. Corgi working on marriage cost analysis♥♥♥♥♥♥ #29
 
-3. Corgi working on creating stock trading bot♥♥♥♥♥♥ #28
+3. Corgi working on creating stock trading bot♥♥♥♥♥♥ #29
     - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
         - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
             - Corgi working on `Order Management`♥♥♥♥
-                - Corgi learning `Placing a simple limited order using IBAPI`♥♥♥♥
+                - Corgi learning `Placing order - Reusable code`♥♥♥♥
+                - Corgi completed learning `Placing a simple limited order using IBAPI`♥♥♥♥
             - Corgi completed working on `Historical Data`♥♥♥♥
                 - Corgi completed learning `Extracting historical data Iteratively`♥♥♥♥
                 - Corgi completed learning `Getting Historical Dat using IBAPI`♥♥♥♥
