@@ -45,8 +45,9 @@ I love you so much my dear♥♥♥♥♥♥♥♥♥♥
 3. Corgi working on creating stock trading bot♥♥♥♥♥♥ #32
     - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
         - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
+            - Corgi working on `Backtesting Strategies`♥♥♥♥
             - Corgi working on `Order Management`♥♥♥♥
-                - Corgi learning `Modifying order`♥♥♥♥
+                - Corgi completed learning `Modifying order`♥♥♥♥
                 - Corgi completed learning `Cancelling order`♥♥♥♥
                 - Corgi completed learning `Placing order - Reusable code`♥♥♥♥
                 - Corgi completed learning `Placing a simple limited order using IBAPI`♥♥♥♥
