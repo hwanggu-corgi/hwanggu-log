@@ -31,11 +31,11 @@ I love you so much my beautiful sweetheart♥♥♥♥♥♥♥♥♥♥
 
 2. Corgi working on marriage cost analysis♥♥♥♥♥♥ #29
 
-3. Corgi working on creating stock trading bot♥♥♥♥♥♥ #34
+3. Corgi working on creating stock trading bot♥♥♥♥♥♥ #35
     - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
         - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
             - Corgi working on `Backtesting Strategies`♥♥♥♥
-                - Corgi learning `CAGR Implementation using IBAPI`♥♥♥♥
+                - Corgi completed learning `CAGR Implementation using IBAPI`♥♥♥♥
                 - Corgi completed learning `Backtesting Intro`♥♥♥♥
             - Corgi completed `Order Management`♥♥♥♥
                 - Corgi completed learning `Modifying order`♥♥♥♥
