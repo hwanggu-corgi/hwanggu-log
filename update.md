@@ -35,6 +35,7 @@ I love you so much my beautiful sweetheart♥♥♥♥♥♥♥♥♥♥
     - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
         - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
             - Corgi working on `Backtesting Strategies`♥♥♥♥
+                - Corgi learning `Backtesting Strategy - Extracting Data`♥♥♥♥
                 - Corgi completed learning `KPI for Intraday strategies`♥♥♥♥
                 - Corgi completed learning `CAGR Implementation using IBAPI`♥♥♥♥
                 - Corgi completed learning `Backtesting Intro`♥♥♥♥
