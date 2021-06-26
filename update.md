@@ -44,7 +44,7 @@ cute puppy♥♥♥♥♥♥♥♥♥♥
     - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
         - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
             - Corgi working on `Designing and Prototyping Strategies on IB`♥♥♥♥
-                - Corgi learning `strategy implementation - Signal`♥♥♥♥ #3
+                - Corgi completed learning `strategy implementation - Signal`♥♥♥♥
                 - Corgi completed learning `strategy implementation - data preparation`♥♥♥♥
                 - Corgi completed learning `strategy implementation - blueprint`♥♥♥♥
             - Corgi completed `Backtesting Strategies`♥♥♥♥
