@@ -35,11 +35,11 @@ I love you so much my beautiful sweetheart♥♥♥♥♥♥♥♥♥♥
 
 2. Corgi working on marriage cost analysis♥♥♥♥♥♥ #29
 
-3. Corgi working on creating stock trading bot♥♥♥♥♥♥ #40
+3. Corgi working on creating stock trading bot♥♥♥♥♥♥ #41
     - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
         - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
             - Corgi working on `Backtesting Strategies`♥♥♥♥
-                - Corgi learning `Backtesting Strategy - Signal generation and return calculation`♥♥♥♥ #2
+                - Corgi learning `Backtesting Strategy - Signal generation and return calculation`♥♥♥♥ #3
                 - Corgi completed learning `Backtesting Strategy - Extracting Data`♥♥♥♥
                 - Corgi completed learning `KPI for Intraday strategies`♥♥♥♥
                 - Corgi completed learning `CAGR Implementation using IBAPI`♥♥♥♥
