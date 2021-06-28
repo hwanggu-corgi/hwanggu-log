@@ -45,7 +45,7 @@ cute puppy♥♥♥♥♥♥♥♥♥♥
     - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
         - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
             - Corgi working on `Streaming Market Data`♥♥♥♥
-                - Corgi learning `Storing Tick Data in SQL DB 1`♥♥♥♥ #3
+                - Corgi completed learning `Storing Tick Data in SQL DB 1`♥♥♥♥
                 - Corgi completed learning `Streaming Tick Level Data`♥♥♥♥
             - Corgi completed `Designing and Prototyping Strategies on IB`♥♥♥♥
                 - Corgi completed learning `Closing all positions programmatically`♥♥♥♥
