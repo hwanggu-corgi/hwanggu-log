@@ -39,8 +39,10 @@ I love you my cute puppy♥♥♥♥♥♥♥♥♥♥
 3. Corgi working on creating stock trading bot♥♥♥♥♥♥ #59
     - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
         - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
-            - Corgi working on `Extracting Fundamental Data`♥♥♥♥
-                - Corgi learning `Fundamental Data API Basics`♥♥♥♥
+            - Corgi working on building algo bot trading program♥♥♥♥
+            - Corgi completed `Extracting Fundamental Data`♥♥♥♥
+                - Corgi completed learning `Fundamental Data API Basics`♥♥♥♥
+                    - Can skip for now♥♥♥♥
             - Corgi completed `Streaming Market Data`♥♥♥♥
                 - Corgi completed learning `Converting tick to candles`♥♥♥♥
                 - Corgi completed learning `Accessing data in DB`♥♥♥♥
