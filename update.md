@@ -41,11 +41,11 @@ beautiful love♥♥♥♥♥♥♥♥♥♥
 
 2. Corgi working on marriage cost analysis♥♥♥♥♥♥ #29
 
-3. Corgi working on creating stock trading bot♥♥♥♥♥♥ #109
+3. Corgi working on creating stock trading bot♥♥♥♥♥♥ #110
     - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
         - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
-            - Corgi fixing algo bot trading program to make sure it's working♥♥♥♥ #14
-                - Corgi fixing "ERROR -1: 504 Not Connected" error♥♥♥♥ #13
+            - Corgi fixing algo bot trading program to make sure it's working♥♥♥♥ #15
+                - Corgi fixing "ERROR -1: 504 Not Connected" error♥♥♥♥ #15
                     - Corgi using forex data instead of NASDAQ♥♥♥♥
                     - Corgi rebuilding the main program♥♥♥♥
             - Corgi completed building algo bot trading program♥♥♥♥
