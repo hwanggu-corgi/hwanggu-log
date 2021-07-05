@@ -49,8 +49,10 @@ beautiful love♥♥♥♥♥♥♥♥♥♥
     - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
         - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
             - Corgi fixing algo bot trading program to make sure it's working♥♥♥♥ #38
-                - Corgi fixing "ERROR -1: 504 Not Connected" error♥♥♥♥ #38
-                    - Corgi making sure order is being canceled correctly♥♥♥♥
+                - Corgi learning technical indicators♥♥♥♥
+                    - Corgi reviewed MACD♥♥♥♥
+                - Corgi completed fixing "ERROR -1: 504 Not Connected" error♥♥♥♥
+                    - Corgi completed making sure order is being canceled correctly♥♥♥♥
                     - Corgi completed making sure order is being modified correctly♥♥♥♥
                     - Corgi completed making sure order is being placed correctly♥♥♥♥
                     - Corgi completed making sure data is being fetched correctly♥♥♥♥
