@@ -48,8 +48,11 @@ beautiful love♥♥♥♥♥♥♥♥♥♥
 3. Corgi working on creating stock trading bot♥♥♥♥♥♥ #134
     - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
         - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
-            - Corgi fixing algo bot trading program to make sure it's working♥♥♥♥ #39
+            - Corgi fixing algo bot trading program to make sure it's working♥♥♥♥ #40
+                - Corgi learning backtesting indicators♥♥♥♥
+                    - Corgi reviewing CAGR♥♥♥♥
                 - Corgi learning technical indicators♥♥♥♥
+                    - Corgi completed reviewing Death Cross♥♥♥♥
                     - Corgi completed reviewing ADX♥♥♥♥
                     - Corgi completed reviewing MACD♥♥♥♥
                 - Corgi completed fixing "ERROR -1: 504 Not Connected" error♥♥♥♥
