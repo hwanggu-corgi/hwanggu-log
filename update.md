@@ -37,12 +37,12 @@ beautiful love♥♥♥♥♥♥♥♥♥♥
 
 2. Corgi working on marriage cost analysis♥♥♥♥♥♥ #29
 
-3. Corgi working on creating stock trading bot♥♥♥♥♥♥ #141
+3. Corgi working on creating stock trading bot♥♥♥♥♥♥ #142
     - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
         - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
-            - Corgi fixing algo bot trading program to make sure it's working♥♥♥♥ #47
+            - Corgi fixing algo bot trading program to make sure it's working♥♥♥♥ #48
                 - Corgi learning backtesting indicators♥♥♥♥
-                    - Corgi reviewing volatility and sharpe measures♥♥♥♥ #2
+                    - Corgi reviewing volatility and sharpe measures♥♥♥♥ #3
                     - Corgi completed reviewing CAGR♥♥♥♥
                 - Corgi learning technical indicators♥♥♥♥
                     - Corgi completed reviewing Death Cross♥♥♥♥
