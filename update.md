@@ -38,6 +38,8 @@ beautiful love♥♥♥♥♥♥♥♥♥♥
         - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
             - Corgi fixing algo bot trading program to make sure it's working♥♥♥♥ #49
                 - Corgi learning backtesting indicators♥♥♥♥
+                    - Corgi reviewing backtesting strategy - extracting data♥♥♥♥
+                    - Corgi completed reviewing maximum drawdown♥♥♥♥
                     - Corgi completed reviewing volatility and sharpe measures♥♥♥♥
                     - Corgi completed reviewing CAGR♥♥♥♥
                 - Corgi learning technical indicators♥♥♥♥
