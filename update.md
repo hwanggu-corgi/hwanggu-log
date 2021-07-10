@@ -1,3 +1,161 @@
+### July 11th, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- ( ): Attempt Toefl Test
+- (x): Attempt level 2 test at programmers
+- (x): Attempt level 1 test at programmers
+    - 여보♥♥♥, 우리 황구 부부 레벨 1 테스트 완료 >.<♥♥♥♥!!
+
+우리 귀여운
+내 사랑아♥♥♥♥♥♥,
+우리 형모 우리 소중한 내 자기에게 가려고 헀는데 코로나가 터져서 많이 많이 서러워요♥♥♥♥♥♥♥♥♥♥
+
+우리 사랑가득한
+내 사랑아♥♥♥♥♥♥,
+우리 거의 다 됬는데 한사람이 참지 못해서 한사람이 맞기 싫어서 다시 또 반복 하고 반복하는것에 많이 슬픔니다♥♥♥♥♥♥♥♥♥♥
+
+우리 귀여운
+내 사랑아♥♥♥♥♥♥,
+그려면서 해외 입국자 막지 않냐 하는 말을 보면은 마음이 찢어집니다♥♥♥♥♥♥♥♥♥♥
+
+우리 귀여운
+내 사랑아♥♥♥♥♥♥,
+걷다보면은 우리 해가 뜨고 그리고 우리 소중한 내 자기 볼 수 있을거에요♥♥♥♥♥♥♥♥♥♥
+
+우리 귀여운
+내 사랑아♥♥♥♥♥♥,
+우리가 지금 같이 겪고 있는 일, 나중에 다 잘될거니 조금만 참아달라는 의미겠죠♥♥♥♥♥♥♥♥♥♥
+
+우리 소중한
+내 사랑아♥♥♥♥♥♥,
+I love you my most beautiful
+girl in the world♥♥♥♥♥♥♥♥♥♥
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+2. Corgi working on marriage cost analysis♥♥♥♥♥♥ #29
+
+3. Corgi working on creating stock trading bot♥♥♥♥♥♥ #161
+    - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
+        - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
+            - Corgi fixing algo bot trading program to make sure it's working♥♥♥♥ #66
+                - Corgi learning backtesting indicators♥♥♥♥
+                    - Corgi reviewing sql♥♥♥
+                    - Corgi completed reviewing backtesting strategy - signal generation and return calculation♥♥♥♥
+                    - Corgi completed reviewing backtesting strategy - MACD + Stochastic extracting data♥♥♥♥
+                    - Corgi completed reviewing maximum drawdown♥♥♥♥
+                    - Corgi completed reviewing volatility and sharpe measures♥♥♥♥
+                    - Corgi completed reviewing CAGR♥♥♥♥
+                - Corgi learning technical indicators♥♥♥♥
+                    - Corgi completed reviewing Death Cross♥♥♥♥
+                    - Corgi completed reviewing ADX♥♥♥♥
+                    - Corgi completed reviewing MACD♥♥♥♥
+                - Corgi completed fixing "ERROR -1: 504 Not Connected" error♥♥♥♥
+                    - Corgi completed making sure order is being canceled correctly♥♥♥♥
+                    - Corgi completed making sure order is being modified correctly♥♥♥♥
+                    - Corgi completed making sure order is being placed correctly♥♥♥♥
+                    - Corgi completed making sure data is being fetched correctly♥♥♥♥
+                    - Corgi completed using forex data instead of NASDAQ♥♥♥♥
+                    - Corgi rebuilding the main program♥♥♥♥
+            - Corgi completed building algo bot trading program♥♥♥♥
+            - Corgi completed `Extracting Fundamental Data`♥♥♥♥
+                - Corgi completed learning `Fundamental Data API Basics`♥♥♥♥
+                    - Can skip for now♥♥♥♥
+            - Corgi completed `Streaming Market Data`♥♥♥♥
+                - Corgi completed learning `Converting tick to candles`♥♥♥♥
+                - Corgi completed learning `Accessing data in DB`♥♥♥♥
+                - Corgi completed learning `Storing Tick Data in SQL DB 3`♥♥♥♥
+                - Corgi completed learning `Storing Tick Data in SQL DB 2`♥♥♥♥
+                - Corgi completed learning `Storing Tick Data in SQL DB 1`♥♥♥♥
+                - Corgi completed learning `Streaming Tick Level Data`♥♥♥♥
+            - Corgi completed `Designing and Prototyping Strategies on IB`♥♥♥♥
+                - Corgi completed learning `Closing all positions programmatically`♥♥♥♥
+                - Corgi completed learning `strategy execution demo`♥♥♥♥
+                    - It's realllyyyy cooolll my love♥♥♥♥!!!!
+                    - I feel so excited♥♥♥♥
+                - Corgi completed learning `strategy implementation - Signal`♥♥♥♥
+                - Corgi completed learning `strategy implementation - data preparation`♥♥♥♥
+                - Corgi completed learning `strategy implementation - blueprint`♥♥♥♥
+            - Corgi completed `Backtesting Strategies`♥♥♥♥
+                - Corgi completed learning `Backtesting Strategy - Signal generation and return calculation`♥♥♥♥
+                - Corgi completed learning `Backtesting Strategy - Extracting Data`♥♥♥♥
+                - Corgi completed learning `KPI for Intraday strategies`♥♥♥♥
+                - Corgi completed learning `CAGR Implementation using IBAPI`♥♥♥♥
+                - Corgi completed learning `Backtesting Intro`♥♥♥♥
+            - Corgi completed `Order Management`♥♥♥♥
+                - Corgi completed learning `Modifying order`♥♥♥♥
+                - Corgi completed learning `Cancelling order`♥♥♥♥
+                - Corgi completed learning `Placing order - Reusable code`♥♥♥♥
+                - Corgi completed learning `Placing a simple limited order using IBAPI`♥♥♥♥
+            - Corgi completed working on `Historical Data`♥♥♥♥
+                - Corgi completed learning `Extracting historical data Iteratively`♥♥♥♥
+                - Corgi completed learning `Getting Historical Dat using IBAPI`♥♥♥♥
+                - Corgi completed learning `Market Data Subscription`♥♥♥♥
+            - Corgi completed `Understanding IB API Python Wrapper`♥♥♥♥
+                - Corgi completed learning `Asynchronous Implementation Using Event`♥♥♥♥
+                - Corgi completed learning `Asynchronous Implementation Intro`♥♥♥♥
+                - Corgi finished learning `Getting Contract Info`♥♥♥♥
+                - Corgi finished learning `Eclient and Ewrapper Class intro`♥♥♥♥
+            - Corgi working on `advanced python concepts`♥♥♥♥
+                - Corgi completed learning `Websocket Intro`♥♥♥♥
+                - Corgi completed learning `Multi Threading Using Event Object`♥♥♥♥
+                - Corgi completed learning `Turning 'Daemon' Threads into Your Angel`♥♥♥♥
+                - Corgi finished learning `Threads in Python`♥♥♥♥
+
+4. Corgi working on company tasks♥♥
+    - Corgi working on cobbt.org♥♥♥♥ #7
+        - Corgi working on slider on landing page♥♥♥♥ #3
+        - Corgi completed refining footer on homepage♥♥♥♥
+        - Corgi completed creating news letter list to `/Benefit-News` Page♥♥♥♥
+    - Corgi completed oahu.morwebcms.com♥♥♥♥
+        - Corgi completed cleaning css code♥♥♥♥♥
+        - Corgi completed fixing video section on `home page`♥♥♥♥♥
+        - Corgi completed fixing 3 icon and title section on `home page`♥♥♥♥♥
+        - Corgi completed fixing slider on `home page`♥♥♥♥♥
+        - Corgi completed logo carousel on `home page`♥♥♥♥♥
+
+5. Corgi working on practicing docker certified associate exam♥♥ #95
+    - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
+        - https://www.udemy.com/course/docker-certified-associate/learn/lecture/19190958#overview
+            - Corgi working on `Section 2 - Image Creation, Management, and Registry`♥♥♥♥♥
+                - Corgi working on lesson (21/28) `Overview of Docker Registries`♥♥♥♥ #4
+                - Corgi completed lesson (20/28) `Flattening Docker Images`♥♥♥♥
+                - Corgi completed lesson (19/28) `Pruning Docker Images`♥♥♥♥
+                - Corgi completed lesson (18/28) `Inspecting Docker Images`♥♥♥♥
+                - Corgi completed lesson (17/28) `Managing Images with CLI`♥♥♥♥
+                - Corgi completed lesson (16/28) `Layers of Docker Image`♥♥♥♥
+                - Corgi completed lesson (15/28) `Docker Commit`♥♥♥♥
+                - Corgi completed lesson (14/28) `Tagging Docker Image`♥♥♥♥
+                - Corgi completed lesson (12/28) `ENV Instruction`♥♥♥♥
+                - Corgi completed lesson (10/28) `WORKDIR Instruction`♥♥♥♥
+                - Corgi completed lesson (9/28) `ENTRYPOINT Instruction`♥♥♥♥
+                - Corgi completed lesson (7/28) `HEALTHCHECK Instruction`♥♥♥♥
+
+6. [on hold] Corgi working on practicing for TOEFL #178♥♥
+    - Corgi learning about 'The complete TOEFL iBT Success Course♥♥
+        - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
+            - https://www.udemy.com/course/the-complete-toefl-ibt-success-course/♥♥♥♥
+        - Corgi working on `TOEFL writing` (8/25)♥♥
+            - Corgi learning `Writing 1: Structuring Your Essay` under `TOEFL Writing`♥♥ #2
+            - Corgi completed learning `Writing 1: Introduction` under `TOEFL Writing`♥♥
+            - Corgi completed learning `Writing Coherently` under `TOEFL Writing`♥♥
+            - Corgi completed learning `Writing Concisely` under `TOEFL Writing`♥♥
+            - Corgi completed learning `Writing Section Overview` under `TOEFL Writing`♥♥
+
 ### July 10th, 2021
 
 Programmers current rank: 966
