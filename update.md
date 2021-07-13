@@ -34,87 +34,17 @@ sweetheart in the world♥♥♥♥♥♥♥♥♥♥♥
 
 2. Corgi working on marriage cost analysis♥♥♥♥♥♥ #29
 
-3. Corgi working on creating stock trading bot♥♥♥♥♥♥ #216
+
+3. Corgi working on company tasks♥♥
+    - Corgi working on hilltop.morwebcms.com♥♥♥♥
+        - Corgi working on homepage slider♥♥♥♥
+
+4. Corgi working on creating stock trading bot♥♥♥♥♥♥ #216
     - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
         - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
             - Corgi fixing algo bot trading program to make sure it's working♥♥♥♥ #121
                 - Corgi learning backtesting indicators♥♥♥♥
                     - Corgi implementing practice trading for NASDAQ♥♥♥ #6
-                    - Corgi completed implementing running practice trading♥♥♥
-                        - 자기야♥♥♥♥, 우리 자기는 귀여워♥♥♥♥♥♥♥♥
-                    - Corgi completed reviewing sql♥♥♥
-                    - Corgi completed reviewing backtesting strategy - signal generation and return calculation♥♥♥♥
-                    - Corgi completed reviewing backtesting strategy - MACD + Stochastic extracting data♥♥♥♥
-                    - Corgi completed reviewing maximum drawdown♥♥♥♥
-                    - Corgi completed reviewing volatility and sharpe measures♥♥♥♥
-                    - Corgi completed reviewing CAGR♥♥♥♥
-                - Corgi learning technical indicators♥♥♥♥
-                    - Corgi completed reviewing Death Cross♥♥♥♥
-                    - Corgi completed reviewing ADX♥♥♥♥
-                    - Corgi completed reviewing MACD♥♥♥♥
-                - Corgi completed fixing "ERROR -1: 504 Not Connected" error♥♥♥♥
-                    - Corgi completed making sure order is being canceled correctly♥♥♥♥
-                    - Corgi completed making sure order is being modified correctly♥♥♥♥
-                    - Corgi completed making sure order is being placed correctly♥♥♥♥
-                    - Corgi completed making sure data is being fetched correctly♥♥♥♥
-                    - Corgi completed using forex data instead of NASDAQ♥♥♥♥
-                    - Corgi rebuilding the main program♥♥♥♥
-            - Corgi completed building algo bot trading program♥♥♥♥
-            - Corgi completed `Extracting Fundamental Data`♥♥♥♥
-                - Corgi completed learning `Fundamental Data API Basics`♥♥♥♥
-                    - Can skip for now♥♥♥♥
-            - Corgi completed `Streaming Market Data`♥♥♥♥
-                - Corgi completed learning `Converting tick to candles`♥♥♥♥
-                - Corgi completed learning `Accessing data in DB`♥♥♥♥
-                - Corgi completed learning `Storing Tick Data in SQL DB 3`♥♥♥♥
-                - Corgi completed learning `Storing Tick Data in SQL DB 2`♥♥♥♥
-                - Corgi completed learning `Storing Tick Data in SQL DB 1`♥♥♥♥
-                - Corgi completed learning `Streaming Tick Level Data`♥♥♥♥
-            - Corgi completed `Designing and Prototyping Strategies on IB`♥♥♥♥
-                - Corgi completed learning `Closing all positions programmatically`♥♥♥♥
-                - Corgi completed learning `strategy execution demo`♥♥♥♥
-                    - It's realllyyyy cooolll my love♥♥♥♥!!!!
-                    - I feel so excited♥♥♥♥
-                - Corgi completed learning `strategy implementation - Signal`♥♥♥♥
-                - Corgi completed learning `strategy implementation - data preparation`♥♥♥♥
-                - Corgi completed learning `strategy implementation - blueprint`♥♥♥♥
-            - Corgi completed `Backtesting Strategies`♥♥♥♥
-                - Corgi completed learning `Backtesting Strategy - Signal generation and return calculation`♥♥♥♥
-                - Corgi completed learning `Backtesting Strategy - Extracting Data`♥♥♥♥
-                - Corgi completed learning `KPI for Intraday strategies`♥♥♥♥
-                - Corgi completed learning `CAGR Implementation using IBAPI`♥♥♥♥
-                - Corgi completed learning `Backtesting Intro`♥♥♥♥
-            - Corgi completed `Order Management`♥♥♥♥
-                - Corgi completed learning `Modifying order`♥♥♥♥
-                - Corgi completed learning `Cancelling order`♥♥♥♥
-                - Corgi completed learning `Placing order - Reusable code`♥♥♥♥
-                - Corgi completed learning `Placing a simple limited order using IBAPI`♥♥♥♥
-            - Corgi completed working on `Historical Data`♥♥♥♥
-                - Corgi completed learning `Extracting historical data Iteratively`♥♥♥♥
-                - Corgi completed learning `Getting Historical Dat using IBAPI`♥♥♥♥
-                - Corgi completed learning `Market Data Subscription`♥♥♥♥
-            - Corgi completed `Understanding IB API Python Wrapper`♥♥♥♥
-                - Corgi completed learning `Asynchronous Implementation Using Event`♥♥♥♥
-                - Corgi completed learning `Asynchronous Implementation Intro`♥♥♥♥
-                - Corgi finished learning `Getting Contract Info`♥♥♥♥
-                - Corgi finished learning `Eclient and Ewrapper Class intro`♥♥♥♥
-            - Corgi working on `advanced python concepts`♥♥♥♥
-                - Corgi completed learning `Websocket Intro`♥♥♥♥
-                - Corgi completed learning `Multi Threading Using Event Object`♥♥♥♥
-                - Corgi completed learning `Turning 'Daemon' Threads into Your Angel`♥♥♥♥
-                - Corgi finished learning `Threads in Python`♥♥♥♥
-
-4. Corgi working on company tasks♥♥
-    - Corgi working on cobbt.org♥♥♥♥ #7
-        - Corgi working on slider on landing page♥♥♥♥ #3
-        - Corgi completed refining footer on homepage♥♥♥♥
-        - Corgi completed creating news letter list to `/Benefit-News` Page♥♥♥♥
-    - Corgi completed oahu.morwebcms.com♥♥♥♥
-        - Corgi completed cleaning css code♥♥♥♥♥
-        - Corgi completed fixing video section on `home page`♥♥♥♥♥
-        - Corgi completed fixing 3 icon and title section on `home page`♥♥♥♥♥
-        - Corgi completed fixing slider on `home page`♥♥♥♥♥
-        - Corgi completed logo carousel on `home page`♥♥♥♥♥
 
 5. Corgi working on practicing docker certified associate exam♥♥ #95
     - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
