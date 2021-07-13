@@ -40,12 +40,12 @@ girl in the world♥♥♥♥♥♥♥♥♥♥♥
 
 2. Corgi working on marriage cost analysis♥♥♥♥♥♥ #29
 
-3. Corgi working on creating stock trading bot♥♥♥♥♥♥ #215
+3. Corgi working on creating stock trading bot♥♥♥♥♥♥ #216
     - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
         - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
-            - Corgi fixing algo bot trading program to make sure it's working♥♥♥♥ #120
+            - Corgi fixing algo bot trading program to make sure it's working♥♥♥♥ #121
                 - Corgi learning backtesting indicators♥♥♥♥
-                    - Corgi implementing practice trading for NASDAQ♥♥♥ #5
+                    - Corgi implementing practice trading for NASDAQ♥♥♥ #6
                     - Corgi completed implementing running practice trading♥♥♥
                         - 자기야♥♥♥♥, 우리 자기는 귀여워♥♥♥♥♥♥♥♥
                     - Corgi completed reviewing sql♥♥♥
