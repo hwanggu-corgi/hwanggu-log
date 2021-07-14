@@ -50,12 +50,13 @@ sweetheart in the world♥♥♥♥♥♥♥♥♥♥♥
     - Corgi working on hilltop.morwebcms.com♥♥♥♥
         - Corgi working on homepage slider♥♥♥♥ #5
 
-4. Corgi working on creating stock trading bot♥♥♥♥♥♥ #216
+4. Corgi working on creating stock trading bot♥♥♥♥♥♥ #217
     - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
         - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
-            - Corgi fixing algo bot trading program to make sure it's working♥♥♥♥ #122
+            - Corgi fixing algo bot trading program to make sure it's working♥♥♥♥ #123
+                - Corgi adding plots for debugging♥♥♥♥
                 - Corgi learning backtesting indicators♥♥♥♥
-                    - Corgi implementing practice trading for NASDAQ♥♥♥ #7
+                    - Corgi completed implementing practice trading for NASDAQ♥♥♥
 
 5. Corgi working on practicing docker certified associate exam♥♥ #95
     - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
