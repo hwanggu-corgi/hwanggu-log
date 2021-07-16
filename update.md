@@ -34,9 +34,10 @@ in the world♥♥♥♥♥♥♥♥♥♥♥
 2. Corgi working on marriage cost analysis♥♥♥♥♥♥ #29
 
 
-3. Corgi working on company tasks♥♥ #6
+3. Corgi working on company tasks♥♥ #7
     - Corgi working on naps.org♥♥♥♥
-        - Corgi working on page banner on [this page](https://naps.org/A-Midsummer-Nights-SPAC-Raffle)♥♥♥♥
+        - Corgi working front page slide on [this page](naps.org)♥♥♥♥
+        - Corgi completed working on page banner on [this page](https://naps.org/A-Midsummer-Nights-SPAC-Raffle)♥♥♥♥
     - Corgi working on hilltop.morwebcms.com♥♥♥♥
         - Corgi working on homepage slider♥♥♥♥ #5
 
