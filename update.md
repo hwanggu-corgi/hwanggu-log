@@ -35,9 +35,9 @@ in the world♥♥♥♥♥♥♥♥♥♥♥
 2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #237
     - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
         - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
-            - Corgi fixing algo bot trading program to make sure it's working♥♥♥♥ #144
-                - Corgi adding plots for debugging♥♥♥♥ #19
-                    - Corgi working on modifying file "fix_historical_data"♥♥♥♥ #4
+            - Corgi fixing algo bot trading program to make sure it's working♥♥♥♥ #145
+                - Corgi adding plots for debugging♥♥♥♥ #20
+                    - Corgi working on modifying file "fix_historical_data"♥♥♥♥ #5
                     - 여보~!!!!♥♥♥♥♥♥♥♥
                     - 사랑해요♥♥♥♥♥♥♥♥♥♥
                 - Corgi learning backtesting indicators♥♥♥♥
