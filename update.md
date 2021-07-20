@@ -38,6 +38,7 @@ in the world♥♥♥♥♥♥♥♥♥♥♥
             - Corgi fixing algo bot trading program to make sure it's working♥♥♥♥ #179
                 - Corgi adding plots for debugging♥♥♥♥ #52
                     - Corgi adding plot♥♥♥♥ #19
+                        - Corgi fixing matplotlib is too old error♥♥♥♥
                     - Corgi completed fixing file "fix_historical_data"♥♥♥♥
                     - Corgi completed modifying file "fix_historical_data"♥♥♥♥
                     - 여보~!!!!♥♥♥♥♥♥♥♥
